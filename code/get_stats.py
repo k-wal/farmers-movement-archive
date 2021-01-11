@@ -144,11 +144,11 @@ corpus_path = '../corpus/hindu'
 total_articles = get_total_articles(corpus_path)
 print('total number of articles : ' + str(total_articles))
 
-keyword = ['farmer','msp']
+keyword = ['agriculture']
 total_keyword_articles = get_keyword_counts_total(corpus_path, keyword)
 print('total articles with keyword ' + ', '.join(keyword) + ' in them  : ' + str(total_keyword_articles))
 
-keyword = ['farmer','esca','apmc']
+keyword = ['farmer','esca','apmc','agriculture', 'mandi', 'kisan sabha', 'foodgrain','msp']
 total_keyword_articles = get_keyword_counts_total(corpus_path, keyword)
 print('total articles with keyword ' + ', '.join(keyword) + ' in them  : ' + str(total_keyword_articles))
 
@@ -156,13 +156,13 @@ keyword = ['apmc']
 total_keyword_articles = get_keyword_counts_total(corpus_path, keyword)
 print('total articles with keyword ' + ', '.join(keyword) + ' in them  : ' + str(total_keyword_articles))
 
-keyword = ['esca']
+keyword = ['agriculture', 'kisan sabha']
 total_keyword_articles = get_keyword_counts_total(corpus_path, keyword)
 print('total articles with keyword ' + ', '.join(keyword) + ' in them  : ' + str(total_keyword_articles))
 
 
 # GRAPH
-keywords = ['farmer','esca','apmc']
+keywords = ['farmer','esca','apmc','agriculture', 'mandi', 'kisan sabha', 'foodgrain','msp']
 # get_keywords_timeline(corpus_path, keywords)
 # keywords = ['farmer']
 get_keywords_monthly_timeline(corpus_path, keywords)
