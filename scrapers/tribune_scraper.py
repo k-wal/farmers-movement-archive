@@ -24,7 +24,23 @@ def get_text_tribune(url):
 
 	story = soup.find('div',class_='story-desc') # getting story div
 	story_para = story.findAll('p') # getting all paragraphs in story div
-	location = story_para[2].text.split(',')[0] # third paragraph contains location
+	
+	try:
+		location = story_para[2].text.split(',')[0] # third paragraph contains location
+	except:
+		return date, '---', title, ''
+
+	location = location.split(':')[0]
+	if location.lower() == 'tribune news service':
+		location = ''
+	if 'tribune news service' in location.lower():
+		try:
+			location = location.split('Tribune News Service')[1]
+		except:
+			location = ''
+	if location == '':
+		location = '---'
+
 	text = ''
 	for p in story_para[3:]: # adding all rest paragraphs to get text
 	 	text += p.text
@@ -65,8 +81,8 @@ def get_page_articles(url):
 
 
 
-cur = 1
-end = 5
+cur = 101
+end = 125
 
 while cur<=end:
 	url = 'https://www.tribuneindia.com/Pagination/ViewAll?id=45&page='+str(cur)+'&topNews='
