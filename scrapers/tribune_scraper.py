@@ -81,8 +81,8 @@ def get_page_articles(url):
 
 
 
-cur = 101
-end = 125
+cur = 191
+end = 210
 
 while cur<=end:
 	url = 'https://www.tribuneindia.com/Pagination/ViewAll?id=45&page='+str(cur)+'&topNews='
