@@ -81,8 +81,8 @@ def get_page_articles(url):
 
 
 
-cur = 101
-end = 130
+cur = 131
+end = 150
 
 punjab_id = '45'
 haryana_id = '28'
