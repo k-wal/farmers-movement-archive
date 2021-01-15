@@ -77,15 +77,19 @@ def get_page_articles(url):
 		a,b,title,d = get_text_tribune(link)
 		print(i,title)		
 		articles.append([a,b,title,d])
-	store_articles(articles, '../corpus/tribune/punjab')
+	store_articles(articles, '../corpus/tribune/haryana')
 
 
 
-cur = 191
-end = 210
+cur = 101
+end = 130
+
+punjab_id = '45'
+haryana_id = '28'
+
 
 while cur<=end:
-	url = 'https://www.tribuneindia.com/Pagination/ViewAll?id=45&page='+str(cur)+'&topNews='
+	url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+haryana_id+'&page='+str(cur)+'&topNews='
 	print(url)
 	print('-'*15)
 	get_page_articles(url)
