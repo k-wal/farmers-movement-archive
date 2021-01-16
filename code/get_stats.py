@@ -28,8 +28,10 @@ def get_keyword_count_day(filename, keywords):
 
 	for line in lines:
 		parts = line.split('||')
-		date, location, title, text = parts[0], parts[1], parts[2], parts[3]
-		
+		try:
+			date, location, title, text = parts[0], parts[1], parts[2], parts[3]
+		except:
+			continue	
 		# if any one keyword is present, increase count
 		for keyword in keywords:
 			if keyword in title.lower() or keyword in text.lower():
@@ -60,8 +62,10 @@ def get_keywords_count_with_date(filename, keywords):
 
 	for line in lines:
 		parts = line.split('||')
-		date, location, title, text = parts[0], parts[1], parts[2], parts[3]
-
+		try:
+			date, location, title, text = parts[0], parts[1], parts[2], parts[3]
+		except:
+			continue
 		# if any keyword is present, increase count
 		for keyword in keywords:
 			if keyword in title.lower() or keyword in text.lower():
@@ -139,7 +143,11 @@ def get_keywords_monthly_timeline(dir_path, keywords):
 
 
 
-corpus_path = '../corpus/hindu'
+# corpus_path = '../corpus/hindu'
+
+#corpus_path = '../corpus/tribune/haryana'
+corpus_path = '../corpus/tribune/delhi'
+
 
 total_articles = get_total_articles(corpus_path)
 print('total number of articles : ' + str(total_articles))

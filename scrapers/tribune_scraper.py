@@ -16,8 +16,11 @@ def format_date(date):
 def get_text_tribune(url):
 	r = requests.get(url)
 	soup = BeautifulSoup(r.content, 'html5lib')
-	title = soup.find('meta', property='og:title')['content'] # getting article title
-	
+	try:
+		title = soup.find('meta', property='og:title')['content'] # getting article title
+	except:
+		return '','','',''
+
 	date_div = soup.find('div', class_='time-share') # getting and formatting date
 	date = date_div.findAll('span')[0].text.strip()
 	date = format_date(date)
@@ -51,12 +54,12 @@ def get_text_tribune(url):
 def store_articles(articles, dir_path):
 	file_handlers = {}
 	for article in articles:
-		date, location, title, text = article[0], article[1], article[2], article[3]
+		date, location, title, text, url = article[0], article[1], article[2], article[3], article[4]
 		if date not in file_handlers.keys():
 			f = open(dir_path+'/'+date+'.txt','a')
 			file_handlers[date] = f
 		f = file_handlers[date]
-		to_write = date.strip() + '||' + location + '||' + title + '||' + text.strip() + '\n'
+		to_write = date.strip() + '||' + location + '||' + title + '||' + text.strip() + '||' + url + '\n'
 		f.write(to_write)
 
 	for date in file_handlers.keys():
@@ -75,21 +78,29 @@ def get_page_articles(url):
 	for i,ct in enumerate(card_titles):
 		link = main_url + ct.find('a')['href']
 		a,b,title,d = get_text_tribune(link)
+		if title=='':
+			continue
 		print(i,title)		
-		articles.append([a,b,title,d])
+		articles.append([a,b,title,d,link])
+	# store_articles(articles, '../corpus/tribune/amritsar')
+	# store_articles(articles, '../corpus/tribune/punjab')
 	store_articles(articles, '../corpus/tribune/haryana')
 
 
 
-cur = 131
+cur = 145
 end = 150
 
 punjab_id = '45'
 haryana_id = '28'
-
+delhi_id = '24'
+amritsar_id = '17'
 
 while cur<=end:
+	# url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+amritsar_id+'&page='+str(cur)+'&topNews='
+	# url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+punjab_id+'&page='+str(cur)+'&topNews='
 	url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+haryana_id+'&page='+str(cur)+'&topNews='
+
 	print(url)
 	print('-'*15)
 	get_page_articles(url)
