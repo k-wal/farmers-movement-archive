@@ -76,30 +76,33 @@ def get_page_articles(url):
 	card_titles.insert(0,first_card_title)
 	articles = []
 	for i,ct in enumerate(card_titles):
+		if not ct:
+			continue
 		link = main_url + ct.find('a')['href']
 		a,b,title,d = get_text_tribune(link)
 		if title=='':
 			continue
 		print(i,title)		
 		articles.append([a,b,title,d,link])
-	# store_articles(articles, '../corpus/tribune/amritsar')
-	# store_articles(articles, '../corpus/tribune/punjab')
-	store_articles(articles, '../corpus/tribune/haryana')
+	# store_articles(articles, '../corpus/tribune/delhi')
+	store_articles(articles, '../corpus/tribune/chandigarh')
 
 
 
-cur = 145
-end = 150
+cur = 88
+end = 100
 
-punjab_id = '45'
-haryana_id = '28'
-delhi_id = '24'
-amritsar_id = '17'
+# punjab_id = '45'
+# haryana_id = '28'
+# amritsar_id = '17'
+# bathinda_id = '18'
+
+# delhi_id = '24'
+chandigarh_id = '20'
 
 while cur<=end:
-	# url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+amritsar_id+'&page='+str(cur)+'&topNews='
-	# url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+punjab_id+'&page='+str(cur)+'&topNews='
-	url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+haryana_id+'&page='+str(cur)+'&topNews='
+	# url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+delhi_id+'&page='+str(cur)+'&topNews='
+	url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+chandigarh_id+'&page='+str(cur)+'&topNews='
 
 	print(url)
 	print('-'*15)
