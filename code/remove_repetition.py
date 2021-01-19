@@ -44,4 +44,4 @@ def remove_repetitions_directory(dir_path):
 		remove_file_repetitions(dir_path + '/' + filename)
 
 
-remove_repetitions_directory('../corpus/tribune/delhi')
+remove_repetitions_directory('../corpus/tribune/jalandhar')
