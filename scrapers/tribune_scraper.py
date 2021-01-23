@@ -85,16 +85,14 @@ def get_page_articles(url):
 		print(i,title)		
 		articles.append([a,b,title,d,link])
 	# store_articles(articles, '../corpus/tribune/delhi')
-	store_articles(articles, '../corpus/tribune/nation')
+	store_articles(articles, '../corpus/tribune/feature')
 
 
 
 
 # comment_id = '59'
-# editorial_id = '60'
 # musing_id = '62'
 # business_id = '19'
-# feature_id = '26'
 
 # punjab_id = '45'
 # haryana_id = '28'
@@ -103,16 +101,18 @@ def get_page_articles(url):
 # delhi_id = '24'
 # chandigarh_id = '20'
 # jalandhar_id = '34'
-nation_id = '42'
+# nation_id = '42'
+# editorial_id = '60'
+feature_id = '26'
 
 
-cur = 29
-end = 40
+cur = 1
+end = 50
 
 
 while cur<=end:
 	# url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+delhi_id+'&page='+str(cur)+'&topNews='
-	url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+nation_id+'&page='+str(cur)+'&topNews='
+	url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+feature_id+'&page='+str(cur)+'&topNews='
 
 	print(url)
 	print('-'*15)
