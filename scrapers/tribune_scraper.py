@@ -106,7 +106,7 @@ def get_page_articles(url):
 feature_id = '26'
 
 
-cur = 1
+cur = 13
 end = 50
 
 
