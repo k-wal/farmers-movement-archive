@@ -146,7 +146,7 @@ def get_keywords_monthly_timeline(dir_path, keywords):
 # corpus_path = '../corpus/hindu'
 
 #corpus_path = '../corpus/tribune/haryana'
-corpus_path = '../corpus/tribune/delhi'
+corpus_path = '../corpus/tribune/jalandhar'
 
 
 total_articles = get_total_articles(corpus_path)
@@ -170,8 +170,8 @@ print('total articles with keyword ' + ', '.join(keyword) + ' in them  : ' + str
 
 
 # GRAPH
-keywords = ['farmer','esca','apmc','agriculture', 'mandi', 'kisan sabha', 'foodgrain','msp']
-# get_keywords_timeline(corpus_path, keywords)
-# keywords = ['farmer']
-get_keywords_monthly_timeline(corpus_path, keywords)
+# keywords = ['farmer','esca','apmc','agriculture', 'mandi', 'kisan sabha', 'foodgrain','msp']
+# # get_keywords_timeline(corpus_path, keywords)
+# # keywords = ['farmer']
+# get_keywords_monthly_timeline(corpus_path, keywords)
 
