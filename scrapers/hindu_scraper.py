@@ -71,15 +71,15 @@ def get_text_hindu(url):
 def write_day_articles(articles,filename):
 	overall_date = ''
 	for article in articles:
-		title, text, date, city, region = article['title'], article['text'], article['date'], article['city'], article['region']
+		title, text, date, city, region, url = article['title'], article['text'], article['date'], article['city'], article['region'], article['url']
 	
 		if date!='' and overall_date=='':
 			overall_date = date
 		elif date=='' and overall_date!='':
 			date = overall_date
 
-		file = open('../corpus/hindu/'+filename+'.txt', 'a')
-		to_write = date.strip() + '||' + city + ',' + region + '||' + title + '||' + text.strip() + '\n'
+		file = open('../corpus/hindu_with_urls/'+filename+'.txt', 'a')
+		to_write = date.strip() + '||' + city + ',' + region + '||' + title + '||' + text.strip() + '||' + url + '\n'
 		file.write(to_write)
 		file.close()
 
@@ -105,29 +105,34 @@ def get_day_articles(url):
 			print(total,title)
 			if title=='' and date=='':
 				continue
-			all_articles.append({'title':title, 'text':text, 'date':date, 'city':city, 'region':region})
+			all_articles.append({'title':title, 'text':text, 'date':date, 'city':city, 'region':region, 'url':link})
 	print(total)
 	write_day_articles(all_articles,filename)
 
 
 
-# url = 'https://www.thehindu.com/archive/print/2020/04/'
-url = 'https://www.thehindu.com/archive/print/2020/12/'
-date = 19
-end = 31
+def get_month_articles(start, end, url)
+	date = start
+	while date <= end:
+		d = str(date)
+		if len(d) == 1:
+			d = '0' + d
+		print(url + d)
+		get_day_articles(url + d)
+		date += 1
 
-while date <= end:
-	d = str(date)
-	if len(d) == 1:
-		d = '0' + d
-	print(url + d)
-	get_day_articles(url + d)
-	date += 1
 
-# url = 'https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/landlords-should-desist-from-collecting-rent/article31223324.ece'
-# url = 'https://www.thehindu.com/todays-paper/tp-national/air-india-pilots-flag-poor-protective-equipment/article31222828.ece'
-# t,f,d,c,r= get_text_hindu(url)
-# print(t)
-# print(d)
-# print(c + ' - ' + r)
-# print(f)
+date_arr = [['1','30','04'],
+['1','31','05'],
+['1','30','06'],
+['1','31','07'],
+['1','31','08'],
+['1','30','09'],
+['1','31','10'],
+['1','30','11'],
+['1','31','12']]
+
+for date_element in date_arr:
+	star, end, month = date_element[0], date_element[1], date_element[2]
+	url = 'https://www.thehindu.com/archive/print/2020/' + month + '/'
+	get_month_articles(start, end, url)
