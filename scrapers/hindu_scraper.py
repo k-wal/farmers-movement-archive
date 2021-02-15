@@ -96,6 +96,7 @@ def get_day_articles(url):
 	r = requests.get(url)
 	soup = BeautifulSoup(r.content,'html5lib')
 	archive_lists = soup.findAll('ul','archive-list')
+	# print(soup)
 	for al in archive_lists:
 		hrefs = al.findAll('a')
 		for href in hrefs:
@@ -111,14 +112,14 @@ def get_day_articles(url):
 
 
 
-def get_month_articles(start, end, url)
+def get_month_articles(start, end, url):
 	date = start
 	while date <= end:
 		d = str(date)
 		if len(d) == 1:
 			d = '0' + d
 		print(url + d)
-		get_day_articles(url + d)
+		get_day_articles(url + d + '/')
 		date += 1
 
 
@@ -133,6 +134,6 @@ date_arr = [['1','30','04'],
 ['1','31','12']]
 
 for date_element in date_arr:
-	star, end, month = date_element[0], date_element[1], date_element[2]
+	start, end, month = int(date_element[0]), int(date_element[1]), date_element[2]
 	url = 'https://www.thehindu.com/archive/print/2020/' + month + '/'
 	get_month_articles(start, end, url)
