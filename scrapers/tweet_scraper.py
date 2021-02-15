@@ -1,5 +1,5 @@
 import twint
-
+import os
 
 def get_tweets_hashtag(ht, start_date, end_date, filepath):
 	c = twint.Config()
@@ -15,34 +15,59 @@ def get_tweets_hashtag(ht, start_date, end_date, filepath):
 
 	twint.run.Search(c)
 	
+def get_date_tweets_hashtag(hashtag, dates, dir_path):
+	for d in dates:
+		start_date, end_date, month = d[0], d[1], d[2]
+		filepath = dir_path + '/' + month + '.txt'
+		get_tweets_hashtag(hashtag, start_date, end_date, filepath)
 
 
-hashtag = 'farmersprotest'
+date_files = [['2020-08-01','2020-08-31','08-2020'],
+['2020-09-01','2020-09-30','09-2020'],
+['2020-10-01','2020-10-31','10-2020'],
+['2020-11-01','2020-11-30','11-2020'],
+['2020-12-01','2020-12-31','12-2020'],
+['2021-01-01','2021-01-31','01-2021'],
+['2021-02-01','2021-02-09','02-2021']]
 
-filepath = '../corpus/tweets/' + hashtag + '/02-2021.txt'
+hashtags = ['modiagainstfarmers',
+'toolkit',
+'farmersprostests',
+'KisanEktaZindabad',
+'RepealFarmLaws',
+'JaiJawanJaiKisan',
+'WorldWithFarmers',
+'stopkillingfarmers',
+'KisanAandolan',
+'farmers_lives_matter',
+'istandwithdeepsidhu',
+'andolanjivi',
+'MahaPanchayat',
+'MahaPanchayatRevolution',
+'SpeakUpForNodeep',
+'ReleaseNodeepKaur',
+'takebackfarmlaws2020',
+'FarmersAreIndia',
+'RihannaSupportsIndianFarmers',
+'IStandWithFarmers',
+'FarmersStandingFirm']
 
-start_date = '2021-02-01'
-end_date = '2021-02-08'
-get_tweets_hashtag(hashtag, start_date, end_date, filepath)
+
+for hashtag in hashtags:
+	hashtag = hashtag.lower()
+	dir_path = '../corpus/tweets/' + hashtag
+	
+	if not os.path.isdir(dir_path):
+		os.mkdir(dir_path)
+
+	get_date_tweets_hashtag(hashtag, date_files, dir_path)
 
 
-# year = '2020'
-# month = '06'
+#filepath = '../corpus/tweets/' + hashtag + '/08-2020.txt'
 
-# cur = 1
-# end = 30
-# while cur <= end:
-# 	if cur < 10:
-# 		str_cur = '0' + str(cur)
-# 	else:
-# 		str_cur = str(cur)
-# 	start_date = year + '-' + month + '-' + str_cur
+#start_date = '2020-08-01'
+#end_date = '2020-08-31'
 
-# 	cur += 1
+#get_tweets_hashtag(hashtag, start_date, end_date, filepath)
 
-# 	if cur < 10:
-# 		str_cur = '0' + str(cur)
-# 	else:
-# 		str_cur = str(cur)
-# 	end_date = year + '-' + month + '-' + str_cur
 
