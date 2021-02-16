@@ -30,27 +30,19 @@ date_files = [['2020-08-01','2020-08-31','08-2020'],
 ['2021-01-01','2021-01-31','01-2021'],
 ['2021-02-01','2021-02-09','02-2021']]
 
-hashtags = ['modiagainstfarmers',
-'toolkit',
-'farmersprostests',
-'KisanEktaZindabad',
-'RepealFarmLaws',
-'JaiJawanJaiKisan',
-'WorldWithFarmers',
-'stopkillingfarmers',
-'KisanAandolan',
-'farmers_lives_matter',
-'istandwithdeepsidhu',
-'andolanjivi',
-'MahaPanchayat',
-'MahaPanchayatRevolution',
-'SpeakUpForNodeep',
-'ReleaseNodeepKaur',
-'takebackfarmlaws2020',
-'FarmersAreIndia',
-'RihannaSupportsIndianFarmers',
-'IStandWithFarmers',
-'FarmersStandingFirm']
+hashtags = ['FarmersStandingFirm',
+'चक्काजाम_सफल_रहा',
+'कृषि_कानून',
+'किसान_आंदोलन',
+'किसान_आंदोलन_जारी_रहेगा',
+'भाग_मोदी_किसान_आया',
+'NoFarmersNoFood',
+'किसान_एकता_जिंदाबाद',
+'अब_किसान_कमल_काटेगा',
+'kisaanektazindabad',
+'किसान',
+'ValentinesWithFarmers']
+
 
 
 for hashtag in hashtags:
