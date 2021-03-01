@@ -68,7 +68,7 @@ def get_text_hindu(url):
 
 
 # write all articles of a day
-def write_day_articles(articles,filename):
+def write_day_articles(articles,filename,dir_path):
 	overall_date = ''
 	for article in articles:
 		title, text, date, city, region, url = article['title'], article['text'], article['date'], article['city'], article['region'], article['url']
@@ -78,14 +78,14 @@ def write_day_articles(articles,filename):
 		elif date=='' and overall_date!='':
 			date = overall_date
 
-		file = open('../corpus/hindu_with_urls/'+filename+'.txt', 'a')
+		file = open(dir_path+'/'+filename+'.txt', 'a')
 		to_write = date.strip() + '||' + city + ',' + region + '||' + title + '||' + text.strip() + '||' + url + '\n'
 		file.write(to_write)
 		file.close()
 
 
 # given a url of all articles of a day, return all articles of that day
-def get_day_articles(url):
+def get_day_articles(url, dir_path):
 	url_date = url.split('/')[5:8]
 	url_date.reverse()
 	filename = '-'.join(url_date)
@@ -108,32 +108,34 @@ def get_day_articles(url):
 				continue
 			all_articles.append({'title':title, 'text':text, 'date':date, 'city':city, 'region':region, 'url':link})
 	print(total)
-	write_day_articles(all_articles,filename)
+	write_day_articles(all_articles,filename, dir_path)
 
 
 
-def get_month_articles(start, end, url):
+def get_month_articles(start, end, url, dir_path):
 	date = start
 	while date <= end:
 		d = str(date)
 		if len(d) == 1:
 			d = '0' + d
 		print(url + d)
-		get_day_articles(url + d + '/')
+		get_day_articles(url + d + '/', dir_path)
 		date += 1
 
 
-date_arr = [['1','30','04'],
-['1','31','05'],
-['1','30','06'],
-['1','31','07'],
-['1','31','08'],
-['1','30','09'],
-['1','31','10'],
-['1','30','11'],
-['1','31','12']]
+# date_arr = [['1','30','04'],
+# ['1','31','05'],
+# ['1','30','06'],
+# ['1','31','07'],
+# ['1','31','08'],
+# ['1','30','09'],
+# ['1','31','10'],
+# ['1','30','11'],
+# ['1','31','12']]
 
-for date_element in date_arr:
-	start, end, month = int(date_element[0]), int(date_element[1]), date_element[2]
-	url = 'https://www.thehindu.com/archive/print/2020/' + month + '/'
-	get_month_articles(start, end, url)
+# dir_path = '../../corpus/hindu_with_urls'
+
+# for date_element in date_arr:
+# 	start, end, month = int(date_element[0]), int(date_element[1]), date_element[2]
+# 	url = 'https://www.thehindu.com/archive/print/2020/' + month + '/'
+# 	get_month_articles(start, end, url, dir_path)

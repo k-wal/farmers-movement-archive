@@ -47,7 +47,7 @@ hashtags = ['FarmersStandingFirm',
 
 for hashtag in hashtags:
 	hashtag = hashtag.lower()
-	dir_path = '../corpus/tweets/' + hashtag
+	dir_path = '../../corpus/tweets/' + hashtag
 	
 	if not os.path.isdir(dir_path):
 		os.mkdir(dir_path)
