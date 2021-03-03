@@ -1,5 +1,6 @@
 #from scrapers.hindu_scraper import get_day_articles as get_hindu_day_articles
 from scrapers.tribune_scraper import write_all_sections as scraper_tribune
+from scrapers.hindu_scraper import write_date_range_articles as scraper_hindu
 import pickle
 import datetime
 
@@ -23,7 +24,15 @@ def update_tribune(update_filename):
 	dir_path = '../corpus/temp/tribune'
 	scraper_tribune(dir_path, date_string)
 
+def update_hindu(update_filename):
+	last_update_date = read_update_date(update_filename)
+	start_date = last_update_date + datetime.timedelta(days=1)
+	current_date = datetime.datetime.today()
+	dir_path = '../corpus/temp/hindu'
+	scraper_hindu(start_date, current_date, dir_path)
+
 
 filename = 'update_stats'
 # print(read_update_date(filename))
-update_tribune(filename)
+# update_tribune(filename)
+update_hindu(filename)

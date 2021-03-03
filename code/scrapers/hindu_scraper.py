@@ -1,7 +1,8 @@
 import requests
 from bs4 import BeautifulSoup 
 import os
-
+import datetime
+import time
 
 indian_states = ["andhra pradesh","arunachal pradesh ","assam","bihar",
 "chhattisgarh","goa","gujarat","haryana","himachal pradesh","jammu and kashmir",
@@ -111,6 +112,15 @@ def get_day_articles(url, dir_path):
 	write_day_articles(all_articles,filename, dir_path)
 
 
+def write_date_range_articles(start_date, end_date, dir_path):
+	cur_date = start_date
+	while cur_date <= end_date:
+		date_string = datetime.datetime.strftime(cur_date, "%Y/%m/%d/")
+		url = 'https://www.thehindu.com/archive/print/' + date_string
+		print(url)
+		get_day_articles(url, dir_path)
+		time.sleep(3)
+		cur_date += datetime.timedelta(days=1)
 
 def get_month_articles(start, end, url, dir_path):
 	date = start
