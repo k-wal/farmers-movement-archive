@@ -55,11 +55,13 @@ def get_processed_month_dataframe(df, filename):
 		# 	print(new_row.iloc[0,9])
 
 		new_df = pd.concat([new_df, new_row])
+		
+	#	indexNames = df[df[1] == cur_id].index
+	#	df.drop(indexNames, inplace=True)
+		
 		count += 1
 		if count%100 == 0:
 			print(str(count) + "\t of " + str(n_ids) + ", filename = " + filename)
-		if count == 1000:
-			break
 	return new_df
 
 def write_new_file(df, output_dir, filename):
@@ -74,6 +76,6 @@ def main(dir_path, output_dir):
 		new_df = get_processed_month_dataframe(df, filename)
 		write_new_file(new_df, output_dir, filename)		
 
-dir_path = '../../corpus/temp_tweets'
+dir_path = '../../corpus/tweets'
 output_dir = '../../corpus/combined_tweets'
 main(dir_path, output_dir)
