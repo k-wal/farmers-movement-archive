@@ -3,21 +3,12 @@ from upload_functions import *
 def get_location(part):
 	if '--' in part:
 		return ''
-	if ' ' in part and part!='New Delhi':
-		return ''
+	if part[-1] == ',':
+		return part[:-1]
 	return part 
 
 
-item_set_dict = {'nation' : 330,
-'delhi' : 326,
-'punjab' : 324,
-'haryana' : 325,
-'editorial' : 328,
-'chandigarh': 333,
-'bathinda': 332,
-'amritsar' : 331,
-'jalandhar' : 334,
-'feature' : 329}
+item_set_dict = {'hindu' : 330}
 
 keywords = ['farmer',
 'mandi',
@@ -46,4 +37,4 @@ keywords = ['farmer',
 'Bhartiya Kisan Union']
 
 
-upload_section('../../corpus/tribune/bathinda', item_set_dict['bathinda'], 'The Tribune', '', keywords, get_location)
+upload_section('../../corpus/hindu', item_set_dict['hindu'], 'The Hindu', '', keywords, get_location)
