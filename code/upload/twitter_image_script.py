@@ -23,15 +23,24 @@ def get_image_url(url, date, username):
 	c.Store_object = True
 	c.Format = "{photos} || {video}"
 	c.Limit = 1
-	twint.run.Search(c)
-	tweets_as_objects = twint.output.tweets_list 
+	try:
+		twint.run.Search(c)
+	except:
+		return []
+	tweets_as_objects = twint.output.tweets_list
+	twint.output.tweets_list = [] 
+	if len(tweets_as_objects) == 0:
+		print(url, date, username)
+		return []
 	return tweets_as_objects[0].photos
 
 # return a photo path if successfully downloaded, else return empty string
 def store_image(url):
+	print(url)
 	extension = url.split('.')[-1]
 	r = requests.get(url, stream=True)
 	if r.status_code != 200:
+		print("xxxxxxxxxxx")
 		return ''
 	r.raw.decode_content = True
 	with open('twitter_image.' + extension, 'wb') as f:
@@ -58,8 +67,7 @@ def if_image(text, date, username):
 
 
 
-# url = 'https://t.co/hUTCGs6nRM'
-# print(get_image_url(url))
-text = ' प्रधान मंत्री नरेंद्र मोदी ने आज केंद्र के नए कृषि कानूनों और उनके द्वारा लाए गए फायदों की बात की, क्योंकि देश में पिछले चार दिनों से किसानों द्वारा अभूतपूर्व विरोध प्रदर्शन हो रहे थे।   #preminister #modi #farmer #farmersprotest #farmbill #opportunity  https://t.co/hUTCGs6nRM'
-date = '2020-11-29'
-username = 'VidharbhS'
+# text = ' प्रधान मंत्री नरेंद्र मोदी ने आज केंद्र के नए कृषि कानूनों और उनके द्वारा लाए गए फायदों की बात की, क्योंकि देश में पिछले चार दिनों से किसानों द्वारा अभूतपूर्व विरोध प्रदर्शन हो रहे थे।   #preminister #modi #farmer #farmersprotest #farmbill #opportunity  https://t.co/hUTCGs6nRM'
+# date = '2020-11-29'
+# username = 'VidharbhS'
+# print(if_image(text, date, username))
