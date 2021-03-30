@@ -64,25 +64,28 @@ def upload_article_file(item_id, photo_path):
 
 
 def get_media_data(date, description, username, item_id):
-	media_data = {}
+	media_data = []
 	url_in_tweet =  re.findall('(http|ftp|https)://([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?', description)
 
 	if len(url_in_tweet) == 0:
-		return {}
+		return []
 
 	url_in_tweet = url_in_tweet[0]
 	url_in_tweet = url_in_tweet[0]+'://'+url_in_tweet[1]+url_in_tweet[2]
 	image_urls = image_script.get_image_url(url_in_tweet, date, username)
 
 	if len(image_urls) > 0:
-		image_url = image_urls[0]
-		media_data = {"o:ingester" : "url",
-				"o:renderer" : "file",  
-				"o:source" : image_url,
-				"ingest_url" : image_url,
-				"o:original_url" : image_url,
-				"o:item" : {"o:id" : item_id}
-				}
+		if len(image_urls) > 1:
+			print(image_urls)
+		for image_url in image_urls:
+			cur_data = {"o:ingester" : "url",
+					"o:renderer" : "file",  
+					"o:source" : image_url,
+					"ingest_url" : image_url,
+					"o:item" : {"o:id" : item_id}
+					}
+			media_data.append(cur_data)
+
 	return media_data
 
 def upload_file_url(date, item_id, description, username):
@@ -91,10 +94,11 @@ def upload_file_url(date, item_id, description, username):
 	}
 
 	media_data = get_media_data(date, description, username, item_id)
-	if media_data == {}:
-		return
-	
-	response = requests.post('http://indiasocialarchive.iiit.ac.in/api/media', headers=headers ,params=params, data=json.dumps(media_data))
+
+	if len(media_data) > 1:
+		print(item_id)
+	for data in media_data:
+		response = requests.post('http://indiasocialarchive.iiit.ac.in/api/media', headers=headers ,params=params, data=json.dumps(data))
 
 def if_upload(date, tweet_id):
 	tweet_id = int(tweet_id)
@@ -172,5 +176,5 @@ def upload_section(dir_path, item_set_id):
 		upload_file(path, item_set_id)
 		print(filename + " : end")
 
-filepath = '../../corpus/temp_tweets/farmbill/08-2020.txt'
-upload_file(filepath, item_set_id[8])
+filepath = '../../corpus/temp_tweets/farmbill/10-2020.txt'
+upload_file(filepath, item_set_id[10])
