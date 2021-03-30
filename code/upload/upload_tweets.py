@@ -62,40 +62,39 @@ def upload_article_file(item_id, photo_path):
 	response = requests.post('http://indiasocialarchive.iiit.ac.in/api/media', params=params, files=files)
 	print(response)
 
-def embed_article(date, item_set_id, title, description, url, username, user_url, tweet_id):
-	r = requests.get('https://publish.twitter.com/oembed?url=' + url)
-	r = r.json()
 
+def get_media_data(date, description, username, item_id):
+	media_data = {}
+	url_in_tweet =  re.findall('(http|ftp|https)://([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?', description)
+
+	if len(url_in_tweet) == 0:
+		return {}
+
+	url_in_tweet = url_in_tweet[0]
+	url_in_tweet = url_in_tweet[0]+'://'+url_in_tweet[1]+url_in_tweet[2]
+	image_urls = image_script.get_image_url(url_in_tweet, date, username)
+
+	if len(image_urls) > 0:
+		image_url = image_urls[0]
+		media_data = {"o:ingester" : "url",
+				"o:renderer" : "file",  
+				"o:source" : image_url,
+				"ingest_url" : image_url,
+				"o:original_url" : image_url,
+				"o:item" : {"o:id" : item_id}
+				}
+	return media_data
+
+def upload_file_url(date, item_id, description, username):
 	headers = {
 	'Content-Type': 'application/json'
 	}
 
-
-	media_data = {"o:ingester" : "oembed",
-			"o:renderer" : "html",  
-			"o:source" : url,
-			}
-
-	files = [('data',(None, json.dumps(r), 'application/json'))]
-
-	data = {
-		"dcterms:title" : [{"property_id" : 1, "property_label" : "Title", "@value" : title, "type" : "literal"}],
-		"dcterms:description" : [{"property_id" : 4, "property_label" : "Description", "@value" : description, "type" : "literal"}],
-		"dcterms:source" : [{"property_id" : 11, "property_label" : "Source", "@id" : url, "type" : "uri"}],
-		#"dcterms:publisher" : [{"property_id" : 5, "property_label" : "Publisher", "@value" : publisher, "type" : "literal"}],
-		"dcterms:date" : [{"property_id" : 7, "property_label" : "Date", "@value" : date, "type" : "literal"}],
-		"dcterms:contributor" : [{"property_id" : 6, "property_label" : "Contributor", "o:label" : username, "@id" : user_url, "type" : "uri"}],
-		"dcterms:identifier" : [{"property_id" : 10, "property_label" : "Identifier", "@value" : tweet_id, "type" : "literal"}],
-		#"dcterms:coverage" : [{"property_id" : 14, "property_label" : "Coverage", "@value" : location, "type" : "literal"}],
-		"o:resource_class" : {"o:id" : 72} ,
-		"@type" : "o:Item",
-		"o:item_set" : [ {"o:id": item_set_id}, {"o:id" : 9315}], 
-		"o:media" : [media_data]
-	}
-
-
-	response = requests.post('http://indiasocialarchive.iiit.ac.in/api/media', params=params, data=data, files=files)
-	print(response)
+	media_data = get_media_data(date, description, username, item_id)
+	if media_data == {}:
+		return
+	
+	response = requests.post('http://indiasocialarchive.iiit.ac.in/api/media', headers=headers ,params=params, data=json.dumps(media_data))
 
 def if_upload(date, tweet_id):
 	tweet_id = int(tweet_id)
@@ -154,11 +153,12 @@ def upload_file(filepath, item_set_id):
 			desc = text
 		title = "<em>" + username + "</em> : " + desc
 
-		photo_path = image_script.if_image(text, date, username)
+		# photo_path = image_script.if_image(text, date, username)
 		item_id = upload_article(date, item_set_id, title, text, url, username, user_url, tweet_id)
-		if photo_path != '':
-			upload_article_file(item_id, photo_path)
-		# embed_article(date, item_set_id, title, text, url, username, user_url, tweet_id)
+		upload_file_url(date, item_id, text, username)
+		# if photo_path != '':
+		# 	upload_article_file(item_id, photo_path)
+		# upload_article_url(date, item_set_id, title, text, url, username, user_url, tweet_id)
 
 		if index % 10 == 0:
 			print(str(index) + " of " + str(total) + " done")
