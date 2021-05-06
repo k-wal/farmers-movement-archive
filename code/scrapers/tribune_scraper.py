@@ -120,7 +120,10 @@ def get_sections_ids():
 	['jalandhar','34'],
 	['nation','42'],
 	['editorial','60'],
-	['feature','26']
+	['ludhiana','40'],
+	['patiala','213'],
+	['himachalpradesh','30'],
+	['jammukashmir','36']
 	]
 
 # date has to be in dd-mm-yyyy format
