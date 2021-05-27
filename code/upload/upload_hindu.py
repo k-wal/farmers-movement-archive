@@ -8,15 +8,16 @@ def get_location(part):
 	return part 
 
 
-item_set_dict = {12 : 327,
-11 : 7348,
-10 : 7454,
-9 : 7972,
-8 : 8335,
-7 : 8495,
-6 : 9297,
-5 : 9298,
-4 : 9299}
+item_set_dict = {'12-2020' : 327,
+'11-2020' : 7348,
+'10-2020' : 7454,
+'09-2020' : 7972,
+'08-2020' : 8335,
+'07-2020' : 8495,
+'06-2020' : 9297,
+'05-2020' : 9298,
+'04-2020' : 9299,
+'01-2021' : 1319417}
 
 keywords = [
 # 'farmer',
@@ -57,6 +58,6 @@ keywords = [
 'Rakesh Tikait',
 'Bhartiya Kisan Union']
 
-month = 5
+month = '01-2021'
 
-upload_section('../../corpus/hindu/' + str(month), item_set_dict[month], 'The Hindu', '', keywords, get_location)
+upload_section('../../corpus/hindu/' + month, item_set_dict[month], 'The Hindu', '', keywords, get_location)

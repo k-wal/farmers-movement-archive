@@ -76,15 +76,10 @@ def upload_file(filepath, date, item_set_id, publisher, location, keywords, get_
 
 def upload_section(dir_path, item_set_id, publisher, location, keywords, get_location):
 	filenames = os.listdir(dir_path)
+	filenames = sorted(filenames)
 	for filename in filenames:
 		path = dir_path + '/' + filename
 		date = get_date_from_filename(filename)
 		print(filename + " : begin")
 		upload_file(path, date, item_set_id, publisher, location, keywords, get_location)
 		print(filename + " : end")
-
-# url = 'https://www.theweek.in/news/india/2021/01/26/violence-in-delhi-weakened-farmers-movement-aap.html'
-# quote = 'The Aam Aadmi Party, which has been at the political forefront in expressing support to the farmers agitation, on Tuesday undertook a tight-rope walk as it offered its first response to the unexpected turn of events in the national capital as a large number of farmers deviated from the pre-agreed route for their tractor rally and entered central Delhi.'
-# date = '2021-01-26'
-# title = "Violence in Delhi weakened farmers movement: AAP"
-# item_set_id = 297

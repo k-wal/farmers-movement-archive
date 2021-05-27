@@ -18,7 +18,7 @@ def get_text_hindu(url):
 	try:
 		r = requests.get(url)
 	except:
-		return '',''
+		return '', '', '', '', ''
 	soup = BeautifulSoup(r.content, 'html5lib')
 	
 
@@ -116,9 +116,10 @@ def write_date_range_articles(start_date, end_date, dir_path):
 	cur_date = start_date
 	while cur_date <= end_date:
 		date_string = datetime.datetime.strftime(cur_date, "%Y/%m/%d/")
+		month_string = datetime.datetime.strftime(cur_date, "%m-%Y")
 		url = 'https://www.thehindu.com/archive/print/' + date_string
 		print(url)
-		get_day_articles(url, dir_path)
+		get_day_articles(url, dir_path + '/' + month_string)
 		time.sleep(3)
 		cur_date += datetime.timedelta(days=1)
 

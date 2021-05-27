@@ -16,8 +16,6 @@ def write_update_date(date, filename):
 	pickle.dump(date, outfile)
 	outfile.close()
 
-
-
 def update_tribune(update_filename):
 	last_update_date = read_update_date(update_filename)
 	date_string = last_update_date.strftime("%d-%m-%Y")
@@ -33,6 +31,12 @@ def update_hindu(update_filename):
 
 
 filename = 'update_stats'
-# print(read_update_date(filename))
 # update_tribune(filename)
-update_hindu(filename)
+# update_hindu(filename)
+
+start_string = "31-01-2021"
+end_string = "31-01-2021"
+start_date = datetime.datetime.strptime(start_string, "%d-%m-%Y")
+end_date = datetime.datetime.strptime(end_string, "%d-%m-%Y")
+dir_path = '../corpus/hindu'
+scraper_hindu(start_date, end_date, dir_path)
