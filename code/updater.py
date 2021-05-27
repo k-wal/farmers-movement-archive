@@ -34,8 +34,8 @@ filename = 'update_stats'
 # update_tribune(filename)
 # update_hindu(filename)
 
-start_string = "31-01-2021"
-end_string = "31-01-2021"
+start_string = "21-02-2021"
+end_string = "28-02-2021"
 start_date = datetime.datetime.strptime(start_string, "%d-%m-%Y")
 end_date = datetime.datetime.strptime(end_string, "%d-%m-%Y")
 dir_path = '../corpus/hindu'

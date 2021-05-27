@@ -17,7 +17,10 @@ item_set_dict = {'12-2020' : 327,
 '06-2020' : 9297,
 '05-2020' : 9298,
 '04-2020' : 9299,
-'01-2021' : 1319417}
+'01-2021' : 1319417,
+'02-2021' : 1324986,
+'03-2021' : 1325149,
+'04-2021' : 1325278}
 
 keywords = [
 # 'farmer',
@@ -58,6 +61,6 @@ keywords = [
 'Rakesh Tikait',
 'Bhartiya Kisan Union']
 
-month = '01-2021'
+month = '02-2021'
 
 upload_section('../../corpus/hindu/' + month, item_set_dict[month], 'The Hindu', '', keywords, get_location)
