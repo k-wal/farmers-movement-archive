@@ -61,6 +61,6 @@ keywords = [
 'Rakesh Tikait',
 'Bhartiya Kisan Union']
 
-month = '02-2021'
+month = '04-2021'
 
 upload_section('../../corpus/hindu/' + month, item_set_dict[month], 'The Hindu', '', keywords, get_location)

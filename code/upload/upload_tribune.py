@@ -1,4 +1,6 @@
 from upload_functions import *
+import shutil
+import os
 
 def get_location(part):
 	if '--' in part:
@@ -7,6 +9,54 @@ def get_location(part):
 		return ''
 	return part 
 
+def move_files(source_dir, target_dir):
+	if not os.path.exists(target_dir):
+		os.makedirs(target_dir)
+
+	file_names = os.listdir(source_dir)
+	    
+	for file_name in file_names:
+	    shutil.move(os.path.join(source_dir, file_name), target_dir)	
+
+
+keywords = [
+# 'farmer',
+# 'mandi',
+# 'agrarian crisis',
+'kisan sabha',
+#'msp',
+'bku',
+'tikri', 
+'singhu', 
+# 'ghazipur',
+'anti-farmer',
+'agri-reform',
+'farm bill',
+'farm bills',
+'farmers bills',
+'farmers\' bills',
+'farm policy',
+'farm policies',
+'pro-farmer',
+'Essential Commodities (Amendment) Bill, 2020',
+'Essential Commodities Bill, 2020',
+'Essential Commodities Act, 2020',
+'agri bill',
+'agri ordinance',
+'farm ordinance',
+'trolley times',
+'Kisan Sangharsh Committee',
+'Kisan Bachao Morcha',
+'Kisan Mazdoor Sangharsh Committee',
+'Jai Kisan Andolan',
+'Punjab Kisan Union',
+'Kirti Kisan Union',
+'Terai Kisan Sangathan',
+'All India Kisan Sabha',
+'Mahila Kisan Adhikar Manch',
+'Doaba Kisan Samiti',
+'Rakesh Tikait',
+'Bhartiya Kisan Union']
 
 item_set_dict = {'nation' : 330,
 'delhi' : 326,
@@ -17,33 +67,22 @@ item_set_dict = {'nation' : 330,
 'bathinda': 332,
 'amritsar' : 331,
 'jalandhar' : 334,
-'feature' : 329}
+'feature' : 329,
+'comment' : 1328588,
+'musing' : 1328589,
+'business' : 1328590,
+'ludhiana' : 1328591,
+'patiala' : 1328592,
+'himachalpradesh' : 1328593,
+'jammukashmir' : 1328595
+}
 
-keywords = ['farmer',
-'mandi',
-'agrarian crisis',
-'kisan sabha',
-'msp',
-'bku',
-'tikri', 
-'singhu', 
-'ghazipur',
-'farm bill',
-'farm bills',
-'the essential commodities',
-'trolley times',
-'Kisan Sangharsh Committee',
-'Kisan Bachao Morcha',
-'Kisan Mazdoor Sangharsh Committee',
-'Jai Kisan Andolan',
-'Punjab Kisan Union',
-'Kirti Kisan Union',
-'Terai Kisan Sangatha',
-'All India Kisan Sabha',
-'Mahila Kisan Adhikar Manch',
-'Doaba Kisan Samiti',
-'Rakesh Tikait',
-'Bhartiya Kisan Union']
+section_name = 'chandigarh'
 
-
-upload_section('../../corpus/tribune/bathinda', item_set_dict['bathinda'], 'The Tribune', '', keywords, get_location)
+dir_path = '../../corpus/tribune/to_upload' + '/' + section_name
+# dir_path = '../../corpus/tribune/punjab'
+months = sorted(os.listdir(dir_path))
+for month in months:
+	cur_dir_path = dir_path + '/' + month
+	upload_section(cur_dir_path, item_set_dict[section_name], 'The Tribune', '', keywords, get_location)
+	move_files(cur_dir_path, '../../corpus/tribune/' + section_name + '/' + month)

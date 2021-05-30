@@ -14,14 +14,15 @@ def format_date(date):
 	date = day + '-' + month + '-' + year
 	return date
 
-# compare dates in the format of dd-mm-yyyy, return 1 if d1 is bigger, else return 2
+# compare dates in the format of dd-mm-yyyy, return 1 if d1 is bigger, d2 if d2 is bigger, 0 if d1 and d2 are equal
 def compare_dates(d1, d2):
 	date1 = datetime.datetime.strptime(d1, "%d-%m-%Y")
 	date2 = datetime.datetime.strptime(d2, "%d-%m-%Y")
 	if date1 < date2 :
 		return 2
-	else:
+	if date2 < date1:
 		return 1
+	return 0
 
 
 def get_text_tribune(url):
@@ -53,14 +54,14 @@ def get_text_tribune(url):
 			location = location.split('Tribune News Service')[1]
 		except:
 			location = ''
-	if location == '':
+	if location.strip() == '':
 		location = '---'
 
 	text = ''
 	for p in story_para[3:]: # adding all rest paragraphs to get text
 	 	text += p.text
 	text = text.replace('\n',' ')
-	return date, location, title, text
+	return date, location, title.strip(), text
 
 
 def store_articles(articles, dir_path):
@@ -68,7 +69,12 @@ def store_articles(articles, dir_path):
 	for article in articles:
 		date, location, title, text, url = article[0], article[1], article[2], article[3], article[4]
 		if date not in file_handlers.keys():
-			f = open(dir_path+'/'+date+'.txt','a')
+		
+			cur_dir_path = dir_path + '/' + '-'.join(date.split('-')[1:])
+			if not os.path.exists(cur_dir_path):
+				os.makedirs(cur_dir_path)
+
+			f = open(cur_dir_path+'/'+date+'.txt','a')
 			file_handlers[date] = f
 		f = file_handlers[date]
 		to_write = date.strip() + '||' + location + '||' + title + '||' + text.strip() + '||' + url + '\n'
@@ -78,7 +84,7 @@ def store_articles(articles, dir_path):
 		file_handlers[date].close()
 		
 
-def get_page_articles(url, dir_path, till_date = "none"):
+def get_page_articles(url, dir_path, start_date, end_date = "none"):
 	if_end_reached = False
 
 	main_url = 'https://www.tribuneindia.com'
@@ -89,12 +95,25 @@ def get_page_articles(url, dir_path, till_date = "none"):
 	first_card_title = soup.find('h4', class_='card-title')
 	card_titles.insert(0,first_card_title)
 	articles = []
+
+
+	# if date of last article in the page is after the ending date, go to the next page directly
+	last_ct = card_titles[-1]
+	if last_ct:
+		link = main_url + last_ct.find('a')['href']
+		date,b,title,d = get_text_tribune(link)
+		if compare_dates(date, end_date) == 1:
+			return False
+
 	for i,ct in enumerate(card_titles):
 		if not ct:
 			continue
 		link = main_url + ct.find('a')['href']
 		date,b,title,d = get_text_tribune(link)
-		if compare_dates(date, till_date) == 2:					# if end date is reached in the page, return true so that scraping stops
+		
+		if compare_dates(date, end_date) == 1:			# if date is after end date, continue
+			continue
+		if compare_dates(date, start_date) == 2:		# if date is before start date, return true so that scraping stops
 			if_end_reached = True			
 			break
 		if title=='':
@@ -126,8 +145,33 @@ def get_sections_ids():
 	['jammukashmir','36']
 	]
 
+# write one section, section_name:name of section, main_dir_path (not the section dir path), start_date and end_date are both
+# included in the interval of scraping, format : dd-mm-yyyy
+def write_one_section(section_name, main_dir_path, start_date, end_date):
+	section_id_arr = get_sections_ids()
+	section_id = [row[1] for row in section_id_arr if row[0]==section_name][0]
+
+	print("\n\n SECTION BEGINNING : " + section_name + "\n--")
+
+	dir_path = main_dir_path + '/' + section_name
+	if not os.path.exists(dir_path):
+		os.makedirs(dir_path)
+
+	page = 1
+	to_continue = True
+
+	while to_continue:														#scrape till end is not reached
+		url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+section_id+'&page='+str(page)+'&topNews='
+		print(url)
+		print('-'*15)
+		to_continue = not get_page_articles(url, dir_path, start_date, end_date)
+		print('\n-----\n\n')
+		page += 1
+		print("\n\n SECTION ENDING : " + section_name + "\n-----")
+
+
 # date has to be in dd-mm-yyyy format
-def write_all_sections(main_dir_path, till_date = "none"):
+def write_all_sections(main_dir_path, start_date, end_date):
 	section_id_arr = get_sections_ids()
 	for section_id in section_id_arr:
 		cur_section = section_id[0]
@@ -145,25 +189,8 @@ def write_all_sections(main_dir_path, till_date = "none"):
 			url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+cur_id+'&page='+str(page)+'&topNews='
 			print(url)
 			print('-'*15)
-			to_continue = not get_page_articles(url, dir_path, till_date)
+			to_continue = not get_page_articles(url, dir_path, start_date, end_date)
 			print('\n-----\n\n')
 			page += 1
 		print("\n\n SECTION ENDING : " + cur_section + "\n-----")
 		
-
-
-
-
-# cur = 13
-# end = 50
-
-# dir_path = '../../corpus/tribune/feature'
-
-# while cur<=end:
-# 	url = 'https://www.tribuneindia.com/Pagination/ViewAll?id='+feature_id+'&page='+str(cur)+'&topNews='
-
-# 	print(url)
-# 	print('-'*15)
-# 	get_page_articles(url, dir_path)
-# 	print('\n-----\n\n')
-# 	cur += 1
