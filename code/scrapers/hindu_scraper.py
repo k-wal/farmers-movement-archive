@@ -70,6 +70,8 @@ def get_text_hindu(url):
 
 # write all articles of a day
 def write_day_articles(articles,filename,dir_path):
+	if not os.path.isdir(dir_path):
+		os.mkdir(dir_path)
 	overall_date = ''
 	for article in articles:
 		title, text, date, city, region, url = article['title'], article['text'], article['date'], article['city'], article['region'], article['url']

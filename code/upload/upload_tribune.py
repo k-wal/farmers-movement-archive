@@ -1,4 +1,4 @@
-from upload_functions import *
+from .upload_functions import *
 import shutil
 import os
 
@@ -20,15 +20,10 @@ def move_files(source_dir, target_dir):
 
 
 keywords = [
-# 'farmer',
-# 'mandi',
-# 'agrarian crisis',
 'kisan sabha',
-#'msp',
 'bku',
 'tikri', 
 'singhu', 
-# 'ghazipur',
 'anti-farmer',
 'agri-reform',
 'farm bill',
@@ -76,13 +71,13 @@ item_set_dict = {'nation' : 330,
 'himachalpradesh' : 1328593,
 'jammukashmir' : 1328595
 }
+tribune_item_set_id = 323
 
-section_name = 'chandigarh'
-
-dir_path = '../../corpus/tribune/to_upload' + '/' + section_name
-# dir_path = '../../corpus/tribune/punjab'
-months = sorted(os.listdir(dir_path))
-for month in months:
-	cur_dir_path = dir_path + '/' + month
-	upload_section(cur_dir_path, item_set_dict[section_name], 'The Tribune', '', keywords, get_location)
-	move_files(cur_dir_path, '../../corpus/tribune/' + section_name + '/' + month)
+def upload_move_section(section_name, path):
+	dir_path = path + '/' + section_name
+	# dir_path = '../../corpus/tribune/punjab'
+	months = sorted(os.listdir(dir_path))
+	for month in months:
+		cur_dir_path = dir_path + '/' + month
+		upload_section(cur_dir_path, item_set_dict[section_name], tribune_item_set_id,'The Tribune', '', keywords, get_location)
+		move_files(cur_dir_path, '../../corpus/tribune/' + section_name + '/' + month)

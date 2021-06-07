@@ -16,8 +16,11 @@ def format_date(date):
 
 # compare dates in the format of dd-mm-yyyy, return 1 if d1 is bigger, d2 if d2 is bigger, 0 if d1 and d2 are equal
 def compare_dates(d1, d2):
-	date1 = datetime.datetime.strptime(d1, "%d-%m-%Y")
-	date2 = datetime.datetime.strptime(d2, "%d-%m-%Y")
+	try:
+		date1 = datetime.datetime.strptime(d1.strip(), "%d-%m-%Y")
+		date2 = datetime.datetime.strptime(d2.strip(), "%d-%m-%Y")
+	except:
+		print(d1,d2)
 	if date1 < date2 :
 		return 2
 	if date2 < date1:
@@ -102,7 +105,7 @@ def get_page_articles(url, dir_path, start_date, end_date = "none"):
 	if last_ct:
 		link = main_url + last_ct.find('a')['href']
 		date,b,title,d = get_text_tribune(link)
-		if compare_dates(date, end_date) == 1:
+		if date and compare_dates(date, end_date) == 1:
 			return False
 
 	for i,ct in enumerate(card_titles):
@@ -111,6 +114,8 @@ def get_page_articles(url, dir_path, start_date, end_date = "none"):
 		link = main_url + ct.find('a')['href']
 		date,b,title,d = get_text_tribune(link)
 		
+		if not date:
+			continue
 		if compare_dates(date, end_date) == 1:			# if date is after end date, continue
 			continue
 		if compare_dates(date, start_date) == 2:		# if date is before start date, return true so that scraping stops

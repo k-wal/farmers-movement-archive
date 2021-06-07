@@ -1,4 +1,4 @@
-from upload_functions import *
+from .upload_functions import *
 
 def get_location(part):
 	if '--' in part:
@@ -8,7 +8,7 @@ def get_location(part):
 	return part 
 
 
-item_set_dict = {'12-2020' : 327,
+hindu_item_set_dict = {'12-2020' : 327,
 '11-2020' : 7348,
 '10-2020' : 7454,
 '09-2020' : 7972,
@@ -20,7 +20,8 @@ item_set_dict = {'12-2020' : 327,
 '01-2021' : 1319417,
 '02-2021' : 1324986,
 '03-2021' : 1325149,
-'04-2021' : 1325278}
+'04-2021' : 1325278,
+'05-2021' : 1331640}
 
 keywords = [
 # 'farmer',
@@ -61,6 +62,10 @@ keywords = [
 'Rakesh Tikait',
 'Bhartiya Kisan Union']
 
-month = '04-2021'
+hindu_item_set_id = 7347
+def upload_date(date_string, filepath, month):
+	upload_file(filepath, date_string, hindu_item_set_dict[month], hindu_item_set_id,'The Hindu', '', keywords, get_location)	
 
-upload_section('../../corpus/hindu/' + month, item_set_dict[month], 'The Hindu', '', keywords, get_location)
+# month = '04-2021'
+
+# upload_section('../../corpus/hindu/' + month, hindu_item_set_dict[month], 'The Hindu', '', keywords, get_location)

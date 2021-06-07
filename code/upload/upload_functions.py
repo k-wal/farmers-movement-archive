@@ -11,7 +11,7 @@ params = {
 }
 
 
-def upload_article(date, item_set_id, title, description, url, publisher, location):
+def upload_article(date, item_set_id, parent_set_id, title, description, url, publisher, location):
 	headers = {
 	'Content-type': 'application/json'
 	}
@@ -26,7 +26,7 @@ def upload_article(date, item_set_id, title, description, url, publisher, locati
 		"dcterms:coverage" : [{"property_id" : 14, "property_label" : "Coverage", "@value" : location, "type" : "literal"}],
 		"o:resource_class" : {"o:id" : 72} ,
 		"@type" : "o:Item",
-		"o:item_set" : [ {"o:id": item_set_id}], 
+		"o:item_set" : [ {"o:id": item_set_id}, {"o:id" : parent_set_id}], 
 		"o:media" : []
 	}
 
@@ -58,7 +58,7 @@ def if_upload(title, description, keywords):
 
 
 
-def upload_file(filepath, date, item_set_id, publisher, location, keywords, get_location):
+def upload_file(filepath, date, item_set_id, parent_set_id, publisher, location, keywords, get_location):
 	file = open(filepath, 'r')
 	lines = file.readlines()
 	file.close()
@@ -71,15 +71,15 @@ def upload_file(filepath, date, item_set_id, publisher, location, keywords, get_
 			continue
 		location = get_location(parts[1])
 		if if_upload(title, description, keywords):
-			upload_article(date, item_set_id, title, description, url, publisher, location)
+			upload_article(date, item_set_id, parent_set_id, title, description, url, publisher, location)
 
 
-def upload_section(dir_path, item_set_id, publisher, location, keywords, get_location):
+def upload_section(dir_path, item_set_id, parent_set_id, publisher, location, keywords, get_location):
 	filenames = os.listdir(dir_path)
 	filenames = sorted(filenames)
 	for filename in filenames:
 		path = dir_path + '/' + filename
 		date = get_date_from_filename(filename)
 		print(filename + " : begin")
-		upload_file(path, date, item_set_id, publisher, location, keywords, get_location)
+		upload_file(path, date, item_set_id, parent_set_id, publisher, location, keywords, get_location)
 		print(filename + " : end")
