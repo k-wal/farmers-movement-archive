@@ -1,0 +1,38 @@
+- first clean to get a count
+	- Cleaning criteria include length of tweet, language of tweet, emoji to word ratio, removing links, filtering over replies and threads (you can combine threads if you're brave)
+	- if length of words is less than 1, review before keeping it
+	- if (#words/#emojis) < 1, review before keeping tweets
+
+- specific cleaning : leave empty as no task in mind
+
+- preprocessing : generic
+	- language identification (english/hindi/code-mixed), average tweet identification, how many threads exist
+	- english word cloud, hindi word cloud
+	- co-occurences (does a specific hashtag some words always occuring with it?)
+
+- task-specific preprocessing analysis : leave empty as no task in mind
+
+- possible questions (everything requires manual annotation) :
+	- how has the english speaking population responded?
+		- sentiment detection, stance detection
+		- stance detection: topic modelling to get subtopics, go through each tweet to see if the tweet is again/for/neutral wrt the topic
+	- temporal frequency analysis?
+		- positive/negative/neutral over time
+		- ditribution of relevance, words
+		- how has the number of tweets changed around events? how has the positive and negative changed?
+	- is the english speaking population more against/for than hindi speaking population?
+	- correlation between users(divided by language) and their opinions
+		- are people who tweet more than 80% of the time in English against the protest?
+	- average number of tweets made by a person? are 90% of tweets made by 10% of the population?
+		- username x # number of tweets required
+	- what gains more traction?
+		- retweet/reply or retweet/like ratio, how it changes depending on if its against or for farmers protest
+	- correlation analysis
+
+- do preprocessing after choosing a possible question
+
+- lit survey after choosing question and doing preprocssing
+
+- if methods exist to solve the question, then apply the methods
+
+- connect results to a hypothesis and show analysis against/for hypothesis

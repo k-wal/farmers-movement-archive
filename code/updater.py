@@ -84,5 +84,5 @@ sections = ['comment',
 start_string = "01-05-2021"
 end_string = "31-05-2021"
 
-temp_sections = sections[10:11]
+temp_sections = sections[15:16]
 update_tribune_interval(start_string, end_string, temp_sections)

@@ -1,0 +1,3896 @@
+ORG	bjp	516
+ORG	msp	457
+ORG	congress	432
+PERSON	ghazipur	321
+ORG	singhu	285
+PERSON	tomar	248
+ORG	uttar pradesh	227
+ORG	parliament	222
+PERSON	rakesh tikait	182
+PERSON	narendra modi	134
+PERSON	tikait	130
+ORG	house	128
+PERSON	rajya sabha	121
+PERSON	narendra singh	120
+PERSON	kisan morcha	116
+PERSON	tikri	115
+ORG	bku	110
+ORG	the supreme court	108
+NORP	indian	104
+PERSON	bill	90
+PERSON	delhi police	90
+ORG	skm	83
+ORG	the delhi police	79
+PERSON	haryana	75
+ORG	nda	74
+PERSON	amit shah	68
+PERSON	lok sabha	67
+ORG	tribune news	65
+ORG	agriculture	63
+ORG	bharatiya kisan union	63
+PERSON	gandhi	59
+ORG	maharashtra	56
+ORG	sad	51
+ORG	ito	51
+PERSON	yogendra yadav	50
+ORG	apmc	49
+ORG	tribune news servicenew delhi	49
+PERSON	bench	47
+ORG	bhartiya kisan union	44
+PERSON	rahul gandhi	44
+PERSON	the lok sabha	44
+PERSON	darshan pal	44
+ORG	opposition	42
+ORG	aap	41
+ORG	farmers	41
+ORG	the delhi traffic police	40
+PERSON	piyush goyal	36
+ORG	assembly	34
+ORG	deep sidhu	34
+PERSON	mann	33
+ORG	dmk	32
+ORG	fir	32
+ORG	ncp	31
+ORG	cji	29
+ORG	the bharatiya kisan union	28
+ORG	morcha	28
+PERSON	balbir singh	28
+PERSON	sikh	27
+ORG	madhya pradesh	27
+ORG	sc	27
+PERSON	kisan sabha	26
+PERSON	gurnam singh charuni	26
+ORG	the farmers (empowerment and protection) agreement of price assurance and farm services	26
+ORG	dnd	25
+ORG	aikscc	25
+PERSON	rajnath singh	24
+PERSON	azad	24
+ORG	cabinet	24
+ORG	central	23
+ORG	bjp’s	23
+ORG	the farmers (empowerment and protection) agreement on price assurance and farm services act	23
+ORG	budget	23
+PERSON	outer ring road	23
+PERSON	arvind kejriwal	23
+PERSON	kejriwal	23
+ORG	banerjee	23
+ORG	tmc	23
+PERSON	shiromani akali dal	23
+PERSON	punjab	22
+NORP	british	22
+PERSON	yudhvir singh	22
+ORG	jantar mantar	22
+ORG	gtk	22
+PERSON	palam vihar	22
+PERSON	shah	22
+ORG	harsimrat kaur badal	22
+PERSON	badal	22
+PERSON	jp nadda	22
+ORG	sitharaman	22
+PERSON	anil ghanwat	22
+PERSON	rihanna	22
+NORP	bharat	20
+PERSON	tamil nadu	20
+ORG	samyukta kisan morcha	20
+PERSON	joginder singh ugrahan	20
+PERSON	naresh tikait	20
+PERSON	narendra modi’s	20
+ORG	bijwasan/bajghera	20
+PERSON	noida	20
+ORG	the union government	20
+NORP	sikhs	19
+ORG	bku’s	19
+ORG	samajwadi party	19
+ORG	rld	19
+PERSON	amarinder singh	19
+PERSON	naidu	19
+ORG	lohri	19
+PERSON	ambala	18
+PERSON	singh	18
+PERSON	sharad pawar	18
+ORG	kisan	18
+ORG	jjp	18
+NORP	sp	18
+ORG	the red fort	18
+PERSON	balbir singh rajewal	17
+PERSON	kumar	17
+PERSON	jagmohan singh	17
+PERSON	malik	17
+ORG	cm	17
+PERSON	akali dal	17
+PERSON	piau maniyari	17
+PERSON	mamata banerjee	16
+NORP	karnataka	16
+ORG	the aam aadmi party	16
+NORP	muslims	16
+ORG	union home	16
+ORG	nadda	16
+PERSON	pm modi	16
+PERSON	nitish kumar	16
+ORG	ashok gulati	16
+ORG	lakhowal	15
+ORG	state	15
+ORG	aiks	15
+PERSON	dharmendra malik	15
+PERSON	sukhdev singh	15
+ORG	the central government	15
+ORG	the farmers produce trade and commerce (promotion and facilitation	15
+PERSON	surjewala	15
+PERSON	ram nath kovind	15
+ORG	punjabi	15
+PERSON	javadekar	15
+PERSON	tricolour	15
+PERSON	bhupinder singh mann	15
+ORG	swaraj india	14
+PERSON	odisha	14
+ORG	yadav	14
+ORG	bathinda	14
+ORG	bharat bandh	14
+PERSON	covid-19	14
+ORG	union agriculture	14
+NORP	akali	14
+ORG	mt	14
+ORG	cctv	14
+PERSON	narendra tomar	13
+PERSON	mangesh	13
+ORG	govt	13
+PERSON	manmohan singh	13
+PERSON	mahatma gandhi	13
+PERSON	sukhbir badal	13
+NORP	akalis	13
+PERSON	kisan samman	13
+NORP	jats	13
+PERSON	charan singh	13
+ORG	supreme court	13
+ORG	anand vihar	13
+PERSON	jind	12
+ORG	kmp	12
+PERSON	delhi	12
+ORG	union	12
+PERSON	jharoda	12
+ORG	mea	12
+ORG	the national capital	12
+PERSON	ravi shankar prasad	12
+ORG	ekta-ugrahan	12
+ORG	the farmers (empowerment and protection) agreement of price assurance and farm services act	12
+ORG	rss	12
+PERSON	greta thunberg	12
+PERSON	rajinder singh	12
+PERSON	badusarai	12
+ORG	the haryana police	11
+ORG	dakaunda	11
+ORG	amritsar	11
+ORG	centre’s	11
+PERSON	tikri border	11
+ORG	andhra pradesh	11
+PERSON	sanjay singh	11
+ORG	kcr	11
+PERSON	mukarba chowk	11
+ORG	aicc	11
+PERSON	raut	11
+ORG	the akali dal	11
+PERSON	ram nath	11
+PERSON	sonia gandhi	11
+NORP	non-jats	11
+PERSON	kangana	11
+PERSON	singh mann	11
+ORG	bhanu	11
+ORG	kejriwal’s	11
+PERSON	kavitha kuruganti	10
+ORG	international women’s day	10
+PERSON	birla	10
+ORG	charuni	10
+ORG	the all india	10
+ORG	dhansa	10
+PERSON	dabwali	10
+PERSON	gurnam singh	10
+ORG	upa	10
+ORG	houses	10
+PERSON	chidambaram	10
+ORG	panwar	10
+PERSON	nirmala sitharaman	10
+PERSON	pramod kumar joshi	10
+ORG	india sa bobde	10
+PERSON	diljit dosanjh	10
+PERSON	tiwari	10
+PERSON	ajit singh	10
+ORG	mukarba & gtk	10
+PERSON	vivek aggarwal	10
+ORG	the bhartiya kisan union	9
+PERSON	mahendra singh	9
+ORG	un	9
+ORG	krantikari kisan union	9
+ORG	ludhiana	9
+PERSON	narendra	9
+ORG	lpg	9
+ORG	karnal	9
+ORG	the samajwadi party	9
+PERSON	sudhir panwar	9
+ORG	rewari	9
+PERSON	हैं	9
+ORG	the all-india kisan sangharsh coordination committee	9
+NORP	kadian	9
+PERSON	centre	9
+ORG	farmersprotest	9
+PERSON	bittu	9
+PERSON	m venkaiah naidu	9
+PERSON	bajwa	9
+PERSON	derek o’brien	9
+PERSON	tiruchi siva	9
+PERSON	twitter	9
+PERSON	rohtak	9
+NORP	american	9
+ORG	kisan union	9
+PERSON	kk venugopal	9
+PERSON	abhimanyu kohar	8
+ORG	the krantikari kisan union	8
+ORG	dsgmc	8
+ORG	uttar pradesh and uttarakhand	8
+PERSON	sanjeev balyan	8
+ORG	chair	8
+PERSON	vigyan bhavan	8
+PERSON	bku ekta ugrahan	8
+ORG	shambhu	8
+ORG	tribune news servicechandigarh	8
+PERSON	rajasthan	8
+PERSON	kataria	8
+ORG	the delhi-uttar pradesh	8
+ORG	union ministers	8
+PERSON	p chidambaram	8
+PERSON	ghulam nabi azad	8
+ORG	cpm	8
+ORG	the union cabinet	8
+PERSON	venugopal	8
+PERSON	sidhu	8
+PERSON	bhalwan	8
+PERSON	rakesh tikait’s	8
+NORP	canadian	8
+PERSON	koo	8
+PERSON	manish sisodia	8
+PERSON	madan bhaiyya	8
+ORG	up	8
+PERSON	baldev singh	8
+ORG	palla & singhu	8
+PERSON	shrivastava	8
+PERSON	bhagat singh	7
+PERSON	priyanka gandhi	7
+ORG	bhagat	7
+ORG	the bharat bandh	7
+ORG	mla	7
+PERSON	boris johnson	7
+ORG	goyal	7
+ORG	aam aadmi party	7
+PERSON	prakash javadekar	7
+ORG	nh-44	7
+PERSON	rajya sabha mp	7
+ORG	the farmers (empowerment and protection) agreement on price assurance and farm services	7
+NORP	chinese	7
+ORG	bhardwaj	7
+PERSON	chadha	7
+ORG	chand	7
+PERSON	ns tomar	7
+ORG	kisan sangharsh coordination committee	7
+PERSON	hannan mollah	7
+ORG	defence	7
+PERSON	harivansh	7
+PERSON	venkaiah naidu	7
+ORG	ordinances	7
+ORG	chandumajra	7
+PERSON	shiv sena	7
+ORG	fci	7
+ORG	harsimrat badal	7
+PERSON	sukhbir singh	7
+ORG	aiadmk	7
+ORG	ljp	7
+ORG	pm-kisan	7
+ORG	hisar	7
+ORG	ipc	7
+NORP	kakka	7
+PERSON	kisan mahapanchayat	7
+ORG	ngt	7
+ORG	tribune news servicesonepat	7
+ORG	mansa	7
+PERSON	ghazipur border	7
+PERSON	lok shakti	7
+ORG	lampur safiabad	7
+ORG	mukarba	7
+NORP	maoist	7
+ORG	the all india kisan sangharsh coordination committee	6
+PERSON	amar singh	6
+ORG	bs rajewal	6
+PERSON	chandra	6
+ORG	palwal	6
+ORG	yogi adityanath	6
+PERSON	pralhad joshi	6
+PERSON	joshi	6
+ORG	ani	6
+ORG	kurukshetra	6
+ORG	pds	6
+PERSON	amit shah’s	6
+ORG	uttarakhand	6
+ORG	agriculture ministry	6
+ORG	bsp	6
+PERSON	akhilesh yadav	6
+PERSON	joginder singh	6
+PERSON	singhu border	6
+PERSON	randeep surjewala	6
+PERSON	medha patkar	6
+PERSON	की	6
+ORG	the swaminathan commission	6
+PERSON	rajasthan amendment	6
+ORG	the farmer’s produce trade and commerce (promotion and facilitation	6
+ORG	central farm acts	6
+PERSON	elamaram kareem	6
+ORG	railway	6
+NORP	jd(u	6
+PERSON	manoj jha	6
+NORP	atmanirbhar bharat	6
+NORP	covid	6
+ORG	army	6
+ORG	trinamool congress	6
+PERSON	apmc act	6
+NORP	west bengal	6
+ORG	the farmers (empowerment and protection	6
+ORG	harsimrat	6
+ORG	maharashtra’s	6
+ORG	caa	6
+PERSON	kaur	6
+PERSON	yechury	6
+PERSON	kangana ranaut	6
+NORP	indians	6
+ORG	international food policy research institute	6
+PERSON	anad vihar	6
+ORG	the ministry of home affairs	6
+PERSON	khalistani	6
+PERSON	swaraj abhiyan	6
+PERSON	mollah	6
+ORG	the punjab assembly	6
+PERSON	darshan pal singh	6
+ORG	justice	6
+PERSON	kumar joshi	6
+PERSON	raj bhavan	6
+ORG	tikri-bahadurgarh	6
+ORG	sfj	6
+ORG	nihangs	6
+PERSON	mahendra singh tikait	6
+PERSON	gazipur	6
+ORG	noida & ghaziabad	6
+ORG	bhopra & loni borders	6
+ORG	lmv	6
+PERSON	mehta	6
+ORG	committee	6
+ORG	hazare	6
+PERSON	ram singh	6
+PERSON	kisan diwas	6
+NORP	hindu	5
+ORG	the bharatiya janata party	5
+ORG	tikait’s	5
+NORP	naresh	5
+ORG	price assurance and farm services act	5
+ORG	sandhu	5
+ORG	panipat	5
+PERSON	manjinder singh	5
+PERSON	piao maniyari	5
+PERSON	adhir ranjan chowdhury	5
+ORG	the indian government	5
+PERSON	tanmanjeet singh	5
+ORG	tribune news servicejhajjar	5
+PERSON	kohar	5
+PERSON	power act	5
+ORG	kisan mazdoor sangharsh committee	5
+ORG	traffic movement	5
+ORG	capital	5
+PERSON	sanjay agarwal	5
+ORG	haryana police	5
+PERSON	shingara singh mann	5
+ORG	raf	5
+PERSON	rashtriya kisan mahasangh	5
+PERSON	naveen patnaik	5
+ORG	consumer affairs	5
+PERSON	jai jawan	5
+ORG	goi	5
+PERSON	bill 2020	5
+ORG	global times	5
+ORG	j&k	5
+PERSON	sanjay raut	5
+ORG	ncr	5
+ORG	rabi	5
+NORP	swaminathan	5
+PERSON	rajya sabha mps	5
+ORG	leader of opposition	5
+PERSON	dola sen	5
+ORG	rajya	5
+PERSON	kk ragesh	5
+ORG	rsp	5
+ORG	the agricultural produce market committee	5
+NORP	tibetans	5
+PERSON	manish tewari	5
+PERSON	question hour	5
+PERSON	bihari vajpayee	5
+ORG	tribune	5
+ORG	jd-u	5
+PERSON	loni	5
+PERSON	dushyant chautala	5
+ORG	pdp	5
+PERSON	chandra bose’s	5
+PERSON	bhainswal	5
+ORG	mahapatra	5
+ORG	the trinamool congress	5
+PERSON	mandeep punia	5
+PERSON	haryana bku	5
+ORG	chaduni	5
+PERSON	azad maidan	5
+PERSON	anurag thakur	5
+ORG	motion of thanks	5
+ORG	samkyukta kisan morcha	5
+ORG	commerce	5
+ORG	vikas	5
+ORG	finance	5
+PERSON	kisan ekta morcha	5
+PERSON	hardeep singh	5
+PERSON	ghanwat	5
+ORG	bhupinder	5
+PERSON	baldev singh sirsa	5
+ORG	uttar pradesh police	5
+PERSON	satnam pannu	5
+ORG	sisodia	5
+PERSON	joginder ugrahan	5
+PERSON	tushar mehta	5
+PERSON	sa bobde	5
+PERSON	d raja	5
+PERSON	jagjit singh	5
+PERSON	arjuna	5
+PERSON	kisan adhikar manch	5
+PERSON	johnson	5
+PERSON	kannauj	5
+ORG	qureshi	5
+ORG	alwar	5
+PERSON	harinder singh	4
+NORP	muslim	4
+PERSON	sukhwinder singh	4
+ORG	kundli-manesar-palwal	4
+ORG	sikh gurdwara management committee	4
+PERSON	natt	4
+PERSON	ahmad	4
+PERSON	ferozepur	4
+PERSON	puducherry	4
+PERSON	kokri kalan	4
+PERSON	farm bills	4
+ORG	delhi’s	4
+ORG	home ministry	4
+PERSON	mann ki baat	4
+ORG	nirankari ground	4
+ORG	bahadurgarh	4
+PERSON	priyanka gandhi vadra	4
+ORG	delhi traffic police	4
+ORG	arunachal pradesh	4
+NORP	tibetan	4
+PERSON	sangwan	4
+PERSON	raghav chadha	4
+PERSON	niti aayog	4
+ORG	punjab’s	4
+ORG	all india	4
+ORG	dhankhar	4
+PERSON	aujla	4
+PERSON	harivansh singh	4
+ORG	faifa	4
+PERSON	rajeev satav	4
+PERSON	mahatma gandhi's	4
+PERSON	sabha	4
+ORG	upper house	4
+PERSON	mahatma gandhi’s	4
+PERSON	dhindsa	4
+PERSON	ahmed patel	4
+PERSON	ram gopal	4
+ORG	rs	4
+ORG	the upper house	4
+ORG	kc venugopal	4
+PERSON	partap singh bajwa	4
+ORG	chennai	4
+PERSON	bhagwant mann	4
+ORG	harsimrat kaur	4
+ORG	the all-india	4
+ORG	tharoor	4
+ORG	ktr	4
+ORG	houses of parliament	4
+PERSON	sukhbir singh badal	4
+ORG	the tribune	4
+PERSON	ravneet singh bittu	4
+ORG	jamnagar	4
+ORG	ayurveda	4
+PERSON	sukhbir	4
+ORG	national democratic alliance	4
+PERSON	kovind	4
+ORG	ips	4
+PERSON	rao	4
+PERSON	mukul roy	4
+ORG	bihar assembly	4
+ORG	ias	4
+ORG	haryana congress	4
+PERSON	sunil jakhar	4
+PERSON	uddhav thackeray	4
+PERSON	dalit	4
+PERSON	deol	4
+ORG	the agri-infra fund	4
+ORG	the agriculture ministry	4
+ORG	the motion of thanks	4
+PERSON	mamata ji	4
+PERSON	dilip ghosh	4
+PERSON	spokesperson anurag srivastava	4
+PERSON	tarun gogoi	4
+PERSON	maninder singh	4
+NORP	khalistanis	4
+PERSON	sitaram yechury	4
+PERSON	jayant chaudhary	4
+PERSON	sambit patra	4
+ORG	bharti kisan union	4
+PERSON	narendra modi's	4
+ORG	the union budget	4
+ORG	iuml	4
+PERSON	ml sharma	4
+ORG	the commission for agricultural costs and prices	4
+PERSON	amarinder	4
+ORG	sirsa	4
+PERSON	mann ki baat’	4
+ORG	disha ravi	4
+PERSON	shiv kumar kakka	4
+ORG	pm modi's	4
+PERSON	amra ram	4
+PERSON	sonia	4
+PERSON	ashok dhawale	4
+ORG	cji sa bobde	4
+ORG	yogendra yadavred fort	4
+ORG	singhu bordertraffic	4
+PERSON	ghazipur borders	4
+PERSON	ajmer singh	4
+ORG	the nishan sahib	4
+PERSON	rashtriya lok dal	4
+ORG	sadiq	4
+PERSON	dushyant dave	4
+PERSON	dave	4
+ORG	food policy	4
+PERSON	kashmir singh	4
+PERSON	dhesi	4
+ORG	majithia	4
+PERSON	vos	4
+NORP	auchandi	4
+ORG	the india meteorological department	4
+NORP	democratic	4
+ORG	guru tegh bahadur	4
+PERSON	mandi	4
+PERSON	bhavjit singh	4
+PERSON	holi	3
+ORG	nandigram	3
+PERSON	yogendra	3
+ORG	khaps	3
+ORG	union government	3
+PERSON	sant ram singh	3
+ORG	pilibhit	3
+PERSON	yudhveer singh	3
+PERSON	rai	3
+PERSON	jumma	3
+PERSON	kulwant singh sandhu	3
+PERSON	shiv kumar	3
+PERSON	kulwant singh	3
+ORG	the kundli-manesar-palwal expressway	3
+PERSON	jasmeet singh	3
+ORG	meghalaya	3
+ORG	western uttar pradesh	3
+ORG	the national highway	3
+PERSON	gadkari	3
+ORG	the national capital territory	3
+ORG	prasad	3
+ORG	uttar pradesh assembly	3
+ORG	national	3
+PERSON	kerala	3
+ORG	the farm acts	3
+ORG	& singhu	3
+PERSON	ajay kumar bhalla	3
+ORG	shah’s	3
+PERSON	chandigarh	3
+PERSON	kalindi kunj	3
+PERSON	pawan khatana	3
+PERSON	n chandrababu naidu	3
+ORG	ghmc	3
+NORP	non-nda	3
+PERSON	jai kisan’	3
+PERSON	जा	3
+ORG	punjab assembly	3
+PERSON	singh bajwa	3
+ORG	dhariwal	3
+ORG	price assurance and farm services	3
+ORG	linzhi	3
+PERSON	sombir sangwan	3
+PERSON	act	3
+PERSON	bhalla	3
+ORG	intuc	3
+ORG	all india trade union congress	3
+PERSON	hind mazdoor sabha	3
+ORG	aiutuc	3
+ORG	mgnrega	3
+PERSON	ghaggar	3
+PERSON	करने	3
+ORG	gurugram	3
+ORG	dbt	3
+PERSON	jasbir singh gill	3
+PERSON	ravneet bittu	3
+PERSON	ripun bora	3
+PERSON	anand sharma	3
+PERSON	derek o'brien	3
+PERSON	capt amarinder singh	3
+ORG	naresh gujral	3
+PERSON	rashtriya janata dal	3
+PERSON	harivansh narayan	3
+ORG	tomar’s	3
+PERSON	patel	3
+PERSON	lok sabha mps	3
+ORG	the committee	3
+PERSON	bhupinder singh	3
+ORG	khattar	3
+PERSON	singh badal	3
+ORG	the indian army	3
+PERSON	qian	3
+PERSON	veeramma	3
+PERSON	santokh singh	3
+ORG	tribune news service hyderabad	3
+ORG	the farmer's produce trade and commerce (promotion and facilitation	3
+NORP	dalits	3
+ORG	agricultural produce market committee	3
+ORG	the uddhav thackeray-led	3
+PERSON	sanjay jha	3
+ORG	wto	3
+ORG	kosi	3
+ORG	nda’s	3
+PERSON	iqbal	3
+PERSON	lalpura	3
+PERSON	dushyant kumar gautam	3
+PERSON	arun singh	3
+PERSON	dilip saikia	3
+PERSON	arun jaitley	3
+ORG	ec	3
+PERSON	sushant singh rajput	3
+PERSON	ram mandir	3
+PERSON	ambedkar	3
+PERSON	jairam ramesh	3
+ORG	fadnavis	3
+ORG	kisan rail	3
+PERSON	farmer producer organisations	3
+PERSON	pm	3
+PERSON	nidhi	3
+ORG	the agriculture infrastructure fund	3
+ORG	malda	3
+ORG	netaji	3
+ORG	tribune news serviceghazipur	3
+PERSON	volunteer	3
+PERSON	bhattacharjee	3
+ORG	khalistan	3
+PERSON	lawrence vishnoi	3
+ORG	dcp	3
+NORP	balyan	3
+PERSON	mia khalifa	3
+NORP	swedish	3
+ORG	youtube	3
+PERSON	khatri	3
+PERSON	ranjit singh	3
+PERSON	chandrashekhar azad	3
+PERSON	hindu jats	3
+ORG	maninder	3
+ORG	the united front	3
+ORG	fdi	3
+ORG	bahujan samaj party	3
+PERSON	mayawati	3
+PERSON	sharma	3
+ORG	singhu school & palla	3
+PERSON	loni mla nand kishor gujjar	3
+PERSON	naresh tikat	3
+PERSON	nand kishor	3
+PERSON	sophia murphy	3
+ORG	pro-khalistan	3
+ORG	governor’s house	3
+ORG	the state department	3
+PERSON	harpreet singh	3
+NORP	maoists	3
+PERSON	mallu bhatti vikramarka	3
+ORG	uttar pradesh’s	3
+ORG	the delhi-meerut	3
+ORG	fatehgarh sahib	3
+PERSON	roy	3
+ORG	kharif	3
+ORG	the punjab government	3
+ORG	nabar	3
+ORG	rbi	3
+ORG	the home ministry	3
+ORG	dhawale	3
+ORG	padma shri	3
+PERSON	mapusa	3
+ORG	pawar	3
+ORG	nri	3
+PERSON	gurmeet singh	3
+PERSON	deependra pathak	3
+ORG	the sankyukt kisan morcha	3
+PERSON	apsara border	3
+PERSON	manjeet singh rai	3
+ORG	the bhartiya kisan union lokshakti	3
+ORG	asi	3
+PERSON	najafgarh	3
+PERSON	lakha sidhana	3
+PERSON	rakesh tikait's	3
+PERSON	sanjiv balyan	3
+PERSON	satyendar jain	3
+PERSON	baba ramdev	3
+PERSON	jagjeet singh dallewal	3
+ORG	the rapid action force	3
+ORG	the ministry of home affairs (mha	3
+PERSON	capt amarinder	3
+ORG	deep sidhu’s	3
+ORG	tribune news servicenew delhi/sonepat	3
+PERSON	kumar kakka	3
+PERSON	rishabh sharma	3
+ORG	cifa	3
+PERSON	bobde	3
+ORG	patnaik	3
+PERSON	border	3
+ORG	cars/light motor vehicles	3
+PERSON	masani	3
+PERSON	meena	3
+PERSON	jai bhagwan	3
+ORG	tribune news servicesinghu	3
+PERSON	singhwala	3
+ORG	the apex court	3
+PERSON	amrinder singh	3
+ORG	uttar pradesh-delhi	3
+PERSON	gurnam singh chaduni	3
+ORG	the supreme court's	3
+PERSON	rajewalif	3
+PERSON	chautala	3
+ORG	acts	3
+PERSON	hoshiarpur	3
+ORG	sudip bandopadhyay	3
+PERSON	rajewal	3
+PERSON	anna hazare	3
+PERSON	dipankar bhattacharya	3
+PERSON	rajnath	3
+PERSON	fazilka	3
+PERSON	jaspal	3
+ORG	the air quality management	3
+ORG	msp.after	3
+PERSON	jhatikara borders	3
+ORG	saboli & mangesh	3
+PERSON	baba ram singh	3
+ORG	tribune news servicetikri	3
+PERSON	jhatikra	3
+ORG	atm	3
+ORG	time	3
+PERSON	singh lakhowal	3
+PERSON	harayana	3
+ORG	rajokri national	3
+PERSON	outer ring rd	3
+PERSON	chilla	3
+PERSON	faridkot	3
+ORG	whatsapp	3
+PERSON	harinder singh lakhowal	3
+ORG	jio	3
+PERSON	patar	3
+PERSON	left	3
+ORG	national capital region	3
+ORG	the jaipur-delhi	3
+PERSON	sanjay aggarwal	3
+PERSON	mata gujri	3
+ORG	gurdwara rakab ganj sahib	3
+ORG	nabard	3
+ORG	hola mohalla	2
+PERSON	gujjars	2
+ORG	women’s day	2
+ORG	rawa rajput	2
+ORG	dap	2
+PERSON	roshan lal	2
+PERSON	saini	2
+PERSON	lal	2
+PERSON	kashyap	2
+PERSON	jhimir	2
+PERSON	bhupender choudhary	2
+PERSON	vipin balyan	2
+PERSON	vipin	2
+ORG	mahapanchayts	2
+ORG	all india sugar traders association	2
+ORG	fair	2
+ORG	frp	2
+ORG	bku (dakaunada	2
+PERSON	madhya pradesh karnataka	2
+ORG	rajbir	2
+PERSON	bikaner	2
+PERSON	buta singh	2
+PERSON	burjgill	2
+PERSON	bharti	2
+ORG	tribune news serviceghazipur (ghaziabad	2
+PERSON	dharmendra	2
+PERSON	khoda	2
+PERSON	jadaun	2
+PERSON	vidhan sabha	2
+PERSON	navreet singh	2
+PERSON	jani khurd	2
+ORG	bharatiya kisan union’s	2
+ORG	expressway	2
+PERSON	nitin gadkari	2
+ORG	murthal	2
+ORG	the kmp expressway	2
+ORG	mandothi	2
+PERSON	navkiran natt	2
+ORG	panjab university	2
+ORG	the delhi high court	2
+PERSON	ravneet singh	2
+ORG	nhai	2
+ORG	laws (special provisions	2
+ORG	housing and urban affairs	2
+ORG	nct	2
+ORG	meenakshi lekhi	2
+ORG	boat club	2
+PERSON	harsh vardhan shringla	2
+ORG	the house of commons	2
+PERSON	nigel adams	2
+PERSON	khalid mehmood	2
+PERSON	virendra sharma	2
+PERSON	layla moran	2
+PERSON	seema malhotra	2
+PERSON	john mcdonell	2
+PERSON	brendon o’hara	2
+ORG	the high commission	2
+PERSON	pm narendra modi	2
+ORG	commonwealth and development office	2
+PERSON	asansol	2
+PERSON	parminder singh	2
+ORG	the "bharat bandh	2
+PERSON	wala	2
+PERSON	pti.he	2
+ORG	jathebandis	2
+ORG	oppn	2
+ORG	tuesdaydelhi	2
+ORG	pti	2
+PERSON	haryana chief	2
+ORG	reliance	2
+PERSON	cement	2
+ORG	mukarba chowk & gtk	2
+ORG	rohini &	2
+ORG	borders jharoda	2
+PERSON	daurala jhatikera	2
+ORG	the all-india sangharsh coordinating committee	2
+ORG	adani-ambani	2
+PERSON	narendra modi-led	2
+ORG	the nirankari ground	2
+ORG	the narendra modi-led	2
+ORG	gautam buddh nagar	2
+ORG	lalru	2
+ORG	patiala-pehowa	2
+ORG	patran-khanauri	2
+PERSON	ratia-fatehabad	2
+ORG	talwandi-sirsa	2
+ORG	bku ugrahan	2
+ORG	khanauri	2
+PERSON	kt rama rao	2
+ORG	pinarayi vijayan	2
+PERSON	mk stalin	2
+ORG	hyderabad	2
+ORG	pm modi’s	2
+PERSON	abhishek singhvi	2
+PERSON	bajghera	2
+ORG	nirankari	2
+PERSON	ekta ugrahan	2
+PERSON	jagmohan singh patiala	2
+ORG	the bharti kisan union	2
+PERSON	rajasthan bills	2
+PERSON	bills	2
+PERSON	qian feng	2
+ORG	the national strategy institute	2
+ORG	tsinghua university	2
+PERSON	xiong	2
+ORG	sangharsh committee	2
+ORG	dhanbad	2
+ORG	“the aam aadmi party	2
+PERSON	atishi	2
+ORG	the opposition party	2
+PERSON	manohar lal khattar	2
+PERSON	maidan	2
+ORG	the farmers' produce trade and commerce (promotion and facilitation	2
+ORG	eca	2
+PERSON	buta singh burjgill	2
+PERSON	harmeet singh kadian	2
+PERSON	jhanda singh jethuke	2
+ORG	indian national trade union congress	2
+ORG	centre of indian trade unions	2
+ORG	all india united trade union centre	2
+ORG	trade union	2
+ORG	self-employed women's association	2
+ORG	all india central council of trade unions	2
+ORG	labour progressive federation	2
+ORG	bms	2
+ORG	ayushman bharat	2
+PERSON	the krishak bandhu	2
+PERSON	harsh vardhan	2
+ORG	parliament house	2
+PERSON	rashtrapati bhavan	2
+PERSON	om birla	2
+PERSON	santokh choudhary	2
+PERSON	syed naseer hussain	2
+PERSON	gill	2
+PERSON	surendra nagar	2
+PERSON	sushil gupta	2
+ORG	nationalist congress party	2
+ORG	national conference	2
+PERSON	derek o brien	2
+ORG	rstv	2
+ORG	shiromani akali dal party	2
+ORG	trichi siva	2
+ORG	haryana and western uttar pradesh	2
+ORG	the essential commodities (amendment) bill	2
+ORG	sff	2
+PERSON	sukhbir badal’s	2
+ORG	food processing industries	2
+ORG	uttar pradesh and arunachal pradesh	2
+ORG	parliament’s	2
+ORG	anandpur sahib	2
+PERSON	pranab mukherjee	2
+PERSON	pandit jasraj	2
+ORG	the national commission for homeopathy bill	2
+ORG	the national commission for indian system of medicine bill	2
+PERSON	vijaysai reddy	2
+ORG	kanimozhi	2
+ORG	namami gange	2
+ORG	harsimrat kaur’s	2
+PERSON	prabhakar	2
+ORG	the upper house of parliament	2
+PERSON	jds	2
+ORG	democratic india’	2
+ORG	parliament &	2
+ORG	govt’s	2
+ORG	gujral	2
+ORG	cong	2
+ORG	opposition’s	2
+ORG	siva	2
+ORG	tribune news servicepatiala	2
+PERSON	sukhdev singh kokrikalan	2
+ORG	bjd	2
+PERSON	farmer	2
+PERSON	gurjeet singh	2
+ORG	union cabinet	2
+ORG	harsimrat’s	2
+ORG	the farmers (empowerment and protection) agreement on price assurance and farm services ordinance	2
+PERSON	sukhdev singh dhindsa	2
+PERSON	balwinder singh bhunder	2
+ORG	k k ragesh	2
+PERSON	manoj kumar jha	2
+ORG	jdu	2
+PERSON	k chandrasekhar rao	2
+ORG	air india	2
+ORG	world bank	2
+ORG	pm’s	2
+PERSON	singh cheema	2
+ORG	the agricultural produce market committees act	2
+PERSON	ferozepur cantt	2
+ORG	punjab’s tarun chugh	2
+PERSON	bhupender yadav	2
+ORG	kailash vijayvargiya (	2
+PERSON	ram madhav	2
+PERSON	saroj pandey	2
+ORG	ct ravi	2
+PERSON	anil baluni	2
+PERSON	rajyavardhan singh	2
+PERSON	rajiv pratap rudy	2
+PERSON	rajesh agarwal	2
+PERSON	sudhir gupta	2
+ORG	k laxman	2
+PERSON	jamal siddiqui	2
+PERSON	lal singh arya	2
+ORG	fatehpur sikri	2
+PERSON	rajkumar chahar	2
+PERSON	rekha verma	2
+PERSON	annapurna devi	2
+PERSON	bharti shiyal	2
+PERSON	aruna	2
+ORG	ap abdullakutty	2
+PERSON	vinod tawade	2
+PERSON	aviansh rai khanna	2
+PERSON	uma bharti	2
+PERSON	vinay sahasrabuddhe	2
+PERSON	prabhat jha	2
+PERSON	shyam jaju	2
+PERSON	ananth kumar	2
+PERSON	sushma swaraj	2
+ORG	karnataka, madhya pradesh	2
+PERSON	rajbir singh	2
+ORG	the election commission	2
+ORG	bollywood	2
+ORG	amendments	2
+ORG	the national democratic alliance	2
+ORG	krv	2
+PERSON	singh surjewala	2
+PERSON	kumari selja	2
+ORG	tn	2
+ORG	vajpayee ji & badal	2
+PERSON	devendra fadnavis	2
+ORG	the agricultural produce marketing committees	2
+PERSON	tarun chugh	2
+ORG	mva	2
+ORG	mumbai congress	2
+NORP	surat	2
+ORG	the ministry of agriculture	2
+PERSON	d purandeswari	2
+ORG	agriculture produce marketing committee	2
+ORG	primary agricultural credit societies	2
+ORG	pacs	2
+PERSON	nitish kumar’s	2
+PERSON	chirag paswan	2
+ORG	charkhi dadri	2
+ORG	ganganagar, hanumangarh, dholpur and jhalawar	2
+PERSON	hassan	2
+PERSON	shivamogga	2
+ORG	swaminathan committee	2
+PERSON	mamatadi	2
+PERSON	kisan scheme	2
+PERSON	foara	2
+ORG	the haryana government	2
+PERSON	pm justin trudeau	2
+ORG	kisan andolan committee	2
+ORG	national gandhi museum	2
+PERSON	gandhi smarak nidhi	2
+PERSON	kisan morcha’s	2
+ORG	haryana’s karnal	2
+ORG	pmo	2
+ORG	jain	2
+ORG	skm’s	2
+PERSON	delhi-chandigarh	2
+ORG	youth congress	2
+ORG	the punjab police	2
+PERSON	saurabh verma	2
+PERSON	bhambhia	2
+ORG	goldy	2
+PERSON	gurvinder	2
+PERSON	”tomar	2
+PERSON	shetkari sanghatana	2
+ORG	mahapanchayat	2
+PERSON	jay sean	2
+PERSON	dr zeus	2
+ORG	cnn	2
+PERSON	swara bhasker	2
+PERSON	sikar	2
+PERSON	deep khatri	2
+ORG	the uttar pradesh police	2
+ORG	the ministry of electronics	2
+PERSON	chacha ajit singh	2
+ORG	malik, chaudhary	2
+PERSON	bhupendra chaudhary	2
+PERSON	shamli mla tejinder	2
+PERSON	jaspreet singh	2
+ORG	swaroop nagar	2
+PERSON	jat	2
+ORG	dausa	2
+PERSON	gandhi vadra	2
+PERSON	sachin pilot	2
+PERSON	thakur	2
+PERSON	benches	2
+ORG	temporary suspension of telecom services (public emergency or public safety	2
+ORG	the ministry of external affairs	2
+ORG	kisan union’s	2
+ORG	bhartiya kisan union’s	2
+ORG	inld	2
+PERSON	rashtriya lok dal’s	2
+NORP	ramasubramanian	2
+ORG	the national flag	2
+ORG	all india kisan coordination committee	2
+PERSON	singh lamba	2
+ORG	assault	2
+ORG	delhi-ghaziabad	2
+PERSON	sn srivastava	2
+ORG	rajasthan, uttar pradesh and uttarakhand	2
+PERSON	delhi police's	2
+ORG	external affairs ministry	2
+ORG	swaminathan commission	2
+PERSON	prem singh bhangu	2
+PERSON	kiranjit singh	2
+PERSON	alipur	2
+ORG	institute for agriculture and trade policy	2
+PERSON	shiney varghese	2
+ORG	the national family farm coalition	2
+ORG	the institute for agriculture and trade policy	2
+ORG	the national conference	2
+ORG	nba	2
+ORG	the us state department	2
+ORG	beniwal	2
+PERSON	mallu	2
+ORG	bku ekta-ugrahan	2
+PERSON	tikaitji	2
+PERSON	meerut	2
+ORG	doaba	2
+PERSON	ali	2
+ORG	navreet singh’s	2
+ORG	pil	2
+PERSON	ashima mandla	2
+ORG	the general budget	2
+PERSON	kondli	2
+ORG	telco	2
+ORG	akshardham & nizammudin khatta	2
+ORG	pmksy	2
+ORG	pmbfy	2
+ORG	agriculture infrastructure fund	2
+PERSON	shastri	2
+ORG	hathras	2
+ORG	the central trade unions	2
+ORG	air quality management	2
+ORG	commission	2
+ORG	the international monetary fund	2
+ORG	the law ministry	2
+ORG	the state list	2
+ORG	choubey	2
+ORG	the central acts	2
+ORG	gurdwara rakabganj	2
+ORG	lmt	2
+ORG	tn prathapan	2
+PERSON	panaji	2
+PERSON	amonkar	2
+ORG	the national investigation agency	2
+ORG	lokshakti	2
+PERSON	gurpatwant singh pannun	2
+ORG	congress party	2
+ORG	koshyari	2
+ORG	sskm	2
+ORG	tribune news servicebathinda	2
+PERSON	brampton	2
+ORG	indian government	2
+ORG	nh	2
+PERSON	singh gill	2
+PERSON	sanjay gandhi transport nagar	2
+PERSON	auchandi borer	2
+PERSON	arora	2
+ORG	uttar pradesh's	2
+PERSON	paramjeet singh	2
+ORG	kisan andolan	2
+PERSON	hema malini	2
+ORG	south asia international food policy	2
+ORG	ps narasimha	2
+ORG	consortium of indian farmers association	2
+PERSON	pk joshi	2
+PERSON	bhupinder mann	2
+ORG	amethi	2
+ORG	nishan sahib	2
+PERSON	netaji subhas	2
+PERSON	buta singh burjgil	2
+PERSON	anil mittal	2
+PERSON	delhi ito	2
+PERSON	delhi.3:45	2
+PERSON	krantikari	2
+PERSON	sunny deol	2
+PERSON	amarjeet singh	2
+ORG	kmsc	2
+PERSON	kavitha	2
+ORG	sit	2
+ORG	loni mla nand kishore gujjar	2
+PERSON	alka lamba	2
+ORG	djb	2
+ORG	the delhi-meerut expressway	2
+PERSON	chaudhary	2
+PERSON	farooq abdullah	2
+PERSON	jai kisan	2
+ORG	punjab kisan union	2
+PERSON	joginder singh urgrahan	2
+PERSON	khalsa aid	2
+PERSON	ugrahan	2
+PERSON	lal kataria	2
+ORG	kn katzu marg	2
+PERSON	kanjhawala road	2
+ORG	wazirabad	2
+PERSON	bagh	2
+PERSON	dhaula kuan	2
+PERSON	jaspal singh	2
+PERSON	jharoda border	2
+ORG	the delhi police’s	2
+PERSON	noida chilla border	2
+PERSON	gazipur border	2
+ORG	delhi-rohtak national highway	2
+ORG	the consortium of indian farmers associations	2
+PERSON	biju patnaik	2
+ORG	patnaik’s	2
+PERSON	bhubaneswar	2
+PERSON	gita mehta	2
+PERSON	rastrapati bhawan	2
+ORG	unions	2
+PERSON	rice	2
+ORG	the all-india kisan coordination committee	2
+PERSON	baldev singh mianpur	2
+ORG	khanna	2
+PERSON	onkar singh	2
+PERSON	bku lokshakti	2
+PERSON	ap singh	2
+ORG	cji bobde	2
+ORG	the union of india	2
+PERSON	sarvan singh	2
+PERSON	sewa singh	2
+ORG	yamuna	2
+ORG	cacp	2
+PERSON	dipender pathak	2
+PERSON	raminder singh	2
+PERSON	deep singhwala	2
+PERSON	netaji subhash	2
+ORG	cbc	2
+PERSON	bhupinder singh mann's	2
+PERSON	rajewalbhupinder mann	2
+ORG	dda ground	2
+ORG	uapa	2
+ORG	icu	2
+PERSON	shivkumar kakka	2
+PERSON	satnam singh pannu	2
+PERSON	mukarba chowk 	2
+PERSON	vm singh	2
+PERSON	bs mann	2
+PERSON	prashant bhushan	2
+ORG	agricultural economist ashok gulati	2
+ORG	the supreme court’s	2
+PERSON	baba lakha singh	2
+PERSON	surjit kumar jyani	2
+PERSON	jyani	2
+ORG	the kundli–manesar–palwal	2
+PERSON	sardar kashmir singh	2
+PERSON	gurumukhi	2
+PERSON	chandra bose	2
+PERSON	makar sankranti	2
+ORG	bharat kisan union	2
+ORG	gujjar	2
+ORG	haryana’s jind	2
+ORG	shiv sena’s	2
+ORG	left front	2
+PERSON	ralegan siddhi	2
+ORG	panchayat	2
+PERSON	tejashwi yadav	2
+PERSON	sukhdev	2
+ORG	gk	2
+ORG	alipur) pradeep paliwal	2
+ORG	majitha	2
+ORG	the unlawful activities (prevention) act	2
+PERSON	kandela	2
+ORG	kaithal	2
+ORG	haryana bharatiya kisan union	2
+PERSON	singh mansa	2
+ORG	tribune news servicerewari	2
+PERSON	shamsher singh	2
+PERSON	joginder nain	2
+PERSON	electricity bill	2
+PERSON	shingara singh maan	2
+PERSON	maan	2
+PERSON	dhansa borders	2
+ORG	cars/ light motor vehicles	2
+PERSON	bopanna	2
+ORG	indian kisan union	2
+ORG	the farmers (empowerment & protection	2
+ORG	price assurance & farm services	2
+ORG	court	2
+PERSON	kisan morcha’	2
+PERSON	संत	2
+PERSON	सिंह जी	2
+PERSON	आत्महत्या	2
+PERSON	मेरी	2
+PERSON	bku-rajewal	2
+ORG	bku-lakhowal	2
+PERSON	jamhoori kisan sabha	2
+PERSON	bku-dakaunda	2
+ORG	kul hind kisan federation	2
+ORG	the kirti kisan union	2
+ORG	syl	2
+PERSON	kanwalpreet singh pannu	2
+PERSON	naxal	2
+ORG	karnalhow	2
+ORG	ficci’s 93rd	2
+PERSON	malviya	2
+PERSON	swadesh jagran manch	2
+ORG	sjm	2
+ORG	bhim army	2
+ORG	lampur, auchandi, safiabad	2
+ORG	national highway-8	2
+PERSON	avoid outer ring rd	2
+ORG	the delhi-noida direct	2
+ORG	joint	2
+ORG	aggarwal	2
+PERSON	pradhan mantri	2
+ORG	the agriculture produce market committee	2
+PERSON	chacha ajit singh nagar	2
+PERSON	singh nagar	2
+PERSON	sadhu singh	2
+ORG	takhtupura nagar	2
+ORG	harinder kaur bindu	2
+PERSON	gadri gulab kaur	2
+PERSON	harinder bindu	2
+PERSON	sadhu singh takhtupura	2
+PERSON	jagroop kaur	2
+PERSON	sabholi	2
+PERSON	vigyan bhawan	2
+PERSON	prez kovind	2
+ORG	adani	2
+ORG	borders	2
+ORG	nfir	2
+PERSON	surjit patar	2
+ORG	bharat bandh'	2
+PERSON	gurjeet aujla	2
+ORG	apsara/bhopra/dnd	2
+ORG	agra	2
+PERSON	ram karan kala	2
+PERSON	hansraj hans	2
+ORG	punjabi university	2
+ORG	punjab civil secretariat staff association	2
+PERSON	sukhchain khaira	2
+PERSON	delhi-ambala	2
+ORG	delhi-hisar	2
+ORG	delhi-palwal	2
+ORG	nh-19	2
+ORG	sikh-american	2
+ORG	lampur, auchandi &	2
+ORG	mukarba chowk & gtk road	2
+PERSON	kisan sangharsh	2
+ORG	air ordinance	2
+PERSON	guru teg bahadur	2
+ORG	haryana cm khattar	2
+ORG	the union agriculture ministry	2
+ORG	sanyukt morcha	2
+PERSON	jagjeet singh dalewala	2
+ORG	thottumariyil	2
+PERSON	jasbir kaur	2
+ORG	mechanisms	2
+ORG	agricultural	2
+ORG	shiv	2
+PERSON	pamma	2
+PERSON	tikaitkhalsa aid	2
+ORG	delhi-noida	2
+ORG	jnu	2
+PERSON	khalid	2
+PERSON	bhanu pratap singh	2
+ORG	independent sectoral federations/associations	2
+ORG	delhihow	2
+PERSON	pro-left wing	2
+PERSON	ro khanna	2
+PERSON	bakhshish singh	2
+ORG	sahibzade	2
+PERSON	nooran	2
+PERSON	gurnam singh chironi	2
+ORG	the all india kisan coordination committee	2
+ORG	sabholi & mangesh	2
+ORG	lampur, safiabad & singhu	2
+PERSON	kamboj	2
+ORG	sangharsh coordination committee	2
+PERSON	bijwasan-bajghera	2
+ORG	fcra	2
+ORG	kcc	2
+ORG	the samyukt kisan morcha	2
+PERSON	x-ray	2
+PERSON	pargat singh	2
+PERSON	anil vij	2
+PERSON	sangeeta sengar	2
+PERSON	lok kala manch	1
+PERSON	mandi mullampur	1
+PERSON	joginder singh toor	1
+PERSON	kanuno me kala kya	1
+ORG	meenas	1
+PERSON	avtar singh mehma	1
+ORG	kurugranthi	1
+PERSON	haricharan singh	1
+ORG	kisan majdoor sangharsh committee	1
+ORG	the australian government	1
+ORG	australian parliament	1
+NORP	turbans	1
+ORG	the australian alliance against hate and violence	1
+ORG	ganga nagar	1
+PERSON	wallmart	1
+PERSON	kisan unions	1
+PERSON	suvendu mukherjee	1
+PERSON	rajniti	1
+ORG	electronic voting machine	1
+NORP	anti-bjp	1
+PERSON	kundali	1
+PERSON	delh	1
+PERSON	kuruganti	1
+ORG	the united nations	1
+PERSON	jats-dominated	1
+ORG	tdi	1
+PERSON	singh randhawa	1
+PERSON	inderjeet singh	1
+ORG	tikaitshivamogga	1
+ORG	chhattisgarhbijapur	1
+PERSON	mandi bachao-kheti bachao	1
+ORG	kisan credit cards	1
+ORG	punjab, uttarakhand, goa and himachal pradesh	1
+ORG	bku general	1
+PERSON	gandhi ashram	1
+ORG	gujarat forest	1
+ORG	tribal affairs	1
+PERSON	raman patkar	1
+ORG	western peripheral) expressway	1
+ORG	the district reserve guard	1
+ORG	tnsdomestic	1
+ORG	iec university	1
+PERSON	mandi kalan	1
+PERSON	balbir kaur	1
+ORG	aiims	1
+PERSON	rajbir singh jadaun	1
+PERSON	ranjit raju	1
+PERSON	purushottam sharma	1
+PERSON	krishna prasad	1
+ORG	abohar/sriganganagar	1
+ORG	dibdiba	1
+ORG	rajasthan gurdwara parbandhak committee	1
+PERSON	vipin tada	1
+PERSON	akbar ali	1
+ORG	nanglamal	1
+PERSON	ramesh chandra	1
+PERSON	rajkumar harian	1
+PERSON	rajpal singh	1
+PERSON	harian	1
+PERSON	subhash singh	1
+ORG	’s	1
+ORG	the kundli–manesar–palwal expressway	1
+PERSON	annadaatas	1
+ORG	kundli-manesar-palwal expressway	1
+ORG	kundli-manesar	1
+PERSON	rakesh tikaitfarmers	1
+PERSON	ganaur	1
+ORG	bku rajewal	1
+ORG	guru harkishan institute of medical sciences and	1
+ORG	corporate social responsibility	1
+ORG	csr	1
+PERSON	kavita kurugranthy	1
+ORG	mehma	1
+ORG	tikiat	1
+ORG	congnew delhi	1
+PERSON	balbir rajewal	1
+PERSON	karan dalal	1
+PERSON	uday bhan	1
+PERSON	raghubir tewatia	1
+ORG	master’s	1
+ORG	bds	1
+ORG	”“i	1
+ORG	trolly talkies	1
+ORG	trolly times	1
+PERSON	himanshu kaushik	1
+PERSON	delhi’s seven	1
+ORG	apsara/ bhopra/ dnd	1
+ORG	the veterans’ association (va	1
+PERSON	subedar major	1
+PERSON	jp mishra(retd	1
+ORG	independent	1
+PERSON	satya pal malik	1
+ORG	mukarba chow to	1
+ORG	etc"	1
+ORG	uttar pradesh bjp	1
+PERSON	ram iqbal singh	1
+PERSON	mulayam singh	1
+PERSON	the question hour	1
+PERSON	mahashivratri	1
+PERSON	narendra tikait	1
+ORG	rakesh	1
+ORG	british parliament	1
+PERSON	alexander ellis	1
+PERSON	ellis	1
+ORG	theresa villiers	1
+ORG	the indian government’s	1
+ORG	the indian high commission	1
+ORG	scottish nationalist party	1
+PERSON	jeremy corbyn	1
+PERSON	stephen kinnock	1
+ORG	nadia whittome	1
+PERSON	paul bristow	1
+PERSON	pat mcfadden	1
+ORG	the uk government	1
+ORG	amnesty international	1
+ORG	teresa villiers	1
+PERSON	naz shah	1
+ORG	singhufour	1
+PERSON	tariq ahmad	1
+ORG	the united nations-led	1
+ORG	security council	1
+PERSON	ahmad’s	1
+ORG	johnson’s	1
+ORG	the g7 summit	1
+ORG	indo-pacific	1
+PERSON	brexit	1
+ORG	the indo-pacific	1
+PERSON	alex ellis	1
+ORG	the kisan social army	1
+ORG	kisan social army	1
+PERSON	anil malik	1
+ORG	nh-44"if	1
+ORG	the farmers empowerment and protection) agreement on price assurance and farm services	1
+PERSON	singur	1
+ORG	prasadunion information technology	1
+ORG	tnsgadkari	1
+PERSON	highway nitin gadkari	1
+ORG	the mukarba chowk	1
+PERSON	purushottam singh gill	1
+ORG	civil surgeon dr sanjay dahiya	1
+ORG	the “bharat bandh	1
+ORG	the northern railways	1
+ORG	the kalka-new delhi shatabdi	1
+PERSON	jagtar kalajhar	1
+ORG	the amritsar-new delhi	1
+ORG	the amritsar-jalandhar gt	1
+ORG	bjp’s sirhind	1
+ORG	jhunjhunu, sriganganagar	1
+ORG	maharashtra, chhattisgarh	1
+ORG	the uttar pradesh election commission	1
+ORG	adityanath	1
+ORG	the state election commission	1
+ORG	connaught place	1
+PERSON	karol bagh	1
+ORG	sadar	1
+ORG	the delhi metro rail corporation	1
+PERSON	the tikri border	1
+PERSON	hoshiar singh	1
+ORG	ghazipur border nh-24	1
+PERSON	truck	1
+PERSON	singh pandher	1
+PERSON	amgurnam singh charuni	1
+PERSON	praveen khandelwal	1
+PERSON	kisan sangathan 	1
+PERSON	sarwan singh	1
+PERSON	ml khattar	1
+ORG	sonipat	1
+ORG	haryana health department	1
+ORG	intelligence	1
+ORG	pmconcrete	1
+ORG	monday---	1
+ORG	protest“if	1
+ORG	the delhi-ghaziabad	1
+NORP	gurgaon	1
+PERSON	karan juneja	1
+ORG	haryana cm manohar lal khattar	1
+ORG	hyderabad mc	1
+ORG	kisaankibaat	1
+ORG	himachal pradesh	1
+ORG	“the union home ministry	1
+ORG	nirankari grounds	1
+PERSON	raghav chadda	1
+PERSON	bharatiya kisan sangh	1
+ORG	the eastern peripheral expressway in	1
+ORG	the peripheral expressway	1
+ORG	gate	1
+PERSON	pti.the bku	1
+PERSON	khatana	1
+ORG	pti.gautam buddh nagar's	1
+PERSON	sant nirankari ground	1
+ORG	delhifarmers	1
+PERSON	delhi police pro eish singhal	1
+PERSON	sapla	1
+PERSON	kk rao	1
+PERSON	haryana-punjab	1
+ORG	punjab-haryana	1
+ORG	bku ugraha	1
+ORG	amritsar-delhi	1
+PERSON	kundli	1
+PERSON	bareilly-delhi	1
+ORG	agra-delhi	1
+PERSON	shiv kumar sharma	1
+ORG	tribune news service  hyderabad	1
+ORG	the greater hyderabad municipal corporation	1
+ORG	aimim) party	1
+PERSON	k chandrashekhar rao	1
+PERSON	hd kumaraswamy	1
+PERSON	telugu desam party	1
+ORG	mayawathi	1
+PERSON	prakash singh badal	1
+ORG	jantar mantarbharatiya kishan union	1
+PERSON	singh ugrahan	1
+ORG	way’punjab	1
+ORG	annadata	1
+PERSON	daurala jhatikara	1
+ORG	traffic alerttikri	1
+PERSON	8,bijwasan	1
+PERSON	dundahera	1
+PERSON	jharoda kalan	1
+ORG	rkms	1
+ORG	contracts	1
+ORG	companies	1
+NORP	slogans	1
+PERSON	kisan virodhi	1
+ORG	inquilab zindabad	1
+ORG	the akhil bharatiya kisan sangharsh	1
+ORG	ndtv.she	1
+PERSON	ramlila ground	1
+NORP	aboutsinghu	1
+PERSON	joginder	1
+PERSON	की जा	1
+ORG	का जायजा लेते हुए।मुख्यमंत्री @arvindkejriwal जी	1
+PERSON	सारे	1
+ORG	tigri and singhu	1
+ORG	the rashtriya kisan mahasanghathan	1
+PERSON	jai kisan andolan	1
+PERSON	kisan mazdoor sabha	1
+ORG	the punjab bills	1
+PERSON	the ramlila maidan	1
+PERSON	kisan ekta	1
+ORG	the nirankari samagam	1
+ORG	the rajasthan assembly	1
+ORG	rajasthan parliamentary affairs	1
+PERSON	shanti dhariwal	1
+PERSON	b d kalla	1
+ORG	rajasthan’s congress	1
+ORG	china railway	1
+ORG	china news	1
+ORG	the sichuan-tibet railway	1
+PERSON	qamdo	1
+ORG	chengdu to lhasa	1
+NORP	himalayan	1
+PERSON	lin minwang	1
+ORG	the center for south asian studies	1
+ORG	fudan university	1
+ORG	the tibet university	1
+ORG	rajesh	1
+PERSON	kumar aggarwal	1
+ORG	divisional railway	1
+ORG	btpn	1
+ORG	bogie tank	1
+PERSON	drm.the drm	1
+ORG	drm	1
+ORG	mumbai central to amritsar	1
+ORG	amritsar-haridwar	1
+ORG	ferozepur-dhanbad express	1
+ORG	paschim deluxe express	1
+ORG	saryu-yamuna	1
+PERSON	covid special	1
+ORG	nagpur-amritsar	1
+PERSON	gorakhpur jammu-tawi amarnath festival special	1
+ORG	talwandi sabo power limited	1
+PERSON	banawala	1
+ORG	the talwandi sabo power limited	1
+ORG	bharti kissan union	1
+PERSON	agri bills	1
+PERSON	kota	1
+ORG	haryana’s	1
+ORG	haryana’s dadri	1
+PERSON	palam khap	1
+PERSON	ram karan solanki	1
+PERSON	khap	1
+ORG	saurabh bhardwaj	1
+PERSON	kisaankibaat”	1
+ORG	surjewala’s	1
+PERSON	modi	1
+ORG	the farmers (empowerment and protection) agreement of price assurance	1
+ORG	farm services	1
+ORG	"the union	1
+PERSON	the shaheen bagh	1
+PERSON	sant nirankari	1
+ORG	krantikari kissan union	1
+ORG	coronavirus	1
+ORG	union ministers for agriculture and railways.--- with pti	1
+ORG	the jantar mantar	1
+ORG	aikscc’s samyukt kisan movement	1
+PERSON	devinder sharma	1
+PERSON	vishav bharti	1
+ORG	the bjp government	1
+ORG	the coordination committee	1
+PERSON	shiv kumar sharma (kakkaji	1
+PERSON	daljeet singh	1
+ORG	working group of aikscc	1
+PERSON	pratibha shinde	1
+ORG	ashish mital	1
+ORG	united trade union	1
+ORG	utuc).the	1
+ORG	bharatiya mazdoor sangh	1
+ORG	psu	1
+ORG	nps	1
+ORG	national pension system	1
+ORG	epfo	1
+ORG	the punjab-haryana shambhu	1
+ORG	haryana’s sirsa	1
+PERSON	manoj yadava	1
+PERSON	yadava	1
+ORG	hansipur	1
+ORG	bastaraa	1
+PERSON	tukar	1
+NORP	pehowa	1
+PERSON	मूल्य छीनने	1
+PERSON	सजा	1
+PERSON	बांटे जा	1
+PERSON	said.हुकूमत	1
+PERSON	जीतने की	1
+PERSON	वापिस लेने की	1
+PERSON	रोका जा	1
+ORG	जुर्म	1
+ORG	haryana bhartiya kisan union	1
+PERSON	shahbaz singh	1
+PERSON	fatte singhwala	1
+ORG	the tribune, shahbaz	1
+PERSON	harjinder kaur bindu	1
+ORG	delhi-gurugram expressway	1
+ORG	union health	1
+ORG	bharat scheme	1
+ORG	mamata	1
+ORG	the union health	1
+PERSON	jagdeep dhankhar	1
+ORG	banerjee’s	1
+PERSON	kishan samman	1
+PERSON	krishak bandhu	1
+NORP	कहा	1
+PERSON	जी की	1
+ORG	tweets.सरकार	1
+ORG	विज्ञापन जारी	1
+PERSON	बचते हैं	1
+NORP	उन्हें	1
+PERSON	बैग बेचने पड़ें	1
+ORG	उन्हें पूरे	1
+PERSON	की मंशा	1
+PERSON	देने की	1
+PERSON	का मूल्य msp	1
+PERSON	ludhiana ravneet	1
+PERSON	singh choudhary	1
+PERSON	tamil nadu bhavan	1
+ORG	the opposition 	1
+ORG	the house thaawarchand gehlot	1
+PERSON	vekaiah naidu	1
+ORG	federation of all india farmer associations	1
+ORG	farmers produce trade and commerce (promotion and facilitation	1
+ORG	state agricultural produce marketing	1
+PERSON	gowda	1
+ORG	nazir hussain	1
+ORG	the leader of the opposition	1
+PERSON	jairam	1
+ORG	naiduthe rs	1
+ORG	ravi s prasad	1
+PERSON	law ministerprasad	1
+ORG	the three legislations1	1
+ORG	parliament2	1
+PERSON	parliament3	1
+PERSON	lok sabhafarmers’	1
+PERSON	with?3	1
+ORG	prs legislative research	1
+PERSON	satav	1
+ORG	the house harivansh singh	1
+PERSON	rajya sabha chairmanderek o’brien	1
+ORG	khadoor sahib	1
+ORG	sadit’s	1
+PERSON	jagat prakash nadda	1
+ORG	bajwa’s	1
+PERSON	nagar	1
+ORG	badals-led	1
+ORG	rajya sabha select committee	1
+ORG	ਹੈ	1
+PERSON	ਬਿਲਾਂ	1
+PERSON	ਸਸ਼ਕਤ ਵੀ ਹੋਣਗੇ	1
+ORG	the well, harivansh	1
+ORG	slogan	1
+ORG	sept 20the congress	1
+ORG	kisanvirodhinarendramodi	1
+ORG	nk premchandran	1
+ORG	the business advisory committee	1
+ORG	rajya sabhakejriwal	1
+ORG	the farmers’ produce trade and commerce (promotion and facilitation	1
+ORG	the union cabinet.	1
+PERSON	bill'	1
+ORG	rajya sabhawhy	1
+ORG	congresslive	1
+ORG	ragesh	1
+ORG	the select committee	1
+ORG	select committeenaresh gujral	1
+ORG	house’s select committee	1
+PERSON	bhupender singh	1
+PERSON	hd devegowda	1
+ORG	chair’s desk	1
+ORG	chandigarh/ moga	1
+PERSON	sadfarm	1
+ORG	bku (ekta	1
+PERSON	trains	1
+ORG	communist party	1
+ORG	indian army	1
+ORG	special frontier force	1
+ORG	the global times	1
+ORG	sff’s	1
+ORG	“the indian army	1
+ORG	chinese foreign ministry	1
+PERSON	hua chunying	1
+ORG	lajpat nagar	1
+PERSON	shakur basti	1
+PERSON	anand parbat	1
+ORG	panchavarna	1
+PERSON	shankar sarangam	1
+PERSON	ramnadhar mandal	1
+PERSON	delhi slum	1
+ORG	the delhi urban	1
+ORG	improvement board	1
+ORG	dusib	1
+PERSON	sultanpuri	1
+ORG	jawaharlal nehru national urban renewal mission	1
+ORG	the narendra modi cabinet	1
+ORG	congress’ fatehgarh sahib	1
+PERSON	santokh singh chaudhary	1
+PERSON	vasanth kumar	1
+ORG	agricultural produce market committee act	1
+ORG	billssenior	1
+PERSON	prof prem	1
+NORP	matterakali	1
+ORG	ps chandumajra	1
+ORG	haryana’s jannayak janta party	1
+PERSON	shashi tharoor	1
+PERSON	the lok sabha secretariat	1
+ORG	the parliamentary standing committee on information and technology	1
+PERSON	nishikant dubey	1
+ORG	the parliamentary standing committee on commerce	1
+ORG	samajwadi party’s	1
+PERSON	keshava rao	1
+PERSON	sudip bandyopadhyay	1
+PERSON	bhartruhari mahtab	1
+PERSON	rajiv ranjan singh	1
+ORG	rank one pension	1
+PERSON	jan dhan	1
+ORG	digital india	1
+PERSON	balakot	1
+ORG	ram temple	1
+ORG	the indian air force	1
+PERSON	aatma nirbhar bharat	1
+ORG	the jal jeevan mission	1
+ORG	hardwar	1
+PERSON	prahlad joshi	1
+PERSON	joshi 	1
+ORG	food & public distribution	1
+ORG	the house	1
+ORG	telangana pradesh congress committee	1
+ORG	tpcc	1
+PERSON	ponnam prabhakar	1
+ORG	the farm bills	1
+PERSON	ashwani kumar	1
+ORG	agricultural workers organisations	1
+ORG	ntuc	1
+PERSON	aituc	1
+ORG	hms	1
+PERSON	citu	1
+ORG	lpf	1
+ORG	utuc.two	1
+ORG	itc	1
+ORG	govt in parliament &	1
+PERSON	rajya sabha mps'	1
+ORG	sp, trinamool congress	1
+ORG	the houses of parliament	1
+ORG	अपने	1
+ORG	की नीचे दबाकर	1
+NORP	parliamentarians	1
+ORG	प्रणाली	1
+ORG	लिया है?क्या सत्ता	1
+PERSON	की आवाज़	1
+PERSON	मज़दूर की	1
+PERSON	दुकानदार की	1
+PERSON	modi’.मोदी जी	1
+NORP	भी जानता	1
+PERSON	syed nazir hussain	1
+PERSON	ripun boren	1
+ORG	union food processing	1
+ORG	the council of ministers	1
+ORG	the house's select committee	1
+ORG	pmthe opposition	1
+PERSON	protest	1
+ORG	congresskejriwal	1
+ORG	trust government	1
+ORG	its credibility	1
+ORG	trinamool congress mpdescribing	1
+ORG	mps	1
+ORG	agriculture and land tenure	1
+ORG	country	1
+PERSON	thrissur lok sabha	1
+ORG	aqi	1
+PERSON	mandi gobindgarh	1
+PERSON	khanna 94	1
+ORG	national capital’s	1
+PERSON	akali mp	1
+PERSON	gurpratap singh	1
+PERSON	jasbir singh dimpa	1
+PERSON	tirupati lok sabha	1
+ORG	agriculture ordinances	1
+ORG	diesel	1
+NORP	petrol	1
+ORG	bills/acts	1
+PERSON	jp nadda’s	1
+PERSON	shanta kumar	1
+PERSON	ਕੇਂਦਰ ਸਰਕਾਰ ਦੇ ਤਿੰਨਾਂ ਖੇਤੀ	1
+ORG	the central government.#parliamentsession pic.twitter.com/ioikgqk9jm  	1
+ORG	the cabinet harsimrat badal	1
+PERSON	capt amarinderlok sabha	1
+ORG	billscongress	1
+NORP	ndalater	1
+ORG	the farmers produce trade and commerce (promotion and facilitation) ordinance	1
+ORG	the institute of teaching and research	1
+ORG	institute of post graduate teaching and research in ayurveda	1
+ORG	institute of ayurveda pharmaceutical sciences	1
+ORG	ayush	1
+ORG	health & family welfare	1
+ORG	the gujarat government	1
+PERSON	kottakkal ayurvedic	1
+PERSON	k keshava rao	1
+PERSON	fauzia khan	1
+PERSON	das gupta	1
+NORP	ayurvedic	1
+PERSON	ram das athawale (rpi	1
+ORG	ysrcp	1
+PERSON	ram chandra prasad singh	1
+ORG	inc	1
+PERSON	l hanumanthaiah	1
+PERSON	vibha sharmatribune	1
+ORG	the narendra modi cabinet (food procession industries	1
+ORG	the maharashtra party	1
+ORG	the national democratic alliance (	1
+PERSON	l k advani	1
+ORG	pds.suspended congress	1
+ORG	the agricultural produce marketing act	1
+PERSON	bridge’these bills	1
+PERSON	ravinder cheema	1
+ORG	punjabperhaps	1
+ORG	the punjab arhtiya association	1
+ORG	the food processing ministry	1
+PERSON	rail mahasetu	1
+ORG	mithila	1
+ORG	indian coordination committee of farmers movements	1
+ORG	iccfm	1
+PERSON	rabi msp	1
+PERSON	unlock	1
+ORG	northern	1
+ORG	the amritsar-haridwar	1
+PERSON	ambala cantt	1
+ORG	the mumbai central-amritsar	1
+ORG	the information and broadcasting	1
+PERSON	rajya sabha jairam	1
+ORG	national council of applied economic research(ncaer	1
+PERSON	santosh gangwar	1
+ORG	presidentnew delhi	1
+PERSON	speak	1
+PERSON	देश की	1
+PERSON	salman khurshid	1
+PERSON	tariq anwar	1
+ORG	sachin pilot and shashi tharoor	1
+ORG	कॉन्ट्रैक्ट फार्मिंग	1
+PERSON	pic.twitter.com/zsa0eiwpu5	1
+PERSON	join the speak	1
+ORG	general	1
+NORP	chugh	1
+PERSON	d purandareswari	1
+NORP	hindutva	1
+PERSON	tom vadakkan	1
+PERSON	mandsaur	1
+ORG	the other backward classes morcha	1
+PERSON	kisan morcha radha mohan singh	1
+ORG	cm nitish	1
+ORG	factorthe election commission	1
+PERSON	pm narendra modi’s	1
+ORG	jd-u 's	1
+PERSON	anandiben patel	1
+PERSON	rajendra chowdhury	1
+PERSON	harendra nehra	1
+ORG	additional district magistrate	1
+PERSON	shailendra kumar	1
+PERSON	keshav kumar	1
+NORP	communist	1
+PERSON	sugar mill	1
+ORG	vishnu mandir chauraha	1
+ORG	anand nagar	1
+PERSON	farenda tehsil	1
+ORG	general elections	1
+ORG	jd-u's	1
+ORG	jmm	1
+ORG	jd-u’s	1
+ORG	east india company	1
+PERSON	फार्मिंग	1
+PERSON	का गुलाम बनने	1
+ORG	जाएगा।न	1
+ORG	राज	1
+PERSON	है।हम	1
+ORG	the east india company	1
+PERSON	मोदी	1
+PERSON	खड़े हों	1
+PERSON	deendayal upadhyay	1
+ORG	pandit deendayal	1
+ORG	deendayal upadhyay's	1
+ORG	indian coordination committee of farmers’ movements (iccfm	1
+ORG	union agri ministerthe iccfm	1
+ORG	madhya pradesh cm	1
+ORG	east india company’	1
+ORG	billinsolvency	1
+ORG	bankruptcy	1
+ORG	the farmers (empowerment and protection) agreement on prices assurance and farm services	1
+ORG	mla peddi sudarshan reddy	1
+ORG	the telangana government	1
+ORG	telangana finance	1
+PERSON	t harish rao	1
+ORG	integrated goods	1
+ORG	igst	1
+ORG	the gst council	1
+PERSON	sushi kumar	1
+ORG	congress-led opposition	1
+ORG	the parliament house	1
+ORG	the anti-agriculture central	1
+ORG	telangana congress	1
+PERSON	tamilisai soundararajan	1
+ORG	telangana manickam tagore	1
+ORG	n uttam	1
+PERSON	dharam vir	1
+ORG	haryana additional cs	1
+PERSON	g. prasanna kumar	1
+PERSON	ramesh chander nayyar	1
+PERSON	seiaa	1
+ORG	bharat bhushan	1
+ORG	the union agriculture minister	1
+NORP	hindutva?""punjab	1
+PERSON	ram	1
+ORG	the shiv sena	1
+ORG	the agricultural produce marketing committee act	1
+ORG	the karnataka assembly	1
+PERSON	karnataka raitha sangha	1
+ORG	karnataka farmers' association	1
+PERSON	karnataka rakshana vedike	1
+PERSON	mandya	1
+PERSON	mysuru	1
+PERSON	ballari	1
+PERSON	raichur, chitradurga, kalaburagi	1
+PERSON	uttara kannada	1
+PERSON	dharwad	1
+ORG	narayana gowda	1
+ORG	mysuru bank	1
+ORG	race course road	1
+PERSON	b s yediyurappa	1
+PERSON	yediyurappa	1
+PERSON	r ashoka	1
+PERSON	karnataka bandh	1
+ORG	land reforms bill	1
+ORG	the jannayak janta party	1
+PERSON	devi lal’s	1
+PERSON	mann ki baatour	1
+PERSON	upendra kushwaha	1
+ORG	maharashtra cm’s	1
+ORG	haryana’s jjp	1
+PERSON	the lok sabha’	1
+ORG	hasrimrat badal	1
+ORG	goi (government of india	1
+ORG	pb (sic).”if pain & protests	1
+ORG	ham (s	1
+PERSON	ram das athawale-led rpi	1
+ORG	tdp	1
+PERSON	jammu	1
+ORG	ss	1
+PERSON	sukhbir badalcapt amarinder	1
+ORG	amritsarthe	1
+PERSON	kaur badal	1
+ORG	shiv sena mp sanjay raut	1
+ORG	maharashtra cm	1
+ORG	fadnavis-raut meetingthe shiv sena	1
+ORG	the maharashtra assembly	1
+PERSON	sanjay nirupam	1
+PERSON	thackeray	1
+PERSON	kisan trains	1
+ORG	an orange special kisan train	1
+PERSON	keenu	1
+ORG	nasik to muzaffarpur	1
+ORG	devlali-danapur	1
+ORG	yashwantpur-nizamuddin	1
+PERSON	banana special	1
+ORG	these kisan trains	1
+ORG	the grand alliance	1
+ORG	all industrial training institutes	1
+PERSON	scheduled tribe	1
+ORG	ptitejashwi	1
+PERSON	tej pratap	1
+PERSON	tejashwi prasad yadav	1
+PERSON	tej pratap yadav	1
+PERSON	jan adhikar party	1
+PERSON	rajesh ranjan	1
+ORG	j&knew entrantstarun chugh of punjab	1
+ORG	ap	1
+ORG	madhav outparty	1
+ORG	vacancies	1
+PERSON	narinder singh	1
+ORG	chugh, gautam (delhi	1
+ORG	the sc morcha	1
+PERSON	radha mohan singh	1
+PERSON	congress manifesto	1
+ORG	farmers’ markets	1
+ORG	the agriculture bills	1
+PERSON	rajdeep surjewala	1
+ORG	atal bihari vajpayee	1
+ORG	imf	1
+PERSON	covid-limitations	1
+ORG	the punjab aarhtia association	1
+ORG	the agricultural produce market committee act	1
+ORG	akali dalkejriwal	1
+ORG	bathinda mp and	1
+ORG	biharpresident	1
+ORG	pla	1
+PERSON	pak	1
+ORG	the union council of ministers	1
+PERSON	cabinet minister	1
+ORG	the ministry of food processing industries	1
+PERSON	balram jayanthi	1
+NORP	aadhaar	1
+PERSON	janata dal	1
+PERSON	lok janshakti party	1
+PERSON	rs6,000	1
+ORG	the janata parliament	1
+ORG	people’s union for civil liberties	1
+PERSON	kisan shakti sangathan	1
+PERSON	swasthya abhiyan	1
+PERSON	samyukta kisan morcha's	1
+ORG	samyukta kisan morcha’s	1
+PERSON	chandigarh-zirakpur	1
+NORP	panchkula-zirakpur	1
+ORG	the chandigarh-zirakpur	1
+ORG	amritsar-pathankot	1
+PERSON	ferozepur-fazilka	1
+ORG	bathinda-chandigarh	1
+PERSON	ludhiana-jalandhar	1
+PERSON	prithviraj chavan’s	1
+PERSON	satvasheela chavan	1
+PERSON	kolhapur naka	1
+PERSON	swabhimani shetkari sanghatna	1
+PERSON	raju shetti	1
+PERSON	kuruburu shanthakumar	1
+PERSON	pro-kannada	1
+PERSON	tumakuru davangere	1
+ORG	chikkaballapura	1
+ORG	chemical	1
+ORG	fertilisers d v sadananda gowda	1
+ORG	janata party	1
+PERSON	j p nadda	1
+ORG	uttar pradesh’s bhainswal	1
+ORG	kitlana	1
+ORG	trudeau’s	1
+ORG	restraintun human rights commission	1
+PERSON	kin	1
+ORG	the office of the united nations	1
+ORG	&	1
+PERSON	humanrights	1
+ORG	"the parliament of india	1
+PERSON	prof sudhir panwar	1
+ORG	maharishi dayanand university	1
+ORG	rashtriya kisan mazdoor mahasangh	1
+PERSON	digambar singh	1
+PERSON	darshal pal singh	1
+PERSON	tara gandhi bhattacharjee	1
+PERSON	ramchandra rahi	1
+PERSON	ashok saran	1
+PERSON	sanjay singha	1
+PERSON	rahul gandhi’s	1
+ORG	damadji	1
+ORG	the agriculture produce marketing committee	1
+PERSON	monu dagar	1
+PERSON	monu	1
+PERSON	hamare do’—a	1
+NORP	assamese	1
+PERSON	nripendra misra	1
+NORP	buddhist	1
+ORG	parsi	1
+NORP	christian	1
+ORG	nagpur	1
+ORG	gst	1
+PERSON	kuldeep singh	1
+PERSON	ravinder singh	1
+PERSON	rakesh singh tikait	1
+PERSON	anil yadav	1
+ORG	anuppur superintendent of police mangilal solanki	1
+ORG	chandigarh/new	1
+NORP	punjabis	1
+ORG	daman virodhi diwas’	1
+PERSON	kisan ekta diwas	1
+ORG	punjab’s faridkot	1
+PERSON	gurlal singh bhalwan	1
+PERSON	manishi chandra	1
+ORG	vishnoi	1
+ORG	goldy brar	1
+PERSON	sukhvinder	1
+ORG	bhalwan’s	1
+ORG	faridkot’s jubilee chowk	1
+PERSON	zila parishad	1
+PERSON	sarai kale khan	1
+PERSON	gurvinder pal	1
+ORG	goldy’s	1
+PERSON	gurlal	1
+ORG	the student organisation of punjab university (sopu	1
+PERSON	naresh tikait’s	1
+PERSON	kisan mela	1
+ORG	iari	1
+ORG	agriculture kailash	1
+PERSON	firhad hakim	1
+PERSON	hazra	1
+PERSON	nabanna	1
+PERSON	jai prakash majumder	1
+ORG	congress legislature party	1
+PERSON	abdul mannan	1
+PERSON	sujan chakraborty	1
+ORG	pcapa	1
+PERSON	chhatradhar mahato	1
+NORP	lalgarh	1
+ORG	chhatradhar mahato's	1
+NORP	jangalmahal	1
+ORG	uttar pradesh’s purvanchal	1
+NORP	hindus	1
+ORG	pm-kisan 	1
+ORG	mtmaize	1
+ORG	mttur	1
+ORG	each)jute & mesta	1
+PERSON	nodeep kaur	1
+PERSON	majdoor adhikar sanghathan	1
+ORG	kaur’s	1
+PERSON	meena harris	1
+PERSON	kamala harris	1
+ORG	the sonipat police	1
+PERSON	raj kumar	1
+PERSON	uttam kheti	1
+PERSON	beech vyapar	1
+PERSON	neech naukri	1
+PERSON	ram kumar	1
+PERSON	bhupender	1
+ORG	cares	1
+ORG	the brigade parade ground	1
+ORG	the board of control for cricket	1
+ORG	the tribune on saturday	1
+ORG	commission of enquiry	1
+PERSON	john cusack	1
+PERSON	vanessa nakate	1
+ORG	ugandan	1
+PERSON	singh jhooti	1
+ORG	solidarity	1
+ORG	the indian farmers	1
+PERSON	singh padam	1
+NORP	lebanese	1
+ORG	umbrella	1
+PERSON	lilly singh	1
+PERSON	ritesh batra	1
+ORG	popular punjabi	1
+PERSON	ri ri	1
+ORG	the foreign affairs committee	1
+ORG	amanda cerny	1
+ORG	punjabi or south asian	1
+PERSON	richa chadha	1
+PERSON	sayani gupta	1
+PERSON	taapsee pannu	1
+PERSON	sonu sood	1
+PERSON	hansal mehta	1
+PERSON	mohammed zeeshan ayyub	1
+ORG	divya dutta	1
+PERSON	neha sharma	1
+ORG	world	1
+PERSON	chaudhary raj singh	1
+ORG	gonda	1
+ORG	aligarh	1
+ORG	the it ministry	1
+NORP	anti-indian	1
+ORG	aprameya radhakrishna and	1
+PERSON	shivraj singh	1
+ORG	karnataka cm bs yediyurappa	1
+ORG	ayushmaan bharat	1
+PERSON	swachch bharat	1
+PERSON	dhan yojana	1
+PERSON	banke dayal	1
+ORG	guru ravidas and	1
+PERSON	non-jats, dalits	1
+PERSON	bjp.bku	1
+ORG	the rld’s jayant chaudhary	1
+ORG	ac	1
+ORG	sauram	1
+PERSON	amit shah”	1
+PERSON	jats”	1
+ORG	non-jat, dalits	1
+PERSON	bjp.speaking	1
+ORG	rld’s jayant chaudhary	1
+ORG	the haryana bharatiya kisan union	1
+ORG	the naujwan kisan ekta	1
+ORG	churu	1
+PERSON	padampur mandi	1
+PERSON	ghadsana mandi	1
+ORG	the superintendent of police	1
+PERSON	shrikanth taral	1
+PERSON	sandip gidde	1
+PERSON	tikaitrail	1
+ORG	rail	1
+ORG	nikitanew delhi	1
+ORG	the bombay high court	1
+ORG	tnsadditional divisional railway	1
+ORG	operations	1
+ORG	pankaj gupta	1
+ORG	the railway protection special force	1
+PERSON	kisan majdoor panchayat’	1
+PERSON	dalal khap-84	1
+ORG	bahadurgarh-tikri	1
+PERSON	kisan karanti	1
+PERSON	shaktisinh gohil	1
+PERSON	bhupendra yadav	1
+PERSON	binoy biswam	1
+PERSON	deve gowda	1
+PERSON	ashok siddharth	1
+ORG	sc/st/obc	1
+PERSON	satish chandra misra	1
+ORG	who	1
+ORG	misra	1
+PERSON	abdul wahab	1
+ORG	wahab	1
+ORG	aligarh muslim university	1
+PERSON	malappuram	1
+ORG	shiv pratap shukla	1
+PERSON	gurcharan singh	1
+PERSON	manuke gill	1
+PERSON	labh singh	1
+PERSON	mandeep singh gill	1
+ORG	union budget	1
+ORG	wayanad	1
+ORG	union home ministry	1
+ORG	inquiry commission	1
+ORG	advocate vishal tiwari’s	1
+ORG	the national flag on republic day	1
+NORP	european	1
+PERSON	imtiyaz jaleel syed	1
+ORG	mea.parliament	1
+PERSON	greta thunberg’s	1
+PERSON	rajdeep sardesai	1
+ORG	journalists mrinal pande, zafar agha, paresh nath	1
+ORG	the noida police	1
+PERSON	rajya sabhaafter rihanna	1
+ORG	j-k	1
+ORG	pm modi on	1
+PERSON	kheda satyagraha	1
+PERSON	mahatma gandhialso	1
+ORG	nd gupta	1
+PERSON	lawshighlights	1
+PERSON	nabi azad	1
+PERSON	kalita	1
+ORG	district development council	1
+ORG	the prison department	1
+PERSON	sanyunkt kisan morcha	1
+PERSON	sanjay raut’s	1
+PERSON	arvind sawant	1
+ORG	pti“we	1
+PERSON	abhay singh chautala	1
+PERSON	pratap singh bajwa	1
+PERSON	vishal tiwari	1
+PERSON	manohar lal sharma	1
+ORG	supreme court of	1
+PERSON	parmod kumar joshi	1
+ORG	delhi-rohtak	1
+PERSON	eish singhal	1
+ORG	pro	1
+ORG	isbt	1
+ORG	crpf	1
+PERSON	balwinder singh sirsa	1
+PERSON	randhir singh	1
+ORG	global indian progressive alliance	1
+ORG	skm.shiromani akali dal	1
+PERSON	singh wala	1
+PERSON	avtar singh	1
+PERSON	bajleet singh	1
+ORG	jindnext	1
+ORG	agitation“we	1
+ORG	the delhi assembly	1
+PERSON	rohit jakhar	1
+PERSON	kejriwal”s	1
+ORG	executive	1
+ORG	the grassroots global justice alliance	1
+ORG	iatp)."a	1
+ORG	fridays for future	1
+ORG	the world trade organisation	1
+PERSON	biden	1
+ORG	rural coalition, grassroots global justice	1
+PERSON	jim goodman	1
+PERSON	john zippert	1
+ORG	rural coalition	1
+ORG	februarythe	1
+PERSON	baljinder singh's	1
+ORG	bhartiya kisan union's	1
+ORG	the national capital region	1
+PERSON	bari bujhia	1
+PERSON	baljindra	1
+ORG	tendulkar	1
+ORG	sisauli	1
+PERSON	rajya sabhacommenting	1
+NORP	protesters”	1
+PERSON	kaun	1
+ORG	stirus national footbal	1
+ORG	nfl	1
+PERSON	juju smith schuster	1
+PERSON	kyle kuzma	1
+PERSON	deepender hooda	1
+ORG	general election	1
+ORG	policetikait	1
+ORG	police (east) deepak yadav	1
+PERSON	deepender hooda“videos	1
+PERSON	saugata roy	1
+ORG	the national conference, rsp	1
+PERSON	deepender hoodaopposition	1
+ORG	capitol hill”	1
+ORG	the foreign office	1
+PERSON	anurag srivastava	1
+ORG	the us state dept	1
+PERSON	srivastava	1
+ORG	capitol hill	1
+PERSON	ned price	1
+ORG	the state department spokesperson“we	1
+ORG	the indian supreme court	1
+ORG	the delhi-haryana highway	1
+PERSON	muktesh chander	1
+ORG	the narendra modi government	1
+ORG	treasury	1
+ORG	working group	1
+ORG	gujarat cm	1
+ORG	rlp’s	1
+PERSON	hanuman beniwal	1
+ORG	lotus	1
+ORG	the congress legislature party	1
+PERSON	bhatti vikramarka mallu	1
+PERSON	raithulato mukhamukhi	1
+ORG	adilabad	1
+PERSON	cm kcr	1
+ORG	kcr’s	1
+ORG	the state government	1
+ORG	the union farm bills	1
+PERSON	fasal bhima yojana	1
+PERSON	sikh community“the	1
+PERSON	mahua moitra	1
+NORP	moitra	1
+PERSON	pmthe bku	1
+PERSON	rakesh tikaitnotably	1
+PERSON	bjp.after	1
+PERSON	kulveer singh	1
+PERSON	sat pal singh	1
+PERSON	krishan pal	1
+PERSON	harish rawat	1
+PERSON	devi	1
+ORG	alaknanda	1
+ORG	ndrf	1
+PERSON	dadri mla	1
+ORG	the sangwan khap	1
+PERSON	balraj kundu	1
+PERSON	jind’s kandela	1
+PERSON	non-sikh	1
+ORG	himalayas	1
+PERSON	jind mahapanchayat	1
+ORG	sunehda	1
+PERSON	aftab ahmed	1
+PERSON	kranti	1
+ORG	the national green tribunal’s	1
+ORG	the national green tribunal	1
+ORG	vikas kadiyan	1
+ORG	ngt’s	1
+ORG	kadiyan	1
+ORG	pollution under control	1
+ORG	puc	1
+PERSON	manji singh rai	1
+PERSON	wasim ali	1
+ORG	sadar bazar	1
+PERSON	satvinder singh	1
+ORG	rld’s	1
+PERSON	manjit singh sandhu	1
+PERSON	hemraj verma	1
+ORG	fir.incidentally	1
+ORG	tikaitour	1
+ORG	khet mazdoor union	1
+PERSON	bhikhi	1
+ORG	the mansa-ratia	1
+PERSON	chikkaballapur	1
+ORG	bku’s dharmendra	1
+PERSON	nirdesh singh	1
+ORG	savitri bai phule school	1
+ORG	malik said“nirdesh	1
+ORG	national convenor @arvindkejriwal	1
+PERSON	maulana sajjad nomani	1
+NORP	islamic	1
+ORG	nomani	1
+ORG	provincial armed constabulary	1
+PERSON	joginder singh ugrahanji	1
+PERSON	jyoti singh	1
+PERSON	preet singh	1
+PERSON	mandakini singh	1
+PERSON	jeet singh	1
+NORP	khanouri kalan	1
+PERSON	daya kishan	1
+PERSON	mukherjee nagar	1
+PERSON	uttam nagar	1
+ORG	baba haridas nagar	1
+PERSON	paschim vihar west	1
+PERSON	mundka outer	1
+ORG	education	1
+ORG	ip	1
+ORG	shiv senanaidu	1
+ORG	housenaidu	1
+ORG	elaraam kareem	1
+PERSON	binoy viswam	1
+PERSON	asokh sidhartha	1
+ORG	naidu’s	1
+ORG	swamitva	1
+PERSON	bku ekta-urgahan	1
+PERSON	@kisanektamorcha	1
+PERSON	bku ekta urgahan	1
+NORP	home	1
+ORG	the economic survey	1
+ORG	the ministry of agriculture and farmers’ welfare	1
+ORG	swamitva scheme	1
+PERSON	ravi	1
+PERSON	dharmender rana	1
+ORG	united kisan morcha	1
+ORG	national general	1
+ORG	international farmers day	1
+PERSON	narendra modithe	1
+ORG	added“in	1
+ORG	peasant rights	1
+PERSON	lal bahadur	1
+PERSON	mahatma	1
+PERSON	jai kisan'	1
+PERSON	gandhi jayanti	1
+PERSON	gandhiji	1
+PERSON	sardar patel	1
+PERSON	pm indira gandhi	1
+PERSON	kisan adhikar	1
+PERSON	satyagrah	1
+ORG	the bihar assembly	1
+ORG	the national capital region and adjoining area	1
+ORG	the central and state pollution control	1
+ORG	cpcb	1
+ORG	spcbs	1
+ORG	the aikscc the commission	1
+ORG	world economic outlook	1
+PERSON	malhar shyam nabar	1
+ORG	division chief, research department	1
+ORG	the world bank	1
+ORG	the state assemblies	1
+ORG	mha	1
+PERSON	gopal sankaranarayanan	1
+ORG	agriculture, entry	1
+PERSON	krishi bhawan	1
+PERSON	vijay sampla	1
+ORG	muktsarthe farmers'' produce trade and commerce (promotion and facilitation	1
+PERSON	krishi bhavan	1
+ORG	punjab bjp	1
+ORG	essar	1
+ORG	bhartiya kisan union ekta ugrahan	1
+ORG	indian national congress	1
+PERSON	the chhattisgarh krishi upaj	1
+PERSON	ravindra choubey	1
+PERSON	mandi act	1
+PERSON	bhupesh baghel	1
+PERSON	raman singh	1
+ORG	the state assembly	1
+ORG	faq	1
+ORG	central agriculture acts	1
+PERSON	gurnam singh chanduni	1
+PERSON	raju shetty	1
+ORG	tarn taran	1
+ORG	global food	1
+ORG	retail council rakesh gambhir	1
+PERSON	rps gandhi	1
+ORG	indian chamber of food and agriculture m j khan	1
+PERSON	falsehood	1
+ORG	the mahadayi water disputes tribunal	1
+PERSON	the rashtrapati bhavan	1
+ORG	the goa pradesh congress committee	1
+ORG	gpcc	1
+PERSON	sankalp amonkar	1
+PERSON	girish chodankar	1
+ORG	national investigation agency’s	1
+PERSON	vineet saran	1
+ORG	bhartiya kisan union lokshakti	1
+PERSON	rajendra singh	1
+ORG	om service station	1
+ORG	the bharat service station	1
+PERSON	ram prasad	1
+ORG	the farmer produce trade and commerce (promotion and facilitation	1
+PERSON	lok bhalai insaf welfare society	1
+ORG	scthe bhartiya kisan union	1
+ORG	sfj’s	1
+PERSON	dave sidhu	1
+ORG	sikh youth federation bhindranwale	1
+PERSON	paramjit akali	1
+ORG	sikh youth power of punjab	1
+PERSON	jasveer singh	1
+ORG	punjabi tv	1
+PERSON	bibi jagir kaur	1
+PERSON	mehbooba mufti	1
+ORG	noc	1
+PERSON	harender singh	1
+PERSON	kamgar morcha	1
+ORG	maharashtra congress	1
+PERSON	sachin sawant	1
+PERSON	shivaji maharaj	1
+ORG	maharashtra, ajit nawale	1
+ORG	the goa legislature budget session	1
+PERSON	aditya thackeray	1
+PERSON	eknath shinde	1
+ORG	mumbai police	1
+ORG	srpf	1
+PERSON	mohan nagar	1
+ORG	kundli-meerut-palwal expressway	1
+ORG	non resident indians	1
+ORG	indian passport office	1
+ORG	alliance of progressive canadians	1
+ORG	gta west club	1
+ORG	indo-canadian workers association	1
+ORG	parvasi punjabi pensioners association	1
+PERSON	punjabi sahit sabha	1
+ORG	ml party of canada	1
+ORG	the cross iron mills mall	1
+ORG	the government of canada	1
+ORG	the indians abroad for pluralist india	1
+ORG	iapi	1
+ORG	the unlawful activities prevention act	1
+PERSON	surrey	1
+PERSON	martin luther king jr.	1
+PERSON	raj bhavanconsider	1
+ORG	the amritsar-delhi national highway	1
+ORG	tractor rally	1
+ORG	kmp-kgp expressway	1
+PERSON	jawan jai kishan’	1
+PERSON	lal bahadur shashtri	1
+PERSON	chaudhary narendra singh	1
+PERSON	ankit tomar	1
+PERSON	kisan sabha’s	1
+ORG	bs koshyari	1
+ORG	bombay high court	1
+ORG	the state reserve police force	1
+ORG	tribune news servicenew delhi/bathinda	1
+PERSON	pak twitter	1
+PERSON	pathak	1
+NORP	barricades	1
+PERSON	malwa	1
+PERSON	kotli village	1
+ORG	the delhi-rohtak	1
+PERSON	vikas sisar	1
+PERSON	sp rajesh duggal	1
+ORG	paramilitary and indian reserve battalion	1
+ORG	highlightsthe	1
+PERSON	akhil bharatiya kisan sabha	1
+PERSON	balasaheb thorat	1
+PERSON	aaditya thackeray	1
+PERSON	singh koshyari	1
+PERSON	raj bhavans	1
+PERSON	rakesh arora	1
+PERSON	kheti	1
+ORG	kisan ekta zindabad'	1
+ORG	amaan	1
+PERSON	moin	1
+PERSON	chandan kumar	1
+PERSON	singh sandhu	1
+ORG	ghanwatshetkari sanghatana	1
+PERSON	kumar joshidirector-south asia	1
+ORG	international food policy research instituteashok gulatiagricultural	1
+ORG	farmers (empowerment & protection	1
+ORG	price assurance & farm services act	1
+ORG	venugopal’s	1
+ORG	cm ml khattar	1
+PERSON	prahlad singh patel	1
+ORG	the archeological survey of india	1
+PERSON	shah jahan	1
+ORG	the ministry of defence	1
+ORG	gurnam charuni	1
+PERSON	yogendra yadav’s	1
+ORG	officialssources	1
+ORG	the crime branch.---	1
+PERSON	antonio guterres	1
+PERSON	stephane dujarric	1
+PERSON	minto road	1
+PERSON	wazir singh	1
+ORG	ani.elaborate	1
+ORG	dmrc	1
+ORG	the grey line	1
+ORG	the farmers empowerment and protection) agreement on price assurance	1
+ORG	haryana’s palwalfarmer	1
+PERSON	peeragarhi	1
+PERSON	luyten	1
+ORG	gb pant	1
+PERSON	nangloi chowk	1
+PERSON	murbaka chowk	1
+ORG	readdelhi police	1
+ORG	the red ford	1
+ORG	the deep sidhu	1
+ORG	unionthe centre	1
+PERSON	deep sidhu 	1
+NORP	jews	1
+NORP	communists	1
+ORG	deep sidhudeep sidhu	1
+PERSON	rajewalhe	1
+ORG	ministry of home affairs	1
+ORG	the central reserved police force	1
+PERSON	navneet	1
+ORG	netizens	1
+PERSON	prahlad patel	1
+PERSON	रास्ता भूलकर	1
+ORG	पहुचे।#kisanparade @ani @pti_news	1
+ORG	farmers republic day parade	1
+ORG	kisan parades	1
+ORG	gatka	1
+ORG	the deen dayal upadhyay marg	1
+PERSON	pawan kumar	1
+PERSON	raj kishore	1
+PERSON	tajender singh virk	1
+PERSON	jitender singh	1
+PERSON	trilochan singh	1
+PERSON	jagtar singh bajwa	1
+PERSON	salim chaudhary	1
+PERSON	barot barot	1
+ORG	upcc	1
+PERSON	ajay kumar lallu	1
+PERSON	ghaziabad	1
+PERSON	ramdev	1
+PERSON	ramdev dacait	1
+PERSON	mahendra tikait’s	1
+ORG	the aam admi party	1
+PERSON	saravan singh pandher	1
+ORG	the union ministry of home affairs (	1
+ORG	rapid action force	1
+ORG	& vikas marg	1
+NORP	plese	1
+ORG	auchandi, mangesh	1
+ORG	nh44	1
+PERSON	dsidc narela	1
+PERSON	avoid outer ring road	1
+ORG	ghaziabad district magistrate	1
+ORG	the bahujan samaj party	1
+PERSON	ram nath kovind's	1
+ORG	the nationalist congress party	1
+ORG	the communist party of india	1
+NORP	marxist	1
+ORG	the indian union muslim league	1
+ORG	the people's democratic party	1
+ORG	the kerala congress (m	1
+ORG	the all india united democratic front	1
+ORG	likely‘centre	1
+PERSON	derek o’ brien	1
+PERSON	sudeep bandyopadhyay	1
+ORG	mdmk	1
+ORG	kerala congress	1
+ORG	sersa	1
+ORG	ghaziabad dm’s	1
+ORG	bkudelhi police	1
+ORG	sisodiadeep sidhu	1
+PERSON	kisan ekta manch	1
+PERSON	jagat singh rathi	1
+PERSON	ghaziabad district	1
+PERSON	ashwini kumar	1
+PERSON	roshan singh	1
+ORG	acm	1
+PERSON	vinay singh	1
+ORG	shiv senaskm	1
+ORG	sidhu, lakha sidhana	1
+ORG	the uttar pradesh	1
+ORG	the central reserve police force	1
+NORP	kotwali	1
+ORG	the prevention of damage to public property act	1
+PERSON	remains act	1
+PERSON	vijay mallya	1
+ORG	nirav modi	1
+ORG	lalit modi	1
+ORG	tribune news servicesangrur	1
+PERSON	jaswinder soma longowal	1
+ORG	longowal	1
+ORG	mahendra singh mukati	1
+PERSON	rajpal sharma	1
+ORG	traffic police	1
+ORG	vihar	1
+PERSON	raja garden	1
+ORG	the traffic police	1
+ORG	narela & dsidc narela	1
+PERSON	yudhistir bridge	1
+PERSON	seelam pur	1
+PERSON	geeta colony	1
+PERSON	shankar road	1
+PERSON	mukarba chownk	1
+PERSON	anita batwal	1
+PERSON	kamla	1
+PERSON	ab delhi	1
+NORP	mundka	1
+PERSON	chant singh	1
+PERSON	jaskaran bajwa	1
+ORG	red fortchanting ‘	1
+PERSON	sanyukt kisan morcha	1
+ORG	the capital on republic day	1
+PERSON	sanyukta kisan morcha	1
+ORG	tikrithree	1
+ORG	tikrisecurity	1
+ORG	rajpathheavy	1
+PERSON	tripura	1
+ORG	majha kisan sangharsh committee	1
+ORG	gandhi transport nagar	1
+ORG	dtu	1
+PERSON	shahabad dairy	1
+PERSON	kanjhawala chowk	1
+PERSON	kutubgarh	1
+PERSON	auchandi border	1
+PERSON	kharkhoda toll plaza	1
+PERSON	singhu shani	1
+ORG	ashok farm/janti	1
+PERSON	zindopur mukhmelpur	1
+PERSON	kushak colony	1
+ORG	gtk depot	1
+PERSON	jail road	1
+PERSON	knk marg	1
+ORG	mall	1
+ORG	rohini east metro station	1
+PERSON	rithala chowk	1
+PERSON	pansali chowk	1
+ORG	helipad t-point	1
+PERSON	narela bawana road	1
+PERSON	jhanda chowk	1
+PERSON	jaunti toll	1
+PERSON	qutubgarh- garhi road	1
+PERSON	rohtak bypass	1
+PERSON	asoda toll plaza	1
+ORG	chowdhary	1
+PERSON	kirari	1
+PERSON	khanjawala	1
+ORG	ims college	1
+PERSON	lal kuan	1
+ORG	nizamuddin khatta	1
+ORG	hasanpur depot	1
+ORG	patparganj industrial area	1
+PERSON	ashoka niketan	1
+ORG	vivekanand mahila college	1
+ORG	iti college	1
+PERSON	ram mandir vivek vihar	1
+ORG	vijay chowk	1
+PERSON	akshardham dham	1
+ORG	the delhi police and	1
+ORG	anand vihar for apsara	1
+ORG	dcp manjit	1
+PERSON	prem singh negi	1
+ORG	ghaziabad dm ajay shankar pandey	1
+ORG	only tractors	1
+PERSON	behind.2	1
+ORG	jam.3	1
+NORP	parade.4	1
+ORG	emergencykisan ekta morcha	1
+ORG	charuni’s	1
+PERSON	hanan mollah	1
+ORG	munerka	1
+ORG	iit	1
+ORG	khelgaon, chirag delhi	1
+PERSON	majnu ka tilla	1
+ORG	mann’s	1
+PERSON	satya prakashtribune	1
+PERSON	sindhu border	1
+ORG	p chengal reddy	1
+PERSON	hinjilikut	1
+PERSON	naveen niwas	1
+PERSON	prem patnaik	1
+PERSON	biju janata dal	1
+PERSON	tushar kanti behera	1
+PERSON	kisan kesari	1
+ORG	the national spokesperson of the bharatiya kisan union	1
+ORG	bku)."we	1
+ORG	meenakshi rohal	1
+PERSON	yudhisthir pehalwan	1
+PERSON	wrestling organiser	1
+PERSON	yudhishthir pehalwan	1
+ORG	tikrinew delhi	1
+ORG	fatehgarh sahib amrinder	1
+PERSON	amrinder	1
+PERSON	kalan	1
+ORG	fims, bahalgarh	1
+ORG	tnsthe supreme court	1
+ORG	the national register of citizens	1
+PERSON	kisan adhikar diwas	1
+PERSON	kisan motcha	1
+NORP	jawans	1
+PERSON	amar jawan jyoti	1
+ORG	rahulfarmer	1
+ORG	republic dayfarm	1
+PERSON	kavitha kurunganti	1
+ORG	nia/home ministry	1
+ORG	bajrang dal	1
+ORG	the shantha kumar committee	1
+PERSON	gerry rice	1
+ORG	alwaysbecause	1
+PERSON	gurpartap singh mann	1
+ORG	the punjab public service commission	1
+ORG	ppcc	1
+PERSON	harpreet singh mattu	1
+ORG	pilbku	1
+PERSON	azad kisan diwas’	1
+PERSON	singh kadian	1
+PERSON	sonia gandhiover	1
+PERSON	jangveer singh	1
+ORG	marchthe haryana police	1
+PERSON	haryana bjp-jjp	1
+PERSON	op dhankar	1
+PERSON	ashwini sharma	1
+PERSON	jaskaur meena	1
+PERSON	govind singh dotasra	1
+PERSON	ramlal sharma	1
+PERSON	dhanna singh	1
+PERSON	dhanna	1
+ORG	civil hospital	1
+ORG	gandhi hospital	1
+ORG	january 20the supreme court	1
+ORG	ag	1
+ORG	invoke	1
+ORG	jamuri kisan union	1
+PERSON	kalwant singh sandhu	1
+ORG	police (northern range	1
+ORG	the central armed police forces	1
+PERSON	kishan reddy	1
+PERSON	arvind kumar	1
+PERSON	siddharth luthra	1
+ORG	national green tribunal	1
+PERSON	meenakshi arora	1
+ORG	the shetkari sanghatana	1
+PERSON	pramod joshi	1
+ORG	the committee for	1
+ORG	state governments	1
+ORG	cooperatives	1
+PERSON	eventsgs charuni	1
+PERSON	singh deep singhwala	1
+PERSON	surender yadav	1
+ORG	kirti kisan union	1
+ORG	policethe	1
+PERSON	chandra bose's	1
+PERSON	azad hind kisan diwas	1
+PERSON	rp singh	1
+PERSON	samyukta morcha	1
+ORG	frank institute of medical sciences, bahalgarh	1
+PERSON	fatehgarh saheb	1
+PERSON	petitioner rishabh sharma	1
+PERSON	rabbi shergill	1
+PERSON	noor chahal	1
+ORG	sanyukt	1
+PERSON	kisaan morcha	1
+ORG	the artists for farmers	1
+PERSON	swara	1
+PERSON	harvinder singh	1
+PERSON	amar kaur	1
+PERSON	sanya kataria	1
+NORP	united sikhs	1
+PERSON	gurdeep kaur	1
+ORG	medical services centre	1
+PERSON	nikhita murali	1
+ORG	headache	1
+NORP	murali	1
+ORG	kochi	1
+PERSON	jo bole	1
+ORG	kisan union ekta zindabad’	1
+ORG	centre 350	1
+ORG	indo-canadian mp ramandeep brar	1
+PERSON	brar	1
+PERSON	sadiq mohammad	1
+ORG	hematology	1
+ORG	ecg	1
+ORG	rajewalasked	1
+ORG	international food policy research institute’s	1
+ORG	the sankyukt kisan moarch	1
+ORG	international food policy research institute's	1
+ORG	supreme court bar association	1
+PERSON	rohit panday	1
+ORG	the executive committee of the scba	1
+ORG	the election committee	1
+ORG	institution	1
+ORG	scba	1
+ORG	united farmers' front	1
+ORG	uttar pradesh rakesh tikait	1
+PERSON	s. bhupinder	1
+ORG	hon'ble supreme court	1
+PERSON	vikramarka	1
+PERSON	rajewalin	1
+PERSON	k.chandrasekhar rao	1
+ORG	non-bjp	1
+ORG	raytu kavatu	1
+PERSON	raytutho	1
+PERSON	tanuj chawla	1
+PERSON	subheg singh	1
+ORG	bjp mpafter	1
+ORG	pmunder	1
+PERSON	singh chautala	1
+ORG	sonepat/bahadurgarh	1
+PERSON	raj bhawans	1
+PERSON	balkar singh	1
+NORP	samyuktaa	1
+PERSON	jangbir singh	1
+ORG	the union budget 2021-2022	1
+PERSON	sheoraj singh	1
+PERSON	shailesh kumar giri	1
+ORG	swaminathan committee's	1
+ORG	the national working group of all india	1
+ORG	“the working group of aikscc	1
+ORG	tribune news servicetikri/singhu	1
+ORG	chiefthe	1
+ORG	the punjab kisan mazdoor sangharsh committee	1
+ORG	haryana and punjab	1
+ORG	gharaunda	1
+ORG	shut?”delhi	1
+ORG	oppositionthe congress-led opposition	1
+PERSON	haryana haryana	1
+ORG	deol’s	1
+NORP	anti-india	1
+PERSON	burj gill	1
+PERSON	the crime branch	1
+PERSON	sn shrivastava	1
+ORG	bku bhanu’s	1
+ORG	rashtriya kisan mazdoor sangathan (rkms	1
+ORG	india kisan sangarsh coordination committee	1
+ORG	facebook, sidhu	1
+PERSON	sarwan pandher	1
+ORG	rajewaldelhi police	1
+ORG	yogendra yadavsecurity	1
+ORG	republic daysenior	1
+PERSON	bhushan	1
+ORG	a supreme court	1
+PERSON	kisan adikar manch	1
+ORG	nanaksar sikh	1
+PERSON	vadra	1
+ORG	the union ministers	1
+PERSON	naxalite	1
+ORG	nagi reddy group	1
+PERSON	rewasan	1
+ORG	kundli-ghaziabad-palwal expressways	1
+ORG	the uttar pradesh assembly	1
+PERSON	narendra s tomar	1
+PERSON	agriculture ministerno	1
+ORG	deadlocked“so	1
+PERSON	singh grewal	1
+ORG	kisan coordination committee	1
+ORG	grewal	1
+PERSON	msp.jagmohan singh	1
+ORG	pu	1
+ORG	pilthe supreme court	1
+ORG	panjab university’s centre for human rights and duties	1
+PERSON	gurcharn singh	1
+PERSON	gurdarshan singh	1
+PERSON	tikshan sud	1
+ORG	ssp	1
+PERSON	dharmender singh	1
+ORG	the indian women’s press corps	1
+ORG	press club of india	1
+ORG	the press association	1
+ORG	the constitution of india	1
+PERSON	harf cheema	1
+PERSON	kanwar grewal	1
+PERSON	tehsil	1
+PERSON	rajendra chaudhary	1
+ORG	baraut	1
+PERSON	surendra singh	1
+ORG	the desh khap	1
+PERSON	the chaubisi khap	1
+ORG	the bharatiya kisan union’s	1
+PERSON	tomarji	1
+PERSON	tr baalu	1
+ORG	march 8.the opposition	1
+PERSON	arnab	1
+ORG	feb 7in hisar	1
+ORG	jjp leaders.38	1
+PERSON	jayant chowdhury	1
+ORG	yogi adityanath’s	1
+ORG	manohar lal khattar’s	1
+ORG	stalemate‘mahapanchayat’	1
+PERSON	devendra fadanvis	1
+ORG	“the union government	1
+PERSON	ramlila maidan	1
+ORG	choudhary	1
+ORG	hazare’s	1
+PERSON	niti ayog	1
+ORG	modithe home ministry	1
+ORG	the all-party	1
+ORG	goi’s	1
+PERSON	tomar ji	1
+PERSON	morale	1
+ORG	videos	1
+PERSON	baliyan	1
+ORG	ba	1
+ORG	the meerut university	1
+PERSON	surendra	1
+PERSON	haryana rajasthan	1
+ORG	khatauli	1
+PERSON	anuppur	1
+ORG	the patna junction	1
+ORG	ml	1
+PERSON	gandhi maidan	1
+PERSON	ajeet sharma	1
+ORG	the provincial armed constabulary	1
+ORG	the national highway 24	1
+ORG	delhi-meerut expressway	1
+ORG	tribune news servicekarnal	1
+PERSON	nishant kumar	1
+PERSON	sp ganga ram punia	1
+PERSON	jagdeep singh aulakh	1
+PERSON	abhay chautala	1
+ORG	inbajwa	1
+ORG	reuters	1
+ORG	british labour party	1
+PERSON	udham singh’s	1
+PERSON	aparna banerji	1
+ORG	the red fort?”earlier	1
+PERSON	manjit singh	1
+PERSON	daryapur	1
+ORG	haridas colony	1
+ORG	bheem army	1
+ORG	ajay	1
+PERSON	kumar lallu	1
+PERSON	bikram singh majithia	1
+ORG	youth akali dal	1
+ORG	yad	1
+PERSON	harmit singh kalka	1
+PERSON	manjindner singh sirsa	1
+PERSON	rakesh takait	1
+ORG	centrerakesh tikait's	1
+ORG	punjabdelhi	1
+PERSON	harkirat mann beniwal	1
+ORG	punjab’s khana	1
+ORG	prezopposition	1
+PERSON	lok sabhameanwhile	1
+ORG	the apex court’s	1
+ORG	the garib kalyan rojgar abhiyan	1
+ORG	union territory	1
+PERSON	virender hooda	1
+ORG	punjabdeep sidhu	1
+ORG	sisodiarakesh tikait's	1
+PERSON	kameez’as	1
+ORG	masoodpur	1
+PERSON	bichpari	1
+PERSON	ladwa	1
+PERSON	satrod	1
+ORG	bhagana	1
+PERSON	gulab singh	1
+ORG	gulab	1
+ORG	panipat, karnal	1
+ORG	phogat	1
+PERSON	barah	1
+ORG	farmersfarmers	1
+PERSON	ajay kumar	1
+PERSON	surender	1
+PERSON	kamal nath	1
+ORG	gtb	1
+ORG	tt nagar	1
+ORG	city superintendent of police	1
+ORG	umesh tiwari	1
+ORG	csp	1
+PERSON	jawahar chowk	1
+ORG	the madhya pradesh congress	1
+ORG	tomarpunjab	1
+PERSON	msp)."we	1
+PERSON	harpal singh	1
+ORG	bhartiya kisan union - asli arajnaitik	1
+PERSON	bhog singh mansa	1
+ORG	indian farmers union	1
+ORG	sisoli	1
+PERSON	kisan morcha'	1
+ORG	“the supreme court	1
+PERSON	mahila kisan divas	1
+PERSON	azad hind kisan diwas’	1
+PERSON	gangaicha jat	1
+PERSON	kavita arya	1
+PERSON	gurwinder singh	1
+ORG	met department	1
+PERSON	veerpal singh	1
+PERSON	dharmveer yadav	1
+PERSON	rainwater	1
+ORG	ashok dhawale, farm leaderthe morcha	1
+ORG	mspfarmer	1
+ORG	dsp anshu jain	1
+NORP	rampur	1
+ORG	pakoda chowk	1
+PERSON	jaskaran singh	1
+PERSON	rajesh duggal	1
+ORG	jhajjar sp	1
+ORG	wisconsin state assembly	1
+PERSON	robin j vos	1
+PERSON	ken juster	1
+PERSON	juster	1
+PERSON	sindhu	1
+ORG	us congress	1
+ORG	sampla	1
+ORG	the union government’s	1
+ORG	punjab & haryana	1
+PERSON	vibha sharma	1
+ORG	members of legislative assembly	1
+ORG	patanjali	1
+ORG	the intelligence bureau	1
+ORG	p s narasimha	1
+PERSON	shetkeri sangthana	1
+ORG	the apex court of india	1
+PERSON	shetkeri sangathana	1
+ORG	the janta parliament	1
+PERSON	p sainath	1
+ORG	k raju	1
+PERSON	rajeev gowda	1
+PERSON	sukhendu sekhar	1
+PERSON	ghanshyam tiwari	1
+PERSON	g devarajan	1
+PERSON	anil ghanwant	1
+PERSON	balbeer singh	1
+ORG	harinder lokhwal	1
+ORG	farmers produce trade & commerce (	1
+PERSON	repealed"we	1
+ORG	bku ekta ugrahan’s punjab	1
+ORG	gurdwara sahib nanaksar	1
+ORG	आंदोलन	1
+PERSON	रखने की	1
+ORG	nanaksar gurdwara jagraon	1
+PERSON	kamarjeet virk	1
+PERSON	sant ram singh’s	1
+PERSON	gandhi said.करनाल	1
+ORG	श्रद्धांजलि।कई	1
+ORG	अपने जीवन की	1
+ORG	कृषि विरोधी	1
+ORG	kcgmc, karnal	1
+PERSON	baba ram singh's	1
+ORG	laws"we	1
+PERSON	rahul mehra	1
+ORG	amit sahni	1
+PERSON	bku-sidhupur	1
+PERSON	balbeer singh rajewal	1
+PERSON	deep singh	1
+PERSON	raminder singh patiala	1
+ORG	agriculture minister’s	1
+ORG	ficci	1
+PERSON	pannu	1
+PERSON	guni prakash	1
+NORP	leftists	1
+ORG	the jaipur-delhi highway	1
+ORG	ifs	1
+ORG	irs	1
+ORG	indian forest service	1
+NORP	constitutional	1
+PERSON	spread’the	1
+ORG	scup	1
+PERSON	basu	1
+PERSON	harmeet singh	1
+ORG	dalewal	1
+ORG	kokrikalan	1
+PERSON	sarwan singh pandher	1
+PERSON	read:-capt amarinder	1
+ORG	the delhi government	1
+PERSON	delhi cm	1
+ORG	kejriwal’s aap	1
+PERSON	propaganda	1
+ORG	jhajjar-bahadurgarh	1
+ORG	the tribune ashwani mahajan	1
+ORG	mahajan	1
+PERSON	shiv kumar 'kakkaji'	1
+PERSON	ayushman khurrana	1
+ORG	national register of citizens	1
+ORG	the all india taxi union	1
+ORG	the union, balwant singh bhullar	1
+PERSON	chandrashekar azad	1
+PERSON	baljeet singh mahal	1
+PERSON	ravikant tupkar	1
+PERSON	tupkar	1
+ORG	rahulfarmers	1
+ORG	borders36	1
+ORG	the vigyan bhawan	1
+PERSON	gs charuni	1
+ORG	balbir s rajewal	1
+ORG	the modi government	1
+PERSON	buta singh shadipur	1
+ORG	tribune news service	1
+ORG	mamata banerjee’s	1
+ORG	pti.delhi	1
+ORG	leaders	1
+ORG	farmers”	1
+ORG	& loni	1
+PERSON	banda singh nagar	1
+PERSON	bibi gulab kaur nagar	1
+PERSON	ullah khan	1
+PERSON	banda singh bahadar	1
+ORG	bjp-sad	1
+ORG	takhtupura	1
+PERSON	kartar singh	1
+PERSON	rajbir kaur	1
+PERSON	dhyan chand	1
+PERSON	gurmail singh	1
+PERSON	kabaddi	1
+PERSON	tara singh	1
+PERSON	gurbax singh	1
+PERSON	kaur singh	1
+PERSON	jaipal singh	1
+PERSON	prem singh	1
+ORG	sudip chattopadhyay	1
+ORG	anandpur sahib mp	1
+NORP	bandopadhyay	1
+ORG	parliament standing committee	1
+PERSON	chowdhury	1
+ORG	the congress party	1
+ORG	bjpahead	1
+ORG	pmleft	1
+PERSON	maniyari	1
+ORG	parliament session	1
+ORG	the bharatiya kisan sanyukt morcha	1
+PERSON	sanjay agrawal	1
+ORG	the air pollution ordinance	1
+ORG	the electricity (amendment	1
+PERSON	justin trudeau while	1
+ORG	the mandal commission	1
+ORG	amandeep kaur deol	1
+PERSON	sukhpreet singh longowal	1
+PERSON	jasbir singh	1
+PERSON	dharam singh mansa	1
+PERSON	sahildeep singh	1
+PERSON	ma	1
+ORG	amandeep kaur	1
+PERSON	sukhpreet singh	1
+ORG	delhi’s ambedkar university	1
+PERSON	universty	1
+ORG	ramjas college	1
+ORG	the delhi bhangra arena	1
+ORG	the supreme court	1
+ORG	the bjp’s	1
+PERSON	इसका	1
+PERSON	sharad joshi	1
+PERSON	singh bhagiwander	1
+PERSON	bhagiwander	1
+PERSON	gurunam singh	1
+PERSON	gurunam	1
+PERSON	alok solanki	1
+ORG	puri	1
+ORG	krantikari kisan union’s	1
+PERSON	dilbagh singh	1
+ORG	dig	1
+PERSON	singh jakhar	1
+PERSON	kavita vinod khanna	1
+PERSON	vinod khanna	1
+PERSON	badalbaba ram singh	1
+ORG	gurdwara sahib nanaksar singhra	1
+PERSON	ek onkar ashram	1
+PERSON	vijay divas	1
+ORG	novat	1
+ORG	air quality management ordinance	1
+PERSON	kalwant singh	1
+ORG	food	1
+ORG	goyal and parkash	1
+ORG	harinder lakhowal	1
+ORG	fcdo	1
+ORG	the air quality management of ncr	1
+PERSON	arvind kejriwal’s	1
+ORG	the (	1
+PERSON	mps manoj tiwari	1
+PERSON	gautam gambhir	1
+ORG	east delhi municipal corporations	1
+PERSON	jai prakash	1
+PERSON	anamika mithilesh	1
+ORG	kejriwal’s flagstaff road	1
+PERSON	brad sherman	1
+ORG	co-chair	1
+ORG	the congressional caucus on india	1
+NORP	indian americans	1
+ORG	the caucus on india & indian americans	1
+PERSON	sharman	1
+PERSON	david g valadao	1
+ORG	jaipur-agra	1
+PERSON	ambani	1
+ORG	the all india railwaymen's federation	1
+ORG	the national federation of indian railwaymen	1
+PERSON	shiva gopal mishra	1
+ORG	airf	1
+PERSON	mishra	1
+ORG	the indian national trade union congress	1
+ORG	the centre of indian trade unions	1
+ORG	rashtriya loktantrik party	1
+ORG	national south indian river inter-linking farmers’ association	1
+ORG	cauvery management board	1
+ORG	sun tv	1
+PERSON	rajwinder singh	1
+PERSON	kamal hassan	1
+ORG	andabar, association’s ariyalur	1
+ORG	jothimurugan, association’s chennai	1
+ORG	‘naam tamilar party’	1
+ORG	the up police	1
+PERSON	eco garden	1
+PERSON	a lok sabha mp	1
+PERSON	gautampalli	1
+PERSON	chandrashekhar singh	1
+ORG	thathia to tirwa	1
+PERSON	varanasi	1
+PERSON	sonbhadra	1
+PERSON	parkash singh badal	1
+ORG	acts"	1
+PERSON	padma bhushan	1
+ORG	union territories	1
+ORG	the union home ministry	1
+ORG	farmer leaders‘bharat bandh’	1
+ORG	the 'bharat bandh'	1
+PERSON	mulayam singh’s	1
+ORG	standing committee	1
+PERSON	cm arvind kejrwial	1
+PERSON	haryana ravneet bittu	1
+PERSON	preneet kaur	1
+PERSON	mohammad sadique	1
+ORG	the national highway-44	1
+PERSON	bijwasan	1
+ORG	agra metro	1
+ORG	the national infrastructure pipeline	1
+PERSON	agra fort	1
+PERSON	mla jarnail	1
+PERSON	rjd	1
+ORG	sp’s akhilesh yadav	1
+ORG	debabrata biswas	1
+PERSON	manoj bhattacharya	1
+ORG	sc bar association chiefsupreme court bar association	1
+ORG	adhir	1
+ORG	pmcongress	1
+ORG	tnsdiljit’s	1
+PERSON	gram sabha	1
+PERSON	ishwar singh	1
+PERSON	amarjeet dhandabjp	1
+ORG	bjp ls	1
+PERSON	rousing	1
+PERSON	anil kumar	1
+ORG	baba azad	1
+ORG	cpi(m	1
+ORG	polit bureau	1
+ORG	national agricultural science complex	1
+ORG	haryanabharat bandh	1
+ORG	wednesdaybharat bandh	1
+ORG	hoodamixed	1
+PERSON	bku ekta	1
+PERSON	shiv kumar kakkaji	1
+PERSON	jantar mantarin patiala	1
+ORG	the kisan mazdoor sangharsh committee	1
+ORG	congress, aam aadmi party	1
+ORG	gurdwara parbandhak committee	1
+PERSON	bhiwani	1
+ORG	the hisar-chandigarh	1
+ORG	the bathinda-chandigarh	1
+PERSON	lehra bega	1
+ORG	bathinda-jind	1
+ORG	silo	1
+ORG	nestle india limited	1
+PERSON	congress mla raja warring	1
+ORG	bkp	1
+PERSON	surjit kumar	1
+ORG	jyani’s	1
+ORG	mehraj	1
+PERSON	satish golcha	1
+ORG	cm delhi	1
+ORG	cm.“still	1
+PERSON	durgesh pathak	1
+PERSON	dilip pandey	1
+PERSON	somnath bharti	1
+PERSON	naveen kumar	1
+ORG	cm kejriwal	1
+PERSON	anil chaudhary	1
+ORG	kejriwal under	1
+PERSON	doug lamalfa	1
+NORP	republican	1
+ORG	californian	1
+NORP	congressional	1
+PERSON	josh harder	1
+PERSON	tj cox	1
+PERSON	andy levin	1
+ORG	the us sikh community	1
+ORG	the sikhs of america	1
+ORG	the indian embassy	1
+ORG	the new york times	1
+PERSON	rudru singh mansa	1
+ORG	patna-palamu express	1
+PERSON	cuttack	1
+PERSON	bhadrak	1
+ORG	balasore	1
+ORG	the biju janata dal	1
+ORG	congress-ruled chhattisgarh	1
+PERSON	shiv sena-ncp-congress	1
+ORG	noted punjabi	1
+ORG	the padma shri	1
+PERSON	sahitya	1
+ORG	haryanaharyana	1
+PERSON	digvijay	1
+PERSON	digvijay chautala	1
+ORG	nh-1	1
+PERSON	mandir	1
+ORG	haryana through dhansa	1
+ORG	auchandi & lampur	1
+PERSON	samanvay samiti	1
+PERSON	ravindra shukla	1
+PERSON	rampal jat	1
+ORG	left-congress	1
+PERSON	closed"we	1
+PERSON	farmers?bku	1
+PERSON	lampur	1
+ORG	manch’s ashwani mahajan	1
+PERSON	shiv kumar ‘kakkaji’	1
+PERSON	tikri-b’garh	1
+PERSON	gurjant singh	1
+PERSON	gurjant	1
+ORG	the civil hospital	1
+ORG	bar council	1
+ORG	the bar council of delhi	1
+ORG	tnsjjp	1
+PERSON	ajay chautala	1
+ORG	jogi ram sihag	1
+ORG	shahbad	1
+PERSON	zoom	1
+PERSON	baljeet singh sandhu	1
+ORG	majha kisan	1
+PERSON	kanagana ranaut	1
+PERSON	mukesh khanna	1
+ORG	payal rohatgi	1
+ORG	the foreign correspondents’ club of south asia	1
+PERSON	narendra modi	1
+ORG	marathi	1
+PERSON	kulbir singh	1
+PERSON	hakam singh	1
+PERSON	sukhdev singh kokriwal	1
+PERSON	rattan mann	1
+PERSON	bundelkhand	1
+PERSON	tikat	1
+PERSON	svaiman singh	1
+PERSON	babaji	1
+PERSON	harish salve	1
+ORG	the aam aadmi party’s	1
+PERSON	kirtan darbaar	1
+ORG	the guru	1
+PERSON	talwandi sabo	1
+ORG	makrauli	1
+PERSON	sikh gurus	1
+ORG	the pineapple farmers association	1
+PERSON	james thottumaryil	1
+PERSON	vazhakulam	1
+PERSON	dean kuriakose	1
+PERSON	harbajan singh	1
+PERSON	delhi gurudwara	1
+ORG	noida & gaziabad	1
+ORG	bhopra & loni	1
+ORG	the kisan sangharsh committee	1
+ORG	bs atwal	1
+ORG	india bandh	1
+PERSON	kisan mazdoor	1
+PERSON	satyavir singh	1
+PERSON	santvit singh mohanpura	1
+PERSON	gurbaz singh	1
+PERSON	banda singh	1
+ORG	gadri gulab kaur nagar	1
+PERSON	kaur pitho	1
+PERSON	jaswinder singh longowal	1
+PERSON	janak singh bhutal	1
+PERSON	prem kumar	1
+PERSON	rakesh khasa	1
+PERSON	sushila kumari	1
+ORG	kisan sangharsh committee	1
+ORG	the india bandh	1
+PERSON	k chandrasekar rao	1
+ORG	agriculture minister s niranjan reddy	1
+PERSON	kiran vissa	1
+ORG	the rythu swarajya vedika	1
+PERSON	jaishankar	1
+PERSON	s jaishankar	1
+PERSON	justin trudeau’s	1
+ORG	the punjab kisan union	1
+PERSON	manmohan waris	1
+ORG	dakhaunda	1
+PERSON	sukhpal kaur	1
+ORG	paramjit kaur	1
+PERSON	harveer kaur	1
+PERSON	sudesh goyat	1
+ORG	major	1
+PERSON	gyanendra singh	1
+PERSON	arjun baliyan	1
+ORG	kaushambi	1
+ORG	the samyukt kisan morch	1
+ORG	the national farmers’ commission	1
+ORG	ordinance	1
+ORG	rlp	1
+ORG	delhimanoj tiwari	1
+PERSON	ambani-adani	1
+ORG	ministry of agriculture & farmers' welfare,government	1
+ORG	govt of india	1
+PERSON	kisan morch	1
+ORG	central farm acts;2	1
+ORG	the national farmers' commission	1
+ORG	the "commission for the air quality management	1
+ORG	maharashtra, ajit navle	1
+PERSON	manoj tiwari	1
+ORG	aam aadmi party's	1
+ORG	mother teresa crescent	1
+PERSON	js gill	1
+ORG	the leader of opposition in rajya	1
+PERSON	sabha ghulam nabi azad	1
+ORG	gandhi’s	1
+ORG	the congress, trinamool and the left	1
+PERSON	jagjit	1
+PERSON	nishant singh	1
+PERSON	farming	1
+PERSON	boota singh	1
+PERSON	mukesh aggarwalsince	1
+ORG	the “central government	1
+PERSON	mohammed qureshi	1
+NORP	nihang sikhs	1
+ORG	routes"on	1
+ORG	adani/ambani	1
+ORG	the pm modi	1
+PERSON	electricity act	1
+ORG	the air quality ordinance	1
+PERSON	singh doaba	1
+PERSON	ashok dhavle	1
+ORG	food, railways and	1
+ORG	high commission	1
+PERSON	avtar singh pannun	1
+PERSON	kulwant singh mothad	1
+PERSON	umar khalid	1
+PERSON	sudha bharadwaj	1
+ORG	media’s	1
+ORG	bkub	1
+ORG	rakesh vaishnav of chhattisgarh kisan congress	1
+PERSON	ram nath kovind’s	1
+PERSON	jha	1
+PERSON	fauzia shakil	1
+PERSON	congress lok sabha mp	1
+ORG	united trade union congress	1
+ORG	the joint platform of central trade unions	1
+ORG	draconian agri-laws	1
+ORG	the samyukta morcha of	1
+NORP	kisans	1
+ORG	the central trade union	1
+PERSON	reliance malls	1
+ORG	adani fresh	1
+ORG	sectoral federations/associations	1
+ORG	garbage	1
+PERSON	malkar singh	1
+PERSON	gurvinder singh	1
+PERSON	bhajan singh	1
+PERSON	harjinder singh	1
+ORG	punjab’s ropar	1
+PERSON	harmesh singh	1
+ORG	punjab’s hoshiarpur	1
+ORG	harjinder	1
+ORG	gurpreet hayer	1
+PERSON	pratap singh	1
+PERSON	gursikh sewa	1
+ORG	pratap	1
+ORG	the bangla sahib gurudwara	1
+ORG	the working people’s charter	1
+PERSON	nirmal agni	1
+ORG	working people’s charter	1
+PERSON	ashok arya	1
+ORG	arya	1
+ORG	the centre government	1
+ORG	rewari sp abhishek jorwal	1
+ORG	assemblyundeterred	1
+ORG	the kerala assembly	1
+ORG	ldf	1
+ORG	udf	1
+PERSON	harpal singh bellary	1
+ORG	the noida-delhi link road	1
+PERSON	thakur bhanu pratap singh	1
+PERSON	satish tomar	1
+PERSON	chila	1
+PERSON	jaisinghpur-khera border	1
+PERSON	aruna roy	1
+PERSON	kisan panchayat	1
+PERSON	rampal chaudhary	1
+PERSON	shahjahapur	1
+PERSON	ram murti joshi	1
+ORG	rewari’s superintendent of police abhishek jorwal	1
+PERSON	rajasthan-haryana	1
+PERSON	bir kaur	1
+PERSON	kashmir kaur	1
+ORG	majha kisan sangharh committee	1
+PERSON	satnam singh	1
+ORG	surjit	1
+ORG	price assurance and farm service act	1
+ORG	punjabludhiana	1
+PERSON	the sikh gurus	1
+ORG	sahibzada diwas	1
+PERSON	char sahibzade	1
+ORG	sri guru gobind	1
+PERSON	sahibzade zorawar singh	1
+PERSON	fateh singh	1
+ORG	pm modi’s ‘	1
+ORG	diksha	1
+ORG	the education ministry	1
+PERSON	harendir singh	1
+ORG	punjab’s ludhiana	1
+PERSON	jathebandi’	1
+ORG	punjab, hardeep puri and som prakash	1
+ORG	pti.farmer unions	1
+PERSON	sarbat da bhala	1
+PERSON	gurbani	1
+ORG	kejriwalfarmers	1
+PERSON	gopal rai	1
+ORG	ministerlisten	1
+NORP	indian-american	1
+PERSON	jagmohan singh dakaunda	1
+PERSON	congressi	1
+PERSON	raju	1
+PERSON	surender kamboj	1
+PERSON	ravindra kumar	1
+PERSON	davinder singh	1
+PERSON	mohammad salim	1
+PERSON	jal shakti	1
+ORG	social justice	1
+PERSON	behari vajpayee	1
+PERSON	ambala lok sabha	1
+ORG	neem coated urea	1
+PERSON	pm krishi sinchai	1
+PERSON	kisan rails	1
+ORG	the ministry of agriculture and farmers'	1
+ORG	tribune news servicenew delhi/chandigarh	1
+ORG	dushyant’s	1
+PERSON	uchana kalan	1
+ORG	kutch	1
+PERSON	kisan mazdoor sangh	1
+ORG	bku-doaba	1
+ORG	covid-19.while	1
+PERSON	satabdi roy	1
+PERSON	prasun banerjee	1
+PERSON	pratima mondal	1
+PERSON	md nadimul haque	1
+ORG	all india trinamool congress	1
+PERSON	o'brien	1
+ORG	rural india	1
+ORG	sushasan	1
+ORG	cnri	1
+PERSON	binod anand	1
+ORG	vaseline	1
+PERSON	odomos	1
+ORG	eno	1
+PERSON	amanpreet singh	1
+PERSON	udham singh	1
+ORG	charan singhrajnath	1
+ORG	rajnathseveral	1
+ORG	tikrito	1
+ORG	shaheedi	1
+ORG	national highway	1
+ORG	the msp.bharatiya kisan union	1
+PERSON	pawan thakur	1
+PERSON	acharya ram gopala dixit	1
+PERSON	patron	1
+ORG	the national food security act	1
+ORG	the price stabilisation fund	1
+PERSON	jagjeet dallewal	1
+ORG	inderjeet	1
+ORG	indo	1
+ORG	civil courts	1
+ORG	bku (ugrahan)	1
+ORG	nrc	1
+ORG	union ministers hardeep puri and som parkash	1
+ORG	poor”	1
+ORG	hs lakhowal	1
+ORG	uttar pradeshinder singh	1
+ORG	kanpur	1
+ORG	uchana	1
+ORG	the kisan kalyan sammelan	1
+PERSON	jasvir chand	1
+PERSON	green revolution	1
+PERSON	jagdip singh	1
+ORG	food and consumer affairs	1
+ORG	mos commerce	1
+ORG	patna	1
+ORG	rajeev shukla	1
+ORG	govind dotasra	1
+ORG	central agricultural	1
+ORG	national farmers commission	1
+PERSON	kisan morcha---	1
+PERSON	smriti irani	1
+PERSON	bjp”	1
+ORG	the kundli-manesar-palwal highway	1
+ORG	the kundli-manesar-palwal	1
+PERSON	jatin singh	1
+ORG	ngo hemkunt foundation	1
+PERSON	balveer singh	1
+PERSON	ramanpreet kaur	1
+PERSON	sukhwinder kaur	1
+ORG	punjab’s bathinda	1
+ORG	the all india kisan samiti	1
+PERSON	amarjeet singh rarra	1
+ORG	dwaba kisan committee	1
+ORG	rarra	1
+PERSON	ambedkar sangharsh morcha	1
+PERSON	safiabad saboli	1
+ORG	singhu school toll tax	1
+ORG	the gtk road	1
+ORG	the gtk road and national highway	1
+PERSON	manpreet badal	1
+PERSON	gul panag	1
+ORG	tribune news servicechandigarh/bathinda	1
+PERSON	baljit singh	1
+PERSON	kisan ekta morcha’	1
+PERSON	sukhdev singh kokri	1
+PERSON	gurlabh singh	1
+ORG	dyalpura mirza	1
+PERSON	gurlabh	1
+ORG	the foreign contribution regulation act	1
+ORG	the forex department	1
+PERSON	the safdarjung observatory	1
+ORG	imd	1
+ORG	the jhatikara border	1
+PERSON	the pm’s rs	1
+ORG	pradhan mantri matsya sampada	1
+ORG	national animal disease control programme	1
+ORG	animal husbandry infrastructure development fund	1
+ORG	fmchanges	1
+PERSON	sangita reddy	1
+ORG	ficci presidentjust	1
+PERSON	gen secy	1
+ORG	the central government's	1
+ORG	yudhvir	1
+ORG	air turbine	1
+ORG	farm union’s	1
+PERSON	nidhirs200	1
+PERSON	ujjal singh	1
+PERSON	bari brahamana	1
+ORG	shishu loans	1
+ORG	mudra	1
+ORG	the akhil bharatiya vidyarthi parishad	1
+PERSON	sangh	1
+ORG	गुंडों	1
+PERSON	हत्या की	1
+ORG	kgp	1
+ORG	aasoda	1
+PERSON	jagjit kaur	1
+PERSON	anoop chanaut	1
+ORG	chanaut	1
+PERSON	pragat singh	1
+ORG	sdm	1
+PERSON	yogesh khanna	1
+PERSON	vrinda grover	1
+ORG	maulana azad medical college	1
+PERSON	the x-ray	1
+PERSON	sawaiman singh	1
+PERSON	inderjit singh	1
+PERSON	virendra hooda	1
+PERSON	kisan sarkar	1
+PERSON	sumit dalal	1
+ORG	pti.ghaziabad	1
+PERSON	district magistrate	1
+PERSON	satyagrah yatra'	1
+PERSON	chandra shekhar azad	1
+PERSON	ram prasad bismil	1
+PERSON	ashfaqullah khan	1
+PERSON	kisan bahujan ekta diwas'	1
+ORG	punjab's nrega mazdoor association	1
+ORG	the essential commodities (amendment) act	1
+ORG	tribune news servicetalwandi sabo	1
+ORG	baisakhi	1
+PERSON	khalsa panth	1
+PERSON	guru gobind	1
+ORG	punjab khet mazdoor union	1
+PERSON	zora singh nasrali	1
+ORG	dtf	1
+PERSON	resham singh	1
+PERSON	megh singh sidhu	1
+PERSON	kisan bahujan	1
+ORG	bahujan samaj	1
+ORG	dalit-bahujan	1
+PERSON	dhanna bhagat	1
+PERSON	doha kalan	1
+PERSON	delhi morcha	1
+ORG	tribune news servicesonepat/jhajjar	1
+ORG	health department	1
+PERSON	dr punia	1
+PERSON	vinay kumar	1
+PERSON	nar singh rao	1
+ORG	haryana home	1
+PERSON	vij	1
+ORG	kuldeep singh sengar’s	1
+PERSON	fatehpur chaurasi	1
+PERSON	swatantra dev singh	1
+ORG	jannayak janata party	1
+PERSON	pilibangan mla dharmendra singh	1
+PERSON	dabli	1
+ORG	the commission for agricultural costs and prices ashok gulati	1
+ORG	the farmers produce trade & commerce (promotion & facilitation	1
+NORP	gujarat	1
+PERSON	shankersinh vaghela	1
+ORG	gujarat’s	1
+PERSON	karamsad	1
+PERSON	sardar	1
+PERSON	bardoli	1
+PERSON	lakhbir singh	1
+PERSON	ask paramjit singh	1
+ORG	rajasthan’s alwar	1
+ORG	the ministry of power	1
+ORG	all india power engineers federation	1
+ORG	aipef	1
+ORG	2003.“the central government	1
+ORG	bpl	1
+ORG	ecee	1
+ORG	tribunal	1
+ORG	district magistrate selvakumari j	1
+ORG	budhana mla umesh malik	1
+PERSON	lalu prasad	1
+ORG	eastern	1
+ORG	the standing committee on agriculture	1
+ORG	26the bhartiya kisan union	1

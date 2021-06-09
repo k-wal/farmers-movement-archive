@@ -1,0 +1,40 @@
+ORG	bjp	6
+ORG	msp	4
+ORG	ec	3
+PERSON	jana sangh	3
+PERSON	badal	2
+ORG	congress	2
+NORP	akalis	2
+PERSON	narendra modi	2
+PERSON	rihanna	2
+ORG	singhu	2
+ORG	the election commission	1
+ORG	the trinamool congress	1
+PERSON	rakesh tikait	1
+PERSON	mamata banerjee	1
+ORG	railway	1
+PERSON	piyush goyal	1
+ORG	agriculture	1
+PERSON	narendra singh	1
+PERSON	tomar	1
+ORG	state	1
+PERSON	thegurnam singh	1
+NORP	communists	1
+ORG	the akali dal (sant group	1
+PERSON	balwant singh	1
+PERSON	balram das tandon	1
+ORG	the union cabinet	1
+ORG	harsimrat badal	1
+ORG	the agricultural produce marketing committee	1
+PERSON	lok sabha	1
+ORG	parliament	1
+PERSON	greta thunberg	1
+PERSON	narendra modi’s	1
+PERSON	greta	1
+ORG	sad	1
+ORG	the punjab vidhan sabha	1
+PERSON	vidhan sabha	1
+ORG	himachal pradesh	1
+ORG	jammu & kashmir	1
+PERSON	ladakh	1
+ORG	opposition	1
