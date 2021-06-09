@@ -86,7 +86,7 @@ def get_day_articles(url, date, dir_path):
 		link = href['href']
 		if 'http' not in link:
 			link = 'https://timesofindia.indiatimes.com' + link
-		if '/entertainment/' not in link and '/astrology/' not in link and '/life-style/' not in link and '/tv/' not in link and '/web-series/' not in link:
+		if 'sports' not in link and '/entertainment/' not in link and '/astrology/' not in link and '/life-style/' not in link and '/tv/' not in link and '/web-series/' not in link:
 			title, text, date, coverage, author = get_text_toi(link)
 			if title == '':
 				continue
@@ -114,16 +114,16 @@ def write_date_range_articles(start_date, end_date, dir_path):
 		cur_id += 1
 
 
-start_date = "01-04-2020"
-end_date = "30-04-2020"
+# start_date = "01-04-2020"
+# end_date = "30-04-2020"
 
-start_date = datetime.datetime.strptime(start_date, "%d-%m-%Y")
-end_date = datetime.datetime.strptime(end_date, "%d-%m-%Y")
-dir_path = '../../corpus/timesofindia'
-write_date_range_articles(start_date, end_date, dir_path)
+# start_date = datetime.datetime.strptime(start_date, "%d-%m-%Y")
+# end_date = datetime.datetime.strptime(end_date, "%d-%m-%Y")
+# dir_path = '../../corpus/timesofindia'
+# write_date_range_articles(start_date, end_date, dir_path)
 
 
-# url = 'https://timesofindia.indiatimes.com/2021/6/1/archivelist/year-2021,month-6,starttime-44348.cms'
-# get_day_articles(url, date, dir_path)
+# url = 'https://timesofindia.indiatimes.com//india/bjp-faces-ally-pressure-in-haryana-rajasthan-over-farmers-protest/articleshow/79500613.cms'
+# print(get_text_toi(url))
 
 editorial_url = 'https://timesofindia.indiatimes.com/blogs/edit-page/page/2/?ch=toi&a=-491'
