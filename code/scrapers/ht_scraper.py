@@ -54,26 +54,27 @@ def get_text_ht(url):
 	return title, date, coverage, text
 
 
-def get_filepath(dir_path, date, coverage):
+def get_filepath(dir_path, date, section):
+	section = section.split('-')[0]
 	month = date[3:]
 	cur_dir_path = dir_path + '/' + month
 	if not os.path.exists(cur_dir_path):
 		os.makedirs(cur_dir_path)
-	cur_dir_path = dir_path + '/' + coverage
+	cur_dir_path = cur_dir_path + '/' + section.lower()
 	if not os.path.exists(cur_dir_path):
 		os.makedirs(cur_dir_path)
 	return cur_dir_path + '/' + date + '.txt'
 
-def write_page_articles(articles, dir_path):
+def write_page_articles(articles, dir_path, section):
 	for article in articles:
 		title, coverage, text, date, url = article['title'], article['coverage'], article['text'], article['date'], article['url']
-		filepath = get_filepath(dir_path, date, coverage)
+		filepath = get_filepath(dir_path, date, section)
 		file = open(filepath, 'a')
 		to_write = date.strip() + '||' + coverage + '||' + title + '||' + text.strip() + '||' + url + '\n'
 		file.write(to_write)
 		file.close()
 
-def get_page_articles(url, dir_path):
+def get_page_articles(url, dir_path, section):
 	headers = {'user-agent' : 'Mozilla/5.0',
 	'accept': 'application/json, text/plain, */*'
 	}
@@ -91,25 +92,43 @@ def get_page_articles(url, dir_path):
 		if '/opinion/' in url and '/opinion' not in link:
 			print("not opinion")
 			continue
-
+		if '/editorials/' in url and '/editorials' not in link:
+			print("not editorials")
+			continue
+		if '/analysis/' in url and '/analysis' not in link:
+			print("not analysis")
+			continue
+		
 		title, date, coverage, text = get_text_ht(link)		
 		if title == '':
 			continue
 		articles.append({'title':title, 'coverage':coverage, 'text':text, 'date':date, 'url':link})
-		print(index, title)
-	write_page_articles(articles, dir_path)
+		print(index, date, title)
+	write_page_articles(articles, dir_path, section)
 		
-# beg = 1501
+beg = 19
+end = 24
+section = 'editorials'
+
+# beg = 10
+# end = 27
+# section = 'analysis'
+
+# beg = 2
+# end = 61
+# section = 'opinion'
+
+# beg = 1558
 # end = 1600
 # section = 'india-news'
 
-# beg = 1
-# end = 28
-# section = 'analysis'
+# beg = 2301
+# end = 2400			# mar 07 2021
+# section = 'cities'
 
-beg = 271
-end = 300
-section = 'cities'
+# beg = 700
+# end = 750
+# section = 'world-news'
 
 cur = beg
 dir_path = '../../corpus/hindustantimes'
@@ -117,7 +136,7 @@ dir_path = '../../corpus/hindustantimes'
 while cur <= end:
 	url = 'https://www.hindustantimes.com/' + section + '/page-' + str(cur)
 	print(url + "\n")
-	get_page_articles(url, dir_path)
+	get_page_articles(url, dir_path, section)
 	print("\n\n")
 	cur += 1
 
