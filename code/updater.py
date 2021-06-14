@@ -75,8 +75,8 @@ def update_toi_interval(start_string, end_string):
 filename = 'update_stats'
 
 # FOR Times of India
-start_string = "01-12-2020"
-end_string = "31-12-2020"
+start_string = "01-05-2021"
+end_string = "31-05-2021"
 update_toi_interval(start_string, end_string)
 
 

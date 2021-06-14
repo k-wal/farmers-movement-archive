@@ -14,9 +14,15 @@ params = {
 }
 
 item_set_id = {
-11 : 9314,
-8 : 12266,
-10 : 12327
+'11-2020' : 9314,
+'08-2020' : 12266,
+'10-2020' : 12327,
+'09-2020' : 112431,
+'12-2020' : 112506,
+'01-2021' : 112574,
+'02-2021' : 1331670,
+'03-2021' : 1331671,
+'04-2021' : 1331672
 }
 
 def upload_article(date, item_set_id, title, description, url, username, user_url, tweet_id):
@@ -60,7 +66,7 @@ def upload_article_file(item_id, photo_path):
 				('file[0]', (photo_path, open(photo_path, 'rb'), 'image/jpg'))]
 
 	response = requests.post('http://indiasocialarchive.iiit.ac.in/api/media', params=params, files=files)
-	print(response)
+#	print(response)
 
 
 def get_media_data(date, description, username, item_id):
@@ -75,8 +81,8 @@ def get_media_data(date, description, username, item_id):
 	image_urls = image_script.get_image_url(url_in_tweet, date, username)
 
 	if len(image_urls) > 0:
-		if len(image_urls) > 1:
-			print(image_urls)
+#		if len(image_urls) > 1:
+#			print(image_urls)
 		for image_url in image_urls:
 			cur_data = {"o:ingester" : "url",
 					"o:renderer" : "file",  
@@ -95,21 +101,25 @@ def upload_file_url(date, item_id, description, username):
 
 	media_data = get_media_data(date, description, username, item_id)
 
-	if len(media_data) > 1:
-		print(item_id)
+#	if len(media_data) > 1:
+#		print(item_id)
 	for data in media_data:
 		response = requests.post('http://indiasocialarchive.iiit.ac.in/api/media', headers=headers ,params=params, data=json.dumps(data))
 
 def if_upload(date, tweet_id):
 	tweet_id = int(tweet_id)
 	month = date.split('-')[1] + '-' + date.split('-')[0]
-	dir_path = 'ids/' + month + '/'
+	
+	dir_path = 'ids/' + month
+	if not os.path.exists(dir_path):
+		os.mkdir(dir_path)
 
+	dir_path = dir_path + '/' + date + '/'
 	if not os.path.exists(dir_path):
 		os.mkdir(dir_path)
 
 	filenames = os.listdir(dir_path)
-	max_per_file = 5000
+	max_per_file = 1000
 
 	cur_filepath = ''
 
@@ -124,6 +134,7 @@ def if_upload(date, tweet_id):
 
 		if arr.size < max_per_file and cur_filepath == '':
 			cur_filepath = filepath
+		del arr
 
 	if cur_filepath == '':
 		new_filename = str(len(filenames) + 1) + '.pkl'
@@ -137,17 +148,21 @@ def if_upload(date, tweet_id):
 	cur_arr = np.append([tweet_id],cur_arr)
 	with open(cur_filepath, 'wb') as f:
 		pickle.dump(cur_arr, f)
+	del cur_arr
 	return True
 
 def upload_file(filepath, item_set_id):
+	print("STARTING : " + filepath)
 	file = open(filepath, 'r')
 	lines = file.readlines()
 	file.close()
 	total = len(lines)
 	for index, line in enumerate(lines):
 		parts = line.split('|-|')
-		date, tweet_id, username, text, url = parts[0].strip(), parts[1].strip(), parts[3].strip(), parts[7].strip(), parts[8].strip()
-	
+		try:
+			date, tweet_id, username, text, url = parts[0].strip(), parts[1].strip(), parts[3].strip(), parts[7].strip(), parts[8].strip()
+		except:
+			continue
 		if not if_upload(date,tweet_id):
 			continue
 		user_url = url.split('/status/')[0]
@@ -166,6 +181,7 @@ def upload_file(filepath, item_set_id):
 
 		if index % 10 == 0:
 			print(str(index) + " of " + str(total) + " done")
+	print("ENDING : " + filepath)
 
 
 def upload_section(dir_path, item_set_id):
@@ -176,5 +192,33 @@ def upload_section(dir_path, item_set_id):
 		upload_file(path, item_set_id)
 		print(filename + " : end")
 
-filepath = '../../corpus/temp_tweets/farmbill/10-2020.txt'
-upload_file(filepath, item_set_id[10])
+def write_hashtag_record(dir_path, hashtag, month):
+	filepath = dir_path + '/' + month + '.txt'
+	outfile = open(filepath, 'a')
+	outfile.write(hashtag + '\n')
+	outfile.close()
+
+def if_already_uploaded(dir_path, hashtag, month):
+	filepath = dir_path + '/' + month + '.txt'
+	infile = open(filepath, 'r')
+	lines = infile.readlines()
+	infile.close()
+	lines = [line.strip() for line in lines]
+	if hashtag in lines:
+		return True
+	return False
+
+
+tweet_dir_path = '../../corpus/tweets'
+hashtags = os.listdir(tweet_dir_path)
+month = '02-2021'
+
+for hashtag in hashtags:
+	if month+'.txt' not in os.listdir(tweet_dir_path+'/'+hashtag):
+		continue
+	filepath = tweet_dir_path + '/' + hashtag + '/' + month + '.txt'
+	if if_already_uploaded('upload_records', hashtag, month):
+		print("ALREADY DONE")
+		continue
+	upload_file(filepath, item_set_id[month])
+	write_hashtag_record('upload_records', hashtag, month)
