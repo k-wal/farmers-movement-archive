@@ -30,7 +30,7 @@ def get_image_url(url, date, username):
 	tweets_as_objects = twint.output.tweets_list
 	twint.output.tweets_list = [] 
 	if len(tweets_as_objects) == 0:
-		print(url, date, username)
+#		print(url, date, username)
 		return []
 	return tweets_as_objects[0].photos
 

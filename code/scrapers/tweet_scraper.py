@@ -22,29 +22,19 @@ def get_date_tweets_hashtag(hashtag, dates, dir_path):
 		get_tweets_hashtag(hashtag, start_date, end_date, filepath)
 
 
-date_files = [['2020-08-01','2020-08-31','08-2020'],
-['2020-09-01','2020-09-30','09-2020'],
-['2020-10-01','2020-10-31','10-2020'],
-['2020-11-01','2020-11-30','11-2020'],
-['2020-12-01','2020-12-31','12-2020'],
-['2021-01-01','2021-01-31','01-2021'],
-['2021-02-01','2021-02-09','02-2021']]
+date_files = [['2021-02-10','2021-02-28','02-2021'],
+['2021-03-01','2021-03-31','03-2021'],
+['2021-04-01','2021-04-30','04-2021'],
+['2021-05-01','2021-05-31','05-2021']]
 
-hashtags = ['FarmersStandingFirm',
-'चक्काजाम_सफल_रहा',
-'कृषि_कानून',
-'किसान_आंदोलन',
-'किसान_आंदोलन_जारी_रहेगा',
-'भाग_मोदी_किसान_आया',
-'NoFarmersNoFood',
-'किसान_एकता_जिंदाबाद',
-'अब_किसान_कमल_काटेगा',
-'kisaanektazindabad',
-'किसान',
-'ValentinesWithFarmers']
+def get_hashtags():
+	f = open('hashtags.txt','r')
+	lines = f.readlines()
+	f.close()
+	hashtags = [line.strip() for line in lines]
+	return hashtags
 
-
-
+hashtags = get_hashtags()
 for hashtag in hashtags:
 	hashtag = hashtag.lower()
 	dir_path = '../../corpus/tweets/' + hashtag
