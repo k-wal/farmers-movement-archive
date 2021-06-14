@@ -106,6 +106,7 @@ def update_ner_counts(ners, counts, label_map):
 
 
 def get_month_ners(dir_path, ner_counts, label_map):
+	print(dir_path)
 	filenames = os.listdir(dir_path)
 	for filename in filenames:
 		filepath = dir_path + '/' + filename
@@ -122,9 +123,12 @@ def get_all_ners(dir_path):
 	label_map = {}
 
 	for month in os.listdir(dir_path):
-		ner_counts, label_map = get_month_ners(dir_path + '/' + month, ner_counts, label_map)
+		print(month)
+		if 'hindustantimes' in dir_path:
+			ner_counts, label_map = get_month_ners(dir_path + '/' + month + '/combined', ner_counts, label_map)
+		else:
+			ner_counts, label_map = get_month_ners(dir_path + '/' + month, ner_counts, label_map)
 		# print(ner_counts)
-
 	sorted_tuples = sorted(ner_counts.items(), key=lambda item: item[1], reverse=True)
 	sorted_counts = {k: v for k, v in sorted_tuples}
 	return sorted_counts, label_map
@@ -146,8 +150,8 @@ def plot_wordcloud(counts):
 # dir_path = '../../../corpus/tribune/editorial'
 # filename = 'tribune-editorial'
 
-dir_path = '../../../corpus/hindu'
-filename = 'hindu'
+dir_path = '../../../corpus/hindustantimes'
+filename = 'hindustan-times'
 counts, label_map = get_all_ners(dir_path)
 print_counts(counts, label_map, filename)
 plot_wordcloud(counts)
