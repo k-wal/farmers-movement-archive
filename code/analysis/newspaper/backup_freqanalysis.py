@@ -1,12 +1,12 @@
-import spacy
-from spacy import displacy
-from collections import Counter
-import en_core_web_sm
-from pprint import pprint
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import SnowballStemmer
 import os
+import re
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
-nlp = en_core_web_sm.load()
+
+snowball = SnowballStemmer('english')
 
 stop_words = ["a", "about", "above", "after", "again", "against", "ain", "all", "am", "an", "and", "any", "are", "aren", 
 "aren't", "as", "at", "be", "because", "been", "before", "being", "below", "between", "both", "but", "by", "can", "couldn",
@@ -71,6 +71,7 @@ def get_relevant_text(filepath):
 	file = open(filepath, 'r')
 	lines = file.readlines()
 	file.close()
+
 	all_articles = []
 	for line in lines:
 		try:
@@ -82,61 +83,58 @@ def get_relevant_text(filepath):
 			all_articles.append(desc)
 	return all_articles
 
-def get_ner(lines):
-	ners = []
-	labels = ['PERSON', 'NORP', 'ORG']
+
+def preprocess_text(text):
+	tokens = word_tokenize(text)
+	words = [re.sub(r'[^\w\s]', '', token) for token in tokens]
+	words = [word.lower() for word in words if word.isalpha()]
+	words = [snowball.stem(word) for word in words if word not in stop_words]
+	return words
+
+def get_file_words(lines):
+	all_words = []
 	for line in lines:
-		doc = nlp(line)
-		# doc.ents = [X for X in doc.ents if X.label_ in labels]		# filtering to get only certain labels
-		ners.append(doc)
-	return ners
+		all_words.append(preprocess_text(line))
+	return all_words
 
-def print_ner(ners):
-	pprint([(X.text, X.label_) for X in ners.ents])
+def update_word_counts(words, counts):
+	for line_words in words:
+		for word in line_words:
+			if word not in counts.keys():
+				counts[word] = 0
+			counts[word] += 1
+	return counts
 
-def update_ner_counts(ners, counts, label_map):
-	for line_ners in ners:
-		for ner in line_ners.ents:
-			ner_text, ner_label = ner.text.lower(), ner.label_
-			if ner_text not in counts.keys():
-				counts[ner_text] = 0
-				label_map[ner_text] = ner_label
-			counts[ner_text] += 1
-	return counts, label_map
-
-
-def get_month_ners(dir_path, ner_counts, label_map):
+def get_month_counts(dir_path, counts):
 	print(dir_path)
 	filenames = os.listdir(dir_path)
 	for filename in filenames:
 		filepath = dir_path + '/' + filename
 		text = get_relevant_text(filepath)
-		# print(text)
-		ners = get_ner(text)
-		ner_counts, label_map = update_ner_counts(ners, ner_counts, label_map)
-	return ner_counts, label_map
+		words = get_file_words(text)
+		counts = update_word_counts(words, counts)
+	return counts
 	# for ner in ners:
 	# 	print_ner(ner)
 
-def get_all_ners(dir_path):
-	ner_counts = {}
-	label_map = {}
+def get_all_counts(dir_path):
+	counts = {}
 
 	for index, month in enumerate(os.listdir(dir_path)):
 		print(index)
 		if 'hindustantimes' in dir_path:
-			ner_counts, label_map = get_month_ners(dir_path + '/' + month + '/combined', ner_counts, label_map)
+			counts = get_month_counts(dir_path + '/' + month + '/combined', counts)
 		else:
-			ner_counts, label_map = get_month_ners(dir_path + '/' + month, ner_counts, label_map)
+			counts = get_month_counts(dir_path + '/' + month, counts)
 		# print(ner_counts)
-	sorted_tuples = sorted(ner_counts.items(), key=lambda item: item[1], reverse=True)
+	sorted_tuples = sorted(counts.items(), key=lambda item: item[1], reverse=True)
 	sorted_counts = {k: v for k, v in sorted_tuples}
-	return sorted_counts, label_map
+	return sorted_counts
 
-def print_counts(counts, label_map,filename):
-	file = open('ner_results/'+filename+'.txt','w')
+def print_counts(counts, filename):
+	file = open('freq_results/'+filename+'.txt','w')
 	for entity in counts.keys():
-		file.write(label_map[entity] + "\t" + entity + "\t" + str(counts[entity]) + "\n")
+		file.write(str(counts[entity]) + "\t" + entity + "\n")
 	file.close()
 
 def plot_wordcloud(counts):
@@ -153,12 +151,12 @@ def plot_wordcloud(counts):
 # dir_path = '../../../corpus/hindustantimes'
 # filename = 'hindustan-times'
 
-dir_path = '../../../corpus/timesofindia'
-filename = 'timesofindia'
+# dir_path = '../../../corpus/timesofindia'
+# filename = 'timesofindia'
 
-# dir_path = '../../../corpus/hindu'
-# filename = 'hindu'
+dir_path = '../../../corpus/hindu'
+filename = 'hindu'
 
-counts, label_map = get_all_ners(dir_path)
-print_counts(counts, label_map, filename)
+counts = get_all_counts(dir_path)
+print_counts(counts, filename)
 plot_wordcloud(counts)

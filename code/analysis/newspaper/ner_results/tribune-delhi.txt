@@ -1,113 +1,211 @@
-ORG	ghazipur	117
-ORG	singhu	104
-PERSON	tikri	57
+GPE	delhi	446
+GPE	singhu	187
+CARDINAL	three	151
+ORG	ghazipur	128
+GPE	haryana	127
+FAC	centre	123
+GPE	tikri	123
+CARDINAL	thousands	70
+CARDINAL	two	67
+DATE	friday	54
 ORG	the delhi police	54
 ORG	uttar pradesh	48
+DATE	tuesday	47
 PERSON	delhi police	46
+DATE	thursday	45
 ORG	msp	43
+DATE	monday	42
+GPE	noida	42
+GPE	burari	41
+CARDINAL	one	41
 ORG	bjp	40
 ORG	congress	39
+DATE	saturday	38
 ORG	parliament	37
+DATE	wednesday	36
 ORG	the delhi traffic police	35
+DATE	sunday	33
+DATE	2020	32
 ORG	aap	29
+PERSON	singh	28
+ORDINAL	first	26
 ORG	skm	26
 PERSON	arvind kejriwal	25
+LOC	the red fort	25
+DATE	january 26	24
+GPE	ghaziabad	24
+DATE	today	24
+PERSON	rakesh tikait	23
 ORG	ito	23
 PERSON	kejriwal	22
-PERSON	rakesh tikait	21
+GPE	kapashera	21
+FAC	red fort	21
+DATE	september	20
 ORG	dnd	20
 PERSON	palam vihar	19
-PERSON	noida	19
 PERSON	kisan morcha	18
 ORG	bijwasan/bajghera	18
+GPE	daurala	18
+GPE	india	17
+ORG	tikait	17
 PERSON	amit shah	17
-PERSON	tomar	16
+PERSON	tomar	17
+GPE	badusarai	17
+CARDINAL	four	16
+GPE	bills	16
+PRODUCT	twitter	16
+GPE	jharoda	16
 ORG	gtk	15
+TIME	morning	14
 ORG	house	14
-PERSON	haryana	14
+CARDINAL	five	14
 ORG	bku	13
 PERSON	outer ring road	13
 ORG	the aam aadmi party	13
+GPE	auchandi	13
+PRODUCT	nh-24	13
 PERSON	bill	12
+DATE	the day	12
 PERSON	rajya sabha	12
-PERSON	badusarai	12
+GPE	hindi	12
 PERSON	narendra modi	11
 ORG	bharat bandh	11
+GPE	new delhi	11
 ORG	dhansa	11
+CARDINAL	hundreds	11
 PERSON	piau maniyari	11
-PERSON	jharoda	11
+ORDINAL	sixth	11
+CARDINAL	44	10
 ORG	jantar mantar	10
 PERSON	mukarba chowk	10
 PERSON	narendra singh	10
+GPE	up	9
+CARDINAL	32	9
 PERSON	darshan pal	9
 PERSON	amarinder singh	9
-ORG	the red fort	9
+GPE	servicenew delhi	9
+GPE	saboli	9
+GPE	lampur	9
+FAC	singhu border	9
 ORG	anand vihar	9
 ORG	kejriwal’s	9
-PERSON	singh	8
+CARDINAL	25	8
+DATE	december 3	8
+GPE	rajasthan	8
 ORG	tribune news	8
 PERSON	bhalwan	8
+GPE	safiabad	8
 ORG	bharatiya kisan union	8
 PERSON	mangesh	8
+DATE	yesterday	7
 PERSON	ambala	7
+CARDINAL	eight	7
+CARDINAL	over 30	7
+FAC	metro	7
+TIME	evening	7
+CARDINAL	six	7
 ORG	ncr	7
 ORG	farmers	7
+FAC	the singhu border	7
+PERSON	karnal	7
+ORG	nh-44	7
 PERSON	chadha	7
+DATE	november 26	7
+DATE	republic day	7
+GPE	the republic day	7
 PERSON	shrivastava	7
+GPE	jaipur-delhi	7
+GPE	jhatikara	7
 ORG	aam aadmi party	6
 ORG	bhartiya kisan union	6
 PERSON	the lok sabha	6
+CARDINAL	40	6
 ORG	the national capital	6
+DATE	a day	6
 PERSON	tikri border	6
 PERSON	shah	6
 PERSON	dabwali	6
-ORG	nh-44	6
+LAW	the farmers’ produce trade and commerce (promotion and facilitation) act	6
+DATE	over a month	6
+CARDINAL	22	6
+CARDINAL	tens of thousands	6
 ORG	mukarba & gtk	6
+EVENT	the new year	6
+FAC	gautam budh dwar	6
+ORDINAL	second	5
 PERSON	sikh	5
-ORG	tikait	5
 PERSON	birla	5
 ORG	nct	5
+GPE	national	5
 ORG	apmc	5
+NORP	gurgaon	5
 ORG	traffic movement	5
 ORG	shambhu	5
+TIME	hours	5
+GPE	jhajjar	5
+ORG	bahadurgarh	5
 ORG	union home	5
+TIME	night	5
 PERSON	manish sisodia	5
 ORG	the supreme court	5
+GPE	faridkot	5
 ORG	cm	5
+PRODUCT	the essential commodities (amendment) act	5
 PERSON	yogendra yadav	5
 NORP	sikhs	5
 PERSON	darshan pal singh	5
 ORG	lampur safiabad	5
 ORG	palla & singhu	5
+GPE	ghaziabad to delhi	5
 ORG	mukarba	5
+GPE	odisha	5
+GPE	bihar	5
 PERSON	tiwari	5
 PERSON	raghav chadha	4
 ORG	bku’s	4
+DATE	two-year-old	4
 ORG	sikh gurdwara management committee	4
 ORG	dsgmc	4
 ORG	samajwadi party	4
 ORG	the bharat bandh	4
+DATE	january	4
+CARDINAL	35	4
 ORG	morcha	4
 NORP	bharat	4
 ORG	centre’s	4
+DATE	earlier this month	4
 ORG	& singhu	4
 ORG	lalru	4
 ORG	patiala-pehowa	4
 ORG	patran-khanauri	4
+GPE	moonak	4
 PERSON	ratia-fatehabad	4
 ORG	talwandi-sirsa	4
+CARDINAL	nine	4
+TIME	earlier in the day	4
+GPE	kundli	4
+LOC	delhi chalo	4
 PERSON	gurnam singh charuni	4
 ORG	delhi traffic police	4
 NORP	indian	4
 ORG	sisodia	4
 NORP	sp	4
 PERSON	loni	4
+GPE	canada	4
 PERSON	sn srivastava	4
 PERSON	anad vihar	4
+DATE	days	4
 ORG	the farmers (empowerment and protection) agreement on price assurance and farm services act	4
 ORG	the central government	4
+GPE	rohtak	4
+GPE	muzaffarnagar	4
+GPE	kanjhawala	4
 PERSON	kisan	4
 ORG	nda	4
+GPE	nangloi	4
+FAC	nangloi chowk	4
+DATE	two days	4
+DATE	late november	4
 ORG	bhopra & loni borders	4
 ORG	lmv	4
 ORG	noida & ghaziabad	4
@@ -115,285 +213,536 @@ PERSON	bajwa	4
 ORG	central	4
 PERSON	khalsa aid	4
 PERSON	piao maniyari	4
+DATE	december	4
 PERSON	hannan mollah	4
+LAW	the minimum support price	4
 ORG	guru tegh bahadur	4
 PERSON	ammy virk	4
+GPE	sandhu	4
+DATE	december 31	3
 PERSON	gurcharan singh	3
+CARDINAL	500	3
 PERSON	lok sabha	3
+ORG	the "bharat bandh	3
+TIME	6 am	3
+GPE	bahadurgarh city	3
 PERSON	hoshiar singh	3
-ORG	national	3
+TIME	a few minutes	3
+CARDINAL	11	3
+DATE	12-18 months	3
+DATE	four months	3
+TIME	6 pm	3
 PERSON	puducherry	3
+DATE	tomorrow	3
+GPE	west bengal	3
 PERSON	sn shrivastava	3
+GPE	north delhi	3
+FAC	up gate	3
 ORG	union agriculture	3
 PERSON	sukhwinder singh	3
+CARDINAL	300	3
 ORG	rohini &	3
+GPE	badusari	3
+PERSON	covid-19	3
 ORG	dmrc	3
+ORG	nirankari ground	3
+CARDINAL	30	3
 ORG	rewari	3
-PERSON	karnal	3
+DATE	sangrur	3
 PERSON	bajghera	3
+DATE	november	3
 PERSON	sidhu	3
 PERSON	sanjay singh	3
+LOC	hyderabad	3
 NORP	british	3
+TIME	three hours	3
 PERSON	veeramma	3
+GPE	bawana	3
 ORG	youth congress	3
+CARDINAL	23	3
 PERSON	lawrence vishnoi	3
 ORG	maninder	3
+DATE	last week	3
 ORG	vikas	3
+DATE	2020.the	3
+FAC	the india gate	3
 PERSON	garhshankar	3
+DATE	november 26 last year	3
 PERSON	samyukta kisan morcha	3
+NORP	barricades	3
 PERSON	apsara border	3
+CARDINAL	62	3
+ORDINAL	fourth	3
 ORG	asi	3
+EVENT	independence day	3
+GPE	nh-9	3
 ORG	yogendra yadavred fort	3
 PERSON	deep sidhu	3
 ORG	un	3
 PERSON	diljit dosanjh	3
+CARDINAL	15	3
 PERSON	balbir singh rajewal	3
+ORG	the delhi-meerut	3
 ORG	wazirabad	3
+GPE	mandir	3
+CARDINAL	200	3
+GPE	farmer	3
+CARDINAL	50	3
+CARDINAL	10	3
+CARDINAL	41	3
+NORP	maharashtra	3
+DATE	more than a month	3
 ORG	agriculture	3
+DATE	winter	3
 ORG	saboli & mangesh	3
+DATE	two weeks	3
 PERSON	jhatikra	3
+DATE	december 5	3
 PERSON	harayana	3
 ORG	rajokri national	3
 PERSON	chilla	3
 ORG	apsara/bhopra/dnd	3
+EVENT	the ‘bharat bandh’	3
 PERSON	kisan sabha	3
 ORG	lampur, auchandi &	3
 ORG	mukarba chowk & gtk road	3
+GPE	usa	3
+DATE	this year	3
 ORG	aicc	3
+ORG	punjabi	3
 ORG	ammy virk fans club	3
+CARDINAL	#	3
 PERSON	amra ram	3
 PERSON	mehrunisa	3
+GPE	meerut	2
+DATE	february 28	2
 ORG	assembly	2
+DATE	march	2
 PERSON	dharmendra	2
 PERSON	khoda	2
+DATE	the past three months	2
 PERSON	jadaun	2
+TIME	the early hours	2
 ORG	nishan sahib	2
 PERSON	bhupinder singh	2
 PERSON	surjit singh	2
+GPE	gurdwara rakabganj	2
+CARDINAL	101	2
+DATE	daily	2
 PERSON	manjinder singh	2
+CARDINAL	1,000	2
 ORG	opposition	2
 ORG	the national capital territory	2
 ORG	laws (special provisions	2
+DATE	2021	2
 ORG	budget	2
-ORG	the "bharat bandh	2
+LOC	the question hour	2
+DATE	the weekend	2
+ORG	connaught place	2
+TIME	afternoon	2
+GPE	mayapuri	2
+DATE	march 26	2
 PERSON	abhimanyu kohar	2
+ORG	tamil nadu	2
+GPE	assam	2
+PERSON	kerala	2
 ORG	shah’s	2
-NORP	gurgaon	2
+DATE	two days ago	2
+DATE	the fifth day	2
+DATE	the last two days	2
+TIME	later in the day	2
 ORG	mukarba chowk & gtk	2
 ORG	borders jharoda	2
 PERSON	daurala jhatikera	2
-PERSON	covid-19	2
 ORG	the green line	2
 PERSON	brigadier	2
 NORP	pandit	2
 PERSON	shree ram sharma	2
 PERSON	tikri kalan	2
 ORG	green line	2
+LAW	section 144 of the criminal procedure code	2
 ORG	haryana police	2
 ORG	the haryana police	2
+WORK_OF_ART	the nirankari ground	2
 PERSON	rahul gandhi	2
 ORG	the union government	2
 PERSON	jagmohan singh	2
 PERSON	bku ekta ugrahan	2
+DATE	45-year-old	2
+GPE	gurugram	2
+CARDINAL	13	2
 ORG	kundli-manesar-palwal	2
 ORG	raf	2
-ORG	bahadurgarh	2
+PRODUCT	taraori	2
+GPE	khanauri	2
+GPE	sirsa	2
+WORK_OF_ART	jo bole	2
+GPE	azadpur	2
+FAC	gt karnal road	2
+TIME	later in	2
 ORG	nirankari	2
 ORG	madhya pradesh	2
 PERSON	medha patkar	2
+PRODUCT	gtk road	2
+LOC	capital	2
 PERSON	ram nath	2
 ORG	“the aam aadmi party	2
 ORG	saurabh bhardwaj	2
 ORG	bhardwaj	2
 PERSON	mla	2
+FAC	rp road	2
 ORG	price assurance and farm services	2
 PERSON	kk ragesh	2
 PERSON	harivansh singh	2
 ORG	the bharatiya kisan union’s	2
-ORG	delhi	2
+WORK_OF_ART	the farmers (empowerment and protection) agreement on price assurance and farm services	2
+DATE	48-year-old	2
+CARDINAL	48,000	2
+ORDINAL	third	2
+DATE	three months	2
+GPE	vihar	2
+GPE	sriniwaspuri	2
+GPE	okhla	2
 ORG	chennai	2
+DATE	last year	2
+CARDINAL	half	2
+CARDINAL	16,600	2
+DATE	03/09/2020	2
+DATE	30/09/2020	2
 PERSON	rajya sabha mps	2
+LAW	the farmers’ produce trade and commerce (promotion and facilitation	2
 PERSON	pawan khatana	2
+GPE	bhopura	2
+GPE	deoria	2
 ORG	the farmers (empowerment and protection) agreement of price assurance and farm services	2
+TIME	3 pm	2
 PERSON	bittu	2
 PERSON	gurjeet aujla	2
+DATE	february 18	2
 PERSON	saurabh verma	2
 PERSON	bhambhia	2
 ORG	goldy	2
+DATE	february 9	2
 ORG	dcp	2
+CARDINAL	12	2
 PERSON	maninder singh	2
+CARDINAL	122	2
 ORG	singhu school & palla	2
 ORG	rajasthan, uttar pradesh and uttarakhand	2
 PERSON	delhi police's	2
 ORG	the ministry of home affairs	2
 ORG	the delhi assembly	2
+DATE	earlier this week	2
 PERSON	rakesh tikait’s	2
+DATE	weeks	2
 PERSON	kisan mahapanchayat	2
 ORG	the youth congress	2
+CARDINAL	about 35	2
+DATE	’ republic day	2
 ORG	nh	2
 ORG	uttar pradesh police	2
 ORG	uttarakhand	2
 ORG	army	2
+PERSON	tricolour	2
 PERSON	sukhdev singh	2
+ORG	bathinda	2
 PERSON	sanjay gandhi transport nagar	2
 PERSON	auchandi borer	2
+QUANTITY	46 km	2
+QUANTITY	60 km	2
 PERSON	ghazipur border	2
 PERSON	deependra pathak	2
+GPE	pakistan	2
+QUANTITY	over 100 km	2
+CARDINAL	around 5,000	2
 PERSON	arora	2
+FAC	india gate	2
 PERSON	patel	2
+GPE	ugrahan	2
+GPE	shahdara	2
 PERSON	kangana	2
 PERSON	anil mittal	2
+CARDINAL	more than 300	2
 ORG	ani	2
+CARDINAL	5	2
 ORG	cctv	2
 ORG	nihangs	2
 PERSON	najafgarh	2
 PERSON	amarjeet singh	2
+GPE	west delhi	2
+FAC	the kisan mazdoor sangharsh commitee	2
 PERSON	kavitha kuruganti	2
 ORG	kmsc	2
+CARDINAL	33	2
 ORG	fir	2
+GPE	baghpat	2
 ORG	the rapid action force	2
 ORG	deep sidhu’s	2
 ORG	kn katzu marg	2
 PERSON	kanjhawala road	2
+CARDINAL	57	2
 PERSON	bagh	2
-PERSON	rohtak	2
+CARDINAL	four to five	2
 PERSON	rajinder singh	2
+CARDINAL	70,000	2
+DATE	the past few days	2
+WORK_OF_ART	the outer ring road	2
+DATE	the last few days	2
 PERSON	kataria	2
+CARDINAL	nearly 30	2
 ORG	dda ground	2
 ORG	rss	2
 PERSON	gurnam singh chaduni	2
 PERSON	satnam singh pannu	2
+TIME	12 noon	2
 PERSON	mukarba chowk 	2
+ORDINAL	seventh	2
+TIME	a difficult morning	2
+CARDINAL	around 10,000	2
+WORK_OF_ART	the tribune	2
+CARDINAL	14	2
+ORDINAL	11th	2
 ORG	union ministers	2
 PERSON	piyush goyal	2
-NORP	maharashtra	2
+FAC	the vigyan bhawan	2
+QUANTITY	1.1 degrees	2
+CARDINAL	at least 50	2
+DATE	december 9	2
 PERSON	dhansa borders	2
 PERSON	jhatikara borders	2
 ORG	cars/ light motor vehicles	2
 PERSON	ghazipur borders	2
+GPE	kotputli	2
+GPE	behror	2
 ORG	the jaipur-delhi	2
+GPE	uk	2
+FAC	the delhi-uttar pradesh	2
+DATE	the seventh day	2
 ORG	bjp’s	2
 ORG	sjm	2
 ORG	atm	2
 ORG	the krantikari kisan union	2
+DATE	months-long	2
 ORG	time	2
 PERSON	mishra	2
 ORG	lampur, auchandi, safiabad	2
 ORG	national highway-8	2
 PERSON	avoid outer ring rd	2
+LOC	apsara	2
 ORG	the delhi-noida direct	2
+PRODUCT	punjab’s	2
+LOC	alwar district	2
 ORG	tribune news servicesonepat	2
 PERSON	kangana ranaut	2
+CARDINAL	3	2
+ORDINAL	fifth	2
+DATE	over two weeks	2
 PERSON	jai singh	2
 PERSON	shingara singh	2
+CARDINAL	20	2
 PERSON	sabholi	2
 PERSON	gazipur	2
 ORG	cabinet	2
 ORG	dmk	2
+GPE	gaziabad	2
 PERSON	bijwasan	2
+PERSON	humara	2
 PERSON	khandelwal	2
 ORG	aiks	2
+DATE	every day	2
+GPE	jaipur	2
 ORG	nh-1	2
-PERSON	mandir	2
+GPE	shani	2
 ORG	haryana through dhansa	2
+GPE	rajokri	2
 ORG	auchandi & lampur	2
+DATE	over three weeks	2
+CARDINAL	1,850	2
 ORG	the farmers (empowerment and protection) agreement of price assurance and farm services act	2
 ORG	the farmers produce trade and commerce (promotion and facilitation	2
 PERSON	outer ring rd	2
-ORG	punjabi	2
 ORG	ਐਮੀ	2
 ORG	delhi-noida	2
+PRODUCT	mundka	2
+GPE	amritsar	2
 PERSON	bicchittar singh	2
 PERSON	kulwinder singh	2
 PERSON	gurpreet singh	2
 PERSON	navjot singh	2
 PERSON	jaswinder singh	2
+TIME	2 p.m.	1
+DATE	nearly four months	1
+DATE	april 4.aap	1
+DATE	next year	1
+DATE	2022	1
 ORG	tribune news serviceghazipur (ghaziabad	1
 ORG	the bhartiya kisan union	1
+GPE	farukkhabad	1
+LOC	kaushambi	1
+DATE	earlier that day	1
 PERSON	rajbir singh jadaun	1
+CARDINAL	about one	1
+GPE	chanakyapuri	1
 PERSON	tilak marg	1
 PERSON	tempo traveler	1
 ORG	manjeet kaur dobka	1
 PERSON	yasmi kaur	1
 PERSON	vasu kukreja	1
+TIME	7 pm	1
+LAW	the pocso act	1
 PERSON	kukreja	1
 ORG	tribune news servicepatiala	1
+DATE	march 6in	1
+CARDINAL	88	1
 PERSON	jagir singh	1
 PERSON	held"jagir singh	1
+DATE	the age of 90	1
+DATE	last one year	1
+DATE	86 years old	1
+GPE	kurali	1
+DATE	february 24	1
 PERSON	kissan morcha	1
 PERSON	buta singh burjgill	1
+DATE	january 26."they	1
+FAC	the gurdwara bangla sahib	1
 ORG	guru harkishan institute of medical sciences and	1
 ORG	corporate social responsibility	1
 ORG	csr	1
+DATE	the last 20 years	1
 PERSON	pralhad joshi	1
+DATE	75 years	1
 PERSON	joshi	1
+DATE	february 9.minister	1
 ORG	housing and urban affairs	1
+CARDINAL	2023.he	1
+CARDINAL	around 1,700	1
+TIME	11 am	1
 PERSON	adhir ranjan chowdhury	1
+TIME	hour	1
 PERSON	mulayam singh	1
-PERSON	the question hour	1
+DATE	a little more than 30 minutes	1
+TIME	12.30 pm	1
+CARDINAL	12.30	1
+TIME	2.30 pm	1
+WORK_OF_ART	the demand for grants for the ministry of railways	1
 ORG	meenakshi lekhi	1
 ORG	chair	1
+DATE	march 15.thursday	1
 PERSON	mahashivratri	1
-ORG	connaught place	1
+TIME	12-hour	1
 PERSON	karol bagh	1
+FAC	kashmiri gate	1
 ORG	sadar	1
+GPE	khan market	1
 ORG	the delhi metro rail corporation	1
 PERSON	the tikri border	1
 PERSON	shatabdi	1
 PERSON	ferozepur	1
 PERSON	deepak kumar	1
+TIME	6 am to 6 pm	1
 ORG	ghazipur border nh-24	1
+DATE	march 15	1
 PERSON	balbir singh	1
+DATE	march 26."farmers	1
 PERSON	pti.he	1
 PERSON	praveen khandelwal	1
 PERSON	kohar	1
-ORG	tamil nadu	1
-PERSON	kerala	1
 ORG	police (southwest	1
 PERSON	ingit pratap singh	1
+GPE	gurupurab	1
 PERSON	guru nanak jayanti	1
+DATE	the fifth consecutive day on monday	1
 ORG	farmers produce trade and commerce (promotion and facilitation	1
+DATE	september 27	1
 PERSON	ram nath kovind's	1
 ORG	monday---	1
 PERSON	amit shah’s	1
 PERSON	narendra tomar	1
 ORG	farm bills	1
+DATE	the fourth day	1
+WORK_OF_ART	delhi chalo’	1
 ORG	protest“if	1
 PERSON	cement	1
 ORG	the delhi-ghaziabad	1
+DATE	the fifth consecutive day	1
+DATE	at least six months	1
 PERSON	karan juneja	1
+TIME	another night	1
 PERSON	ajay kumar bhalla	1
+DATE	next day	1
 PERSON	vigyan bhavan	1
+TIME	a few hours	1
+TIME	5:35 pm	1
 ORG	the delhi	1
+CARDINAL	600	1
 PERSON	sant nirankari ground	1
-ORG	nirankari ground	1
+TIME	several hours	1
+TIME	friday night	1
+TIME	late evening	1
+WORK_OF_ART	karnal range inspector general of police	1
 ORG	delhifarmers	1
 PERSON	delhi police pro eish singhal	1
 PERSON	gandhi	1
+FAC	the delhi-haryana singhu	1
+PRODUCT	farmlaws	1
 PERSON	shingara singh mann	1
+GPE	faridabad	1
+CARDINAL	about 3000	1
 PERSON	sapla	1
+WORK_OF_ART	tikriwal delhi boarder	1
+GPE	sanyukt	1
+GPE	police delhi	1
 PERSON	gurnam singh	1
+GPE	mudhal	1
+GPE	bhiwani	1
+DATE	the second consecutive day	1
+TIME	about one hour	1
+GPE	nuh	1
+GPE	sohna	1
+CARDINAL	125	1
 PERSON	kk rao	1
+PRODUCT	ghaggar	1
 PERSON	haryana-punjab	1
+LOC	delhi chalo'	1
+GPE	karan lake	1
 ORG	bku ugrahan	1
 ORG	punjab-haryana	1
-ORG	khanauri	1
 ORG	bku ugraha	1
+CARDINAL	around 4,000	1
+TIME	around two hours	1
+CARDINAL	6	1
 ORG	bhagat	1
 PERSON	daurala jhatikara	1
 ORG	traffic alerttikri	1
 PERSON	8,bijwasan	1
 PERSON	dundahera	1
+GPE	rohini	1
 PERSON	jharoda kalan	1
+CARDINAL	about 400	1
+DATE	the third consecutive day	1
 NORP	slogans	1
+WORK_OF_ART	dharti mata ki jai	1
 PERSON	narendra	1
 PERSON	kisan virodhi	1
 ORG	inquilab zindabad	1
+WORK_OF_ART	hum honge kaamyab	1
 ORG	the akhil bharatiya kisan sangharsh	1
+GPE	samanvay	1
+WORK_OF_ART	chahe kuch bhi karlo hum badhte jaenge”	1
 ORG	ndtv.she	1
+DATE	the second day on	1
 PERSON	the ramlila maidan	1
+DATE	another day	1
 PERSON	kisan ekta	1
+DATE	six months	1
+DATE	the next six months	1
+DATE	months	1
+GPE	fatehabad	1
+DATE	day	1
+TIME	later in the evening	1
 ORG	the nirankari samagam	1
+FAC	the delhi-chandigarh	1
+DATE	the whole day	1
 ORG	khattar	1
 ORG	haryana’s ml khattar	1
 ORG	the union government’s	1
@@ -402,16 +751,21 @@ PERSON	navjot sidhu	1
 PERSON	amrinder singh	1
 PERSON	raja warring	1
 ORG	dap	1
+DATE	the fourth consecutive day	1
 PERSON	atishi	1
+DATE	2019	1
 ORG	indian youth congress	1
 PERSON	srinivas bv	1
 PERSON	narendra modi’s	1
+EVENT	an ‘atmnirbhar bharat’	1
 NORP	ambanis	1
 ORG	the indian youth congress	1
+FAC	raisina road	1
 PERSON	shastri bhawan	1
 PERSON	rahul rao	1
 PERSON	rao	1
 PERSON	mandir marg	1
+LAW	the farmers’ and produce trade and commerce (promotion and facilitation	1
 ORG	upper house of parliament	1
 PERSON	derek o’brien	1
 PERSON	rajeev satav	1
@@ -420,7 +774,9 @@ PERSON	syed nazir hussain	1
 PERSON	ripun boren	1
 PERSON	dola sen	1
 ORG	billssince	1
+LAW	constitution	1
 PERSON	gandhiji	1
+GPE	ashok nagar	1
 ORG	delhi-uttar pradesh	1
 ORG	police (east)	1
 PERSON	jasmeet singh	1
@@ -428,38 +784,81 @@ PERSON	haryana chief	1
 PERSON	manohar lal khattar	1
 PERSON	lok sabha mps	1
 PERSON	bill'	1
+WORK_OF_ART	the essential commodities (amendment	1
+GPE	jal vihar	1
 ORG	lajpat nagar	1
+DATE	another week	1
+DATE	august 31	1
+CARDINAL	2,40,000	1
+GPE	naraina vihar	1
 PERSON	shakur basti	1
 PERSON	anand parbat	1
 ORG	panchavarna	1
+DATE	55	1
+DATE	1978	1
 PERSON	shankar sarangam	1
+DATE	another three years	1
 PERSON	ramnadhar mandal	1
+GPE	bihar’s katihar	1
+DATE	winters	1
+DATE	60	1
+GPE	west bengal’s malda	1
+DATE	25 years ago	1
 ORG	the bharatiya janata party	1
+DATE	over five years	1
 PERSON	delhi slum	1
 ORG	the delhi urban	1
 ORG	improvement board	1
+DATE	2015	1
 ORG	dusib	1
+CARDINAL	11.30	1
+CARDINAL	over 29,000	1
+GPE	narela	1
+GPE	baprola	1
 PERSON	sultanpuri	1
 ORG	jawaharlal nehru national urban renewal mission	1
+DATE	2007	1
+CARDINAL	29,257	1
+DATE	march-april 2021	1
+DATE	december 2021	1
 ORG	the delhi disaster management authority	1
+DATE	september 30	1
+DATE	september 3	1
 ORG	ddma	1
+CARDINAL	30.09.2020.@cpdelhi	1
+WORK_OF_ART	the essential commodities (amendment) bill	1
+GPE	samajwadi	1
 PERSON	anandiben patel	1
 PERSON	rajendra chowdhury	1
 PERSON	akhilesh yadav	1
+FAC	the noida gate	1
+GPE	sector 14a	1
 ORG	gautam buddh nagar	1
+TIME	police around 12 noon	1
 PERSON	rajbir singh	1
 PERSON	harendra nehra	1
 ORG	additional district magistrate	1
 PERSON	shailendra kumar	1
 PERSON	keshav kumar	1
+GPE	gorakhpur	1
+FAC	rani laxmibai park	1
+FAC	nagar nigam	1
+FAC	the nagar nigam	1
 NORP	communist	1
+CARDINAL	two dozen	1
+GPE	kushinagar	1
+GPE	maharajganj	1
+GPE	anandnagar	1
 PERSON	sugar mill	1
 ORG	vishnu mandir chauraha	1
 ORG	anand nagar	1
 PERSON	farenda tehsil	1
+GPE	jalaun	1
+TIME	over half an hour	1
 ORG	the farmer’s produce trade and commerce (promotion and facilitation	1
 ORG	the farmer's produce trade and commerce (promotion and facilitation	1
 ORG	houses	1
+TIME	an hour minutes	1
 PERSON	ravneet singh	1
 PERSON	santokh choudhary	1
 PERSON	jasbir singh gill	1
@@ -472,127 +871,227 @@ PERSON	करें	1
 ORG	खेती	1
 ORG	हैं जो	1
 PERSON	हैं	1
-ORG	the farmers (empowerment and protection) agreement on price assurance and farm services	1
+DATE	34-year-old	1
 ORG	punjab’s faridkot	1
 ORG	the punjab police	1
+DATE	32-year-old	1
 PERSON	gurlal singh bhalwan	1
 PERSON	manishi chandra	1
 ORG	vishnoi	1
+GPE	ajmer	1
 ORG	goldy brar	1
+DATE	february 5	1
 PERSON	gurvinder	1
 PERSON	sukhvinder	1
 ORG	bhalwan’s	1
 ORG	faridkot’s jubilee chowk	1
 PERSON	zila parishad	1
+GPE	golewala	1
+TIME	late saturday night	1
 PERSON	sarai kale khan	1
 PERSON	gurvinder pal	1
 ORG	goldy’s	1
 PERSON	gurlal	1
 ORG	the student organisation of punjab university (sopu	1
+DATE	october 2020	1
+DATE	29-year-old	1
 PERSON	jaspreet singh	1
+DATE	last tuesday	1
 ORG	swaroop nagar	1
+GPE	northwest delhi	1
 ORG	ac	1
+GPE	pitampura	1
+CARDINAL	more than 10	1
+QUANTITY	100-metre	1
+DATE	jan 26	1
 ORG	commissionersimilar	1
 PERSON	ramanpreet singh	1
+DATE	february 2multi	1
 ORG	delhi-ghaziabad	1
 ORG	delhi-rohtak	1
+CARDINAL	2	1
 PERSON	amarinder	1
+DATE	october	1
 PERSON	eish singhal	1
 ORG	pro	1
+CARDINAL	56	1
 ORG	isbt	1
+DATE	february 2	1
+TIME	11 p.m.	1
 ORG	western uttar pradesh	1
 ORG	the swaminathan commission	1
+CARDINAL	over 40	1
 PERSON	rohit jakhar	1
 PERSON	kejriwal”s	1
+DATE	february 6	1
+TIME	between 12 pm and 3 pm	1
+DATE	over 70 days	1
 PERSON	keen	1
 PERSON	uttarakhanddarshan pal	1
+TIME	one minute	1
 ORG	police (east) deepak yadav	1
+GPE	tihar	1
 PERSON	haryana congress	1
 ORG	governor’s house	1
 PERSON	deepender hooda“videos	1
 ORG	uttar pradesh and uttarakhand	1
 ORG	national convenor @arvindkejriwal	1
+DATE	28th february, 2021	1
 PERSON	mahapanchayat	1
+DATE	two months	1
 PERSON	kondli	1
 ORG	telco	1
 ORG	akshardham & nizammudin khatta	1
 ORG	ip	1
+GPE	bhopra	1
+TIME	11 pm	1
+DATE	january 31	1
+DATE	2017	1
 NORP	home	1
+DATE	jalandhar, september 30two days	1
 ORG	the punjab youth congress	1
 PERSON	angad dutta	1
+DATE	last three days	1
 ORG	garhshankaryouth congress	1
 ORG	punjab youth congress	1
 PERSON	birender dhillon	1
 PERSON	bunty sherke	1
+GPE	saila	1
+GPE	pranav kipal	1
 PERSON	dhillon sherke	1
 PERSON	chandan sharma	1
 ORG	youth congress assembly	1
 ORG	sachin nayyar	1
 PERSON	sunny bedi	1
+GPE	rajan dogarpur	1
 PERSON	rajiv bedi	1
 PERSON	rajesh saila	1
 PERSON	manjinder mohnowal	1
+DATE	everyday	1
+CARDINAL	only half	1
+DATE	at least 52 days	1
 PERSON	rajendra singh	1
 ORG	om service station	1
+CARDINAL	about 40	1
+DATE	52 days	1
 ORG	the bharat service station	1
 PERSON	ram prasad	1
+PRODUCT	prasad	1
+DATE	january 19	1
 ORG	the farmer produce trade and commerce (promotion and facilitation	1
+QUANTITY	12-kilometre	1
+GPE	bahalgarh	1
+GPE	sonipat	1
+QUANTITY	15-km	1
+GPE	mumbai	1
 PERSON	raj bhavanconsider	1
+DATE	highway-44	1
+GPE	bastara	1
+DATE	december 25	1
 ORG	the amritsar-delhi national highway	1
+DATE	the last three days	1
 ORG	kurukshetra	1
+DATE	monday, tuesday and wednesday	1
 ORG	tractor rally	1
+DATE	25-27 jan 2021	1
 ORG	kmp-kgp expressway	1
+LOC	interchanges	1
+DATE	january 25‘jai	1
 PERSON	jawan jai kishan’	1
 PERSON	lal bahadur shashtri	1
+CARDINAL	seventy-five-year-old	1
 PERSON	chaudhary narendra singh	1
+GPE	titawi	1
 PERSON	ankit tomar	1
 PERSON	bharti	1
 ORG	tribune news servicenew delhi/bathinda	1
-ORG	capital	1
+DATE	january 26.special	1
 PERSON	pak twitter	1
 PERSON	pathak	1
-NORP	barricades	1
 PERSON	malwa	1
-PERSON	tricolour	1
 PERSON	kotli village	1
 PERSON	kokri kalan	1
-ORG	bathinda	1
+CARDINAL	more than 40,000	1
+GPE	khanouri	1
+CARDINAL	at least one	1
 ORG	the delhi-rohtak	1
+GPE	sand	1
 PERSON	singh gill	1
 ORG	lakhowal	1
 PERSON	sp rajesh duggal	1
 ORG	the indian reserve battalion	1
 ORG	highlightsthe	1
+DATE	january 24delhi	1
+CARDINAL	46	1
+CARDINAL	308	1
+DATE	january 13 to 18	1
+DATE	november last year	1
+EVENT	the republic day celebration	1
+QUANTITY	around 170 kilometres	1
+QUANTITY	around 62 kilometres	1
+CARDINAL	approximately 12,000 to 13,000	1
+CARDINAL	around 7,000 to 8,000	1
+CARDINAL	around 1,000	1
 PERSON	rakesh arora	1
+DATE	over six weeks	1
 PERSON	kheti	1
 ORG	kisan ekta zindabad'	1
+CARDINAL	2,500	1
+CARDINAL	700	1
 ORG	amaan	1
+CARDINAL	15-20	1
 ORG	uttar pradesh's	1
+CARDINAL	some 300	1
 PERSON	moin	1
+FAC	sadar bazaar	1
 PERSON	chandan kumar	1
+DATE	five years	1
+FAC	kashmere gate	1
 PERSON	kumar	1
+DATE	january 27union	1
 PERSON	prahlad singh patel	1
 ORG	the archeological survey of india	1
+DATE	every year	1
+TIME	this morning	1
+GPE	rajewal	1
 ORG	charuni	1
 PERSON	shah jahan	1
+DATE	residential quarters	1
 PERSON	netaji subhas	1
+DATE	2003	1
 ORG	the ministry of defence	1
 PERSON	minto road	1
+DATE	over two months	1
 PERSON	wazir singh	1
 ORG	ani.elaborate	1
+LOC	the eastern range	1
 ORG	the grey line	1
 ORG	the farmers empowerment and protection) agreement on price assurance	1
+CARDINAL	over 300	1
+CARDINAL	over 2,000	1
 ORG	haryana’s palwalfarmer	1
 ORG	singhu bordertraffic	1
 PERSON	samkyukta kisan morcha	1
+CARDINAL	6,000	1
+CARDINAL	7,000	1
+GPE	transport nagar	1
 PERSON	peeragarhi	1
 PERSON	luyten	1
+GPE	lutyen	1
+EVENT	the kisan gantantra parade	1
 ORG	gb pant	1
+WORK_OF_ART	sunny deol	1
 ORG	kisan mazdoor sangharsh committee	1
+TIME	tuesday evening after hours	1
+DATE	four months—two	1
+DATE	january 26amid	1
 PERSON	kavitha	1
 PERSON	रास्ता भूलकर	1
 ORG	पहुचे।#kisanparade @ani @pti_news	1
+LOC	skmwe	1
 ORG	farmers republic day parade	1
+DATE	more than 6 months	1
+DATE	more than 60 days	1
 ORG	kisan parades	1
 ORG	sit	1
 PERSON	pawan kumar	1
@@ -600,29 +1099,42 @@ PERSON	raj kishore	1
 PERSON	tajender singh virk	1
 PERSON	jitender singh	1
 PERSON	trilochan singh	1
+GPE	gurmukh singh	1
 PERSON	harpreet singh	1
 PERSON	jagtar singh bajwa	1
-PERSON	ghaziabad	1
+CARDINAL	394	1
 ORG	the delhi-meerut expressway	1
 PERSON	buta singh burjgil	1
 PERSON	saravan singh pandher	1
 PERSON	satnam pannu	1
+FAC	the up gate	1
+DATE	november 28.meanwhile	1
 ORG	the union ministry of home affairs (	1
 ORG	rapid action force	1
+DATE	february 4	1
+DATE	january 28	1
 ORG	koan	1
+DATE	january 28bhartiya	1
 ORG	kisan union	1
+EVENT	kisan gantantra	1
 ORG	acm	1
 PERSON	vinay singh	1
 PERSON	lok shakti	1
 ORG	shiv senaskm	1
 ORG	sidhu, lakha sidhana	1
+FAC	red fort violencesp	1
 PERSON	dharmendra malik	1
 ORG	malik	1
+FAC	the delhi-uttar pradesh ghazipur	1
 ORG	the uttar pradesh	1
 ORG	the central reserve police force	1
-ORG	the delhi-meerut	1
+DATE	last two days	1
+GPE	central delhi’s	1
+DATE	the republic day holiday	1
 ORG	traffic police	1
-ORG	vihar	1
+PRODUCT	akshardham	1
+TIME	the afternoon hours	1
+TIME	the evening hours	1
 PERSON	raja garden	1
 PERSON	dhaula kuan	1
 ORG	the traffic police	1
@@ -631,27 +1143,40 @@ PERSON	yudhistir bridge	1
 PERSON	seelam pur	1
 PERSON	geeta colony	1
 PERSON	shankar road	1
+WORK_OF_ART	the outer ring road much ahead of the allotted time.	1
 PERSON	rang de basanti	1
 PERSON	aisa	1
 PERSON	gagan singh	1
 PERSON	bibi	1
 ORG	haryana’s yamuna nagar	1
+QUANTITY	15-kg	1
 PERSON	rani devi	1
+DATE	november 28	1
+DATE	annual	1
+DATE	january 26chaotic	1
+TIME	this noon	1
 ORG	red fortchanting ‘	1
+DATE	february 1	1
+GPE	unionsin	1
 PERSON	sanyukt kisan morcha	1
-PERSON	singhu border	1
 ORG	gandhi transport nagar	1
 ORG	dtu	1
 PERSON	shahabad dairy	1
+GPE	barwala village	1
+GPE	pooth khurd village	1
 PERSON	kanjhawala chowk	1
 PERSON	kutubgarh	1
 PERSON	auchandi border	1
 PERSON	kharkhoda toll plaza	1
 PERSON	singhu shani	1
 ORG	ashok farm/janti	1
+GPE	hamidpur	1
+GPE	sunderpur majra	1
 PERSON	zindopur mukhmelpur	1
+GPE	kadipur	1
 PERSON	kushak colony	1
 ORG	gtk depot	1
+LOC	bawana road	1
 PERSON	jail road	1
 PERSON	knk marg	1
 ORG	mall	1
@@ -661,173 +1186,316 @@ PERSON	pansali chowk	1
 ORG	helipad t-point	1
 PERSON	narela bawana road	1
 PERSON	jhanda chowk	1
+GPE	karala	1
+GPE	kanjhawala village	1
 PERSON	jaunti toll	1
 PERSON	qutubgarh- garhi road	1
+GPE	baprola village	1
+FAC	phirni road	1
 PERSON	jharoda border	1
 PERSON	rohtak bypass	1
 PERSON	asoda toll plaza	1
 ORG	chowdhary	1
 PERSON	kirari	1
+GPE	mangol	1
 PERSON	khanjawala	1
 ORG	ims college	1
 PERSON	lal kuan	1
 ORG	nizamuddin khatta	1
+WORK_OF_ART	pusta road near akshardham	1
+WORK_OF_ART	road number 56	1
 ORG	hasanpur depot	1
 ORG	patparganj industrial area	1
 PERSON	ashoka niketan	1
 ORG	vivekanand mahila college	1
 ORG	iti college	1
 PERSON	ram mandir vivek vihar	1
+TIME	monday evening	1
+DATE	the end of republic day	1
 ORG	vijay chowk	1
+EVENT	the national war memorial	1
+TIME	9 am	1
 PERSON	akshardham dham	1
 ORG	the delhi police and	1
 ORG	anand vihar for apsara	1
 ORG	dcp manjit	1
+GPE	sheoran	1
 PERSON	prem singh negi	1
 ORG	ghaziabad dm ajay shankar pandey	1
 PERSON	deep singhwala	1
 ORG	kirti kisan union	1
 ORG	policethe	1
+CARDINAL	at least 30	1
+CARDINAL	1	1
+TIME	48 hours	1
 PERSON	singhwala	1
 PERSON	raminder singh	1
 PERSON	dipender pathak	1
+GPE	the kisan republic day parade	1
 PERSON	netaji subhash	1
 PERSON	chandra bose's	1
 PERSON	azad hind kisan diwas	1
+CARDINAL	at least 151	1
+DATE	40-day-old	1
+GPE	us	1
+GPE	ngo united sikhs	1
 PERSON	sanya kataria	1
 NORP	united sikhs	1
+DATE	over 40 days	1
+GPE	pti.so	1
 PERSON	gurdeep kaur	1
 PERSON	kaur	1
+CARDINAL	47	1
+DATE	75-year-old	1
 ORG	uttar pradesh-delhi	1
 ORG	medical services centre	1
+GPE	kolkata	1
 PERSON	nikhita murali	1
 ORG	headache	1
 NORP	murali	1
 ORG	kochi	1
-PERSON	jo bole	1
+DATE	january winter	1
+ORDINAL	eighth	1
 ORG	kisan union ekta zindabad’	1
+CARDINAL	nearly 400	1
+CARDINAL	19	1
 ORG	palwal	1
 NORP	samyuktaa	1
+DATE	”today	1
+QUANTITY	about 16 km	1
 PERSON	jagjeet singh dallewal	1
 PERSON	jangbir singh	1
+DATE	january 27strict	1
+CARDINAL	10,000	1
 ORG	delhi’s	1
 ORG	supreme court	1
+CARDINAL	as many as 394	1
 ORG	icu	1
+CARDINAL	408	1
+CARDINAL	6.30	1
+CARDINAL	7.30	1
+DATE	january 25	1
+CARDINAL	more than 5,000	1
+DATE	january 2	1
+DATE	january 8.speaking	1
+DATE	almost 40 days	1
+DATE	the last couple of days	1
+GPE	routes	1
+DATE	40 days	1
+TIME	overnight	1
 PERSON	border	1
 ORG	cars/light motor vehicles	1
+DATE	december 30	1
+DATE	november 28 last year	1
+GPE	rajastan	1
+DATE	january 29	1
 ORG	the bharatiya kisan union	1
+GPE	pti.khatana	1
+CARDINAL	6,000.heavy	1
 ORG	the provincial armed constabulary	1
 ORG	the national highway 24	1
 ORG	delhi-meerut expressway	1
+DATE	january 30days	1
 PERSON	ludhiana	1
 PERSON	ravneet singh bittu	1
 PERSON	partap singh bajwa	1
 ORG	inbajwa	1
 PERSON	rajya sabha mp	1
+DATE	last september	1
 ORG	alipur) pradeep paliwal	1
 ORG	centrerakesh tikait's	1
 ORG	punjabdelhi	1
 PERSON	harkirat mann beniwal	1
+DATE	21	1
 ORG	punjab’s khana	1
+DATE	january 22the	1
+DATE	the next date	1
+DATE	republic day: union	1
 ORG	tomarpunjab	1
+FAC	saturdaywhy	1
 PERSON	capt amarinder	1
+TIME	30 minutes	1
+WORK_OF_ART	the outer ring road on january 26	1
+TIME	barely 20 minutes	1
+TIME	10 minutes	1
 ORG	tomar’s	1
+GPE	doaba	1
 PERSON	msp)."we	1
+ORDINAL	eleventh	1
+TIME	around 1 pm	1
+TIME	the first few hours	1
 PERSON	harpal singh	1
 ORG	bhartiya kisan union - asli arajnaitik	1
+CARDINAL	them?"he	1
+DATE	18 months	1
 ORG	commerce	1
+DATE	january 11	1
 PERSON	bhupinder singh mann	1
 PERSON	shetkari sanghatana	1
 PERSON	anil ghanwat	1
 PERSON	pramod kumar joshi	1
+FAC	sankyukt kisan morcha	1
 PERSON	gurwinder singh	1
 ORG	met department	1
+QUANTITY	9.9 degrees	1
+QUANTITY	6.7 degrees	1
+TIME	25 mm	1
+QUANTITY	11.4 degrees	1
+DATE	january 6	1
 ORG	union	1
 PERSON	veerpal singh	1
 ORG	lpg	1
 PERSON	dharmveer yadav	1
 PERSON	rainwater	1
 ORG	msp.after	1
+DATE	january 4.security	1
+DATE	15 years	1
+DATE	the month of january	1
+FAC	chaduni	1
 ORG	the all india kisan sangharsh coordination committee	1
-NORP	auchandi	1
 PERSON	jind	1
 ORG	members of legislative assembly	1
 ORG	patanjali	1
+LOC	the delhi-jaipur	1
+FAC	the yumuna expressway	1
 ORG	hisar	1
 ORG	karnalhow	1
+LOC	shahjahanpur	1
+DATE	the last 16 days	1
 ORG	yamuna	1
 ORG	singhu school	1
-ORG	gtk road	1
+CARDINAL	at least five	1
+DATE	a day earlier	1
+DATE	november 23	1
 PERSON	sukhbir	1
 PERSON	delhi cm	1
+CARDINAL	actsat	1
 PERSON	chandigarh	1
 ORG	kejriwal’s aap	1
 ORG	the punjab assembly	1
+PRODUCT	the punjab cm	1
+DATE	the last two months	1
 PERSON	amarpreet singh	1
 ORG	tarsemjassar	1
+MONEY	#delhi	1
+MONEY	#farmersbill2020	1
 ORG	farmerprotests	1
+PRODUCT	shambu	1
 ORG	jhajjar-bahadurgarh	1
+DATE	december 2as	1
 PERSON	swadesh jagran manch	1
 ORG	the tribune ashwani mahajan	1
 ORG	mahajan	1
 ORG	unions	1
 PERSON	shiv kumar 'kakkaji'	1
+DATE	limelight last year	1
 NORP	american	1
+DATE	weekly	1
+CARDINAL	100	1
+GPE	bollywood	1
 PERSON	ayushman khurrana	1
+DATE	december last year	1
+DATE	82-year-old	1
+LAW	the citizenship amendment act	1
 ORG	national register of citizens	1
+DATE	march this year	1
 ORG	the all india taxi union	1
 ORG	the union, balwant singh bhullar	1
+DATE	the sixth consecutive day	1
 ORG	tigri	1
-ORG	sirsa	1
 NORP	khalistanis	1
+LOC	kashmir	1
+DATE	the sixth day	1
+DATE	coming days	1
 PERSON	kapil mishra	1
+DATE	many days	1
+DATE	the start of this year	1
 ORG	mishra’s	1
+GPE	jafarabad	1
+DATE	the ninth consecutive day	1
+DATE	their ninth day	1
+DATE	the coming days	1
+DATE	december 3the	1
 NORP	tnsfarmers	1
 PERSON	naresh tikait	1
+TIME	seven-hour	1
 ORG	acts	1
 ORG	shiv kumar ‘kakkaji’	1
 PERSON	kisan adhikar manch	1
 ORG	ekta-ugrahan	1
 PERSON	joginder singh	1
+CARDINAL	3caste	1
+DATE	six months or one year	1
 PERSON	kapoor chand	1
+DATE	one week	1
 PERSON	harnek singh	1
+GPE	malerkotla	1
 PERSON	haji mohammad jameel	1
 PERSON	mohan singh	1
-PERSON	odisha	1
+CARDINAL	250	1
 PERSON	akshay kumar	1
 ORG	the national capital region	1
 ORG	punjabi, diljit	1
+LAW	twitter war	1
 ORG	govt	1
+DATE	the 10th day	1
+DATE	the tenth day	1
 ORG	bjpahead	1
 ORG	pmleft	1
+GPE	piao	1
 PERSON	maniyari	1
+DATE	tenth day	1
+DATE	the days	1
 PERSON	ranjit singh	1
 PERSON	krantikari	1
+CARDINAL	1200	1
+TIME	an hour	1
+QUANTITY	50 kg	1
+QUANTITY	five acres	1
+QUANTITY	50 acres	1
 PERSON	singh bhagiwander	1
 PERSON	bhagiwander	1
 PERSON	gurunam singh	1
 PERSON	gurunam	1
 PERSON	alok solanki	1
+GPE	kannauj	1
+DATE	the 22 days	1
+DATE	38-year-old	1
+GPE	tungwali village	1
+DATE	the last several days	1
+DATE	three weeks	1
+DATE	week 4	1
 PERSON	ram singh	1
+DATE	the 22nd day	1
 PERSON	arvind kejriwal’s	1
 ORG	the (	1
+DATE	the third day	1
 PERSON	mps manoj tiwari	1
 PERSON	gautam gambhir	1
+CARDINAL	13,000	1
+LOC	south	1
 ORG	east delhi municipal corporations	1
 PERSON	jai prakash	1
 PERSON	anamika mithilesh	1
 ORG	kejriwal’s flagstaff road	1
+CARDINAL	only 13	1
 ORG	the bku ekta (ugrahan	1
 PERSON	shiv kumar kakkaji	1
+TIME	noon	1
 ORG	union ministers narendra	1
+DATE	december 10	1
+DATE	the past 11 days	1
 ORG	bahujan samaj party	1
 ORG	congress party	1
 ORG	the national highway-44	1
 PERSON	mla jarnail	1
-PERSON	humara	1
+TIME	the night	1
+WORK_OF_ART	jai kisan	1
+TIME	11 am and 3 pm	1
 PERSON	chandni chowk	1
 ORG	sadar bazar	1
 ORG	the confederation of the all india traders	1
+GPE	cait delhi	1
 PERSON	vipin ahuja	1
 ORG	the all india transport welfare association	1
 PERSON	kamaljeet gill	1
@@ -837,10 +1505,13 @@ PERSON	sanjay samrat	1
 ORG	delhi taxi tourist transporters association	1
 ORG	delhi state taxi cooperative society	1
 ORG	kaumi ekta welfare association	1
+PRODUCT	samrat	1
 ORG	bangla sahib	1
 PERSON	rajender soni	1
 ORG	the delhi auto rickshaw sangh	1
 ORG	delhi pradesh taxi union	1
+DATE	the last 13 days	1
+DATE	each day	1
 PERSON	rajinder singh kohli	1
 PERSON	adil khan	1
 PERSON	apmc azadpur mandi	1
@@ -848,27 +1519,38 @@ PERSON	khan	1
 PERSON	sp gupta	1
 PERSON	ghazipur mandi	1
 PERSON	sarojini nagar	1
+WORK_OF_ART	singhu, auchandi, piau maniyari & mangesh	1
 ORG	saboli & singhu	1
 ORG	the ministry of home affairs (mha	1
 PERSON	satish golcha	1
+GPE	north zone	1
 PERSON	gaurav bhatia	1
 ORG	cm kejriwal	1
 PERSON	rousing	1
+CARDINAL	as over 2,000	1
 PERSON	anil kumar	1
 ORG	baba azad	1
+DATE	the past 13 days	1
 PERSON	rudru singh mansa	1
+DATE	the last 12 days	1
 ORG	swaraj india	1
-NORP	rajasthan	1
+GPE	jharkhand	1
+WORK_OF_ART	kisan ekta zindabad	1
+TIME	late afternoon	1
+TIME	11 am to 3 pm	1
 PERSON	mollah	1
 PERSON	kovind	1
 PERSON	ram nath kovind	1
 ORG	ncp	1
 PERSON	sharad pawar	1
 ORG	shiromani akali dal	1
+CARDINAL	over 50,000	1
 ORG	punjab civil secretariat staff association	1
 PERSON	sukhchain khaira	1
 ORG	jjp	1
+TIME	between 12 noon to 3 pm	1
 ORG	trinamool congress	1
+GPE	jehanabad	1
 ORG	patna-palamu express	1
 PERSON	bhubaneswar	1
 PERSON	cuttack	1
@@ -881,13 +1563,23 @@ PERSON	shiv sena-ncp-congress	1
 PERSON	anna hazare	1
 PERSON	ralegan siddhi	1
 ORG	maharashtra’s	1
+GPE	ahmednagar	1
+CARDINAL	dozens	1
+GPE	telangana	1
+GPE	karnataka	1
 ORG	meghalaya	1
 ORG	arunachal pradesh	1
 ORG	the farmers (empowerment and protection	1
+DATE	the eighth day	1
+TIME	nearly an hour	1
+FAC	akhil bhartiya	1
 PERSON	kisan sangharsh	1
 PERSON	samanvay samiti	1
+DATE	nearly a week	1
 PERSON	ravindra shukla	1
 PERSON	rampal jat	1
+DATE	the eight-day	1
+DATE	their seventh day	1
 ORG	lampur, auchandi	1
 PERSON	jharoda borders	1
 PERSON	badusarai border	1
@@ -895,6 +1587,7 @@ ORG	light motor vehicle	1
 PERSON	jhatikara border	1
 ORG	bhim army	1
 PERSON	chandrashekhar azad	1
+DATE	the last seven days	1
 PERSON	azad	1
 ORG	bahadurgarh-jharoda-najafgarh	1
 PERSON	badli-dhansa	1
@@ -902,26 +1595,50 @@ PERSON	jargadpur chowk-mundela road	1
 PERSON	balor-kair	1
 PERSON	gubahan-bakargarh	1
 PERSON	devarkhana-galibpur	1
+PRODUCT	badsha-galibpur	1
 PERSON	luksar-mundela	1
 PERSON	purushottam singh gill	1
 PERSON	inderjit singh	1
+PRODUCT	the shiv sena	1
+GPE	modi	1
 PERSON	guru teg bahadur	1
-ORG	gurdwara rakabganj	1
 ORG	haryana cm khattar	1
 ORG	marathi	1
-PERSON	faridkot	1
+QUANTITY	400 km	1
+GPE	guru	1
+DATE	last month	1
 PERSON	akali dal	1
+CARDINAL	80,000	1
 ORG	sad	1
 PERSON	svaiman singh	1
+DATE	nearly 20 days	1
+DATE	about three months	1
+DATE	month	1
+DATE	the last four years	1
+CARDINAL	at least 1,500-2,000	1
+DATE	the last 22 days	1
+DATE	november last week	1
+DATE	december 7.“more than 40	1
 ORG	the aam aadmi party’s	1
+MONEY	50 per cent	1
 PERSON	kirtan darbaar	1
 ORG	the guru	1
+DATE	over a month ago	1
+DATE	december 29	1
+DATE	december 30.security	1
 ORG	noida & gaziabad	1
 ORG	bhopra & loni	1
+DATE	the past 10 days	1
+DATE	december 8	1
 PERSON	manoj tiwari	1
 ORG	aam aadmi party's	1
+DATE	13 days	1
 ORG	mother teresa crescent	1
+GPE	lutyen’s delhi	1
+DATE	sunday 3 pm	1
+DATE	"let	1
 PERSON	jp nadda	1
+DATE	four weeks	1
 PERSON	ravneet bittu	1
 PERSON	js gill	1
 ORG	the leader of opposition in rajya	1
@@ -930,9 +1647,15 @@ ORG	gandhi’s	1
 ORG	the upper house	1
 PERSON	amninderpal singh virk	1
 PERSON	kisan anthem	1
+CARDINAL	about 3 million	1
+DATE	just two days	1
 PERSON	geya bhaven	1
+GPE	media	1
 ORG	bbc de utte	1
+FAC	the kisan anthem	1
+GPE	गया	1
 PERSON	उत्ते	1
+PRODUCT	farmersprotest pic.twitter.com/cs3eox2y3	1
 ORG	bharat bandh'	1
 ORG	farmersprotest	1
 ORG	bharat bandh #modiyesorno	1
@@ -942,24 +1665,36 @@ PERSON	maan	1
 PERSON	harbhajan mann	1
 PERSON	mann	1
 PERSON	singer mika	1
+GPE	the delhi-agra	1
+DATE	december 14.this	1
 ORG	garbage	1
 PERSON	malkar singh	1
+DATE	november 25.on	1
 PERSON	gurvinder singh	1
+DATE	november 30	1
 PERSON	bhajan singh	1
 ORG	bharat kisan union	1
+TIME	eight to 10 hours	1
 PERSON	jagjit singh	1
+DATE	nearly two weeks	1
+EVENT	no new year	1
 PERSON	harjinder singh	1
 ORG	punjab’s ropar	1
 PERSON	harmesh singh	1
 ORG	punjab’s hoshiarpur	1
+DATE	a month	1
+DATE	a year	1
 PERSON	hoshiarpur	1
 ORG	harjinder	1
 ORG	gurpreet hayer	1
 PERSON	pratap singh	1
+GPE	bhatinda	1
 PERSON	gursikh sewa	1
 ORG	pratap	1
 ORG	the bangla sahib gurudwara	1
+DATE	the first day of the year	1
 ORG	the working people’s charter	1
+EVENT	new year	1
 PERSON	nirmal agni	1
 ORG	working people’s charter	1
 PERSON	mandi	1
@@ -968,42 +1703,89 @@ ORG	delhihow	1
 ORG	the national green tribunal	1
 PERSON	satish kumar	1
 PERSON	tikri-kalan	1
-ORG	mundka	1
 ORG	neelwal	1
+DATE	more than seven years	1
 ORG	ngt	1
+CARDINAL	400	1
+TIME	minutes	1
 PERSON	shanbir singh sandhu	1
 ORG	guru nanak dev university	1
 PERSON	shahnaz gill	1
+DATE	21-year-old	1
+DATE	25-year-old	1
 PERSON	gill	1
+GPE	shahjahanpur of rajasthan’s alwar	1
+GPE	shajahapur	1
 PERSON	jaisinghpur-khera border	1
 PERSON	aruna roy	1
 PERSON	kisan panchayat	1
 PERSON	rampal chaudhary	1
 PERSON	shahjahapur	1
 PERSON	chaudhary	1
+GPE	bansur	1
 ORG	alwar	1
 PERSON	ram murti joshi	1
 ORG	rewari’s superintendent of police abhishek jorwal	1
+LAW	section 144 of the crpc	1
+LOC	jaisinghpur kheda	1
 PERSON	rajasthan-haryana	1
-ORG	gurugram	1
+QUANTITY	70 km	1
 PERSON	ro khanna	1
+WORK_OF_ART	singhu, auchandi,	1
 ORG	sabholi & mangesh	1
 ORG	lampur, safiabad & singhu	1
-ORG	amritsar	1
+DATE	twenty days	1
+CARDINAL	zero	1
+DATE	some a few days	1
+DATE	november 27	1
+QUANTITY	a few kilometres	1
+CARDINAL	between two	1
+DATE	30-year-old	1
+TIME	every morning	1
+DATE	the past eight days	1
+DATE	a few days	1
+WORK_OF_ART	’ in the day	1
+DATE	about a week ago	1
+DATE	58-year-old	1
 PERSON	arvind kejriwal”	1
 PERSON	wifi	1
+FAC	the delhi-haryana	1
+DATE	december 12	1
 PERSON	jatin singh	1
 ORG	ngo hemkunt foundation	1
 PERSON	balveer singh	1
+DATE	65	1
+LOC	moga district	1
+DATE	a week	1
 PERSON	ramanpreet kaur	1
+CARDINAL	29	1
 PERSON	sukhwinder kaur	1
+DATE	53	1
 ORG	punjab’s bathinda	1
+DATE	november 30.“this	1
 ORG	punjab	1
+DATE	two-day	1
+DATE	nearly a month	1
+CARDINAL	27	1
+DATE	50-year-old	1
+DATE	the last one week	1
 PERSON	deepak pandey	1
+DATE	18-year-old	1
+DATE	this season	1
+QUANTITY	3.4 degrees	1
 ORG	the india meteorological department	1
 PERSON	the safdarjung observatory	1
+QUANTITY	3.4 degrees celsius,	1
 ORG	imd	1
+QUANTITY	around 22 degrees	1
+DATE	its fourth week	1
 ORG	the jhatikara border	1
+DATE	almost four weeks	1
+TIME	2.50 am and	1
+CARDINAL	36	1
+TIME	around 12 noon	1
+DATE	april	1
+GPE	dc	1
 PERSON	kumar bansal	1
 PERSON	jashandeep singh randhawa	1
 PERSON	shashi vasundhara	1

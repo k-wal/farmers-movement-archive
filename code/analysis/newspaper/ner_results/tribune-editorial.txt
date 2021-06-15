@@ -1,40 +1,93 @@
+GPE	centre	12
 ORG	bjp	6
+GPE	bills	5
 ORG	msp	4
+ORDINAL	first	4
 ORG	ec	3
+CARDINAL	three	3
 PERSON	jana sangh	3
+PERSON	rakesh tikait	2
+CARDINAL	two	2
+GPE	india	2
 PERSON	badal	2
 ORG	congress	2
 NORP	akalis	2
 PERSON	narendra modi	2
+DATE	june	2
 PERSON	rihanna	2
+CARDINAL	millions	2
 ORG	singhu	2
+GPE	tikri	2
+GPE	delhi	2
+GPE	new delhi	2
 ORG	the election commission	1
+GPE	west bengal	1
+CARDINAL	eight	1
 ORG	the trinamool congress	1
-PERSON	rakesh tikait	1
+DATE	a day	1
 PERSON	mamata banerjee	1
+DATE	earlier this week	1
+DATE	15-day	1
+DATE	two-month-long	1
+DATE	the past two months	1
+CARDINAL	only two	1
+DATE	october 14	1
+DATE	november 13	1
 ORG	railway	1
 PERSON	piyush goyal	1
 ORG	agriculture	1
 PERSON	narendra singh	1
 PERSON	tomar	1
 ORG	state	1
+WORK_OF_ART	the minimum support price	1
+DATE	1967	1
 PERSON	thegurnam singh	1
 NORP	communists	1
+DATE	march 27, 1970	1
 ORG	the akali dal (sant group	1
 PERSON	balwant singh	1
 PERSON	balram das tandon	1
+DATE	50-year-long	1
 ORG	the union cabinet	1
 ORG	harsimrat badal	1
 ORG	the agricultural produce marketing committee	1
+DATE	2022	1
 PERSON	lok sabha	1
+DATE	friday	1
+MONEY	86 per cent	1
+DATE	early june	1
+DATE	the three months	1
 ORG	parliament	1
+DATE	today	1
 PERSON	greta thunberg	1
+DATE	january 26	1
 PERSON	narendra modi’s	1
+DATE	january 30	1
 PERSON	greta	1
+DATE	over two months	1
 ORG	sad	1
+DATE	2015	1
+DATE	the day	1
+DATE	february 14	1
 ORG	the punjab vidhan sabha	1
+EVENT	the seventh schedule	1
+LAW	constitution	1
 PERSON	vidhan sabha	1
+DATE	october 20	1
 ORG	himachal pradesh	1
 ORG	jammu & kashmir	1
 PERSON	ladakh	1
+CARDINAL	over 200	1
+DATE	the first week of november	1
+DATE	over a month	1
+DATE	a fortnight ago	1
+GPE	haryana	1
 ORG	opposition	1
+CARDINAL	one	1
+CARDINAL	60	1
+CARDINAL	six	1
+DATE	last year	1
+ORDINAL	second	1
+DATE	september	1
+DATE	every few days	1
+DATE	these days	1
