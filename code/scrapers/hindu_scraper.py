@@ -114,6 +114,7 @@ def get_day_articles(url, dir_path):
 	write_day_articles(all_articles,filename, dir_path)
 
 
+# given start date and end date, write articles of the interval (both inclusive)
 def write_date_range_articles(start_date, end_date, dir_path):
 	cur_date = start_date
 	while cur_date <= end_date:

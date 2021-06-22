@@ -132,6 +132,15 @@ def get_month_articles(dir_path, article_df):
 def get_counts(df):
 	dictionary = gensim.corpora.Dictionary(df)
 	dictionary.filter_extremes(no_below=200, no_above=1, keep_n=200)
+	span = 200
+
+	# reduce span until we get atleast 20 tokens
+	while len(list(dictionary.values())) <= 20: 
+		span -= 20
+		print(span)
+		dictionary = gensim.corpora.Dictionary(df)
+		dictionary.filter_extremes(no_below=span, no_above=1, keep_n=200)
+
 	vocab = list(dictionary.values()) #list of terms in the dictionary
 	
 	corpus = [dictionary.doc2bow(sent) for sent in df]
@@ -180,11 +189,14 @@ def plot_wordcloud(counts):
 # dir_path = '../../../corpus/tribune/punjab'
 # filename = 'tribune-punjab'
 
-# dir_path = '../../../corpus/tribune/nation'
-# filename = 'tribune-nation'
+dir_path = '../../../corpus/tribune/nation'
+filename = 'tribune-nation'
 
-dir_path = '../../../corpus/tribune/chandigarh'
-filename = 'tribune-chandigarh'
+# dir_path = '../../../corpus/tribune/delhi'
+# filename = 'tribune-delhi'
+
+# dir_path = '../../../corpus/tribune/chandigarh'
+# filename = 'tribune-chandigarh'
 
 # dir_path = '../../../corpus/hindustantimes'
 # filename = 'hindustan-times'
@@ -192,9 +204,10 @@ filename = 'tribune-chandigarh'
 # dir_path = '../../../corpus/timesofindia'
 # filename = 'timesofindia'
 
-dir_path = '../../../corpus/hindu'
-filename = 'hindu'
+# dir_path = '../../../corpus/hindu'
+# filename = 'hindu'
 
 counts = get_all_counts(dir_path)
+# print(counts)
 print_counts(counts, filename)
 plot_wordcloud(counts)
