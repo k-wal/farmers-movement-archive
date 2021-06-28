@@ -44,7 +44,7 @@ to_exclude = [
 "agit"
 ]
 STOPWORDS = list(STOPWORDS)
-STOPWORDS.extend(to_exclude)
+# STOPWORDS.extend(to_exclude)
 
 def check_article_relevance(title, desc):
 	keywords = [
@@ -189,8 +189,8 @@ def plot_wordcloud(counts):
 # dir_path = '../../../corpus/tribune/punjab'
 # filename = 'tribune-punjab'
 
-dir_path = '../../../corpus/tribune/nation'
-filename = 'tribune-nation'
+# dir_path = '../../../corpus/tribune/nation'
+# filename = 'tribune-nation'
 
 # dir_path = '../../../corpus/tribune/delhi'
 # filename = 'tribune-delhi'
@@ -206,6 +206,9 @@ filename = 'tribune-nation'
 
 # dir_path = '../../../corpus/hindu'
 # filename = 'hindu'
+
+dir_path = '../../../corpus/deccanherald'
+filename = 'deccanherald'
 
 counts = get_all_counts(dir_path)
 # print(counts)

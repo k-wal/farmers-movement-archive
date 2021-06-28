@@ -38,7 +38,10 @@ def get_text_dh(url):
 		return '', '', ''
 	soup = BeautifulSoup(r.content, 'html5lib')
 
-	title = soup.find('meta', property="og:title")['content']
+	try:
+		title = soup.find('meta', property="og:title")['content']
+	except:
+		return '', '', ''
 
 	link_list = soup.find('div', class_="item-list")
 	lis = link_list.findAll('li')
@@ -62,7 +65,7 @@ def write_day_articles(articles, date, dir_path):
 	if not os.path.isdir(dir_path):
 		os.mkdir(dir_path)
 
-	file = open(dir_path+'/'+date+'.txt', 'a')
+	file = open(dir_path+'/'+date+'.txt', 'w')
 	to_write = ''
 	for article in articles:
 		title, text, date, section, url = article['title'], article['text'], article['date'], article['section'], article['url']
@@ -101,14 +104,14 @@ def write_date_range_articles(start_date, end_date, dir_path):
 	while cur_date <= end_date:
 		date_string = datetime.datetime.strftime(cur_date, "%Y-%m-%d")
 		url = 'https://www.deccanherald.com/sitemap/detail/days/' + date_string
-		print(url)
+		print("\n\n" + url)
 		get_day_articles(url, dir_path)
 		time.sleep(3)
 		cur_date += datetime.timedelta(days=1)
 
 
-start_string = "01-05-2021"
-end_string = "31-05-2021"
+start_string = "01-04-2020"
+end_string = "30-04-2020"
 dir_path = '../../corpus/deccanherald'
 
 start_date = datetime.datetime.strptime(start_string, "%d-%m-%Y")
