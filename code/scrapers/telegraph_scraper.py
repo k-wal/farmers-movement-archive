@@ -46,6 +46,7 @@ def get_text_telegraph(url):
 		paras = div.findAll('p')
 		for p in paras:
 			text += p.text.strip() + ' '
+	text = text.replace('\n',' ')
 	section = get_section(url)
 	# print(title)
 	# print(section)
@@ -144,9 +145,9 @@ def write_one_section(section_name, main_dir_path, start_date, end_date):
 		print("\n\n SECTION ENDING : " + section_name + "\n-----")
 
 
-section_name = 'north-east'
+section_name = 'business'
 start_date = "01-08-2020"
-end_date = "31-12-2020"
+end_date = "30-06-2021"
 dir_path = '../../corpus/telegraph'
 
 start_date = datetime.datetime.strptime(start_date, "%d-%m-%Y")
