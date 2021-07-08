@@ -1,4 +1,5 @@
 from .upload_functions import *
+# from upload_functions import UploadFunctions
 
 def get_location(part):
 	if '--' in part:

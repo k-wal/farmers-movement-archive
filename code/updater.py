@@ -1,11 +1,12 @@
 #from scrapers.hindu_scraper import get_day_articles as get_hindu_day_articles
 from scrapers.tribune_scraper import write_all_sections as scraper_tribune
 from scrapers.tribune_scraper import write_one_section as scraper_tribune_section
-from scrapers.hindu_scraper import write_date_range_articles as scraper_hindu
 from scrapers.toi_scraper import write_date_range_articles as scraper_toi
-from upload.upload_hindu import upload_date as upload_date_hindu
-from upload.upload_toi import upload_date as upload_date_toi
-from upload.upload_tribune import upload_move_section as upload_section_tribune
+from uploaders.upload_toi import upload_date as upload_date_toi
+from uploaders.upload_tribune import upload_move_section as upload_section_tribune
+
+from scrapers.hindu_scraper import HinduScraper
+from uploaders.hindu_uploader import HinduUploader
 
 import pickle
 import datetime
@@ -41,13 +42,15 @@ def update_hindu_interval(start_string, end_string):
 	end_date = datetime.datetime.strptime(end_string, "%d-%m-%Y")
 	date = start_date
 	dir_path = '../corpus/hindu'
+	scraper = HinduScraper()
+	uploader = HinduUploader()
 
 	while date <= end_date:
 		month_string = date.strftime("%m-%Y")
 		date_string =  date.strftime("%Y-%m-%d")
 		filepath = dir_path + '/' + month_string + '/' + date.strftime("%d-%m-%Y") + '.txt'
-		scraper_hindu(date, date, dir_path)
-		upload_date_hindu(date_string, filepath, month_string)
+		scraper.write_date_range_articles(date, date, dir_path)
+		uploader.upload_date(date_string, filepath, month_string)
 
 		date += datetime.timedelta(days=1)
 
@@ -75,15 +78,15 @@ def update_toi_interval(start_string, end_string):
 filename = 'update_stats'
 
 # FOR Times of India
-start_string = "01-05-2021"
-end_string = "31-05-2021"
-update_toi_interval(start_string, end_string)
+# start_string = "01-05-2021"
+# end_string = "31-05-2021"
+# update_toi_interval(start_string, end_string)
 
 
 # FOR HINDU
-# start_string = "01-05-2021"
-# end_string = "31-05-2021"
-# update_hindu_interval(start_string, end_string)
+start_string = "06-06-2021"
+end_string = "30-06-2021"
+update_hindu_interval(start_string, end_string)
 
 
 # FOR TRIBUNE
