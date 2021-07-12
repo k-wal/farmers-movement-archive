@@ -8,7 +8,7 @@ from uploaders.upload_tribune import upload_move_section as upload_section_tribu
 from scrapers.hindu_scraper import HinduScraper
 from uploaders.hindu_uploader import HinduUploader
 
-from scrapers.copy_toi_scraper import TOIScraper
+from scrapers.toi_scraper import TOIScraper
 from uploaders.toi_uploader import TOIUploader
 
 import pickle
