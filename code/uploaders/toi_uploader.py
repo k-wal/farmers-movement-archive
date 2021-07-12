@@ -1,48 +1,48 @@
 from .upload_functions import UploadFunctions
 
-class HinduUploader(UploadFunctions):
+
+class TOIUploader(UploadFunctions):
 
 	def __init__(self):
-		super(HinduUploader, self).__init__()
-		self.hindu_item_set_id = 7347
-		self.hindu_item_set_dict = {'12-2020' : 327,
-		'11-2020' : 7348,
-		'10-2020' : 7454,
-		'09-2020' : 7972,
-		'08-2020' : 8335,
-		'07-2020' : 8495,
-		'06-2020' : 9297,
-		'05-2020' : 9298,
-		'04-2020' : 9299,
-		'01-2021' : 1319417,
-		'02-2021' : 1324986,
-		'03-2021' : 1325149,
-		'04-2021' : 1325278,
-		'05-2021' : 1331640,
-		'06-2021' : 3439844}
-
+		super(TOIUploader, self).__init__()
+		self.toi_item_set_id = 1631756
+		self.toi_item_set_dict = {'12-2020' : 1631996,
+		'11-2020' : 1631979,
+		'10-2020' : 1631960,
+		'09-2020' : 1631948,
+		'08-2020' : 1631907,
+		'07-2020' : 1631888,
+		'06-2020' : 1631848,
+		'05-2020' : 1631815,
+		'04-2020' : 1631794,
+		'01-2021' : 1740012,
+		'02-2021' : 1740108,
+		'03-2021' : 1740147,
+		'04-2021' : 1740178,
+		'05-2021' : 1740224,
+		'06-2021' : 3439883
+		}
 		self.keywords = [
-		# 'farmer',
-		# 'mandi',
-		# 'agrarian crisis',
 		'kisan sabha',
-		#'msp',
 		'bku',
 		'tikri', 
 		'singhu', 
-		# 'ghazipur',
 		'anti-farmer',
 		'agri-reform',
+		'agriculture bills',
 		'farm bill',
 		'farm bills',
 		'farmers bills',
 		'farmers\' bills',
+		'farmers\' protest',
 		'farm policy',
 		'farm policies',
+		'farm laws',
 		'pro-farmer',
 		'Essential Commodities (Amendment) Bill, 2020',
 		'Essential Commodities Bill, 2020',
 		'Essential Commodities Act, 2020',
+		'SpeakUpForFarmers',
 		'agri bill',
 		'agri ordinance',
 		'farm ordinance',
@@ -67,7 +67,7 @@ class HinduUploader(UploadFunctions):
 			return part[:-1]
 		return part 
 
-	def upload_date(self, date_string, filepath, month):
-		self.upload_file(filepath, date_string, self.hindu_item_set_dict[month], 
-			self.hindu_item_set_id,'The Hindu', '', self.keywords, self.get_location)
 
+	def upload_date(self, date_string, filepath, month):
+		self.upload_file(filepath, date_string, self.toi_item_set_dict[month], self.toi_item_set_id,
+			'The Times of India', '', self.keywords, self.get_location)
