@@ -91,8 +91,8 @@ filename = 'update_stats'
 
 
 # FOR HINDU
-start_string = "01-07-2021"
-end_string = "31-07-2021"
+start_string = "23-08-2021"
+end_string = "31-08-2021"
 update_hindu_interval(start_string, end_string)
 
 
