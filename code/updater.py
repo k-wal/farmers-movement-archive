@@ -48,6 +48,7 @@ def update_hindu_interval(start_string, end_string):
 	scraper = HinduScraper()
 	uploader = HinduUploader()
 
+	# iterate through dates and scrape+upload one by one
 	while date <= end_date:
 		month_string = date.strftime("%m-%Y")
 		date_string =  date.strftime("%Y-%m-%d")
@@ -71,6 +72,7 @@ def update_toi_interval(start_string, end_string):
 	scraper = TOIScraper()
 	uploader = TOIUploader()
 
+	# iterate through dates to scrape, upload one by one
 	while date <= end_date:
 		month_string = date.strftime("%m-%Y")
 		date_string =  date.strftime("%Y-%m-%d")
@@ -85,15 +87,15 @@ def update_toi_interval(start_string, end_string):
 filename = 'update_stats'
 
 # FOR Times of India
-# start_string = "06-06-2021"
-# end_string = "30-06-2021"
-# update_toi_interval(start_string, end_string)
+start_string = "26-07-2021"
+end_string = "31-07-2021"
+update_toi_interval(start_string, end_string)
 
 
 # FOR HINDU
-start_string = "23-08-2021"
-end_string = "31-08-2021"
-update_hindu_interval(start_string, end_string)
+# start_string = "23-08-2021"
+# end_string = "31-08-2021"
+# update_hindu_interval(start_string, end_string)
 
 
 # FOR TRIBUNE
