@@ -87,9 +87,9 @@ def update_toi_interval(start_string, end_string):
 filename = 'update_stats'
 
 # FOR Times of India
-start_string = "26-07-2021"
-end_string = "31-07-2021"
-update_toi_interval(start_string, end_string)
+# start_string = "26-07-2021"
+# end_string = "31-07-2021"
+# update_toi_interval(start_string, end_string)
 
 
 # FOR HINDU
@@ -116,8 +116,8 @@ update_toi_interval(start_string, end_string)
 # 			'himachalpradesh',
 # 			'jammukashmir']
 
-# start_string = "01-05-2021"
-# end_string = "31-05-2021"
+# start_string = "01-08-2021"
+# end_string = "31-08-2021"
 
-# temp_sections = sections[15:16]
+# temp_sections = ['musing']
 # update_tribune_interval(start_string, end_string, temp_sections)

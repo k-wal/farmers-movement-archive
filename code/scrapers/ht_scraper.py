@@ -74,7 +74,7 @@ def write_page_articles(articles, dir_path, section):
 		file.write(to_write)
 		file.close()
 
-def get_page_articles(url, dir_path, section):
+def get_page_articles(url, beg_date, end_date, dir_path, section):
 	headers = {'user-agent' : 'Mozilla/5.0',
 	'accept': 'application/json, text/plain, */*'
 	}

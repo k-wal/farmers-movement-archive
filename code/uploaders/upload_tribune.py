@@ -79,7 +79,6 @@ def upload_move_section(section_name, path):
 	months = sorted(os.listdir(dir_path))
 	for month in months:
 		cur_dir_path = dir_path + '/' + month
-		cur_store_dir_path = store_dir_path + '/' + month
 		upload_section(cur_dir_path, item_set_dict[section_name], tribune_item_set_id,'The Tribune', '', keywords, get_location)
 		cur_store_dir_path = cur_dir_path.replace('/to_upload', '')
 		move_files(cur_dir_path, cur_store_dir_path)
