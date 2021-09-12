@@ -48,14 +48,14 @@ def remove_repetitions_directory(dir_path):
 # for month in months:
 # 	remove_repetitions_directory(dir_path + '/' + month)
 
-
-dir_path = '../../corpus/hindustantimes'
-months = os.listdir(dir_path)
-for month in months:
-	print("-----" + month + "-----")
-	path = dir_path + '/' + month
-	sections = os.listdir(path)
-	for section in sections:
-		print(section)
-		remove_repetitions_directory(path + '/' + section)
-	print("\n\n")
+# dir_path is the path to corpus/hindustantimes
+def remove_all_ht_repetitions(dir_path):
+	months = os.listdir(dir_path)
+	for month in months:
+		print("-----" + month + "-----")
+		path = dir_path + '/' + month
+		sections = os.listdir(path)
+		for section in sections:
+			print(section)
+			remove_repetitions_directory(path + '/' + section)
+		print("\n\n")

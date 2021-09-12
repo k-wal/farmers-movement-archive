@@ -45,7 +45,7 @@ def combine_interval(start_string, end_string, dir_path):
 		date += datetime.timedelta(days=1)
 
 
-start_string = "01-04-2020"
-end_string = "31-05-2021"
-dir_path = '../../corpus/hindustantimes'
-combine_interval(start_string, end_string, dir_path)
+# start_string = "01-04-2020"
+# end_string = "31-05-2021"
+# dir_path = '../../corpus/hindustantimes'
+# combine_interval(start_string, end_string, dir_path)
