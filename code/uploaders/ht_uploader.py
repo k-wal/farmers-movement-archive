@@ -1,5 +1,6 @@
 import shutil
 import os
+import datetime
 from .upload_functions import UploadFunctions
 
 
@@ -58,11 +59,14 @@ class HTUploader(UploadFunctions):
 		'02-2021' : 1886176,
 		'03-2021' : 1886219,
 		'04-2021' : 1886239,
-		'05-2021' : 1886257
+		'05-2021' : 1886257,
+		'06-2021' : 3440789,
+		'07-2021' : 3440790,
+		'08-2021' : 3440791
 		}
 		self.ht_item_set_id = 1886095
 
-	def get_location(part):
+	def get_location(self,part):
 		if '--' in part:
 			return ''
 		if ' ' in part and part!='New Delhi':
@@ -73,7 +77,7 @@ class HTUploader(UploadFunctions):
 		month = datetime.datetime.strftime(date, "%m-%Y")
 		date_string = datetime.datetime.strftime(date, "%d-%m-%Y")
 		filepath = dir_path + '/' + month + '/combined/' + date_string + ".txt"
-		self.upload_file(filepath, date_string, ht_item_set_dict[month], ht_item_set_id,'Hindustan Times', '', keywords, get_location)
+		self.upload_file(filepath, date_string, self.ht_item_set_dict[month], self.ht_item_set_id,'Hindustan Times', '', self.keywords, self.get_location)
 
 	def upload_interval(self, start_string, end_string, dir_path):
 		start_date = datetime.datetime.strptime(start_string, "%d-%m-%Y")

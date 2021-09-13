@@ -150,9 +150,9 @@ class HTScraper:
 			print("\n\n")
 			cur += 1
 
-beg = '08-09-2021'
-end = '09-09-2021'
-section = 'world-news'
-dir_path = '../../corpus/hindustantimes'
-scraper = HTScraper()
-scraper.write_date_range_articles(beg, end, section, dir_path)
+# beg = '08-09-2021'
+# end = '09-09-2021'
+# section = 'world-news'
+# dir_path = '../../corpus/hindustantimes'
+# scraper = HTScraper()
+# scraper.write_date_range_articles(beg, end, section, dir_path)

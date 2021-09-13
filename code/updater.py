@@ -11,6 +11,11 @@ from uploaders.hindu_uploader import HinduUploader
 from scrapers.toi_scraper import TOIScraper
 from uploaders.toi_uploader import TOIUploader
 
+from scrapers.ht_scraper import HTScraper
+from uploaders.ht_uploader import HTUploader
+from remove_repetition.ht import remove_all_ht_repetitions as ht_remove_reptitions
+from remove_repetition.ht_combiner import combine_interval as ht_combine_interval
+
 import pickle
 import datetime
 
@@ -84,7 +89,33 @@ def update_toi_interval(start_string, end_string):
 
 		date += datetime.timedelta(days=1)
 
+def update_ht_interval(start_string, end_string, sections):
+	scraper = HTScraper()
+	uploader = HTUploader()
+	dir_path = '../corpus/hindustantimes'
+	for section in sections:
+		scraper.write_date_range_articles(start_string, end_string, section, dir_path)
+	ht_remove_reptitions(dir_path)
+	ht_combine_interval(start_string, end_string, dir_path)
+	uploader.upload_interval(start_string, end_string, dir_path)
+
 filename = 'update_stats'
+
+# FOR Hindustan Times
+ht_sections = ['editorials',
+			'analysis',
+			'opinion',
+			'india-news',
+			'cities',
+			'world-news'
+			]	
+
+
+start_string = '21-06-2021'
+end_string = '30-06-2021'
+sections = ht_sections
+update_ht_interval(start_string, end_string, sections)
+
 
 # FOR Times of India
 # start_string = "26-07-2021"
