@@ -69,13 +69,26 @@ class HTScraper:
 		latest_h2 = h2s[0]
 		latest_link = 'https://www.hindustantimes.com' + latest_h2.find("a")['href']
 		_, latest_date, _, _ = self.get_text_ht(latest_link)
-		latest_date = datetime.datetime.strptime(latest_date, "%d-%m-%Y")
+		try:
+			latest_date = datetime.datetime.strptime(latest_date, "%d-%m-%Y")
+		except:
+			latest_h2 = h2s[1]
+			latest_link = 'https://www.hindustantimes.com' + latest_h2.find("a")['href']
+			_, latest_date, _, _ = self.get_text_ht(latest_link)
+			latest_date = datetime.datetime.strptime(latest_date, "%d-%m-%Y")
 
 		# getting date of earliest article on page
 		earliest_h2 = h2s[-1]
 		earliest_link = 'https://www.hindustantimes.com' + earliest_h2.find("a")['href']
 		_, earliest_date, _, _ = self.get_text_ht(earliest_link)
-		earliest_date = datetime.datetime.strptime(earliest_date, "%d-%m-%Y")	
+		try:
+			earliest_date = datetime.datetime.strptime(earliest_date, "%d-%m-%Y")	
+		except:
+			earliest_h2 = h2s[-2]
+			earliest_link = 'https://www.hindustantimes.com' + earliest_h2.find("a")['href']
+			_, earliest_date, _, _ = self.get_text_ht(earliest_link)
+			earliest_date = datetime.datetime.strptime(earliest_date, "%d-%m-%Y")	
+
 
 		return earliest_date, latest_date
 
@@ -117,7 +130,11 @@ class HTScraper:
 			title, date, coverage, text = self.get_text_ht(link)
 
 			# check if the current article should be included
-			formatted_date = datetime.datetime.strptime(date, "%d-%m-%Y")
+			try:
+				formatted_date = datetime.datetime.strptime(date, "%d-%m-%Y")
+			except:
+				continue
+			
 			if formatted_date < from_date:
 				return False
 			if formatted_date > til_date:

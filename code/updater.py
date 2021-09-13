@@ -111,8 +111,8 @@ ht_sections = ['editorials',
 			]	
 
 
-start_string = '21-06-2021'
-end_string = '30-06-2021'
+start_string = '01-08-2021'
+end_string = '31-08-2021'
 sections = ht_sections
 update_ht_interval(start_string, end_string, sections)
 
