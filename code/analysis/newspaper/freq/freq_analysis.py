@@ -207,7 +207,7 @@ def plot_wordcloud(counts):
 # dir_path = '../../../corpus/hindu'
 # filename = 'hindu'
 
-dir_path = '../../../corpus/deccanherald'
+dir_path = '../../../../corpus/deccanherald'
 filename = 'deccanherald'
 
 counts = get_all_counts(dir_path)
