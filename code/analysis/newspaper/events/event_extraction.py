@@ -85,9 +85,10 @@ def get_directory_df(dir_path):
 	filenames = os.listdir(dir_path)
 	filenames.sort()
 	for filename in filenames:
-		print("reading : " + filename)
+		# print("reading : " + filename)
 		filepath = dir_path + '/' + filename
-		data = pd.read_csv(filepath, sep='\|\|', header=None, usecols=[0, 2,3], names=['date', 'title', 'text'])
+		data = pd.read_csv(filepath, sep='\|\|', header=None, usecols=[2,3], names=['title', 'text'], engine='python')
+		data = data.assign(date = filename.split('.')[0])
 		df = df.append(data)
 	return df
 
@@ -100,6 +101,7 @@ def filter_news_df(documents):
 
 	documents['keywords_present'] = documents.apply(lambda row: is_keyword(row['text']), axis=1)
 	documents = documents[documents['keywords_present'] == True]
+	del documents['keywords_present']
 	return documents
 
 def get_vectors(df):
@@ -119,21 +121,57 @@ def get_clusters(sentences, vectors):
 	x = np.array(vectors)
 	n_classes = {}
 
-	# for i in tqdm(np.arrange(0.001, 1, 0.002)):
+	# for i in tqdm(np.arange(0.001, 1, 0.002)):
 	# 	dbscan = DBSCAN(eps = i, min_samples = 2, metric = 'cosine').fit(x)
-	# 	n_classes.update({i: len(pd.series(dbscan.labels_).value_counts())})
+	# 	n_classes.update({i: len(pd.Series(dbscan.labels_).value_counts())})
 
-	dbscan = DBSCAN(eps = 20, min_samples=10, metric='cosine').fit(x)
+	# for i in n_classes.keys():
+	# 	print(i, n_classes[i])
+
+	dbscan = DBSCAN(eps = 0.1, min_samples=2, metric='cosine').fit(x)
 	labels = dbscan.labels_
-	print("# CLUSTERS : " + str(len(labels)))
+	print("# CLUSTERS : " + str(len(pd.Series(labels).value_counts())))
+	return dbscan
 
-	# results = pd.DataFrame({'label' : dbscan.labels_, 'sent' : sentences})
 
-def run_extraction(dir_path):
-	df = get_directory_df(dir_path)
-	filtered_df = filter_news_df(df)
-	sentences, vectors = get_vectors(filtered_df)
-	get_clusters(sentences, vectors)
+def show_dbscan_result(index, dbscan, sentences, df):
+	results = pd.DataFrame({'label' : dbscan.labels_, 'sent' : sentences})
+	example_result = results[results.label == index].sent.tolist()
+	event_df = df[df.title.isin(example_result)][['date', 'title', 'newspaper']]
+	event_df['date'] = pd.to_datetime(event_df.date, format="%d-%m-%Y", errors="ignore")
+	event_df['date'] = pd.to_datetime(event_df.date, format="%B %-d, %Y", errors="ignore")
+	event_df['date'] = pd.to_datetime(event_df.date, format="%d %B %Y", errors="ignore")
+	event_df = event_df.sort_values(by='date').dropna()
+	print(event_df)
 
-dir_path = '../../../../corpus/timesofindia/09-2020'
-run_extraction(dir_path)
+
+def run_extraction(paths):
+	df = pd.DataFrame(columns=['date', 'title', 'text', 'newspaper'])
+	for newspaper in paths.keys():
+		print("\n\n-------" + newspaper + "-------")
+		dir_path = paths[newspaper]
+		cur_df = get_directory_df(dir_path)
+		filtered_df = filter_news_df(cur_df)
+		filtered_df = filtered_df.assign(newspaper=newspaper)
+		print("from " + newspaper + " : " + str(len(filtered_df.index)))
+		df = pd.concat([filtered_df, df])
+		print("current size : " + str(len(df.index)))
+
+	sentences, vectors = get_vectors(df)
+	dbscan = get_clusters(sentences, vectors)
+	show_dbscan_result(10, dbscan, sentences, df)
+
+
+month = '09-2020'
+main_corpus_path = '../../../../corpus'
+paths = {
+'timesofindia' : main_corpus_path + '/timesofindia/' + month,
+'hindustantimes' : main_corpus_path + '/hindustantimes/' + month + '/combined',
+'hindu' : main_corpus_path + '/hindu/' + month,
+'deccanherald' : main_corpus_path + '/deccanherald/' + month,
+'telegraph' : main_corpus_path + '/telegraph/combined/' + month,
+'tribune-punjab' : main_corpus_path + '/tribune/punjab/' + month,
+'tribune-haryana' : main_corpus_path + '/tribune/haryana/' + month,
+'tribune-nation' : main_corpus_path + '/tribune/nation/' + month
+}
+run_extraction(paths)
