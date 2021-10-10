@@ -1,0 +1,2264 @@
+date,title,newspaper
+2020-09-01,"Lightning kills 6 in Odisha, over 53,000 evacuated from flood-hit Maha villages",tribune-nation
+2020-09-01,Farmers’ body sends legal notice to Gujarat government,timesofindia
+2020-09-01,Police remand till Sept 5 for accused held for hoisting Khalistan flag,timesofindia
+2020-09-01,"Three more succumb to coronavirus in Himachal Pradesh, tally crosses 6,000 mark",timesofindia
+2020-09-01,"For Chhatarpur man, Covid comes as blessing in disguise",timesofindia
+2020-09-01,"‘We’ve lost a passionate teacher, a patron of innovation’",timesofindia
+2020-09-01,Hooda toeing govt line for fear of CBI: Kundu,tribune-haryana
+2020-09-01,Health dept conducts random sampling of vendors at veg market,timesofindia
+2020-09-01,"2 lakh Ola, Uber drivers on strike, commuters in Delhi-NCR to face problems",hindustantimes
+2020-09-01,"After odd-even rule, shopkeepers in Ludhiana want weekend lockdown to go",hindustantimes
+2020-09-01,"NCRB report: Punjab saw 7 suicides a day in 2019, recorded 37% surge over last year",hindustantimes
+2020-09-01,Coronavirus claims three more lives in Himachal,hindustantimes
+2020-09-01,Over 30 Bills to be tabled in monsoon session,deccanherald
+2020-09-01,"Section of Ola, Uber drivers go on strike in Delhi-NCR",deccanherald
+2020-09-01,"Maharashtra, Karnataka top farmers suicide tally",deccanherald
+2020-09-01,"Ola, Uber strike: Lukewarm response to protest; Delhi services not hit",hindustantimes
+2020-09-01,Farmer alleges threat to life by land grabbers,timesofindia
+2020-09-01,Objections to Centre’s new farm ordinances unfounded: Dhankar,tribune-haryana
+2020-09-01,"No major impact of Ola, Uber drivers’ strike in Delhi",tribune-nation
+2020-09-01,"Amid grim economic scenario, agriculture emerges as ray of hope",tribune-nation
+2020-09-02,"Jai Ram govt to build 10,000 houses for poor, homeless in Himachal",hindustantimes
+2020-09-02,"Full moon day slows flood water release, Odisha villages fight waterlogging",hindustantimes
+2020-09-02,"STATE OF CITIES: Cleanliness, sanitation ‘dumped’ in Jalandhar",hindustantimes
+2020-09-02,"161 more cases take Himachal’s Covid tally to 6,416",hindustantimes
+2020-09-02,Rajasthan to ramp up farm produce exports,hindu
+2020-09-02,"Water released, advisory board meeting yet to convene",hindu
+2020-09-02,"108, 104 ambulance drivers felicitated in Guntur",hindu
+2020-09-02,Farmers seek assistance,hindu
+2020-09-02,Farmers seek relief from Centre,hindu
+2020-09-02,"Lightning kills 4,  rain floods hospital",telegraph
+2020-09-02,24x7 news or frivolous debates and propaganda?,deccanherald
+2020-09-02,"In 2019, debt, bankruptcy led to 989 suicides in Telangana",timesofindia
+2020-09-02,"Monsoon cools Delhi, but sets vegetable prices on fire in mandis",timesofindia
+2020-09-02,HC for probe into land acquisition for IAS-PCS officers’ society road,tribune-punjab
+2020-09-02,"‘Fall army’ insect infests crops in Ajmer, Bhilwara",timesofindia
+2020-09-02,"Shahjahanpur: Bookseller makes rape bid on 10-year-old girl, arrested",timesofindia
+2020-09-02,Farmers seek probe into central scheme scam,timesofindia
+2020-09-02,Rajasthan: Veggie prices soar as local produce dries up,timesofindia
+2020-09-02,Government committed to provide free power to farmers: Minister,timesofindia
+2020-09-02,Casualty count continues to rise in HP as 4 succumb,timesofindia
+2020-09-02,"Mom hangs baby girl to death, kills herself",timesofindia
+2020-09-03,Man kills wife & child in Jalna district,timesofindia
+2020-09-03,Farmers to stage protest on Sept. 14,hindu
+2020-09-03,60-year-old paralysed man run over by train,hindu
+2020-09-03,‘Hollowness’ of works at R&R colony comes to the fore,hindu
+2020-09-03,JEE: 400km in pursuit of the goal of government job,telegraph
+2020-09-03,Farmers raise issue of overflowing drain,tribune-punjab
+2020-09-03,Himachal Pradesh minister tests Covid-19 positive,deccanherald
+2020-09-03,GDP plunge the 'scary result' of demonetisation: Rahul Gandhi,deccanherald
+2020-09-03,Demonetisation an attack on India's unorganised sector: Rahul Gandhi,deccanherald
+2020-09-03,"Minster asks discom to reduce line loss to below 15% in two months in Noida, Ghaziabad",hindustantimes
+2020-09-03,"Foot pedal-driven lifts, auto-dispensers for sanitiser: Metro for least contact travel for riders",tribune-nation
+2020-09-03,Farmers near border cry crop damage in Jalpaiguri,telegraph
+2020-09-03,Govt. failed to ensure equal access to online classes: Stalin,hindu
+2020-09-03,Himachal govt initiatives ushered in a sea change in people’s lives: Jai Ram,hindustantimes
+2020-09-03,Man held for rape bid,timesofindia
+2020-09-03,No odd-even in Chandigarh markets from September 4,hindustantimes
+2020-09-03,Uttar Pradesh to create Udyog Bandhu-like body for farmers,hindustantimes
+2020-09-03,"Pilibhit stray leopard dodges baits, moves to new area",timesofindia
+2020-09-03,Angry tillers swim in farms to protest apathy,timesofindia
+2020-09-03,"Mapusa ryots want devpt plan rectified, warn of stir",timesofindia
+2020-09-03,Kerala: CBI to conduct second autopsy on Friday,timesofindia
+2020-09-03,Rajasthan VAT on petrol and diesel highest in country,timesofindia
+2020-09-03,Himachal Jal Shakti minister Mahender Singh tests positive for Covid-19,hindustantimes
+2020-09-03,"161 found infected with Covid, Himachal hits 6.4k",timesofindia
+2020-09-04,"Liquor shop owner murdered, shot 16 times; another critical",hindustantimes
+2020-09-04,Centre working on rejuvenation of 13 rivers across the country: Prakash Javadekar,deccanherald
+2020-09-04,Farmer sells land to help son fulfil Isro ambition,telegraph
+2020-09-04,"Congress piles economy heat on Modi, Nirmala",telegraph
+2020-09-04,"AAP alleges corruption in MCDs, BJP terms it ‘bunch of lies’",hindustantimes
+2020-09-04,JJP MLA from Tohana takes on govt over ‘errant’ electricity officials,tribune-haryana
+2020-09-04,Delhi’s Signature Bridge leaves black mark,timesofindia
+2020-09-04,Himachal sees biggest single-day spike with 215 fresh Covid-19 infections,hindustantimes
+2020-09-04,Chandigarh Transport Undertaking to resume interstate buses from Sept 16,hindustantimes
+2020-09-04,Farmers’ body seeks opinion poll on power sector reforms,hindu
+2020-09-04,Encouraging organic farming by rearing cows,hindu
+2020-09-04,BJP to form state- and district-level executive bodies in Haryana,hindustantimes
+2020-09-04,"Delhi: Armed with SC order, railways gears up to remove squatters",timesofindia
+2020-09-04,Trouble mounts for ex-DGP Saini as SIT gets more time to arrest him,hindustantimes
+2020-09-04,Religious places to reopen in Himachal from September 10,hindustantimes
+2020-09-04,Mandi strike may jack up veggie prices,timesofindia
+2020-09-04,Thanjavur farmers denied compensation protest,timesofindia
+2020-09-04,Farmers’ union leader found dead near Jewar-Bulandshahr highway,timesofindia
+2020-09-04,AAP alleges graft in Bhalswa project; BJP rejects claim,timesofindia
+2020-09-04,Green shoots in Wayanad’s traditional rice conservation,hindu
+2020-09-05,"To tackle stubble-burning, govt to post nodal officers",tribune-punjab
+2020-09-05,"RBI revamps norms for priority sector loans, adds startups",timesofindia
+2020-09-05,Mukhtar men demolish his wife’s property in Ghazipur,timesofindia
+2020-09-05,‘Maths Magic Box’ gets kids fascinated,timesofindia
+2020-09-05,‘Negligence in release from Narmada dam eroded soil’,timesofindia
+2020-09-05,Madhya Pradesh: Supply crisis loom as veggie arrival drops on strike day 2,timesofindia
+2020-09-05,"Accountant, 52, carjacked at gunpoint near Baddowal",timesofindia
+2020-09-05,Punjab rice exporters demand clarity on agriculture ordinance,hindu
+2020-09-05,3 succumb to Covid-19 in Himachal Pradesh; death toll at 52,deccanherald
+2020-09-05,Funeral of Kerala custodial death victim held after 40 days of protest by family,deccanherald
+2020-09-05,"Hit by floods, farmers still counting losses",timesofindia
+2020-09-05,"Jharkhand farmers allege fertilizer price hike, govt suspends 500 dealers",hindustantimes
+2020-09-05,4 held for two murders aimed at stirring communal tensions in MP,hindustantimes
+2020-09-05,"RBI alters priority sector norms to help start-ups, farmers avail loans",hindu
+2020-09-05,Chandigarh-Manali highway blocked due to landslides in Mandi district,hindustantimes
+2020-09-05,One held for shooting liquor shop owner,hindustantimes
+2020-09-05,A woman of substance and a man of steel,hindu
+2020-09-05,"RBI revamps rules for priority sector loans, adds startups",timesofindia
+2020-09-05,Farmer commits suicide in Bundelkhand region,hindustantimes
+2020-09-05,Four die in Jodhpur after tree falls due to heavy rain,timesofindia
+2020-09-06,Chandigarh-Manali highway remains blocked for second day,hindustantimes
+2020-09-06,BHU student missing for six months after being picked up by cops,telegraph
+2020-09-06,"Basmati exporters uncertain, seek clarity over imposition of market fee, RDF",hindustantimes
+2020-09-06,Himachal sees biggest single-day spike with 397 new Covid-19 cases,hindustantimes
+2020-09-06,Farmer’s body buried after 40 days,hindu
+2020-09-06,"Cong MLA, IAS officer among 188 test positive, Himachal tally reaches 7,018",hindustantimes
+2020-09-06,No child’s play: One-year-old boy swallows venomous snakelet while playing in courtyard in Bareilly,timesofindia
+2020-09-06,Upasi seeks govt help to revive coffee industry,timesofindia
+2020-09-06,Village stories open virtual chapter,timesofindia
+2020-09-06,Sitapur farmer’s son tops Uttar Pradesh BEd entrance exam,timesofindia
+2020-09-06,"Delhi: Teachers do ‘double’ shift, at classes and as Covid checkers",timesofindia
+2020-09-06,"HP toll crosses 50 as 4 more die, tally hits 7,018",timesofindia
+2020-09-06,Farmers burn copies of agriculture ordinances,timesofindia
+2020-09-06,Farmers burn copies of electricity bills,timesofindia
+2020-09-06,Farmers burn copies of new ordinances in Kurukshetra,tribune-haryana
+2020-09-06,‘Farm bodies to protest outside Parliament when agri ordinances are debated’,timesofindia
+2020-09-06,Hundreds of vehicles stuck due to rockslide on Chandigarh-Manali national highway,timesofindia
+2020-09-06,IPS probationers from Telangana eager to serve home state,timesofindia
+2020-09-06,Tenant farmers seek inclusion in PM scheme,timesofindia
+2020-09-06,Vegetables price soar in Patna as local supply chain hit,timesofindia
+2020-09-06,"Covid norms: Cops more harsh on activists than netas, suggest 10 FIRs",tribune-punjab
+2020-09-06,CPDCL gears up to implement free agriculture power scheme,hindu
+2020-09-06,"One-year-old swallows snakelet, survives",tribune-nation
+2020-09-06,Delhi Metro set to resume services from tomorrow after 169-day hiatus,tribune-nation
+2020-09-06,Peddler held with heroin worth Rs35L in Sirsa,tribune-haryana
+2020-09-07,FM Manpreet Badal violates social distancing norms,tribune-punjab
+2020-09-07,Delhi govt clinics work overtime to ramp up Covid-19 testing,hindustantimes
+2020-09-07,Groundnut farmers at their wits’ end,hindu
+2020-09-07,"Cotton crop hit by whitefly, girdawari must: Minister",tribune-haryana
+2020-09-07,Body shifted in earth mover,hindu
+2020-09-07,Left questions WB’s claim of no farmer suicide in 2019,hindu
+2020-09-07,Portal for profit: e-NAM needs redesigning,telegraph
+2020-09-07,The rise and fall of two UP strongmen,hindustantimes
+2020-09-07,Covid scare in HP assembly: BJP MLA tests positive on Day 1 of monsoon session,hindustantimes
+2020-09-07,Another Banaras Hindu University student missing,telegraph
+2020-09-07,Himachal records 397 positive cases,timesofindia
+2020-09-07,Punjab farmers hold protest against farm ordinances,deccanherald
+2020-09-07,Rajasthan: Local shops hopeful as Ajmer dargah opens today,timesofindia
+2020-09-07,"Ahead of Mumbai return, Bollywood actor Kangana Ranaut gets Y+ CRPF security cover",hindustantimes
+2020-09-07,"MC to issue notices to PGs, hostels from today on property tax dues",timesofindia
+2020-09-08,Gir Somnath farmers protest laying of 27-km BG line,timesofindia
+2020-09-08,"Congress launches campaign from Bihar's Champaran, attacks CM Nitish Kumar",timesofindia
+2020-09-08,3 held for clandestinely burying farmer who was electrocuted,timesofindia
+2020-09-08,Mau cops seize vehicles of Mukhtar’s associate,timesofindia
+2020-09-08,Farmers raise DBT concerns over free power,timesofindia
+2020-09-08,"Maharashtra Assembly approves supplementary demands of Rs 29,000 crore",deccanherald
+2020-09-08,Govt to rope in tech-savvy villages to push crop survey,deccanherald
+2020-09-08,"Book for a book, not bullets",deccanherald
+2020-09-08,Petrol pump owner shot dead in Jaipur,timesofindia
+2020-09-08,"T govt-Centre spar, urea in short supply",timesofindia
+2020-09-08,Transportation of 965 tonne goods via Vishesh trains helps Railways fetch Rs 34L,timesofindia
+2020-09-08,Farmer body reports damage to cotton due to pest attack,timesofindia
+2020-09-08,Women protest for debt waiver,tribune-punjab
+2020-09-08,TNPCB recommends closure of 183 brick kilns in Thadagam valley,hindu
+2020-09-08,Street veggie markets to be a regular feature,hindu
+2020-09-08,Kangana Ranaut’s COVID-19 sample comes inconclusive,tribune-nation
+2020-09-08,"HP logs 4 deaths, 171 fresh Covid-19 infections",hindustantimes
+2020-09-08,Centre’s research body to aid UP returnees in starting fisheries business,hindustantimes
+2020-09-08,31-year-old in custody for alleged sexual assault of minor girl in Pune,hindustantimes
+2020-09-08,Farmer gets electricity bill of over Rs 3 crore for 2 months. This followed,hindustantimes
+2020-09-08,Lightning kills a dozen people across Jharkhand,hindustantimes
+2020-09-08,"Himachal records 1 Covid death, 245 cases; legislator tests +ve after session",timesofindia
+2020-09-08,Whitefly-hit cotton fields inspected,tribune-haryana
+2020-09-08,Kallikudi market to open from tomorrow,timesofindia
+2020-09-08,Congress opposes power meters for farm connections,hindu
+2020-09-08,Chief Secretary’s orders set the ball rolling,hindu
+2020-09-08,Farmers start campaign against agri ordinances,hindu
+2020-09-09,"Udaipur man gets Rs 3.71-cr power bill, villagers shocked",timesofindia
+2020-09-09,Covid-19 reaches community transmission stage in Shimla,deccanherald
+2020-09-09,PM-Kisan scam: Rs. 110 crore paid to 5.5 lakh ineligible persons,hindu
+2020-09-09,Arhtiyas threaten to boycott paddy procurement over pending dues,timesofindia
+2020-09-09,"Joint survey of Gurugram-Faridabad metro project conducted, station near Ghata to be proposed",hindustantimes
+2020-09-09,Gurugram: MCG plans to adopt measures taken by Indore civic body,hindustantimes
+2020-09-09,Family of SFJ’s Gurpatwant Pannun migrated from Pak to Amritsar village during Partition,hindustantimes
+2020-09-09,"Himachal tally climbs to 8,147 with 316 new Covid-19 cases",hindustantimes
+2020-09-09,Ex-CM Hooda lends support to farmers’ agitation against Central ordinances,hindustantimes
+2020-09-09,"Shiv Sena’s existence is over, says Himachal CM after demolition at Kangana’s property",hindustantimes
+2020-09-09,"Farmers demand spl train for Guwahati, Gorakhpur",timesofindia
+2020-09-09,"No money for diesel, school dropout in Kanpur irrigates field with tube well running on LPG",hindustantimes
+2020-09-09,"Farm loan waiver worked, says Congress as farmers’ suicides drop 53% in MP",hindustantimes
+2020-09-09,East UP migrants to get support for starting fisheries business,hindustantimes
+2020-09-09,"Kangana Ranaut tests Covid-19 negative, leaves Himachal home for Mumbai",hindustantimes
+2020-09-09,1st day: Safe show at Jamalpur,timesofindia
+2020-09-09,Maharashtra orders probe into Kangana’s ‘drug use’,hindustantimes
+2020-09-09,We are in the process of rebuilding Andhra: CM Jaganmohan Reddy,hindustantimes
+2020-09-09,Central team faces 2019 flood victims’ ire in Belagavi,timesofindia
+2020-09-09,NGO spreads pre-school education in Jharkhand,telegraph
+2020-09-09,Campaign to select Abe’s successor begins in Japan,hindu
+2020-09-09,CPI opposes fixing of smart meters to agri pumpsets,hindu
+2020-09-09,"Govt. to promote high-value spices, fruits as intercrops",hindu
+2020-09-09,Ajmer cops bust gang that duped bachelors,timesofindia
+2020-09-09,"Waterlogging damages cotton crop on 17,000-hectare land in Abohar",hindustantimes
+2020-09-09,Only way to overcome GST crisis is to borrow money: Jaganmohan Reddy,hindustantimes
+2020-09-09,"‘Repeated flooding has eroded our savings and made us bankrupt,’ farmer tells team",hindu
+2020-09-09,Kurukshetra administration's no to farmers’ rally,tribune-haryana
+2020-09-09,First Kisan Rail from South India chugs off with fruits to Delhi,tribune-nation
+2020-09-09,Kangana Ranaut lands in Mumbai; Sena workers shout slogans against her,tribune-nation
+2020-09-10,"Farmers block national highway in Haryana, hold rally against farm ordinances",deccanherald
+2020-09-10,"Farmers, arhtiyas across Haryana protest against ordinance allowing private purchase of produce",tribune-haryana
+2020-09-10,"Students write to Modi for free phone, Net",telegraph
+2020-09-10,"Burdened with debt, farmer ends life in Uttar Pradesh village",deccanherald
+2020-09-10,Redefining a farmer,hindu
+2020-09-10,"PM-Kisan scam: 2,766 fake accounts detected in Krishnagiri district",hindu
+2020-09-10,"2,766 fake accounts found in Krishnagiri",hindu
+2020-09-10,Hooda backs farmers’ stir,tribune-haryana
+2020-09-10,BKU stir against farm ordinances on Sept 15,tribune-punjab
+2020-09-10,SFJ chief Pannu’s cousin tried to avert Operation Bluestar,tribune-punjab
+2020-09-10,"Put off agitation, Dalal tells farmers’ union",tribune-haryana
+2020-09-10,Section144 imposed in Pipli grain market,tribune-haryana
+2020-09-10,Kashmir poised for a saffron surge,hindustantimes
+2020-09-10,"Haryana farmers protest against farm sector ordinances, block NH-44 at Kurukshetra",hindustantimes
+2020-09-10,Samajwadi Party chief Akhilesh Yadav accuses BJP government of selling country’s assets,deccanherald
+2020-09-10,Punjab’s Covid capital Ludhiana grows health wise,hindustantimes
+2020-09-10,Man kills wife over suspected infidelity in Pune,hindustantimes
+2020-09-10,"‘Dictatorial’: INLD, Congress condemn police action against farmers in Kurukshetra",hindustantimes
+2020-09-10,"Himachal’s covid tally rises to 8,319",hindustantimes
+2020-09-10,"3 more casualties take Himachal toll to 61, total cases cross 8k",timesofindia
+2020-09-10,"Farmers lathicharged at Pipli near Kurukshetra for defying prohibitory orders, finally given nod to hold rally",hindustantimes
+2020-09-10,SP Chief Akhilesh Yadav accuses BJP govt of selling country’s assets,hindustantimes
+2020-09-10,"On way to Haryana farmers’ protest at Pipli, Meham MLA Balraj Kundu arrested, later released",hindustantimes
+2020-09-10,30 more shops open in Kallikudi market,timesofindia
+2020-09-10,Lallu meets kin of farmers who committed suicide,timesofindia
+2020-09-10,"At Khankot, Pannun’s native village, residents say have never met him",timesofindia
+2020-09-10,Kangana’s mother expresses gratitude to Amit Shah for providing security cover,tribune-nation
+2020-09-10,"Seshadripuram police conducts raids in Bidar and Kalaburagi; 1,352 kg ganja seized",deccanherald
+2020-09-10,"Delhi Metro ridership crosses 53,000 as Blue and Pink lines reopen",hindustantimes
+2020-09-10,Big delay in tur payments to farmers: CAG,timesofindia
+2020-09-11,PM-Kisan scheme: combination of factors led to scam in Tamil Nadu,hindu
+2020-09-11,High drama as legislator stopped on way to Pipli,tribune-haryana
+2020-09-11,Kisan sabha: Govt trying to muzzle voice of farmers,tribune-haryana
+2020-09-11,"Protect mandi, MSP system: Hooda to govt",tribune-haryana
+2020-09-11,Farm activists stopped midway,tribune-haryana
+2020-09-11,SIT to probe ‘expensive’ COVID kit purchases in U.P.,hindu
+2020-09-11,580 fake accounts in Erode district,hindu
+2020-09-11,Ryots on a warpath against metering of farm pumpsets,hindu
+2020-09-11,580 fake accounts detected in Erode,hindu
+2020-09-11,"Agitation to continue, farmers need say in policy making: Haryana Bharatiya Kisan Union chief",hindustantimes
+2020-09-11,"Farmers’ stir: BJP, JJP leaders demand a fair probe into lathicharge on protesters in Kurukshetra",hindustantimes
+2020-09-11,"Cong leaders make beeline for Kurukshetra, extend support to protesting farmers",hindustantimes
+2020-09-11,Bihar medical aspirant shoots self while taking selfie with father’s pistol,hindustantimes
+2020-09-11,Mumbai firm to dismantle thermal plant at Bathinda but iconic towers will stay,hindustantimes
+2020-09-11,"Farm unions scale up efforts to get youth, women into their fold",hindustantimes
+2020-09-11,"Rs. 59 lakh recovered from 2,987 ineligible accounts under PM-KISAN scheme",hindu
+2020-09-11,National Commission for Women urged to look into allegation of BMC harassing Kangana Ranaut,hindustantimes
+2020-09-11,"Stopped from reaching rally, farmers clash with cops",tribune-haryana
+2020-09-11,"BJP MLA writes to Amit Shah over Kangana Ranaut, alleges Dawood angle",hindustantimes
+2020-09-11,Bee-keeping class in Eco Park,telegraph
+2020-09-11,Haryana farmers protest against farm ordinance,hindu
+2020-09-11,Monsoon plan in place at RGIA,hindu
+2020-09-11,‘App-based crop survey must from next year’,hindu
+2020-09-11,"‘Vikel Te Pikel’ initiative: Maharashtra government to connect farmers with 1,370 market-based value chains",hindustantimes
+2020-09-11,ASI with medical condition has meltdown at Chandigarh ISBT,hindustantimes
+2020-09-11,An agriculture-led revival as flawed claim,hindu
+2020-09-11,"Delhi: Shift in Covid times a worry, thousands despair about their lives going off track",timesofindia
+2020-09-11,"Minister announces grants for godown, vehicles",timesofindia
+2020-09-11,UP: FIR against Gayatri Prasad Prajapati & rape complainant for ‘striking deal’,timesofindia
+2020-09-11,Winds of inter-change: Ridership up 60%,timesofindia
+2020-09-11,Voice for arrest of officials gets stronger,timesofindia
+2020-09-11,Regularise workers: Assciation,tribune-punjab
+2020-09-11,"Suicide cases rise by 44% in Bihar, highest in country",timesofindia
+2020-09-11,PM Narendra Modi lays foundation for Rs 295-crore projects in Bihar,timesofindia
+2020-09-11,No land to land solatium to Mucherla farmers,timesofindia
+2020-09-11,"Uttar Pradesh: SIT to probe purchase rates of oximeters, thermometers",timesofindia
+2020-09-11,Businessman’s murder: Nephew’s role under police lens,timesofindia
+2020-09-11,"AP: Govt to spend Rs 6,000 crore for multipurpose facilities at RBKs",timesofindia
+2020-09-11,"1,200kg ganja seized from sheep pen in Kalaburagi",timesofindia
+2020-09-11,Land reforms: Unfinished business,deccanherald
+2020-09-11,"UT cop goes berserk, damages cars, snatches phones",timesofindia
+2020-09-11,Cannabis grown in north Karnataka villages supplied to religious institutions,timesofindia
+2020-09-12,"Farmer kills boy, 14, after fight over watering fields",timesofindia
+2020-09-12,Gujarat: Cotton farmer immolates self to death,timesofindia
+2020-09-12,Many genuine farmers left out of PM Kisan Scheme in Tamil Nadu,timesofindia
+2020-09-12,Many genuine farmers left out of PM Kisan Scheme in Tamil Nadu,timesofindia
+2020-09-12,Many genuine farmers left out of PM Kisan Scheme in Tamil Nadu,timesofindia
+2020-09-12,Kisan Rail reaches Delhi in 40 hours,hindu
+2020-09-12,Farmers welcome relaxations for agri power connections,hindu
+2020-09-12,Capt Amarinder rolls out state-wide Smart Ration Card scheme to cover 1.41 cr NFSA beneficiaries,tribune-punjab
+2020-09-12,Withdraw cases against farmers: Cong.,hindu
+2020-09-12,A portrait of vibrant India,hindu
+2020-09-12,Sex work with face masks and hand sanitisers,hindu
+2020-09-12,"Ex-min Prajapati arrested again, in 14-day remand",timesofindia
+2020-09-12,Muzaffarnagar farmers stage protest to seek fair compensation for their land acquired for road,timesofindia
+2020-09-12,"4 lose battle, 318 +ve in Himachal; tally near 9,000",timesofindia
+2020-09-12,East corporation gets 6 more trommel machines for Delhi's Ghazipur landfill,timesofindia
+2020-09-12,Zilla parishad teacher in Palghar works hard to arrest dropout rate,timesofindia
+2020-09-12,"After Kurukshetra rally, farmers to march till Parliament",timesofindia
+2020-09-12,Agitated farmers protest outside deputy CM’s residence in Sirsa,timesofindia
+2020-09-12,Strong buzz about Kangana Ranaut and family joining saffron party,timesofindia
+2020-09-12,Rs. 300-crore package for Odisha farmers,hindu
+2020-09-12,Odisha package for farmers hit by floods,telegraph
+2020-09-12,Haryana: Om Parkash Dhankar sets up 3-member panel for talks with farmers,timesofindia
+2020-09-12,Raghuvansh lists demands in letters to Nitish,telegraph
+2020-09-12,Many genuine farmers left out of PM Kisan Scheme in Tamil Nadu,timesofindia
+2020-09-12,Government lines up 23 Bills for Monsoon session,deccanherald
+2020-09-12,"Low production, quality may mar Kashmir’s apple industry",deccanherald
+2020-09-12,"Govt’s 3 farm ordinances ‘death knell’ for agriculture, alleges Cong",tribune-nation
+2020-09-12,Agriculture reform ordinances ‘more about agri-businesses than farmers’: Agri activists,tribune-nation
+2020-09-12,Bill to cut MPs’ salaries for a year among 23 on agenda,tribune-nation
+2020-09-12,News updates from Hindustan Times: PM Modi says no carelessness till Covid-19 medicine is developed and all the latest news,hindustantimes
+2020-09-12,"Relocate, then demolish: Delhi govt’s slum board to railways",hindustantimes
+2020-09-12,Four FIRs day after farmers & cops clash,timesofindia
+2020-09-12,"Maize prices crashed this time, repeat feared during basmati, cotton season",hindustantimes
+2020-09-12,Former UP minister Gayatri Prajapati’s jail stay got longer despite bail,hindustantimes
+2020-09-12,"Take back cases, Bhupinder Hooda warns govt",tribune-haryana
+2020-09-12,"Common interests get peasants, arhtiyas together on one platform",tribune-haryana
+2020-09-12,"Day later, farmers booked in Kurukshetra",tribune-haryana
+2020-09-12,Ludhiana farmer bludgeons 14-year-old in brawl over watering crops,hindustantimes
+2020-09-12,‘Rs. 1.8 crore recovered from ineligible accounts’,hindu
+2020-09-12,Many genuine farmers left out of PM Kisan Scheme in Tamil Nadu,timesofindia
+2020-09-12,"UP don Mukhtar Ansari’s wife, her two brothers booked under gangsters act",hindustantimes
+2020-09-12,Punjab CM rolls out state-wide smart ration card scheme to cover 1.41 crore beneficiaries,hindustantimes
+2020-09-12,Mandi reports maximum 162 rapes in Himachal over past three years,hindustantimes
+2020-09-12,NSA to be imposed against men suspected of murdering Dalit man,hindustantimes
+2020-09-12,SAD appeals to Centre not to enact laws on farm ordinances till redressal of farmers’ fears,hindustantimes
+2020-09-12,Many genuine farmers left out of PM Kisan Scheme in Tamil Nadu,timesofindia
+2020-09-12,"Bharatiya Kisan Union chief, 300 unknown people booked for damaging property",hindustantimes
+2020-09-13,Congress wages farm fight against Modi govt ordinances,telegraph
+2020-09-13,"Accused of hooch trade by husband, woman held",telegraph
+2020-09-13,"Delhi slum eviction: Covid-19 took away everything, now roof being taken away, say residents",deccanherald
+2020-09-13,Opposition trying to create doubt about farm ordinances: BJP,deccanherald
+2020-09-13,NSA likely against those accused of killing farmer in UP’s Malihabad,hindustantimes
+2020-09-13,Haryana farmers protest against three agriculture ordinances,hindustantimes
+2020-09-13,Three-member panel meets Haryana farmers to hear grievances,hindustantimes
+2020-09-13,Kerala police grow organic vegetables in confiscated vehicles stranded outside stations: Report,deccanherald
+2020-09-13,"Congress says ordinances will hurt farmers, affect food procurement system",hindustantimes
+2020-09-13,BJP MPs meet farmers protesting in Haryana,hindustantimes
+2020-09-13,"Modi govt. is anti-farmer, says Congress",hindu
+2020-09-13,Paddy farmers begin preparing nursery,hindu
+2020-09-13,BKU threatens to block roads in Haryana on Sept 20 against Central ordinances,hindustantimes
+2020-09-13,"Virus claims four more lives in Himachal, toll 75",hindustantimes
+2020-09-13,Prices of onions shoot up in Tiruchi,hindu
+2020-09-13,Sukhbir Singh Badal's 'U-turn' on farm ordinances cheap gimmick: Punjab CM,deccanherald
+2020-09-13,‘A good parliamentarian and a grassroot level leader’: Political leaders condole Raghuvansh Prasad Singh’s death,hindustantimes
+2020-09-13,"BJP’s policies would ruin small farmers, bizmen: Selja",hindustantimes
+2020-09-13,"MP farmer arrested for causing brother’s death, hiding corpse",hindustantimes
+2020-09-13,PM Kisan applicants in Tamil Nadu to undergo double scrutiny,timesofindia
+2020-09-13,"BSP MLA Mukhtar Ansari's wife, kin booked under Gangster Act",tribune-nation
+2020-09-13,"Decide fate of sugar factory by Sept 25, demand farmers",timesofindia
+2020-09-13,"Rohtak farmers meet BJP panel,  give suggestions on ordinances",tribune-haryana
+2020-09-13,"Delhi slum eviction: COVID pandemic took away everything, now roof being taken away, say residents",tribune-nation
+2020-09-13,"Himachal reports 2 more deaths, 445 test positive",timesofindia
+2020-09-13,200 farmers booked over Covid curbs,timesofindia
+2020-09-13,Agitation on despite curbs in Bathinda,tribune-punjab
+2020-09-13,"Will raise farmers’ concerns, put suggestions before Centre: BJP MPs",timesofindia
+2020-09-13,"UP: Gangsters Act slapped on Mukhtar Ansari’s wife, her brothers",timesofindia
+2020-09-13,"Farmers, citizens to put green back in Guirim coconut trees",timesofindia
+2020-09-13,Farmers protest in Haryana and Punjab: What has happened so far,hindustantimes
+2020-09-13,Parliament Monsoon Session: Opposition to target 3 agriculture Ordinances,deccanherald
+2020-09-13,"Post protests, SAD makes U-turn on ordinances in Punjab",tribune-punjab
+2020-09-13,"Delhi slum eviction: Coronavirus took away everything, now roof's taken away too, say residents",deccanherald
+2020-09-13,Congress-led Opposition to oppose 4 ordinances in Monsoon Session,tribune-nation
+2020-09-14,Parliament's Monsoon session off to a stormy start,deccanherald
+2020-09-14,"Mukhtar Ansari's wife, her two brothers booked under Gangster Act: Police",deccanherald
+2020-09-14,Chinks in the armour,tribune-punjab
+2020-09-14,Farm Ordinances: Congress seeks to revive 2014 land bill movement,deccanherald
+2020-09-14,Farmers seeks special girdawari in mahapanchayat in Hisar,tribune-haryana
+2020-09-14,"Farmers’ Ordinances: Akalis to join hands with Haryana’s JJP, Jat Mahasabha, UP farmers for joint strategy",tribune-haryana
+2020-09-14,Chinks in the armour,tribune-haryana
+2020-09-14,"MSP will stay, farmers will get investment, technology: Govt on farm sector Bills",deccanherald
+2020-09-14,"MSP will stay, farmers will get investment, technology, Centre on farm sector Bills",tribune-nation
+2020-09-14,"Meet Yoshihide Suga, elected Japan’s next PM who begins and ends his day with 100 sit-ups",hindustantimes
+2020-09-14,"Farmers protest agri reforms, fear exploitation, monopolies",hindustantimes
+2020-09-14,Abhay slam BJP for ‘anti-farmer’ policies,hindustantimes
+2020-09-14,"Farmers remind govt of promise to double their income, hold lalkar rallies in 5 Punjab districts",hindustantimes
+2020-09-14,Farmers seek compensation for damaged crops during mahapanchayat in Hisar’s Balsamand village,hindustantimes
+2020-09-14,Bhartiya Kisan Union begins online registration of farmers joining protest in Haryana,hindustantimes
+2020-09-14,Congress councillor opposes serving of CLU notices to shopkeepers in Ludhiana,hindustantimes
+2020-09-14,"Question hour: Land acquisition for Pathankot-Mandi four lane initiated, says Jai Ram",hindustantimes
+2020-09-14,"Farmers on warpath, Khattar govt on backfoot",hindustantimes
+2020-09-14,Ensure fair deal for farmers,tribune-haryana
+2020-09-14,"Haryana farmers to hold protests, block roads on September 20",tribune-haryana
+2020-09-14,"BJP panel’s aim is to mislead, says Bhupinder Singh Hooda",tribune-haryana
+2020-09-14,"BJP panel meets peasants, traders in Haryana",tribune-haryana
+2020-09-14,Two stabbed to death in Sonepat,tribune-haryana
+2020-09-14,Ensure fair deal for farmers,tribune-punjab
+2020-09-14,"Raghuvansh babu, the architect of MGNREGA and India’s most influential rural development minister",hindustantimes
+2020-09-14,"Himachal Pradesh reports 326 new Covid cases, 4 deaths",timesofindia
+2020-09-14,Officials from BDO’s office came to rescue,timesofindia
+2020-09-14,Ahmedabad: Scheduled caste man run over with tractor for urinating in farm,timesofindia
+2020-09-14,"Congress to raise LAC row, farm reforms",hindu
+2020-09-14,Case against 10 persons,hindu
+2020-09-14,Protest brewing against eco-sensitive zone notification,hindu
+2020-09-14,SAD wants Centre to go-slow on ordinances,hindu
+2020-09-14,U.P. books Mukhtar Ansari’s wife under Gangsters Act,hindu
+2020-09-14,‘BJP-JJP govt. has been rocked by scandals’,hindu
+2020-09-14,Farm ordinances: Punjab CM denies Centre’s claim of state being on board,tribune-punjab
+2020-09-14,"Congress, allies to oppose 4 Bills",tribune-nation
+2020-09-14,Centre introduces farm sector reform Bills in Parliament amid protests,tribune-nation
+2020-09-14,"Farmers’ Ordinances: Akalis to join hands with Haryana’s JJP, Jat Mahasabha, UP farmers for joint strategy",tribune-punjab
+2020-09-14,Farmers to burn copies of agri ordinances,timesofindia
+2020-09-14,Selja flays BJP over Pesticide Management Bill,timesofindia
+2020-09-14,SAD’s fresh stand on ordinances poll gimmick: Capt,tribune-punjab
+2020-09-14,Covid hit efforts to create build-up for farm ordinances: MPs,timesofindia
+2020-09-14,Capt dares Sukhbir to quit BJP alliance,timesofindia
+2020-09-14,"Contractor, son beat up farmer for demanding dues",timesofindia
+2020-09-14,Bundelkhand turning into graveyard of farmers due to flawed policies of state govt: Lallu,timesofindia
+2020-09-14,Random sampling for Covid-19 test keeps visitors away: City mkt vendors,timesofindia
+2020-09-14,Anger over ESZ notice has familiar ring to it,timesofindia
+2020-09-14,Trader dupes 10 farmers of Rs 3.27L in Sinnar,timesofindia
+2020-09-14,Yogi govt to give Rs 20L to kin of prodigious UP girl who died in accident,timesofindia
+2020-09-14,"NDRF tour of flood-hit disaster over, Maharashtra seeks Rs700 crore",timesofindia
+2020-09-14,"House plan: Congress to oppose 4 ordinances, quiz government on LAC",timesofindia
+2020-09-14,19 farmers’ assns close ranks against ordinances,timesofindia
+2020-09-14,"Farm bills to be tabled in Parliament today, Akali Dal in dilemma",timesofindia
+2020-09-14,"Library, memorial, Rs 20 lakh in name of Bulandshahr girl killed in road accident",timesofindia
+2020-09-14,Punjab farmers plan stir in Delhi,timesofindia
+2020-09-14,Congress: PM must explain ‘no-intrusion’ line,telegraph
+2020-09-15,"Centre transferred Rs 38,282 cr to farmers under PM-KISAN during Apr-Aug: Narendra Singh Tomar",deccanherald
+2020-09-15,"Government tables farm Bills, Opposition calls  it direct attack on federal structure",tribune-nation
+2020-09-15,Mandi BJP MP Ram Swaroop accuses Shiv Sena of ill-treating Kangana Ranaut,tribune-nation
+2020-09-15,Not consulted before 3 agri-ordinances: BJP ally Akali Dal; govt says states were in the loop,tribune-nation
+2020-09-15,No subsidy or loan waiver for farmers growing wrong crops,deccanherald
+2020-09-15,Lok Sabha passes Bill that removes stock limits on farm commodities,deccanherald
+2020-09-15,Not consulted before 3 agri-ordinances: BJP ally Akali Dal; govt says states were in the loop,tribune-punjab
+2020-09-15,Farmers protesting agri ordinances lay siege to NH-44 in Khanna,hindustantimes
+2020-09-15,Stir against Centre’s agriculture ordinances: Haryana farmers’ unions to protest in Delhi today,hindustantimes
+2020-09-15,"Will PM speak in Parliament on China issue, asks Congress",hindu
+2020-09-15,Three agri reform Bills introduced,hindu
+2020-09-15,Farm ordinances: BKU delegation to meet Union Agriculture Minister today,tribune-haryana
+2020-09-15,Call for govt job to kin of man-animal conflict victims,timesofindia
+2020-09-15,More shops open in Kallikudi market,timesofindia
+2020-09-15,Farmer ends life after crop loss,timesofindia
+2020-09-15,"5 die in HP, tally set to cross 10k",timesofindia
+2020-09-15,"Sec 26 mandi to resume from today, vistors must follow precautions",timesofindia
+2020-09-15,"Alcoholic killed by wife, minor son in Pilibhit, arrested",timesofindia
+2020-09-15,Electricity bill relief for farmers in Rajasthan likely: Govind Singh Dotasra,timesofindia
+2020-09-15,Unseasonal rain wreaks havoc in Shahjahanpur,timesofindia
+2020-09-15,"50% of cow cess for cattle conservation, says CM Gehlot",timesofindia
+2020-09-15,Nath asks Kisan Con to uproot anti-farmer govt from state,timesofindia
+2020-09-15,"Congress targets government, uses China, corona and farm ordinances as ammo",timesofindia
+2020-09-15,"Farm ordinances: Inside Parliament, MPs up ante against Centre",tribune-punjab
+2020-09-15,Unions: Won’t allow monoply of corporates,tribune-punjab
+2020-09-15,Chief Minister-led panel to meet Governor on farm ordinances,tribune-punjab
+2020-09-15,Punjab farmers unite to oppose ordinances,tribune-punjab
+2020-09-15,Villagers hold protest over police ‘inaction’,tribune-punjab
+2020-09-15,"Punjab farmers block roads, say MPs supporting farm Bills to be barred from villages",tribune-punjab
+2020-09-15,‘Withdraw ordinances detrimental to ryots’,hindu
+2020-09-15,Punjab never endorsed ordinances: CM,hindu
+2020-09-15,29 groups set to launch campaign against govt.,hindu
+2020-09-15,Yoshihide Suga set to become Japan PM,hindu
+2020-09-15,Haryana farmers’ leader wants Centre’s undertaking on MSP for foodgrains,hindustantimes
+2020-09-15,Farmers block highway in Phagwaraagainst Centre’s agri-ordinances,hindustantimes
+2020-09-15,Punjab farmers protesting Centre’s agri ordinances lay siege to 3 bridges for hours,hindustantimes
+2020-09-15,"Never backed Centre’s agri ordinances, says Punjab CM",hindustantimes
+2020-09-15,Body of 8-year-old who fell in open chamber in Nerul found in creek,hindustantimes
+2020-09-15,"Himachal logs 5 deaths, 364 fresh coronavirus cases",hindustantimes
+2020-09-15,Farmer dies of shock  as Ganga gulps home,telegraph
+2020-09-15,Farm bill protest in Lok Sabha,telegraph
+2020-09-15,Farmer protests against agri ordinances politically motivated: Shanta Kumar,hindustantimes
+2020-09-15,Farmers protest against agri ordinances,hindu
+2020-09-16,"NCP, Congress hit out at Centre over ban on onion export in Maharashtra",deccanherald
+2020-09-16,"Uttar Pradesh government collecting charges for unloading, cleaning wheat: MP Javed Ali Khan",deccanherald
+2020-09-16,SAD asks Rajya Sabha MPs to oppose farm Bills,deccanherald
+2020-09-16,Maharashtra govt to write to Centre for onion export ban roll-back,deccanherald
+2020-09-16,"Back to work after Covid, Khattar reviews govt work from home",timesofindia
+2020-09-16,"Last 5,000 cases in 22 days in Himachal Pradesh, 1st 5,000 in 158",timesofindia
+2020-09-16,"Covid-19 derails admissions to govt primary, upper primary schools in Agra",timesofindia
+2020-09-16,"All three farm sector bills brought by Modi govt far-sighted, will boost agricultural production: J P Nadda",deccanherald
+2020-09-16,Goa: Arecanut ryots stare at 30% crop loss due to fungal attack,timesofindia
+2020-09-16,"MP: Seed to tiller ‘scams’, bitter harvest for horticulture departmet",timesofindia
+2020-09-16,Punjab CM seeks apology from Union Minister Danve,hindu
+2020-09-16,AAP criticises BJP for ‘anti-farmer’ laws,hindu
+2020-09-16,Deliberate assault on farmers: Punjab CM,hindu
+2020-09-16,A long wait for farmers to get pattadar passbooks,hindu
+2020-09-16,Prices of veggies rise despite fall in demand,hindu
+2020-09-16,Maharashtra’s farmers hit out at Centre’s onion export ban,hindu
+2020-09-16,Ahmedabad: Onion price may touch Rs 100/kg by end of October,timesofindia
+2020-09-16,Narendra Modi sows agri reforms,telegraph
+2020-09-16,Question hour: 87 cases pending under Section 118 of HP Land Tenancy Act,hindustantimes
+2020-09-16,Two persons arrested for murdering farmer leader in Jewar,hindustantimes
+2020-09-16,End of Shinzo Abe era leaves Japan still searching for way forward,hindustantimes
+2020-09-16,"Bills for farmers’ benefit but Cong creating hurdles, says Nadda",hindustantimes
+2020-09-16,"Congress writes to Rajya Sabha chairman, demands four-hour debate on Covid-19",hindustantimes
+2020-09-16,"Onion export ban: Political parties, farmers organisations in Maharashtra oppose move",hindustantimes
+2020-09-16,"Girl gangraped by boyfriend, aide; duo arrested after video goes viral",timesofindia
+2020-09-16,Flood hit farmers to get aid at 5-year-old rates in Nagpur,timesofindia
+2020-09-16,HC upholds cop’s acquittal in corruption case,timesofindia
+2020-09-16,"Drum seeders help farmers save on labour, cost and time",timesofindia
+2020-09-16,"Bihar assembly elections: People will uproot NDA govt, says Congress's Harish Rawat",timesofindia
+2020-09-16,"Lok Sabha clears one of 3 farm Bills, SAD says wasn’t consulted",tribune-punjab
+2020-09-16,"Fearing shortage, locals stock up medical oxygen cylinders",tribune-punjab
+2020-09-16,Angry farmers lay siege to highways,tribune-punjab
+2020-09-16,"Amarinder announces withdrawal of FIRs filed against farmers, no fresh cases to be registered for violation of Section 144",tribune-punjab
+2020-09-16,Amarinder leads PPCC delegation to meet Governor on Centre's Agriculture bills,tribune-punjab
+2020-09-16,"Farmers from Punjab, Haryana stage protest in Delhi over agricultural bills; detained",tribune-punjab
+2020-09-16,"Farmers are upset, please talk to them and allay their fears, Fathegarh Sahib MP Amar Singh tells govt",tribune-punjab
+2020-09-16,Bharatiya Kisan Union (Charuni) boycotts meet with Union Agriculture Minister Narendra Tomar,tribune-haryana
+2020-09-16,New Congress in charge to address factionalism in Haryana,tribune-haryana
+2020-09-16,"Farmers from Punjab, Haryana stage protest in Delhi over agricultural bills; detained",tribune-haryana
+2020-09-16,"Lok Sabha clears one of 3 farm Bills, SAD says wasn’t consulted",tribune-nation
+2020-09-16,"In Rajya Sabha, Jaya Bachchan slams those vilifying Bollywood",tribune-nation
+2020-09-16,"Congress has always misled farmers, says Nadda",tribune-nation
+2020-09-16,"Farmers are upset, please talk to them and allay their fears, Fathegarh Sahib MP Amar Singh tells govt",tribune-nation
+2020-09-16,Enactment of farm bills will lead to 'unrest' in Punjab: Amarinder,deccanherald
+2020-09-16,"Himachal logs 8 deaths, 419 fresh cases",hindustantimes
+2020-09-16,Pilot slams govt's agri-related bills as 'anti-farmer',deccanherald
+2020-09-16,"Lok Sabha clears contentious farm bill, SAD votes against it",hindustantimes
+2020-09-16,‘SAD upheld its rich traditions by opposing ordinances’,hindustantimes
+2020-09-16,Farmers lift blockadesfrom 3 Majha bridges,hindustantimes
+2020-09-16,"Cong panel meets governor, Capt warns of social unrest if agri ordinances enacted as laws",hindustantimes
+2020-09-16,"Ban on export of onions will benefit Pakistan exporters, says NCP chief Sharad Pawar",hindustantimes
+2020-09-16,Cracks surface in farmers’ unions in Haryana,hindustantimes
+2020-09-16,Congress to seek special session of Haryana assembly over farm Bills: Bhupinder Singh Hooda,hindustantimes
+2020-09-16,Farmer bodies declare Punjab bandh on Sept 25,hindustantimes
+2020-09-16,"Farmers take out protest march in Mohali against proposed agri laws, power bill",hindustantimes
+2020-09-16,Sukhbir asks party MPs to oppose agri Bills,hindustantimes
+2020-09-16,HC tells farmers to follow guidelines during protests,hindustantimes
+2020-09-16,"Farmers threaten to stop work on Delhi-Meerut Expressway, demand hiked compensation",hindustantimes
+2020-09-16,Punjab CM announces withdrawal of FIRs against protesting farmers,hindustantimes
+2020-09-16,SAD’s pretence of protecting farmers exposed: Amarinder,hindustantimes
+2020-09-16,"Punjab farmers continue siege of 3 key bridges, block highways against agri ordinances",hindustantimes
+2020-09-16,Farmers start six-day-long protest outside ex-Punjab CM Badal’s Muktsar residence,hindustantimes
+2020-09-17,Harsimrat Kaur Badal quits Modi government over agricultural reform bills,deccanherald
+2020-09-17,"Congress MPs from Punjab burn copies of farm bills, party protests in Parliament",deccanherald
+2020-09-17,Congress MPs demand withdrawal of agri-related Bills,tribune-punjab
+2020-09-17,"Harsimrat’s resignation from Union Cabinet: Too little too late, says Capt Amarinder",tribune-punjab
+2020-09-17,Unrest in border state can be dangerous: Captain Amarinder Singh,tribune-punjab
+2020-09-17,"Lok Sabha passes two agricultural sector bills, Modi loses minister",deccanherald
+2020-09-17,"Rajasthan: Ashok Gehlot, Sachin Pilot term Centre’s new agriculture bill as anti-farmer",timesofindia
+2020-09-17,"Rajasthan: Ashok Gehlot, Sachin Pilot term Centre’s new agriculture bill as anti-farmer",timesofindia
+2020-09-17,‘Come clear on sugar factory’s fate by Sept 25’,timesofindia
+2020-09-17,Parliament monsoon session Day 4: What to expect today,hindustantimes
+2020-09-17,"Lok Sabha passes 2 agri sector Bills amid protests by Opposition, farmers",tribune-punjab
+2020-09-17,Sarpanch’s husband held for accepting Rs 10k bribe,timesofindia
+2020-09-17,Punjab: Farmers' body announces 'rail roko' agitation from September 24 to 26,deccanherald
+2020-09-17,Amarinder Singh backstabbed farmers over agri-related Bills: SAD,deccanherald
+2020-09-17,Harsimrat Badal resigns from Union Cabinet in protest against farm Bills,tribune-punjab
+2020-09-17,"Why would MPs need direction from Capt Amarinder on farm bills, they knew party stand: Punjab Congress leaders",tribune-punjab
+2020-09-17,"AAP to oppose ‘anti-farmer’ bills in Parliament, says Kejriwal",hindustantimes
+2020-09-17,"460 test +ve in Himachal, fresh fatality in Shimla",timesofindia
+2020-09-17,Man ends life after delay in handover of father’s body,timesofindia
+2020-09-17,Century-old livestock market in Haveri witnesses huge rush,timesofindia
+2020-09-17,Court dismisses plea of Nanded farmer convicted of murder,timesofindia
+2020-09-17,28 peafowls found dead in Tuticorin,timesofindia
+2020-09-17,Will drop FIRs against protesting farmers: Capt Amarinder Singh,tribune-punjab
+2020-09-17,"SAD opposes farm Bills, issues whip",tribune-punjab
+2020-09-17,"Farmers’ interest priority, not alliance, say Akalis",tribune-punjab
+2020-09-17,Farmer unions protest agri ordinance in Mohali,tribune-punjab
+2020-09-17,"Farmers continue protests at CM’s hometown, Badal village",tribune-punjab
+2020-09-17,"Arvind Kejriwal terms three farming-related bills 'anti-farmer', says party will vote against them in Parliament",deccanherald
+2020-09-17,"BJP, AAP clash over issue of Covid-19 management during RS debate",hindustantimes
+2020-09-17,Union minister Harsimrat Badal resigns over Centre’s new farm bills,hindustantimes
+2020-09-17,‘Vasooli Bhabhi’: Meet Madhya Pradesh’s women recovery agents for outstanding power bills,hindustantimes
+2020-09-17,Look forward to strengthening partnership with Japan: Modi,tribune-nation
+2020-09-17,Harsimrat Badal resigns from Union Cabinet in protest against farm Bills,tribune-nation
+2020-09-17,Congress MPs demand withdrawal of agri-related Bills,tribune-nation
+2020-09-17,Kisan Sangharsh coordination panel calls for nationwide bandh on Sept 25,tribune-nation
+2020-09-17,"Lok Sabha passes 2 agri sector Bills amid protests by Opposition, farmers",tribune-nation
+2020-09-17,Congress to seek special Assembly session on farm ordinances,tribune-haryana
+2020-09-17,Jamshedpur farmer turns around fortunes with organic farming,telegraph
+2020-09-17,Akali Dal minister quits Modi govt over farm sector bills,telegraph
+2020-09-17,Bills will lead to unrest in Punjab: Amarinder,hindu
+2020-09-17,Farmers fear end of MSP regime,hindu
+2020-09-17,Farmers stage protest against eco-sensitive zones,hindu
+2020-09-17,Govt. to introduce mobile labs to examine health of standing crops,hindu
+2020-09-17,"MSP is here to stay, asserts Nadda",hindu
+2020-09-17,JJP tenders apology over lathicharge on protesting farmers in Kurukshetra,hindustantimes
+2020-09-17,Cong MPs burn copies of farm bills,hindustantimes
+2020-09-17,"Haryana farmers fret as basmati prices plunge below ₹2,000",hindustantimes
+2020-09-17,"SAD should now quit central govt, says farm cell head Maluka",hindustantimes
+2020-09-17,"Don’t need whip like Akalis, united in fight against farm bills: Punjab Congress leaders",hindustantimes
+2020-09-17,Privatisation in agriculture in name of reforms: All India Kisan Federation,hindustantimes
+2020-09-17,Onion export ban: Cong protests in Pune; auctioning resumes at Lasalgaon,hindustantimes
+2020-09-17,"‘System of MSP, govt procurement retained’: PM assures farmers after passage of agricultural reform bills",hindustantimes
+2020-09-17,"Union minister Harsimrat Kaur resigns, BJP runs into trouble with old ally",hindustantimes
+2020-09-17,"Harsimrat Kaur ejects out of Cabinet over farm bills, her party stays in NDA",hindustantimes
+2020-09-17,Govt committed to procure crops on MSP: Khattar assures farmers,hindustantimes
+2020-09-17,"Sukhbir Badal opposes farm bills in LS, says laws will destroy 50 yrs of hard work",hindustantimes
+2020-09-17,Lahaul-Spiti’s Gue village declared containment zone,hindustantimes
+2020-09-17,"Uttar Pradesh assembly bypolls: BSP makes U-turn, decides to contest all 8 seats",hindustantimes
+2020-09-17,"SAD opposes farm Bills, issues whip",tribune-nation
+2020-09-18,Chidambaram refutes BJP charge on Cong promise of APMC Act abolition,tribune-nation
+2020-09-18,"Agriculture bills passed by Lok Sabha historic, says PM Modi",deccanherald
+2020-09-18,"Alliance with BJP strong, Congress trying to mislead farmers on farm bills: JJP's Digvijay Chautala",deccanherald
+2020-09-18,From The Newsroom: President accepts Harsimrat's resignation; Punjab CM Amarinder Singh slams farm legislations,deccanherald
+2020-09-18,'Saddened' that my voice in support of farmers was not heard: Harsimrat Kaur Badal,deccanherald
+2020-09-18,"Punjab, Punjabiyat, every Punjabi with farmers: MLA Navjot Singh Sidhu",deccanherald
+2020-09-18,Why the Shiromani Akali Dal quit the Union Cabinet over farm ordinances,deccanherald
+2020-09-18,"After Harsimrat Kaur Badal quits Modi govt, pressure mounts on Dushyant Chautala to resign",deccanherald
+2020-09-18,"As troubles mount, PM Narendra Modi touts Farm Bills as 'shield'",deccanherald
+2020-09-18,Modi defends farm Bills as he inaugurates rail projects in Bihar,tribune-nation
+2020-09-18,President accepts Harsimrat's resignation; Tomar gets additional charge of her ministry,tribune-nation
+2020-09-18,Farm Bills passage huge blow to federalism:  Chidambaram,tribune-nation
+2020-09-18,"No going back on agri-legislations, say BJP leaders as they downplay differences with Akali Dal",tribune-nation
+2020-09-18,"Farm legislations: The tussle between farmers, Centre and Opposition",tribune-nation
+2020-09-18,President accepts Harsimrat Kaur Badal's resignation,deccanherald
+2020-09-18,News updates from Hindustan Times: Farmers in Punjab to stop trains in protest against Centre’s farm bills and all the latest news,hindustantimes
+2020-09-18,Congress seeks special session of Haryana Assembly to discuss farm Bills,deccanherald
+2020-09-18,Ludhiana: Traders body gives 15-day ultimatum to govt for lifting Sunday lockdown,hindustantimes
+2020-09-18,Farm bills dominate Day 1 of PAU’s first virtual Kisan Mela,hindustantimes
+2020-09-18,Harsimrat Kaur quits Cabinet in protest against two agri Bills,hindu
+2020-09-18,Harsimrat Kaur quits in protest against agri Bills,hindu
+2020-09-18,Farmers threaten protest against delay in release of crop loss compensation,hindu
+2020-09-18,Centenarian wins battle against COVID,hindu
+2020-09-18,Low cost of Nafed onions worries traders at APMC,hindu
+2020-09-18,"HP death toll nears 100, tally now 11,190",timesofindia
+2020-09-18,Coconut auctions in Madurai fetch better returns for farmers,timesofindia
+2020-09-18,Karnataka onion growers staring at huge losses as Centre bans exports,timesofindia
+2020-09-18,Jind: Farmers bang drums for 12 minutes in protest against agriculture ordinances,timesofindia
+2020-09-18,"‘Cong MPs don’t need whip, know party stand on farm Bills’",timesofindia
+2020-09-18,Congress MPs protest outside Parliament by burning copies of Farm Bills,timesofindia
+2020-09-18,JJP apologies to farmers for Pipli lathicharge,timesofindia
+2020-09-18,Eight greenfield dairies to be set up in Uttar Pradesh,timesofindia
+2020-09-18,"Why UP is invoking NSA in murder cases? Public order, threat of communal tension & ‘panic’, say cops",timesofindia
+2020-09-18,AAP’s fresh attack on BJP over farm Bills,timesofindia
+2020-09-18,Grievance meet to go online in Thanjavur,timesofindia
+2020-09-18,Farmers’ interests will be protected: PM hails agri bills,timesofindia
+2020-09-18,Harsimrat Kaur kept SAD’s glorious legacy alive: Party leaders,hindustantimes
+2020-09-18,"In Harsimrat’s resignation, SAD sees opportunity to regain lost ground",hindustantimes
+2020-09-18,"‘Dust on their face, but they keep cleaning the mirror’: Sidhu lashes out at Govt over farmer bills",hindustantimes
+2020-09-18,Punjab’s farmers fear new regime will end assured procurement under MSP,hindustantimes
+2020-09-18,Harsimrat Kaur Badal quits Cabinet over farm bills,hindustantimes
+2020-09-18,Legislation for reforms in agriculture sector passed by Lok Sabha,hindustantimes
+2020-09-18,Do falling farmer suicides mean less rural distress?,hindustantimes
+2020-09-18,"President accepts Harsimrat Kaur Badal’s resignation, Narendra Singh Tomar assigned her portfolio",hindustantimes
+2020-09-18,"Forces trying to mislead farmers, farm bill will lead to increased profits: PM Modi",hindustantimes
+2020-09-18,Farm bills: Farmers’ body announces three-day ‘rail roko’ agitation in Punjab from September 24,hindustantimes
+2020-09-18,"Allies for decades, SAD-BJP move away as govt passes farm bills",hindustantimes
+2020-09-18,Congress to move EC after BJP minister says govt can manipulate elections,hindustantimes
+2020-09-18,‘Out of compulsion’: Punjab Congress chief Jakhar on Harsimrat Kaur Badal’s resignation,hindustantimes
+2020-09-18,"SAD part of NDA, Harsimrat's resignation its 'political decision', says Punjab BJP chief",deccanherald
+2020-09-18,Kejriwal requests non-BJP parties to oppose 3 bills related to agriculture sector in Rajya Sabha,hindustantimes
+2020-09-18,‘Want to give clear message to farmers with humility’: PM Modi speaks to farmers via video conference,hindustantimes
+2020-09-18,"Bills to reduce salaries of MPs, ministers gets Rajya Sabha nod",hindustantimes
+2020-09-18,‘They are spreading lies’: PM Modi messages farmers amid row over farm bills,hindustantimes
+2020-09-18,‘Will suffer big defeat’: Digvijaya Singh warns Dushyant Chautala against supporting BJP on ‘anti-farmer’ bills,hindustantimes
+2020-09-18,"PM Modi defends farm bills, says critics misleading farmers",hindustantimes
+2020-09-18,Kept pleading with govt not to go ahead with farm bills: Harsimrat Kaur Badal,hindustantimes
+2020-09-18,Why western UP farmers are silent on Centre’s new farm bills,hindustantimes
+2020-09-18,Donald Trump and Joe Biden hit unlikely battleground state of Minnesota,hindustantimes
+2020-09-18,"SAD ready to make any sacrifice for farmers, will decide on continuing in NDA later: Sukhbir",timesofindia
+2020-09-18,"‘What politics?’: Farmers protesting against farm bills everywhere, says Harsimrat Kaur Badal after quitting",hindustantimes
+2020-09-18,"From rail blockade to shutdown, Punjab’s farmers intensify agitation to mount pressure on Centre",hindustantimes
+2020-09-18,"Resignation too little, too late: Punjab CM",hindu
+2020-09-18,"Harsimrat’s resignation too little, too late: Capt Amarinder Singh",tribune-punjab
+2020-09-18,"Farmers demand survey of all crops damaged by rain, pests",tribune-haryana
+2020-09-18,Won’t compromise on MSP issue: JJP,tribune-haryana
+2020-09-18,Cong instigating farmers: CM,tribune-haryana
+2020-09-18,Arrest main accused in Maur blast: High Court,tribune-punjab
+2020-09-18,Cong MLA Kuljit Singh Nagra quits over passage of Bills in LS,tribune-punjab
+2020-09-18,Move will help regain ground: SAD workers,tribune-punjab
+2020-09-18,"On warpath, farmers refuse to budge",tribune-punjab
+2020-09-18,"Farm legislations: The tussle between farmers, Centre and Opposition",tribune-punjab
+2020-09-18,Manpreet Badal mocks Harsimrat’s resignation from cabinet over farm Bills,tribune-punjab
+2020-09-18,"New farm laws part of SAD-backed Central govt’s ‘Kisan maaru, Punjab maaru’ conspiracy: Capt Amarinder",tribune-punjab
+2020-09-18,SAD part of NDA; Harsimrat’s resignation ‘political decision’: Punjab BJP chief,tribune-punjab
+2020-09-18,Navjot Sidhu breaks Twitter silence; says attack on Punjab's soul won’t be tolerated,tribune-punjab
+2020-09-18,Sunny Deol says agricultural ordinances will help farmers get better price,tribune-punjab
+2020-09-18,President accepts Harsimrat's resignation; Tomar gets additional charge of her ministry,tribune-punjab
+2020-09-18,Harsimrat quits over farm Bills,tribune-punjab
+2020-09-18,Protesting Mansa farmer who attempted suicide at Badal village dies,tribune-punjab
+2020-09-18,"Sena first, and now SAD",tribune-punjab
+2020-09-18,"Farm bills a 'protection shield' for farmers, says PM",telegraph
+2020-09-18,BJP ally Akali Dal’s Harsimrat Kaur Badal quits ministry over ‘anti-farmer’ bills,telegraph
+2020-09-18,Face-saving by Akalis,tribune-punjab
+2020-09-18,Bansal: Will keep factionalism to minimum in Haryana Congress,tribune-haryana
+2020-09-18,"Post lustre loss, Hafed to release withheld arhtiya commission",tribune-haryana
+2020-09-19,"Sidhu breaks silence, says farmers are the soul of Punjab",timesofindia
+2020-09-19,Kariakoil river comes to life after 4 years,timesofindia
+2020-09-19,SAD-BJP ties: From ‘unconditional support’ in 1996 to be left in cold in 2020,timesofindia
+2020-09-19,Ex-CM Harish Rawat observes ‘maun vrat’against agriculture bills passed in Lok Sabha,timesofindia
+2020-09-19,Govt to replace 12 ordinances with bills in monsoon session,timesofindia
+2020-09-19,"Haryana gears up for farmers’ road blockade; tells DCs, SPs to deal with protesters with ‘tact and patience’",tribune-haryana
+2020-09-19,"Farmers have objections, how can I support govt at cost of people: Harsimrat",timesofindia
+2020-09-19,Hooda seeks special House session on ordinances,tribune-haryana
+2020-09-19,"Farm ordinances downgrade democratic values, says Johal",timesofindia
+2020-09-19,"SAD projects resignation as big sacrifice, netizens question flip-flop",timesofindia
+2020-09-19,Conspiracy to destroy farmers: Amarinder,hindu
+2020-09-19,Copies of  Bills burnt by AIKS and HSAAA,tribune-haryana
+2020-09-19,"Punjab farmer groups extend, intensify protests",timesofindia
+2020-09-19,"Farmers fear losing MSP, traders say will be ruined",tribune-haryana
+2020-09-19,"Akalis feel betrayed by NDA govt over farm legislation, says Sukhbir Badal",tribune-punjab
+2020-09-19,Sangh affiliates urge BJP-led govt to send agri-legislations to a select committee,tribune-nation
+2020-09-19,"BJP, Opposition seek to rally support as farm Bills reach Rajya Sabha",tribune-nation
+2020-09-19,Pomelo sweetens farmers’ sour Covid times,timesofindia
+2020-09-19,"Woman, paramour found hanging in Pilibhit village",timesofindia
+2020-09-19,"PM Modi goes on offensive against opposition, calls agri bills ‘pro-farmer’",timesofindia
+2020-09-19,Farms in ferment: Parliament passes farmer bills,telegraph
+2020-09-19,Unfunny words: Modi's reply to Milind Soman,telegraph
+2020-09-19,Social outfit sows seeds of alternative farming at Mousuni,telegraph
+2020-09-19,Congress on farm bills: Not what we promised,telegraph
+2020-09-19,PM battles spreading farm ire,telegraph
+2020-09-19,"Agriculture bills passed in Lok Sabha, farmers protest: All you need to know",hindustantimes
+2020-09-19,Farm bill row: How will the new laws work?,hindustantimes
+2020-09-19,Failed to convince govt about farmers’ grouse: Harsimrat Kaur Badal,hindustantimes
+2020-09-19,‘A protective shield’: PM Modi backs farm bills,hindustantimes
+2020-09-19,"Sena questions Modi govt's policies, praises Vajpayee-era NDA",tribune-nation
+2020-09-19,Harsimrat quitting ministry a political stunt: Bittu,timesofindia
+2020-09-19,Bhopal: Infant killed by mom as she wanted baby boy,timesofindia
+2020-09-19,Elephants on the move in Uttara Kannada destroy crops,timesofindia
+2020-09-19,Punjabi artistes oppose agri Bills; Ammy Virk says being farmer's son he knows hardships,tribune-punjab
+2020-09-19,Farmers call for Punjab bandh on September 25 over controversial farm bills,tribune-punjab
+2020-09-19,Amarinder lashes out at Akalis for ‘misleading’ people on farm Bills,tribune-punjab
+2020-09-19,Incessant rains throw life out of gear in Kalaburagi,hindu
+2020-09-19,Farmer outfits call for ‘Bharat bandh’ on Sept. 25,hindu
+2020-09-19,Over 250 farmer outfits call for a ‘Bharat Bandh’,hindu
+2020-09-19,Farmers being misled: PM,hindu
+2020-09-19,Hooda demands special House session on farm Bills,hindu
+2020-09-19,Chautala meets Khattar over protests,hindu
+2020-09-19,‘Cong. responsible for farm Bills’,hindu
+2020-09-19,Stalin flays AIADMK for backing farm Bills,hindu
+2020-09-19,Siddaramaiah to Yediyurappa: ‘Don’t succumb to your leader’s bullying’,hindu
+2020-09-19,Do new agri Bills impact State?,hindu
+2020-09-19,‘Kisan Rail’ brings no cheer to farmers,hindu
+2020-09-19,Market failure,hindu
+2020-09-19,BDPO shifted for claiming farmers’ protest proposed by Punjab govt,tribune-punjab
+2020-09-19,Irrigation project helps fill lakes in drought-hit villages,timesofindia
+2020-09-19,Withdraw farm Bills: Sukhjinder Singh Randhawa,tribune-punjab
+2020-09-19,"Navjot Sidhu breaks silence, supports protesters",tribune-punjab
+2020-09-19,"Reduced weightage on credit flow won’t affect TN, says Nabard chief",timesofindia
+2020-09-19,Fatalities continue to rise in HP as 12 more succumb,timesofindia
+2020-09-19,Centre’s farm reforms cause loss for state,timesofindia
+2020-09-19,"Consumer bodies back agri mkt reforms, but risks not ruled out",timesofindia
+2020-09-19,Farmers to protest against agri reforms,timesofindia
+2020-09-19,"Farm bills will benefit big industrialists, traders: Raj Cong chief",timesofindia
+2020-09-19,"News updates from Hindustan Times: 9 senior RSS members contract Covid-19, hospitalised and all the latest news",hindustantimes
+2020-09-19,Fatehgarh Sahib MLA’s resignation comes as a bolt from the blue,tribune-punjab
+2020-09-19,"Farm laws part of ‘kisan maaru,  Punjab maaru’ conspiracy: Punjab CM",tribune-punjab
+2020-09-19,SAD core committee to take call on alliance with BJP,tribune-punjab
+2020-09-19,Farmers reject parties’ offer to join stir,tribune-punjab
+2020-09-19,Aged protester commits suicide at Badal village,tribune-punjab
+2020-09-19,"No question of compromise, high command to decide: BJP",tribune-punjab
+2020-09-19,"Snap ties with BJP, BKU urges Akalis",tribune-punjab
+2020-09-19,"Villagers pitch in, ensure uninterrupted supply of essentials to protesters",tribune-punjab
+2020-09-19,Manpreet takes dig at Harsimrat,tribune-punjab
+2020-09-19,60-year-old woman mauled to death by tiger in Maharashtra’s Yavatmal,hindustantimes
+2020-09-19,"Goa: Short-staffed on migrant workforce, ryots turn to machines, local labour for cultivation",timesofindia
+2020-09-19,Wildbuzz: Fall of a beloved bird,hindustantimes
+2020-09-19,Farmers lay siege to minister's vehicle,deccanherald
+2020-09-19,From The Newsroom: Karnataka Dy CM Ashwath Narayan tests Covid-19 positive; India overtakes US in coronavirus recoveries,deccanherald
+2020-09-19,"PM blames middlemen for farm protests, says Opposition spreading lies",tribune-nation
+2020-09-19,Farm Bills: Those at odds now jointly opposing Centre,tribune-nation
+2020-09-19,Farm bills: Chidambaram says PM distorting Congress manifesto promise,tribune-nation
+2020-09-19,Trump and Biden hit unlikely battleground state of Minnesota,hindustantimes
+2020-09-19,BKU to block highways in Haryana against farm bills today,hindustantimes
+2020-09-19,Haryana commission agents declare indefinite strike,hindustantimes
+2020-09-19,Lok Sabha passes bill to amend Companies Act,deccanherald
+2020-09-19,"Shiv Sena questions Modi govt's policies, praises Vajpayee-era NDA",deccanherald
+2020-09-19,Punjab’s farmer leaders to burn copies of farm bills tomorrow,hindustantimes
+2020-09-19,‘There was a time when govt listened to its allies’: Sena questions Centre’s policies,hindustantimes
+2020-09-19,"Uttar Pradesh police adds sedition to case against AAP MP Sanjay Singh, summons him",hindustantimes
+2020-09-19,"Farmers refuse to allow Badal village protester’s last rites, demand relief, loan waiver",hindustantimes
+2020-09-19,Amarinder Singh lashes out at Akalis for 'misleading' people on agri bills,deccanherald
+2020-09-19,BDPO shifted for claiming farmers’ protest proposed by Punjab govt,hindustantimes
+2020-09-19,Farmers’ protest running out of steam but pressure on JJP to take acid test,hindustantimes
+2020-09-19,DMK convenes allies' meet on September 21 to shape strategy against Centre's farm bills,deccanherald
+2020-09-19,AICC secretary Sudhir Sharma slams Centre over agriculture bills,hindustantimes
+2020-09-19,"PAU Virtual Kisan Mela: Event ends with tips to farmers on water-saving tech, allied occupations",hindustantimes
+2020-09-19,Farmers to protest across Haryana against farm ordinances,hindustantimes
+2020-09-19,"HP logs 5 deaths, 286 fresh Covid-19 infections",hindustantimes
+2020-09-19,Telangana CM Chandrashekar Rao asks TRS MPs to reject 'anti-farmer' bills in Rajya Sabha,deccanherald
+2020-09-19,"PM Narendra Modi, BJP distorting Congress manifesto: P Chidambaram",deccanherald
+2020-09-19,31 farmers' outfits join forces for September 25 Punjab 'bandh',deccanherald
+2020-09-19,"Why is SAD still with NDA, asks Amarinder Singh",deccanherald
+2020-09-19,BDPO shifted for claiming farmers' protest proposed by Punjab govt,deccanherald
+2020-09-19,"Farmer kills self in Punjab amid protests against Farm Bills, Rs 3 lakh compensation given to kin ",deccanherald
+2020-09-20,Farmer outfits to organise ‘chakka jam’ in Haryana today,timesofindia
+2020-09-20,TRS to vote against ‘anti-farmer’ bills,timesofindia
+2020-09-20,"Watershed moment for Indian agriculture, will ensure complete transformation of sector: PM Modi on farm Bills",deccanherald
+2020-09-20,Farm bills introduced in Rajya Sabha; MSP will continue says Narendra Singh Tomar,deccanherald
+2020-09-20,Farm bills: BJD issues whip to its RS MPs telling them to remain present in House,deccanherald
+2020-09-20,Explainer: Why farmers across India are protesting the Farm Bills,deccanherald
+2020-09-20,"Opposition files no-confidence motion against RS Dy Chairman Harivansh, sits on dharna inside House",deccanherald
+2020-09-20,Government mulls action against unruly behaviour of MPs in Rajya Sabha,deccanherald
+2020-09-20,Congress steps up protests against farm bills,deccanherald
+2020-09-20,Opposition making false statements on farm bills: Haryana education minister,hindustantimes
+2020-09-20,Critics cite crucial loopholes in farm bills,hindustantimes
+2020-09-20,"MSP, APMC buzzwords in controversy over bills",hindustantimes
+2020-09-20,"Beginning of unprecedented era in agriculture sector: Amit Shah hails farm bills, says ‘MSP will remain’",hindustantimes
+2020-09-20,‘Strongly condemn aggression towards deputy chairman’: Rajnath Singh,hindustantimes
+2020-09-20,This kind of attack on the Chair...: Smriti Irani on Opposition’s ruckus in Rajya Sabha,hindustantimes
+2020-09-20,Don’t want to say anything political: Rajnath Singh on Opposition’s no-confidence motion,hindustantimes
+2020-09-20,"Be assured, MSP will continue, says Rajnath Singh on farm bills",hindustantimes
+2020-09-20,‘I am also a farmer’: Rajnath Singh’s counter to attack on farm bills,hindustantimes
+2020-09-20,Defence minister Rajnath Singh says ruckus in Rajya Sabha taints image of Parliament in front of entire nation,hindustantimes
+2020-09-20,"Malkit Singh, Gurdas Maan, Jasbir Jassi sing songs to support farmers' protest",tribune-punjab
+2020-09-20,From The Newsroom: Tensions soar in Rajya Sabha over Farm Bills; heavy rains pound parts of Karnataka,deccanherald
+2020-09-20,"Samvidhan Bachao Manch appeal to boycott BJP leaders in villages, towns in Punjab",tribune-punjab
+2020-09-20,"Don’t sign farm Bills, Sukhbir Badal urges President",tribune-punjab
+2020-09-20,"Punjab, Haryana feature prominently during discussion on agri Bills in Rajya Sabha",tribune-nation
+2020-09-20,"Will take BJP, its allies to court over unconstitutional anti-farmer laws: Punjab CM",tribune-punjab
+2020-09-20,Police use water cannon to stop Punjab Youth Cong workers from entering Haryana,tribune-punjab
+2020-09-20,Farmers in Maharashtra’s Dhule laud farm bills passed by Rajya Sabha,hindustantimes
+2020-09-20,Will not sign death warrant of farmers: Congress in Rajya Sabha on farm bills,deccanherald
+2020-09-20,Delhi CM Arvind Kejriwal urges non-BJP parties to unite against Farm Bills in Rajya Sabha again,deccanherald
+2020-09-20,"Let us compost waste locally, six villages request SDMC",timesofindia
+2020-09-20,Parl passing farm bills 'historic' moment for Indian farmers: Niti Aayog Vice Chairman,deccanherald
+2020-09-20,Farm bills will limit bargaining power of farmers: RS member Shreyams Kumar,deccanherald
+2020-09-20,Opposition members' conduct in Rajya Sabha 'shameful': Rajnath Singh,deccanherald
+2020-09-20,Farmers in Punjab burn copies of farm bills,tribune-punjab
+2020-09-20,Man kills elder brother for delay in getting him married,timesofindia
+2020-09-20,"Oppn gives no-confidence notice against RS Dy Chairman, govt mulls counter motion against errant MPs",tribune-nation
+2020-09-20,Democracy is ashamed of govt’s ‘death warrant’ against farmers: Rahul Gandhi on farm bills,hindustantimes
+2020-09-20,"Rename museum after Surajmal, demand Jats",hindu
+2020-09-20,‘Bill will affect welfare measures’,hindu
+2020-09-20,Akalis feared loss of ‘farmer’ vote bank,hindu
+2020-09-20,‘Oppn. picking Congress manifestos selectively’,hindu
+2020-09-20,The self-made Prime Minister,hindu
+2020-09-20,Modi govt. has brought two anti-farmer bills: Sena,hindu
+2020-09-20,"Second Kisan Rail to carry tomatoes, various fruits",hindu
+2020-09-20,Farmer suicide in Wayanad,hindu
+2020-09-20,BKU to hold protest today,hindu
+2020-09-20,Opposition all geared up to corner government on various issues,hindu
+2020-09-20,AIADMK rule will be over in six months: Stalin,hindu
+2020-09-20,TRS to vote against farm Bills in RS,hindu
+2020-09-20,Monsoon session may be cut short,hindu
+2020-09-20,Cong. justifies objections to Bills despite similar promises,hindu
+2020-09-20,Punjab CM dares Akalis to pull out of NDA,hindu
+2020-09-20,Congress: worries in MP and a rising star in Assam,telegraph
+2020-09-20,Blackout village scrambles for generators,telegraph
+2020-09-20,Congress taps friends on farm bills,telegraph
+2020-09-20,Consult States before going ahead with 3 farm Bills: CM,hindu
+2020-09-20,Virtual celebration to be part of traditional Kisan Mela,timesofindia
+2020-09-20,Congress hits out at NDA govt over farm bills,hindustantimes
+2020-09-20,Kejriwal asks non-BJP members to unite against farm bills in Rajya Sabha,hindustantimes
+2020-09-20,"After ruckus in Rajya Sabha, Venkaiah Naidu to take a call on unruly behaviour of MPs",hindustantimes
+2020-09-20,News updates from Hindustan Times: Which party stands where on farm bills and all the latest news,hindustantimes
+2020-09-20,Govt has paved way for ‘Atmanirbhar Agriculture’: Rajnath Singh after farm bills’ passage,hindustantimes
+2020-09-20,SAD urges President to not give assent to farm bills passed by Parliament,hindustantimes
+2020-09-20,"Haryana farmers lift highway blockade, Parliament clears farm reform bills",hindustantimes
+2020-09-20,Farm bills passed in Parliament: Which party stands where,hindustantimes
+2020-09-20,PM Modi calls passage of farm bills ‘watershed moment’ for agricultural sector,hindustantimes
+2020-09-20,‘Freedom to farmers’: BJP’s Nadda after Rajya Sabha’s nod to 2 farm bills,hindustantimes
+2020-09-20,"BJP, Opposition seek to rally support as farm bills reach Rajya Sabha",hindustantimes
+2020-09-20,"Road blockade call: DCs, police chiefs in Haryana asked to deal with protesters with tact and patience",hindustantimes
+2020-09-20,Agriculture sector Bills will turn farmers into slaves: DMK,hindustantimes
+2020-09-20,2 farm bills clear Rajya Sabha hurdle amid protests,hindustantimes
+2020-09-20,Haryana farmers block highways including NH 344 over farm bills,hindustantimes
+2020-09-20,"News updates from Hindustan Times: Ricin found in White House originated in Canada, say police and all the latest news",hindustantimes
+2020-09-20,‘Can govt assure no farmer will commit suicide after passage of farm bills?’: Sanjay Raut,hindustantimes
+2020-09-20,Haryana farmers eyeing highway blockade to oppose farm reform bills,hindustantimes
+2020-09-20,‘Will not sign on farmers’ death warrant’: Heated debate in Parliament as farm bills tabled in Rajya Sabha,hindustantimes
+2020-09-20,"‘Defeat them, this is what farmer wants’: Kejriwal on farm bills in Rajya Sabha",hindustantimes
+2020-09-20,Rajya Sabha passes two key farm bills amid protests,hindustantimes
+2020-09-20,"MSP to stay, new bills will only help farmers: Nadda",hindustantimes
+2020-09-20,"Punjab, Haryana feature prominently during discussion on agri Bills in Rajya Sabha",tribune-punjab
+2020-09-20,"Khattar urges farmers to defer agitation, invites them for talks",hindustantimes
+2020-09-20,Basti ki Pathshala,telegraph
+2020-09-20,Opposition members' conduct in Rajya Sabha 'shameful': Rajnath Singh,telegraph
+2020-09-20,Rajya Sabha passes two farm bills amid Opposition protests,telegraph
+2020-09-20,Heated exchanges in Rajya Sabha during debate on farm bills,telegraph
+2020-09-20,"Mela Ghadri Babeyan Da to focus on fascism, farm Bills",tribune-punjab
+2020-09-20,Haryana gears up for farmers’ protest today,tribune-punjab
+2020-09-20,30 farm unions want Bills rolled back,tribune-punjab
+2020-09-20,Dissent to find voice again on Wednesday,telegraph
+2020-09-20,"We are in it with peasants, say arhtiyas",tribune-punjab
+2020-09-20,"Join hands for farmers, SAD urges parties",tribune-punjab
+2020-09-20,"CM Punjab: Nothing common  in Congress manifesto, Bills",tribune-punjab
+2020-09-20,"BDPO issues letter to back protests, shifted",tribune-punjab
+2020-09-20,Police use water cannon to stop Punjab Youth Cong workers from entering Haryana,tribune-haryana
+2020-09-20,"Punjab, Haryana feature prominently during discussion on agri Bills in Rajya Sabha",tribune-haryana
+2020-09-20,"Farmers across Haryana protest agricultural ordinances, block roads",tribune-haryana
+2020-09-20,Food inspectors told not to charge interest from arhtiyas,tribune-haryana
+2020-09-20,Punjabi artistes throw weight behind farmers on social media,tribune-punjab
+2020-09-20,Arvind Kejriwal urges Delhi residents to join anti-dengue campaign,hindustantimes
+2020-09-20,Haryana farmers gear up to block highways amid heavy police deployment,hindustantimes
+2020-09-20,Delhi Police on alert amid farmers’ protests on agriculture bills,hindustantimes
+2020-09-20,"Watershed moment in Indian agriculture history, says PM Modi on Parliament clearing farm bills",tribune-nation
+2020-09-20,"Heated debate on farm Bills in RS; Opposition members tear papers, heckle presiding officer",tribune-nation
+2020-09-20,Country won’t let black laws roll: Rahul Gandhi on farm Bills,tribune-nation
+2020-09-20,"Why is govt ‘running away’ from giving legal responsibility for MSP, asks Congress",tribune-nation
+2020-09-20,Kejriwal urges non-BJP parties to vote against farm bills in Rajya Sabha,tribune-nation
+2020-09-20,Will not sign death warrant of farmers: Congress in Rajya Sabha on farm bills,tribune-nation
+2020-09-20,"PM distorting Cong manifesto, alleges Chidambaram",tribune-nation
+2020-09-20,Haryana gears up for farmers’ protest today,tribune-nation
+2020-09-20,"Nadda congratulates PM for empowering agriculture, ‘freeing farmers from injustice of 70 years’",tribune-nation
+2020-09-20,Creating a new farm ecosystem,hindustantimes
+2020-09-20,Passing of two farm bills in Rajya Sabha triggers protests in Ludhiana,hindustantimes
+2020-09-20,"Five more succumb to coronavirus in Himachal, toll rises to 118",hindustantimes
+2020-09-20,"Vij appeals to farmers to not block Highways, takes a dig at Badals",hindustantimes
+2020-09-20,SAD took ‘U-turn’ on agriculture sector reforms Bills: Punjab Minister,hindustantimes
+2020-09-20,"Farmers buying 20,000 tractors a year; experts say encourage cooperatives",hindustantimes
+2020-09-20,70-year-old Bihar woman among 12 icons for steel ministry campaign,hindustantimes
+2020-09-20,Govt move to harm farmers’ interests unfortunate: Akal Takht jathedar,hindustantimes
+2020-09-20,Haryana buckled under Centre’s pressure: BKU,tribune-haryana
+2020-09-20,"Wary of Pipli repeat, govt asks officials to exercise restraint",tribune-haryana
+2020-09-20,Monsoon session may be cut short owing to rising virus cases,hindu
+2020-09-20,"UP: NBWs issued against Mukhtar Ansari’s wife, her 2 brothers",timesofindia
+2020-09-20,"TRS joins opposition to agri bills, but govt remains confident",timesofindia
+2020-09-20,Muda to develop satellite town near Dhanagalli,timesofindia
+2020-09-20,Himachal adds 286 new cases as tally nears 12k,timesofindia
+2020-09-20,Pb shifts BDPO whose letter said protests by govt,timesofindia
+2020-09-20,"Two states, one issue: Farm bills",timesofindia
+2020-09-20,No let-up as unions continue protests in Punjab and Haryana,timesofindia
+2020-09-20,"Onion traders from Nashik relieved, no joy for farmers",timesofindia
+2020-09-20,Parliament passes two contentious Farm Bills amidst chaos and drama in Rajya Sabha,deccanherald
+2020-09-20,Tigress kills tribal farmer in Yavatmal,timesofindia
+2020-09-20,"Haryana min calls for restraint by cops, protesters",timesofindia
+2020-09-20,"Two states, one issue: Farm bills",timesofindia
+2020-09-20,"Two states, one issue: Farm bills",timesofindia
+2020-09-20,"Farmers, arhtiyas to block roads in Haryana today",timesofindia
+2020-09-20,"Farmers, arhtiyas to block roads in Haryana today",timesofindia
+2020-09-20,Haryana gears up for farmers’ protest today,tribune-haryana
+2020-09-20,Badal: Not party to anything anti-farmer,timesofindia
+2020-09-20,Farmers’ body to protest agri reform bills in US Nagar,timesofindia
+2020-09-20,High drama in Rajya Sabha over two Farm Bills; Oppn demands voting to be postponed,deccanherald
+2020-09-20,Vij: Why did SAD not resign earlier?,timesofindia
+2020-09-20,Congress and YSRCP clash on farm bills in Rajya Sabha,deccanherald
+2020-09-20,Delhi Police deployed at border areas as precautionary measure amid farmers protest,deccanherald
+2020-09-20,"Why is govt 'running away' from giving legal responsibility for MSP, asks Congress",deccanherald
+2020-09-20,"Farmers block roads in Haryana, burn effigies in Punjab; 2 JJP MLAs join protests against farm bills",deccanherald
+2020-09-20,Farmers in Punjab burn copies of farm bills,deccanherald
+2020-09-20,Body of 65-year-old farmer found hanging from tree in Uttar Pradesh,deccanherald
+2020-09-20,Police use water cannon to stop Punjab Youth Congress workers from entering Haryana,deccanherald
+2020-09-20,Today's incidents in Rajya Sabha pained me: Deve Gowda,deccanherald
+2020-09-20,"Will take BJP, its allies to court over 'unconstitutional' farm laws: Amarinder Singh",deccanherald
+2020-09-20,"Tamil Nadu CM should 'apologise; to farmers for support to farm bills, says Stalin",deccanherald
+2020-09-20,DMK-AIADMK spar over Farm Bills in Parliament,deccanherald
+2020-09-20,8-day Karnataka legislature session to begin on Monday; 32 bills on the cards,deccanherald
+2020-09-20,"BJP jumps into campaign mode to defend Farm Bills, condemns Opposition for ruckus",deccanherald
+2020-09-20,"Don't sign farm bills, Sukhhbir Badal urges President",deccanherald
+2020-09-20,It is a landmark day: Rajnath Singh on passage of farm bills in Rajya Sabha,deccanherald
+2020-09-20,"Government running away from legal responsibility for Minimum Support Price, says Rahul Gandhi",deccanherald
+2020-09-20,"Kerala's ruling Left, Opposition Congress flay Centre over farm bills",deccanherald
+2020-09-20,Rahul Gandhi slams farm bills as 'death warrants',deccanherald
+2020-09-21,"Farm legislation: Dissatisfaction of farmers can endanger peace and internal security, warns Ashwani Kumar",tribune-nation
+2020-09-21,Telangana parties together in opposing new agriculture laws,tribune-nation
+2020-09-21,"Ansari’s wife, their two sons and nine others booked for fraudulent land deals: Officials",tribune-nation
+2020-09-21,Centre announces MSP for 6 crops; Rs 50 increase for wheat,tribune-nation
+2020-09-21,Govt sets foodgrain output target at record 301 million tonnes for 2020-21,tribune-nation
+2020-09-21,10 central trade unions to support nation-wide farmers protest on Friday,tribune-nation
+2020-09-21,"Opposition parties hit out at govt over suspension of 8 MPs, hold protest on Parliament premises",tribune-nation
+2020-09-21,"Farm Bills need of 21st century, mandis and MSP will stay: PM",tribune-nation
+2020-09-21,Muting of democratic India continues: Congress on Rajya Sabha MPs' suspension,tribune-nation
+2020-09-21,"Many states, UTs not providing details of farmer suicides: MHA tells RS",tribune-nation
+2020-09-21,Don’t know why Harsimrat resigned from Union Cabinet: Ravi Shankar Prasad,tribune-nation
+2020-09-21,Increase in MSP: Punjab CM terms it a ‘cruel joke’,tribune-punjab
+2020-09-21,Thousands of farmers march across Patiala city,tribune-punjab
+2020-09-21,Punjab leaders stopped from entering Haryana,tribune-punjab
+2020-09-21,Pathankot-Mandi road project altered for early completion,tribune-punjab
+2020-09-21,Akalis not in a hurry to break alliance with BJP,tribune-punjab
+2020-09-21,"Boycott BJP leaders, manch urges villagers",tribune-punjab
+2020-09-21,Pro-corporate agenda  will be defeated: Unions,tribune-punjab
+2020-09-21,‘Will resign if MSP is discontinued’,hindu
+2020-09-21,Capt Amarinder Singh : Will move court against draconian laws,tribune-punjab
+2020-09-21,Key crops selling below MSP a worry for farmers,tribune-punjab
+2020-09-21,"Angry farmers burn copies of Bills, to fight on",tribune-punjab
+2020-09-21,"28,000 arhtiyas pledge support to protesters",tribune-punjab
+2020-09-21,Cotton purchase starts across Malwa mandis,tribune-punjab
+2020-09-21,Malwa arhtiyas to boycott BJP,tribune-punjab
+2020-09-21,Turning the tide a tough task: 200  lakh tonnes of paddy stubble produced in Punjab annually,tribune-punjab
+2020-09-21,12 parties give no-trust notice,hindu
+2020-09-21,Punjab Cong holds protests across state against farm Bills,tribune-punjab
+2020-09-21,‘Will resign if MSP is discontinued’,hindu
+2020-09-21,‘Will resign from Khattar govt if MSP discontinued’,hindustantimes
+2020-09-21,"Modi tweets in Punjabi, says agri legislations in farmers’ interest",hindustantimes
+2020-09-21,"In fight against Centre’s agriculture ordinances, youth dominates farmer protests in Punjab",hindustantimes
+2020-09-21,"Northeast Delhi double murder case solved, three held",hindustantimes
+2020-09-21,"‘Step towards making India’s villages self-reliant’: PM Modi inaugurates highway projects, fibre scheme in Bihar",hindustantimes
+2020-09-21,Kangana accuses Uddhav Thackeray govt of focussing on her instead of governing,hindustantimes
+2020-09-21,Farmers’ highway siege hassles commuters in Haryana,hindustantimes
+2020-09-21,"Commission agents’ strike enters fourth day, farmers unable to sell produce",hindustantimes
+2020-09-21,HP Police traces 414 missing people in month-long drive,hindustantimes
+2020-09-21,Congress holds protest against farm bills in Ambala,hindustantimes
+2020-09-21,Delhi Police tweets prohibiting protests lead to confusion about weddings and funerals,hindustantimes
+2020-09-21,Ludhiana DC reviews paddy procurement arrangements,hindustantimes
+2020-09-21,Cong leaders protest against farm bills outside Panchkula DC’s office,hindustantimes
+2020-09-21,Agri-reforms will empower farmers. The Opposition is wrong | Opinion,hindustantimes
+2020-09-21,Haryana Congress holds statewide protest against farm bills,hindustantimes
+2020-09-21,"MSP, govt. procurement will continue, says PM",hindu
+2020-09-21,Modi government’s bills on farm sector: Maharashtra Vikas Aghadi parties yet to decide its stand; Left outfits to protest against Centre’s move,hindustantimes
+2020-09-21,Don’t know why Harsimrat resigned from Union Cabinet: Ravi Shankar Prasad,tribune-punjab
+2020-09-21,Kerala mulls moving SC against farm Bills,hindu
+2020-09-21,‘Will resign as deputy CM if MSP is discontinued’,hindu
+2020-09-21,‘Criticism should not be misconstrued as opposition’,hindu
+2020-09-21,Farmers demand withdrawal of farm Bills,hindu
+2020-09-21,"Agriculture Bills are anti-farmer, will benefit MNCs, says Maniarasan",hindu
+2020-09-21,Rakthashali proves to be the surprise packet,hindu
+2020-09-21,Rajya Sabha clears 2 farm Bills amid bedlam,tribune-nation
+2020-09-21,BJP flays KCR’s take on new farm Bill,hindu
+2020-09-21,It’s a no green signal from the farm world,hindu
+2020-09-21,Farmers’ protests continue in Punjab and Haryana,hindu
+2020-09-21,"Don’t sign the Bills, Badal urges President",hindu
+2020-09-21,"Gurjeet Singh Aujla meets Rajnath Singh, seeks NOCs for stalled projects",tribune-punjab
+2020-09-21,"SAD leaders meet President, urge to withhold assent to farm Bills",tribune-punjab
+2020-09-21,"Farm legislation: Dissatisfaction of farmers can endanger peace and internal security, warns Ashwani Kumar",tribune-punjab
+2020-09-21,Modernising the system,hindu
+2020-09-21,"Ludhiana: Farmers up the ante, burn effigies, copies of farm bills",hindustantimes
+2020-09-21,"8 MPs suspended, RS chairman rejects no-trust motion",telegraph
+2020-09-21,"Madhya Pradesh HC asks state functionaries, parties to abide by Covid-19 protocol",hindustantimes
+2020-09-21,"Off the record: September 21, 2020",deccanherald
+2020-09-21,"Ansari’s wife, their two sons and nine others booked for fraudulent land deals: Officials",deccanherald
+2020-09-21,Punjab Cong holds protests across state against Farm Bills,deccanherald
+2020-09-21,Stormy Sunday in House as 2 farm bills go through,hindustantimes
+2020-09-21,One in five bills sent to panels during NDA’s 2nd term: Data,hindustantimes
+2020-09-21,No-trust motion moved against RS dy chairman,hindustantimes
+2020-09-21,"Aggressive, violent acts tarnish House: Rajnath",hindustantimes
+2020-09-21,New laws spark protest by angry farmers in Punjab and Haryana,hindustantimes
+2020-09-21,Parliament monsoon session: What to expect today,hindustantimes
+2020-09-21,"Delhi Police cites DDMA's order, says demonstrations not allowed till September 30 due to Covid-19 pandemic",deccanherald
+2020-09-21,8 Rajya Sabha MPs suspended over chaos on 2 farm bills: 10 points,hindustantimes
+2020-09-21,Rajya Sabha: 8 Opposition MPs suspended for a week after protests over farm bills,hindustantimes
+2020-09-21,Covid-19: Farmers ready for tests but health staff wary,timesofindia
+2020-09-21,‘Autocratic mindset’: Mamata Banerjee fumes at suspension of 8 MPs,hindustantimes
+2020-09-21,‘Will fight in Parliament and on streets’: Mamata Banerjee on suspension of 8 Rajya Sabha MPs,hindustantimes
+2020-09-21,"Karnataka legislature session begins, farmers on protest march in Bengaluru",hindustantimes
+2020-09-21,Endless arrogance of BJP govt has brought economic disaster: Rahul Gandhi,hindustantimes
+2020-09-21,"Farm bills will empower farmers, says PM Modi amid opposition protests",hindustantimes
+2020-09-21,"Congress MP says 12 parties have sought time to meet president over passage of farm bills, request him to not give his assent",hindustantimes
+2020-09-21,"‘Never before’: Minister slams behaviour of 8 suspended Rajya Sabha MPs, they stage protest",hindustantimes
+2020-09-21,Farm bills: PM Modi says farmers to get better prices because of reforms,hindustantimes
+2020-09-21,"DMK, allies demand withdrawal of Farm Bills, to stage protests across Tamil Nadu on September 28",deccanherald
+2020-09-21,"Suspension of Opposition MPs in Rajya Sabha an attack on democracy, says Pinarayi Vijayan",deccanherald
+2020-09-21,"Karnataka farmers demand dropping anti-farmer amendments, to launch overnight protest in Bengaluru",deccanherald
+2020-09-21,"Farmers oppose ordinances, take out massive rally",deccanherald
+2020-09-21,"Opposition behaviour shameful, say Rajnath, 5 other senior mantris",timesofindia
+2020-09-21,Farm bills Modi govt’s ‘death warrant’ for farmers: Rahul Gandhi,timesofindia
+2020-09-21,"Veggie prices continue to soar, to ebb after October 15",timesofindia
+2020-09-21,"UP CM Yogi Adityanath hails agriculture bills, says farm sector set for turnaround",timesofindia
+2020-09-21,Bills proof of PM’s commitment: Amit Shah,timesofindia
+2020-09-21,"Farmer bodies burn effigies of PM, copies of agri Bills in protest",timesofindia
+2020-09-21,Unemployment in Bihar to be a major poll issue: Tejashwi Prasad Yadav,timesofindia
+2020-09-21,"After heavy rain, lockdown, farmers brace for harvest season",timesofindia
+2020-09-21,"Opposition breaks mic, heckles Rajya Sabha deputy chairman",timesofindia
+2020-09-21,"MSP to be higher, come early as govt allays fears",timesofindia
+2020-09-21,"Himachal Pradesh Jal Shakti Minister Mahender Singh Thakur recovers from Covid-19, rejoins office",deccanherald
+2020-09-21,Farm bills a direct assault on Constitution: K Keshava Rao,timesofindia
+2020-09-21,Telangana farmers may not benefit from farm bills: Experts,timesofindia
+2020-09-21,Congress to meet parties today to chalk out plan,timesofindia
+2020-09-21,Apologise for backing agri bills: Opposition to CM Edappadi K Palaniswami,timesofindia
+2020-09-21,Don’t act like mindless Oppn on farm bill: BJP to Congress,timesofindia
+2020-09-21,30 vehicle scrapping units sealed,timesofindia
+2020-09-21,"AIADMK MP criticizes Centre over hurry, but votes to pass bills in RS",timesofindia
+2020-09-21,"UP to bring policy for FPOs, provide working capital: CM",timesofindia
+2020-09-21,Mandi alternatives: How agri-tech startups beat lockdown blues,timesofindia
+2020-09-21,"With U-turn on bills, BJD surprises many",timesofindia
+2020-09-21,"Rajya Sabha clears two farm bills, opposition moves no-trust motion against deputy chair",timesofindia
+2020-09-21,Don’t oppose farm bills: Bandi Sanjay Kumar to Telangana CM,timesofindia
+2020-09-21,"Now, farmers will be back to serfdom, at the mercy of big corporates: Manish Tewari",deccanherald
+2020-09-21,BJP plans mega exercise to reach out to farmers to clear misgivings about Farm Bills,deccanherald
+2020-09-21,New bills will push farm sector into private hands: Aam Aadmi Party,deccanherald
+2020-09-21,"‘Anti-farmer’: SAD team meets President Kovind, requests him not to sign farm bills passed by Parliament",hindustantimes
+2020-09-21,‘Shameful day in Parliament history’: Ravi Shankar Prasad slams Opposition leaders for creating ruckus over farm bills,hindustantimes
+2020-09-21,"All-India protest against farm bills from September 24, says Congress",hindustantimes
+2020-09-21,"‘Crores of farmers will benefit’, tweets PM Modi as govt hikes MSP of wheat, five other rabi crops",hindustantimes
+2020-09-21,8 suspended Rajya Sabha MPs’ protest stretches into the night,hindustantimes
+2020-09-21,Noida will be biggest business hub of northern India: Yogi Adityanath,hindustantimes
+2020-09-21,"News updates from Hindustan Times: Rift in top army ranks comes to light, Gen Naravane steps in and all the latest news",hindustantimes
+2020-09-21,"BJP used force to push through farm bills, alleges Mamata Banerjee",hindustantimes
+2020-09-21,"Haryana BJP, government assure farmers that MSP will not go",hindustantimes
+2020-09-21,"Farm bills not against agriculture 'mandis' , clarifies PM",telegraph
+2020-09-21,Villages under vigil,tribune-haryana
+2020-09-21,Govt urged  to clear Rs75 cr dues of cane growers,tribune-haryana
+2020-09-21,Deputy CM Dushyant Singh Chautala: Will quit if MSP under threat,tribune-haryana
+2020-09-21,"Farmers block 10 roads in Karnal, JJP MLAs join them",tribune-haryana
+2020-09-21,Punjab leaders stopped from entering Haryana,tribune-haryana
+2020-09-21,Cong misleading farmers for vested interests: Dalal,tribune-haryana
+2020-09-21,Centre must roll back farm Bills: Chaduni,tribune-haryana
+2020-09-21,Opposition parties move no-confidence motion against Rajya Sabha deputy chairman,telegraph
+2020-09-21,"Voice nails farm bills, democracy speechless",telegraph
+2020-09-21,Watershed moment for the history of Indian agriculture: Defiant Modi on farm bills,telegraph
+2020-09-21,Farmer death warrant: Congress on bills,telegraph
+2020-09-21,"Youth Congress protests farm bills in Jammu, threatens mass agitation in J-K",hindustantimes
+2020-09-21,Head of community medicine at Ner Chowk medical college dies of corona,timesofindia
+2020-09-21,"News updates from Hindustan Times: India, Maldives launch cargo ferry service connecting Tuticorin and Cochin with Male and all the latest news",hindustantimes
+2020-09-21,"Parliament being run at the behest of PMO, alleges Adhir Chowdhury",hindustantimes
+2020-09-21,"Nitish Kumar hails passage of Farm Bills, criticises opposition",deccanherald
+2020-09-21,Rajya Sabha Deputy Chairman Harvinash nearly assaulted by opposition members: Govt,deccanherald
+2020-09-21,Voting on Farm Bills would have made things easier for government,deccanherald
+2020-09-21,Opposition parties hold protest on Parliament premises against suspension of 8 MPs,deccanherald
+2020-09-21,Nitish Kumar condemns heckling of Rajya Sabha Deputy Chairman,deccanherald
+2020-09-21,Rajya Sabha adjourned for the day amid uproar over suspension of members,deccanherald
+2020-09-21,Muting of democratic India continues: Rahul Gandhi on Rajya Sabha MPs' suspension,deccanherald
+2020-09-21,RS Chairman M Venkaiah Naidu rejects notice for no-confidence motion against Harivansh,deccanherald
+2020-09-21,DH Toon | Farm bills to rob government's vote bank?,deccanherald
+2020-09-21,Disruptions in Parliament: A case of dissent or rebellion?,deccanherald
+2020-09-21,"From The Newsroom: Eight opposition MPs in Rajya Sabha suspended, PM Modi defends Farm Bills",deccanherald
+2020-09-21,10 central trade unions to support nationwide farmers protest on Friday,deccanherald
+2020-09-21,"Many states, UTs not providing details of farmer suicides: G Kishan Reddy tells Rajya Sabha",deccanherald
+2020-09-21,"Farm Bills need of 21st century; mandis, MSP will stay, says PM Modi",deccanherald
+2020-09-21,"Massive protests over advocate’s murder in Buxar, 5th lawyer killed in Bihar in 8 months",hindustantimes
+2020-09-21,"Maximum good for farmers, says PM Modi on agri bills. Ally Nitish Kumar agrees",hindustantimes
+2020-09-21,‘Some people losing control’: PM Modi takes swipe at Opposition on farm bills,hindustantimes
+2020-09-21,‘The farm bills are just creating procedural clearances’,hindustantimes
+2020-09-21,Gujarat: Superstition drives demand for sand boas,timesofindia
+2020-09-22,Cabinet hikes MSPs for rabi crops amid farm stir,hindustantimes
+2020-09-22,Karnataka assembly session to be cut short as Covid-19 cases continue to surge,hindustantimes
+2020-09-22,Had decisive majority in RS: Ravi Shankar Prasad,hindustantimes
+2020-09-22,Oppn MPs hold first-ever night protests near House,hindustantimes
+2020-09-22,More chaos in House as 8 MPs suspended,hindustantimes
+2020-09-22,"14 yrs on, APMC abolishment yields mixed results in Bihar",hindustantimes
+2020-09-22,Haryana to sell farm produce at 1 per cent in market: Dushyant Chautala,hindustantimes
+2020-09-22,"‘Half-hearted’: Despite BJD’s opposition to twin farm bills, Odisha farmer leaders aren’t impressed",hindustantimes
+2020-09-22,"‘They love us’: Sharad Pawar, on day-long fast, takes jibe at Centre over tax notice",hindustantimes
+2020-09-22,Lok Sabha adjourned for an hour after opposition protests on farmers’ issues,hindustantimes
+2020-09-22,Rajya Sabha passes 7 key bills in three and half hours,hindustantimes
+2020-09-22,"Sonia, Rahul return to India amid Opposition’s standoff with government over farm bills",hindustantimes
+2020-09-22,"Rajya Sabha commotion resonates in Bihar, support for Harivansh pours in",hindustantimes
+2020-09-22,Sharad Pawar stages one day fast to support suspended Rajya Sabha MPs,hindustantimes
+2020-09-22,Farmers' association to take decision on strike,deccanherald
+2020-09-22,"Kejriwal, Sisodia laud suspended Rajya Sabha MPs for taking up farmers cause",hindustantimes
+2020-09-22,"‘Govt didn’t talk to us, it should consult farmers’: Sukhbir Singh Badal",hindustantimes
+2020-09-22,"Glided like snakes, now silent: Sena slams BJP’s silence on Kangana’s ‘terrorist’ remark",hindustantimes
+2020-09-22,Opposition to boycott Rajya Sabha until MPs’ suspension is revoked,hindustantimes
+2020-09-22,Farm bills row: Rajya Sabha deputy chairperson Harivansh to observe 24-hour fast,hindustantimes
+2020-09-22,"Unprecedented scenes in Parliament’s history: Overnight protests, work beyond midnight for two consecutive evenings",hindustantimes
+2020-09-22,‘Shows his greatness’: PM Modi praises Rajya Sabha deputy chairperson after suspended MPs snub tea offer,hindustantimes
+2020-09-22,"As 8 suspended Rajya Sabha MPs continue protest, deputy chairman Harivansh offers tea",hindustantimes
+2020-09-22,Trinamool Congress to launch series of protests against farms bills from today,hindustantimes
+2020-09-22,News updates from Hindustan Times: Rhea Chakraborty’s 14-day judicial custody to end today and all the latest news,hindustantimes
+2020-09-22,Suspended Rajya Sabha MPs on sit-in outside Parliament refuse deputy chairman’s tea,hindustantimes
+2020-09-22,‘Not fighting for tea’: AAP leader Sanjay Singh tweets after refusing tea by Harivansh,hindustantimes
+2020-09-22,AIADMK to seek explanation from RS MP who opposed Farm Bills,deccanherald
+2020-09-22,"'No shortage of fertilisers, urea in Mandya dist'",deccanherald
+2020-09-22,"Never seen bills passed like this, says Sharad Pawar, undertakes day-long fast",deccanherald
+2020-09-22,"Congress, BJP leaders trade barbs on social media",timesofindia
+2020-09-22,New laws must follow changes on the ground,tribune-punjab
+2020-09-22,State BJP to launch awareness drive on Bills,tribune-punjab
+2020-09-22,"Bizmen, NGOs lend helping hand to protesters",tribune-punjab
+2020-09-22,"Babbu Maan, Sidhu Moosewala share clips in farmer's support to September 25 'bandh call'; ask 'people to unite to fight'",tribune-punjab
+2020-09-22,"Punjab CM announces reduction in market, rural development fee for basmati",tribune-punjab
+2020-09-22,Agri bills: Farmers need stronger safeguards,deccanherald
+2020-09-22,Sidhu says will hold protest against Farm Bills in Amritsar East,tribune-punjab
+2020-09-22,Farmers disappointed over ‘meagre’ hike in rabi crops MSP,tribune-punjab
+2020-09-22,SAD to hold ‘chakka jam’ in Punjab on Sept 25 against farm legislations,tribune-punjab
+2020-09-22,"Congress, SAD protest; say stand firmly with farmers on Bills",tribune-punjab
+2020-09-22,"Women protesters in forefront, make their presence felt",tribune-punjab
+2020-09-22,Farmers’ pleas falling on deaf ears: Harsimrat Badal,tribune-punjab
+2020-09-22,Decoding farm Bills provisions & apprehensions,tribune-punjab
+2020-09-22,LS adjourned for hour after Ravneet Bittu alleges assault by Delhi Police on Punjab MPs,tribune-punjab
+2020-09-22,Unsavoury scenes in Rajya Sabha,deccanherald
+2020-09-22,Decoding farm Bills provisions & apprehensions,tribune-haryana
+2020-09-22,Karnataka MLAs narrate their Covid-19 ordeal,deccanherald
+2020-09-22,"Dhankhar asks Mamata not to shed 'crocodile tears', instead implement PM-Kisan Samman Nidhi scheme",deccanherald
+2020-09-22,Sharad Pawar to fast for a day in solidarity with 8 suspended Rajya Sabha MPs,deccanherald
+2020-09-22,"Government will consider revoking suspension of Rajya Sabha MPs if they apologise, says Union Minister Ravi Shankar Prasad",deccanherald
+2020-09-22,Opposition boycotts Parliament; BJP-led NDA seeks to turn it into battle of 'Bihar pride',deccanherald
+2020-09-22,"Delhi CM Arvind Kejriwal targets government over passage of Farm Bills, lauds protest by suspended Rajya Sabha MPs",deccanherald
+2020-09-22,Opposition members led by Congress stage Rajya Sabha walkout,deccanherald
+2020-09-22,Opposition to boycott Rajya Sabha till suspension of 8 members revoked: Ghulam Nabi Azad,deccanherald
+2020-09-22,PM Narendra Modi praises Rajya Sabha Deputy Chairman Harivansh for offering tea to protesting opposition MPs,deccanherald
+2020-09-22,"Suspended MPs end sit-in protest in Parliament, leaders say other protests to continue",deccanherald
+2020-09-22,"'The one who broke the rules', protesting Rajya Sabha MPs reject Deputy Chairman Harivansh's tea offering",deccanherald
+2020-09-22,Suspension of 8 MPs symbol of dictatorship: Sachin Pilot,deccanherald
+2020-09-22,"Now, farmers will be back to serfdom, at the mercy of big corporates: Manish Tewari",deccanherald
+2020-09-22,"Opposition sets three conditions for returning to Parliament; let MPs first express regret, says govt",deccanherald
+2020-09-22,Akali Dal to hold chakka jaam in Punjab on September 25 against Farm Bills,deccanherald
+2020-09-22,"Newly passed Farm Bills will ensure sustainable, profitable future for farming community: FAIFA",deccanherald
+2020-09-22,"Madhya Pradesh govt announces Rs 4,000 direct cash transfer to farmers",deccanherald
+2020-09-22,Congress protests across Haryana over farm Bills,tribune-haryana
+2020-09-22,"Cruel joke, says Punjab CM",timesofindia
+2020-09-22,New laws must follow changes on the ground,tribune-haryana
+2020-09-22,Akali Dal urges President not to give assent to Bills,hindu
+2020-09-22,Cong. protests ‘anti-farmer’ Bills,hindu
+2020-09-22,Protests against farm Bills in Rajasthan,hindu
+2020-09-22,DPCC shuts down 30 illegal vehicle scrapping units in outer Delhi,hindu
+2020-09-22,CPI(M) stir over ‘anti-people’ policies,hindu
+2020-09-22,No protests till Sept. 30: police,hindu
+2020-09-22,Central schemes welcome but funding must be through state: Mamata,tribune-nation
+2020-09-22,97-year-old from Mumbai’s Nallasopara defeats Covid-19,hindustantimes
+2020-09-22,NCP chief Sharad Pawar observes one-day fast in support of eight suspended Rajya Sabha MPs,hindustantimes
+2020-09-22,LIP president urges Punjab CM to lead opposition protests against farm bills,hindustantimes
+2020-09-22,Modi govt. misleading farmers: Raju Shetti,hindu
+2020-09-22,"Farmer union members boo BJP leaders at media briefings in Sangrur, Barnala",hindustantimes
+2020-09-22,Agri reforms not to impact growth: Former Niti Ayog chief,tribune-nation
+2020-09-22,"No farmer in anti-Bill agitation, says govt; Oppn boycotts Lok Sabha as well",tribune-nation
+2020-09-22,"MP govt announces Rs 4,000 direct cash transfer to farmers",tribune-nation
+2020-09-22,Farm bills: Cong steps up attack; Rahul accuses govt of working for development of crony capitalists,tribune-nation
+2020-09-22,LS adjourned for hour after Ravneet Bittu alleges assault by Delhi Police on Punjab MPs,tribune-nation
+2020-09-22,Dushyant’s offer to quit on MSP seems rather late,tribune-haryana
+2020-09-22,Newly passed farm bills profitable future for farming community: All India Farmer Associations,tribune-nation
+2020-09-22,Suspended opposition MPs end dharna in Parliament after Azad announces boycott of proceedings,tribune-nation
+2020-09-22,Harivansh brings tea for protesting MPs; told he was in the wrong; PM praises him,tribune-nation
+2020-09-22,Prasad slams Oppn’s irresponsible acts  in Upper House,tribune-nation
+2020-09-22,Sukhbir asks Capt to call special session to revoke amended State APMC Act,hindustantimes
+2020-09-22,Decoding farm Bills provisions & apprehensions,tribune-nation
+2020-09-22,APMC traders to meet on September 27,hindu
+2020-09-22,KTR takes jibes at BJP on COVID funding,hindu
+2020-09-22,Wheat MSP hiked by 2.6% to douse ire ,telegraph
+2020-09-22,Seven bills passed in three and a half hours in Rajya Sabha,telegraph
+2020-09-22,"Congress leads Opposition walkout in Rajya Sabha, wants suspension of 8 MPs revoked  ",telegraph
+2020-09-22,Why farmer Nimai Ray feels he has lost his independence,telegraph
+2020-09-22,Eight Rajya Sabha MPs suspended for the rest of the session ,telegraph
+2020-09-22,Govt omits causes in latest data on farm suicides,telegraph
+2020-09-22,Narendra Modi offers potato logic to farmers,telegraph
+2020-09-22,Congress plans national agitation over farm bills,telegraph
+2020-09-22,Mamata Banerjee spots ‘naked king’ and Hitler clone,telegraph
+2020-09-22,Govt. unveils 2.6% hike in wheat MSP amid protests,hindu
+2020-09-22,NCP: strongly oppose passage of farm Bills,hindu
+2020-09-22,Mamata calls for united protest by all parties,hindu
+2020-09-22,Suspended MPs stay put in protest,hindu
+2020-09-22,Congress to launch nationwide stir,hindu
+2020-09-22,Reforms are the road to 21st century India: PM,hindu
+2020-09-22,Govt. announces 2.6% hike in wheat MSP,hindu
+2020-09-22,8 MPs suspended from RS for ‘unruly behaviour’,hindu
+2020-09-22,Farmers groups call for Bharat Bandh,hindu
+2020-09-22,‘PM Kisan Scheme scam: State took proper steps ’,hindu
+2020-09-22,Ryots to protest against farm Bills,hindu
+2020-09-22,Biggest reform in farm sector after Green Revolution: BJP,hindu
+2020-09-22,TRS insincere in its opposition to farmers’ Bills: say Congress MPs,hindu
+2020-09-22,Modi govt. misleading farmers: Raju Shetti,hindu
+2020-09-22,Ruckus as eight MPs suspended,tribune-nation
+2020-09-22,"Govt ready to discuss farm bills, face division of votes if suspended members express regret: Naidu",tribune-nation
+2020-09-22,Haryana farmers unhappy over Centre’s MSP hike,hindustantimes
+2020-09-22,BJP to hold state-wide awareness campaign on Centre’s farm bills,timesofindia
+2020-09-22,Govt to table in Rajya Sabha bill on essential commodities today,timesofindia
+2020-09-22,"Sunny Deol hails Bills,  invites flak from Oppn",tribune-punjab
+2020-09-22,"Alliance can be reconsidered, but not party policy: Minister",timesofindia
+2020-09-22,"Wheat MSP hiked by Rs 50, Congress says not enough",tribune-nation
+2020-09-22,‘Move shows BJP cares for farmers’,timesofindia
+2020-09-22,"No attempt should be made to misguide farmers on farm bills, says TN BJP chief",timesofindia
+2020-09-22,Samajwadi Party leaders under house arrest in Bijnor to prevent them protesting against farm bills,timesofindia
+2020-09-22,"Protest against farm bills: Cong MLA fries pakoras, makes tea for supporters",timesofindia
+2020-09-22,"China encroaches upon Nepal land, builds infra",timesofindia
+2020-09-22,Farmers trash Rs 50 wheat MSP hike,timesofindia
+2020-09-22,"Cong protests against farm bills, mandis shut",timesofindia
+2020-09-22,Commission agents end strike as Haryana govt bows to demands,hindustantimes
+2020-09-22,Maharashtra chief wildlife warden permits capture of Yavatmal tigress,hindustantimes
+2020-09-22,"Commission agents end strike, resume paddy procurement after Haryana govt accepts demands",hindustantimes
+2020-09-22,"SAD to hold 3-hour chakka jam on September 25, lead kisan march from three Takhts on October 1",hindustantimes
+2020-09-22,DPCC shits down 18 polluting vehicle scrapping units in Delhi,hindustantimes
+2020-09-22,RS approves 7 bills in under 4 hrs as Oppn skips session,hindustantimes
+2020-09-22,‘Govt has given new definition to NDA’: Shashi Tharoor’s latest dig at Centre,hindustantimes
+2020-09-22,Rajya Sabha holds crucial meeting as Opposition boycotts Parliament proceedings,hindustantimes
+2020-09-22,"News updates from Hindustan Times: Sonia, Rahul return to India amid Oppn standoff with govt over farm bills and all the latest news",hindustantimes
+2020-09-22,"As Oppn boycotts Parliament over farm bills, LS Speaker calls them for meeting",hindustantimes
+2020-09-22,"Punjab govt cuts market, rural development fee for basmati to 1% each",hindustantimes
+2020-09-22,"Rain batters kharif crop on 45,000 hectares",timesofindia
+2020-09-22,Cotton farmers forced to sell below MSP says SAD,timesofindia
+2020-09-22,"We had the numbers, says Prasad, slams Opposition conduct",timesofindia
+2020-09-22,Punjab allows use of miller premises for staggered paddy procurement amid Covid-19,hindustantimes
+2020-09-22,8 Rajya Sabha MPs suspended for a week for ‘unruly’ conduct,timesofindia
+2020-09-22,Punjab and Haryana arhtiyas see agitation against agriculture bills as fight for survival,timesofindia
+2020-09-22,Monkeys on a rampage destroy cotton crop in Raichur village,timesofindia
+2020-09-22,"RJD, Congress to face farmers’ wrath in assembly polls: Sushil Kumar Modi",timesofindia
+2020-09-22,"RJD, Congress to face farmers’ wrath in assembly polls: Sushil Kumar Modi",timesofindia
+2020-09-22,"Bihar: Opposition slams ‘anti-farmer, anti-poor’ farm Bills",timesofindia
+2020-09-22,Bihar CM Nitish Kumar condemns heckling of RS deputy chairman,timesofindia
+2020-09-22,"Ansari’s wife, 2 sons booked for land fraud",timesofindia
+2020-09-22,"Madhya Pradesh farmers take to streets, threaten stir over agriculture bills",timesofindia
+2020-09-22,‘Many leaders don’t want backward tag’,timesofindia
+2020-09-22,"BJP leaders in T attack TRS, Cong for opposing farm bills",timesofindia
+2020-09-22,"MSP hike a cruel joke, address concerns: Punjab CM",tribune-punjab
+2020-09-22,"No mention of MSP for several crops in new agri bill, says min",timesofindia
+2020-09-22,Bihar CM Nitish flays opposition over ruckus in Rajya Sabha,timesofindia
+2020-09-22,"Farm bills will end rule of ‘powerful gangs’, says PM",timesofindia
+2020-09-22,"Internet connectivity for every village in 1,000 days: Narendra Modi",timesofindia
+2020-09-22,Telangana: Sharp dip in vegetable cultivation spikes prices,timesofindia
+2020-09-22,Japanese method to give a green makeover to Delhi's mountain of shame,timesofindia
+2020-09-22,Cong wants to keep farmers poor: Paatil,timesofindia
+2020-09-23,SC body backs call for Punjab bandh,tribune-punjab
+2020-09-23,"Sunil Jakhar writes to Haryana CM, protests blocking of march",tribune-punjab
+2020-09-23,Stop exploiting farmers: Capt Amarinder,tribune-punjab
+2020-09-23,BJP leaders gheraoed in Sangrur,tribune-punjab
+2020-09-23,"Dejected, farmers trash ‘meagre’ MSP hike",tribune-punjab
+2020-09-23,Navjot Sidhu to spearhead stir in Amritsar today,tribune-punjab
+2020-09-23,Punjab farmers go virtual to garner support for stir,tribune-punjab
+2020-09-23,Protesting Punjab farmers on their way to Delhi stopped at Haryana border,tribune-punjab
+2020-09-23,"AAP launches ‘Gram Sabha Bulao, Pind Bachao’ campaign in Punjab against farm legislations",tribune-punjab
+2020-09-23,Navjot Sidhu conducts 'rosh march' in Amritsar against farm Bills,tribune-punjab
+2020-09-23,"In a historic move, 31 farmer organisations join hands for Punjab bandh on Sept 25",tribune-punjab
+2020-09-23,SAD announces statewide 3-hr ‘chakka jam’ on Sept 25,tribune-punjab
+2020-09-23,"On Day 8, protesters lift blockade at Badal village",tribune-punjab
+2020-09-23,"One killed, 17 farmers injured as bus returning from protest in Badal village meets with accident",tribune-punjab
+2020-09-23,NASA draws attention to fires in fields,tribune-punjab
+2020-09-23,"Farm bills: Sunny Deol will not be allowed to enter Gurdaspur, say Congmen",tribune-punjab
+2020-09-23,"Support grows for Punjab farmers, non-agriculture bodies join in",tribune-punjab
+2020-09-23,Levy on basmati halved in Punjab,tribune-punjab
+2020-09-23,Kangana Ranaut asks 'why target me' after NSUI Punjab burns her effigies for her 'terrorist' remark against farmers,tribune-punjab
+2020-09-23,Punjab government allows use of miller premises as mandi yards,tribune-punjab
+2020-09-23,"CM Mamata invites flak from BJP for seeking Ayushman Bharat, Kisan Samman Nidhi funds",hindustantimes
+2020-09-23,BJP’s one market for farmers is a myth | Opinion,hindustantimes
+2020-09-23,Chandigarh veggie vendors charging up to 30% more than fixed rates,hindustantimes
+2020-09-23,JJP caught in a cleft stick over farm legislations,hindustantimes
+2020-09-23,Himachal governor goes into self-isolation,hindustantimes
+2020-09-23,SAD workers hold tractor rally in Dakha to protest farm bills,hindustantimes
+2020-09-23,"Farm bills row: Cops use water cannons on protesters in Panipat, Ambala",hindustantimes
+2020-09-23,Congress has always been anti-farmer: Himachal BJP spokesperson,hindustantimes
+2020-09-23,Farm agitation fertile ground for creative slogans,hindustantimes
+2020-09-23,"Uttarakhand assembly session: Congress, AAP protest over ‘anti-farmer policies’",hindustantimes
+2020-09-23,"As RS clears bills amid Oppn boycott, Naidu defends action; expresses anguish at ‘unpleasant turn of events’",hindustantimes
+2020-09-23,"Navjot Singh Sidhu bats for farmers, says Punjab united against ‘black laws’",hindustantimes
+2020-09-23,Delhi government’s plan of action to curb pollution in winter: All you need to know,hindustantimes
+2020-09-23,"Farmer killed, 17 BKU activists injured after bus rams into truck near Bathinda",hindustantimes
+2020-09-23,Bengal BJP delegation to meet Governor over TMC’s ‘double standards’ on farm bills,hindustantimes
+2020-09-23,"Paddy to be procured at 4,500 locations in Punjab, 2,650 temporary purchase centres set up",hindustantimes
+2020-09-23,"As paddy harvesting starts, Punjab farmer unions adamant on burning straw if not paid for disposal",hindustantimes
+2020-09-23,"Himachal reports 6 deaths, 340 cases",hindustantimes
+2020-09-23,Shanta Kumar slams Opposition for unruly conduct in Rajya Sabha,hindustantimes
+2020-09-23,EPCA asks agencies to jointly patrol industrial areas to check pollution,hindustantimes
+2020-09-23,"Gurugram: Protests over farm bills driven by vested interests, says JJP",hindustantimes
+2020-09-23,"Maharashtra: Yavatmal tigress T2C1 captured, transferred to rescue centre",hindustantimes
+2020-09-23,"Ahead of nationwide stir, Youth Congress takes out tractor rally against farm bills",hindustantimes
+2020-09-23,UP farmer beheaded for not sharing water,tribune-nation
+2020-09-23,Congress leader Ghulam Nabi Azad meets President Kovind amid farm bills crisis,hindustantimes
+2020-09-23,‘Dignity of the Chair devalued’,hindu
+2020-09-23,Opposition parties walk out of both Houses of Parliament,hindu
+2020-09-23,Onion exports to Bangladesh to resume,telegraph
+2020-09-23,Rajya Sabha passes 15 bills in two days in Opposition's absence,telegraph
+2020-09-23,How to add hot tea to injury,telegraph
+2020-09-23,Never seen Chair behave like this: NCP chief Sharad Pawar ,telegraph
+2020-09-23,‘Can implement schemes if funds routed through Bengal’,hindu
+2020-09-23,Modi has lit farm fire: Congress,telegraph
+2020-09-23,Ailing road to Contai hospital sparks protest,telegraph
+2020-09-23,Unfair tactics: Passing farm bills in Parliament,telegraph
+2020-09-23,Electoral might: Steamrolling of farm bills,telegraph
+2020-09-23,"Minister keeps his promise, gifts cars to JAC science toppers",telegraph
+2020-09-23,Tamil Nadu CM says explanation will be sought from SRB on his criticism of farm bills,timesofindia
+2020-09-23,Visakhapatnam: Lammasingi’s strawberry farmers brace for losses due to pandemic,timesofindia
+2020-09-23,Letters heat up Bengal farm tussle,telegraph
+2020-09-23,"Amid protests, kharif crops ripen",hindu
+2020-09-23,Govt. should bring in another Bill or amend current one: SJM,hindu
+2020-09-23,Opposition parties walk out of both Houses,hindu
+2020-09-23,IYC protests against rising unemployment,hindu
+2020-09-23,Bills to double farmers’ income: BJP,hindu
+2020-09-23,"Isn’t English ads on farm Bills making fun of farmers, asks AAP",hindu
+2020-09-23,Akali Dal to protest against farm Bills on September 25,hindu
+2020-09-23,Punjab govt. reduces levies on basmati rice,hindu
+2020-09-23,"EPCA raises red flag over Jhilmil industrial area, Anand Vihar ISBT",hindu
+2020-09-23,Cong. accuses Centre of plot to ruin farmers,hindu
+2020-09-23,"DCC presidents to have major say in party affairs, says Tagore",hindu
+2020-09-23,681 more cases make capital scene grave,hindu
+2020-09-23,Changes to land reforms opposed at ‘people’s session’,hindu
+2020-09-23,Protest against farm Bills in Salem,hindu
+2020-09-23,"CM reiterates support to farm Bills, calls Stalin ignorant",hindu
+2020-09-23,‘Amendments to Essential Commodities Act welcome’,hindu
+2020-09-23,Physical distancing goes for a toss at Tangedco office in Hosur,hindu
+2020-09-23,Stalin accuses BJP of using brute majority to pass laws,hindu
+2020-09-23,"‘Poor road infra, speeding snuffing out lives on city roads’",timesofindia
+2020-09-23,Farm bills: Ghulam Nabi Azad to meet President today,hindustantimes
+2020-09-23,"Excise dept raids farm, finds 200 ganja plants",timesofindia
+2020-09-23,Cauvery-Gundar project will benefit one lakh acres in Ramnad,timesofindia
+2020-09-23,Opposition parties conduct silent protest march in Parliament over Farm Bills,deccanherald
+2020-09-23,Don't sign farm reform Bills: Opposition tells President,deccanherald
+2020-09-23,Congress to launch 1-month fast against anti-farmer law,timesofindia
+2020-09-23,Govt allocates Rs 100cr for Raja Mahendra varsity in Aligarh,timesofindia
+2020-09-23,Rajasthan farmers divided over agriculture bill,timesofindia
+2020-09-23,Government to set up special centre for betel vine in Kumbakonam,timesofindia
+2020-09-23,"Mayawati slams both Opposition, government over Monsoon Session chaos",deccanherald
+2020-09-23,Dalit farmer in Uttar Pradesh beheaded for not sharing water,timesofindia
+2020-09-23,Tejashwi Prasad Yadav questions ‘haste’ in passing farm Bills,timesofindia
+2020-09-23,"Reach out to people, CM tells party workers ahead of polls",timesofindia
+2020-09-23,"Reach out to people, CM tells party workers ahead of polls",timesofindia
+2020-09-23,"Harivansh offers tea to suspended MPs, PM hails ‘big heart’",timesofindia
+2020-09-23,"‘Oppn out to mislead, new laws will empower farmers’",tribune-nation
+2020-09-23,Opposition boycotts Parliament over farm Bills,tribune-nation
+2020-09-23,Tejas questions ‘haste’ in passing farm Bills,timesofindia
+2020-09-23,Traders in Madhya Pradesh agri markets to go on strike from September 24,deccanherald
+2020-09-23,Police use water cannon in Panipat to stop Haryana Youth Congress 'tractor rally' to Delhi,deccanherald
+2020-09-23,Navjot Sidhu stages protest against Farm Bills,deccanherald
+2020-09-23,Madurai: EPS says explanation will be sought from SRB on his criticism of farm bills,timesofindia
+2020-09-23,Telangana farmers oppose new agriculture laws,tribune-nation
+2020-09-23,Ghulam Nabi Azad meets President Kovind; Opposition requests President not to give assent to contentious farm Bills,tribune-nation
+2020-09-23,Hopes & fears arising out of farm Bills,tribune-haryana
+2020-09-23,Hooda: MSP hike  insignificant,tribune-haryana
+2020-09-23,Govt shying away from talks with farmers: Selja,tribune-haryana
+2020-09-23,"Sunil Jakhar writes to Haryana CM, protests blocking of march",tribune-haryana
+2020-09-23,Police use water cannon in Panipat to stop Haryana Youth Congress ‘tractor rally’ to Delhi,tribune-haryana
+2020-09-23,Protesting Punjab farmers on their way to Delhi stopped at Haryana border,tribune-haryana
+2020-09-23,Karnataka likely to shut down on Monday as farmers call strike,deccanherald
+2020-09-23,"Activists, farmers, oppose amendments; BJP defends",deccanherald
+2020-09-23,"Farm bills: Stalin always opposes BJP schemes, says L Murugan",deccanherald
+2020-09-23,Kerala government may move Supreme Court against Farm Bills,deccanherald
+2020-09-23,"DMK's Stalin hits back at Palaniswami, says farmers are demanding MSP",deccanherald
+2020-09-23,5.38 lakh ineligible farmers claimed money under PM Kisan scheme in Tamil Nadu: Centre,deccanherald
+2020-09-23,"Centre’s agriculture bills are pro-farmer, say BJP leaders",timesofindia
+2020-09-23,‘Modi govt committed to farmers’ welfare’: Smriti Irani slams Opposition for protesting against farm bills,hindustantimes
+2020-09-23,"Farm bills: Protests in Panipat, Ambala; Haryana Police use water cannon",hindustantimes
+2020-09-23,Rajya Sabha adjourns sine die; second-shortest monsoon session so far,hindustantimes
+2020-09-23,Why onion farmers often end up in tears,hindustantimes
+2020-09-23,‘Bihari pride’ in focus amid uproar in House,hindustantimes
+2020-09-23,"Sonia Gandhi, Rahul Gandhi return from US amid House standoff",hindustantimes
+2020-09-23,‘Sleepless night’: Harivansh on fast,hindustantimes
+2020-09-23,"Mamata Banerjee wants Ayushman Bharat, Kisan Samman Nidhi schemes in Bengal but with riders",hindustantimes
+2020-09-23,Parliament monsoon session: What to expect today,hindustantimes
+2020-09-23,Rajya Sabha Deputy Chairman Harivansh breaks his one-day fast,hindustantimes
+2020-09-23,"Mayawati slams both opposition, centre over Monsoon Session chaos",hindustantimes
+2020-09-23,Opposition leaders to meet President today amid Parliament boycott over farm bills,hindustantimes
+2020-09-23,News updates from Hindustan Times: Opposition leaders to meet President at 5pm on farm bills and all the latest news,hindustantimes
+2020-09-23,"Claim pro-farmer reforms, but no data on their suicides: TMC attacks Centre",hindustantimes
+2020-09-23,"Ahead of their meeting with President, opposition MPs take out march against farm Bills",tribune-nation
+2020-09-23,"Monsoon session, scheduled to continue till October 1, curtailed due to Covid-19; Rajya Sabha adjourned sine die",hindustantimes
+2020-09-23,Govt pushes flurry of bills as Oppn boycotts,hindustantimes
+2020-09-24,Crude oil flows into paddy field as ONGC pipe develops leak,timesofindia
+2020-09-24,Nationwide shutdown over farm bills row on Friday: 10 points,hindustantimes
+2020-09-24,28 trains cancelled as Punjab farmers begin three-day rail roko agitation,hindustantimes
+2020-09-24,Uttarakhand HC directs govt to form monitoring panels to contain Covid-19,hindustantimes
+2020-09-24,"Farmers in Punjab, Haryana intensify protests against farm bills; Oppn parties take to streets, too",hindustantimes
+2020-09-24,"Upset over loan recovery notices from bank, farmer’s wife dies by suicide in MP’s Bundelkhand",hindustantimes
+2020-09-24,"Ambala village bans entry of ruling BJP, JJP leaders",tribune-haryana
+2020-09-24,Police stop Youth Cong’s rally against farm Bills,tribune-haryana
+2020-09-24,Punjab farmers led by Bains brothers stalled at Haryana border,tribune-haryana
+2020-09-24,Ensure no trading takes place below MSP,tribune-haryana
+2020-09-24,It’s not just about the farmer,tribune-haryana
+2020-09-24,"Turf war between SAD, Cong in Dakha for farmers’ support",hindustantimes
+2020-09-24,Declare Punjab a principal market yard: AAP leader,hindustantimes
+2020-09-24,Rail roko agitation: Passengers suffer as 14 special trains cancelled,hindustantimes
+2020-09-24,"Himachal logs 10 Covid deaths, case tally rises to 13,386",hindustantimes
+2020-09-24,Opposition lying about farm bills: BJP UP president,timesofindia
+2020-09-24,"Back in Punjab, Badals credit Shiromani Akali Dal with making farm bills a national debate",hindustantimes
+2020-09-24,When lockdown mixes with hate,telegraph
+2020-09-24,Punjab farmers begin rail roko agitation over agri bills ,telegraph
+2020-09-24,Labour regime tilts to employer,telegraph
+2020-09-24,Govt uses boycott as Rajya Sabha free pass,telegraph
+2020-09-24,BJP plans march of two lakh people during pandemic,telegraph
+2020-09-24,Fallen warriors: India's healthcare workers,telegraph
+2020-09-24,"Ensure smooth conduct of September 25 exam, admin urged",timesofindia
+2020-09-24,Paddy crops take a hit after heavy rain,timesofindia
+2020-09-24,Will not allow BJP leaders in villages: Farm unions,hindustantimes
+2020-09-24,Uttarakhand’s labour and industrial law changes termed anti-worker by Congress,hindustantimes
+2020-09-24,"AAP, Congress activists hold protest at Takht Damdama Sahib as Badals return to Punjab",hindustantimes
+2020-09-24,Himachal Pradesh reports 280 new Covid-19 cases 5 deaths,timesofindia
+2020-09-24,Opposition in Bihar raises pitch against farm bills,timesofindia
+2020-09-24,"Farm Bills: Won’t sit and watch, says Tejashwi Prasad Yadav",timesofindia
+2020-09-24,"No option but to burn stubble, say farmers as doctors worry about Covid",hindustantimes
+2020-09-24,Congress-BJP war on farm loan waivers intensifies ahead of key MP by polls,hindustantimes
+2020-09-24,"7 killed in rain-related incidents in UP, no end in sight for Delhi's dry spell",deccanherald
+2020-09-24,Elephant menace forces farmers to abandon paddy cultivation,deccanherald
+2020-09-24,"Farmer returning from protest at Badal village killed in road mishap, 17 injured",tribune-punjab
+2020-09-24,Unions reach out to panchayats against Bills,tribune-punjab
+2020-09-24,31 Punjab farmer unions join hands to make bandh a success,tribune-punjab
+2020-09-24,Declare state principal market yard: Sukhbir,tribune-punjab
+2020-09-24,"Eye on poll, Cong looks to cash in on farmer stir",tribune-punjab
+2020-09-24,Ask other CMs to oppose Bills: LIP to Capt Amarinder Singh,tribune-punjab
+2020-09-24,GST scam needs deeper probe: High Court,tribune-punjab
+2020-09-24,"Farm Bills: 3-day ‘rail roko’ agitation starts in Punjab, train services suspended",tribune-punjab
+2020-09-24,"BJP leader Madan Mohan Mittal dares Akalis to snap ties, says many ready to switch sides",tribune-punjab
+2020-09-24,"Parliament adjourns sine die, session cut short by eight days",tribune-nation
+2020-09-24,APMC Act abolition didn’t work in Bihar: Jairam,tribune-nation
+2020-09-24,"Opposition ‘directionless', it boycotts Parliament and protests outside: Javadekar",tribune-nation
+2020-09-24,"Rail roko agitation to severely affect movement of essential items, foodgrains: Railways",tribune-nation
+2020-09-24,"Day before ‘Bharat bandh’, Tomar slams ‘Cong lies’, assures farmers on 3 agri-legislations",tribune-nation
+2020-09-24,Ensure no trading takes place below MSP,tribune-punjab
+2020-09-24,It’s not just about the farmer,tribune-punjab
+2020-09-24,Punjab farmers led by Bains brothers stalled at Haryana border,tribune-punjab
+2020-09-24,"Farm bodies to block roads, rail traffic at 125 locations across Punjab on Friday",tribune-punjab
+2020-09-24,Punjab CM appeals to all parties to fight unitedly against farm Bills,tribune-punjab
+2020-09-24,Troll snaps at Diljit Dosanjh on-farm Bills post; read Punjabi singer's epic comeback,tribune-punjab
+2020-09-24,Modi bets the farm in gamble to relaunch economy,deccanherald
+2020-09-24,"Farm bills: Punjab, Haryana farmers to go on strike tomorrow",hindustantimes
+2020-09-24,Farmer dies by suicide in Uttar Pradesh's Fatehpur,deccanherald
+2020-09-24,"Farm Bill: Farmers' 'rail roko' protest in Punjab to hit movement of essential items, foodgrains, says Indian Railways",deccanherald
+2020-09-24,"'Rail roko' agitation starts in Punjab, train services suspended",deccanherald
+2020-09-24,"Farm bills to adversely affect interests of 62 cr farmers, labours: AICC",deccanherald
+2020-09-24,Farm Bills become Mamata Banerjee’s new weapon against BJP,deccanherald
+2020-09-24,"Opposition ‘directionless’, it boycotts Parliament and protests outside: Javadekar",deccanherald
+2020-09-24,Centre should have taken farmers into confidence before taking decision on Farm Bills: Mayawati,deccanherald
+2020-09-24,"After farmers, government targeting workers: Rahul Gandhi on labour Bills",deccanherald
+2020-09-24,Centre firm on agricultural reforms; farmers to hit streets over Farm Bills today,deccanherald
+2020-09-24,"Samajwadi Party to organise protests across UP against farm, labour bills",deccanherald
+2020-09-24,Congress doing double-faced politics over farm bills: BJP,deccanherald
+2020-09-24,"Obvious problems, loopholes in farm bills: Arvind Kejriwal",deccanherald
+2020-09-24,"'Rail roko' agitation to severely affect movement of essential items, foodgrains: Railways",deccanherald
+2020-09-24,Punjab farmers call on 3-day 'rail-roko' agitation over Farm Bills,deccanherald
+2020-09-24,‘Kicked’ chair when Centre decided to bring farm Bills in Parliament: Harsimrat,tribune-punjab
+2020-09-24,'New farm bills have instilled hope in farmers',deccanherald
+2020-09-24,"A tightrope walk for river-crossing in Odisha’s Kandhamal, video is viral",hindustantimes
+2020-09-24,Court issues non-bailable warrant against Sasikala’s brother Sundaravadhanam,hindu
+2020-09-24,"‘Priorities of Modi government’, says Rahul Gandhi on Fit India Dialogue 2020",hindustantimes
+2020-09-24,Monsoon session ends in a flurry of protests,hindu
+2020-09-24,Cong. leaders detained at Panipat,hindu
+2020-09-24,Session ends in a flurry of protests,hindu
+2020-09-24,‘Govt.’s intent and success in terms of delivering has to be taken on board’,hindu
+2020-09-24,Eight Bills passed on last day of Rajya Sabha,hindu
+2020-09-24,May move SC against farm Bills: Pinarayi,hindu
+2020-09-24,Manpreet Ayali leads Akalis tractor rally against ‘anti-farmer’ ordinances,timesofindia
+2020-09-24,Bills evoke muted response from Tamil Nadu farmers,hindu
+2020-09-24,"Is CM really a farmer, asks DMK chief",hindu
+2020-09-24,Farmers stage sit-in outside MP’s house over export ban,timesofindia
+2020-09-24,ONGC pipeline leak damages paddy field,hindu
+2020-09-24,"DMK, allies to stage protest on Sept. 28 against farm bills",hindu
+2020-09-24,Mullanpur Dakha: Congress tries to outdo SAD in mobilising crowds,timesofindia
+2020-09-24,Farmers to block roads on Sept. 25,hindu
+2020-09-24,Sugarcane cultivation turns bitter for Chittoor ryots,hindu
+2020-09-24,‘Farmers to benefit from Bills passed by Centre’,hindu
+2020-09-24,Bihar DGP Pandey takes voluntary retirement,hindu
+2020-09-24,Bengal farmers to block highways on Friday to protest farm bills,hindustantimes
+2020-09-24,Kerala may move SC against farm bills,timesofindia
+2020-09-24,"Soyabean crop damaged, growers seek Rs 50k aid",timesofindia
+2020-09-24,Telangana: New central Bill may push potato prices up,timesofindia
+2020-09-24,Moradabad: Man beaten to death for complaint against harassment of daughter,timesofindia
+2020-09-24,Rajasthan farmers ditch flowers for veggies,timesofindia
+2020-09-24,"Liquor mafia with Rs 15,000 bounty arrested in Bijnor",timesofindia
+2020-09-24,Gujarat: Farmer commits suicide in Sayla village,timesofindia
+2020-09-24,"Uttarakhand assembly session: Amid protests by Congress, 19 bills cleared",timesofindia
+2020-09-24,We are against three capitals: Sailajanath,hindu
+2020-09-24,"Labour unions protest against privatisation, agri reform bills",timesofindia
+2020-09-24,Farmers’ groups call for State bandh on September 28,hindu
+2020-09-24,The farm reforms are good but there are other problems as well | Opinion,hindustantimes
+2020-09-24,"Haryana farmers, commission agents back Bharat Bandh against farm reform bills",hindustantimes
+2020-09-24,"Oppn ‘directionless’, it boycotts Parl and protests outside, says Javadekar",hindustantimes
+2020-09-24,"Rail roko agitation: Freight trains to be hit, passenger train services suspended",hindustantimes
+2020-09-24,Govt should’ve taken farmers into confidence before deciding on farm bills: Mayawati,hindustantimes
+2020-09-24,"Six Union ministers, MPs to lead BJP’s outreach plan in West Bengal",hindustantimes
+2020-09-24,Farm bills: Congress begins its nationwide mass movement against government,hindustantimes
+2020-09-24,‘Those opposing agriculture bills are enemies of farmers’: Shivraj Singh Chouhan,hindustantimes
+2020-09-24,Punjab farmers organise ‘rail roko’ agitation in protest against farm bills from today,hindustantimes
+2020-09-24,Productive but divisive monsoon session ends,hindustantimes
+2020-09-24,"Oppn meets Kovind, urges him not to approve three farm bills",hindustantimes
+2020-09-24,Assembly passes amendment bill to increase BBMP wards,timesofindia
+2020-09-25,Bhartiya Kisan Union members block roads near Delhi-Noida border in protest against farm bills; police deployed,hindustantimes
+2020-09-25,"Here’s why farm protests have been loudest in Punjab, Haryana",hindustantimes
+2020-09-25,Bharat Bandh: Protesting farmers disperse from Delhi-Noida border,hindustantimes
+2020-09-25,Punjab braces for bandh against Centre’s three agriculture bills today,hindustantimes
+2020-09-25,Haryana farmers’ protests remain peaceful with no incidents of violence,hindustantimes
+2020-09-25,"Punjab Bandh today: Transport services suspended, markets to remain shut in Ludhiana",hindustantimes
+2020-09-25,AAP stages protest against agri bills in Mohali,hindustantimes
+2020-09-25,Members of Gurugram unit of AAP protest against farm bills,hindustantimes
+2020-09-25,Polls set to be a litmus test for Grand Alliance,hindustantimes
+2020-09-25,Delivered on all promises: Nitish,hindustantimes
+2020-09-25,‘Will challenge farm bills in Supreme Court’: Punjab finance minister,hindustantimes
+2020-09-25,"Congress, NCP say no to farm bills in Maharashtra. Shiv Sena to decide",hindustantimes
+2020-09-25,"After talks with Yediyurappa fail, farmers to go ahead with Karnataka bandh",hindustantimes
+2020-09-25,News updates from Hindustan Times: UP farmers join nationwide bandh over 3 farm bills in a big way and all the latest news,hindustantimes
+2020-09-25,Farmers have lost all faith in PM Modi-led govt: Rahul Gandhi,hindustantimes
+2020-09-25,"Uttarakhand farmers protest farm bills, say ‘leaders weren’t consulted’",hindustantimes
+2020-09-25,Family of terror suspect believed he was working in Saudi for 12 years,hindustantimes
+2020-09-25,UP farmers join nationwide bandh over 3 farm bills in a big way,hindustantimes
+2020-09-25,For the first time laws have been drafted to benefit farmers and marginalised: PM Modi,hindustantimes
+2020-09-25,Farmers block tracks in 6 Punjab districts on day 1 of ‘rail roko’ stir against Centre’s agriculture bills,hindustantimes
+2020-09-25,Haryana farmers block highways and a railway line against farm reform bills,hindustantimes
+2020-09-25,Bihar election dates set | HT Editorial,hindustantimes
+2020-09-25,"Bharat Bandh: Punjab, Maharashtra, UP among states to be affected by farmers’ unions strike",hindustantimes
+2020-09-25,Hope visuals of distressed farmers mellow Centre: Capt,hindustantimes
+2020-09-25,"Agri bills death knell in garb of reform, says LIP chief Simarjit Singh Bains",hindustantimes
+2020-09-25,"Farmer found dead in Greater Noida with head injuries, burn marks",hindustantimes
+2020-09-25,"To protest against reform bills, farmers block Delhi-Noida road at Sector 14A",hindustantimes
+2020-09-25,"Army cavalcade blocked, pro-Khalistan slogans raised in Ambala",tribune-haryana
+2020-09-25,Opposition unleashing malicious propaganda on farmers’ issue: Haryana Agri Minister,tribune-haryana
+2020-09-25,"Sukhbir, Harsimrat lead Akali chakka jam against farm bills",hindustantimes
+2020-09-25,Farmers in Haryana take to roads to protest farm Bills,tribune-haryana
+2020-09-25,Farm Bills a revolutionary step: BJP Haryana chief OP Dhankar,tribune-haryana
+2020-09-25,"Will back farmers, say 5 Haryana BJP leaders after ‘secret’ meeting",tribune-haryana
+2020-09-25,Agriculture Minister JP Dalal shown black flags,tribune-haryana
+2020-09-25,"Farmers’ bandh today, Tomar blames Cong",tribune-nation
+2020-09-25,"Farm bills are welcome, but farmers need a rights-based protection law | Analysis",hindustantimes
+2020-09-25,UP’s first private farm mandi opens in Bulandshahr amid protests,hindustantimes
+2020-09-25,Will act as the situation demands: Panchkula DCP,tribune-haryana
+2020-09-25,Samajwadi Party to protest in UP against farm and labour reform laws,hindustantimes
+2020-09-25,"Farm bills: Farmers protest, block Delhi-Noida road at Sector 14-A",hindustantimes
+2020-09-25,"Uttarakhand CM says farm bills for ‘one nation one market’, Opposition protests",hindustantimes
+2020-09-25,Northern Railway cancels some trains due to farmers’ agitation in Punjab,hindustantimes
+2020-09-25,BJP all set to gain in Rajya Sabha after November as Opposition numbers drop by 9,hindustantimes
+2020-09-25,"Lanka Dinakar slams Rahul for skipping Parl session, calls him ‘Twitter Gandhi’",hindustantimes
+2020-09-25,"Bharat Bandh: Nationwide farmers’ strike today, rail, road transport to be affected. All you need to know",hindustantimes
+2020-09-25,Punjab CM appeals to farmers to maintain law and order during ‘Bharat Bandh’,hindustantimes
+2020-09-25,Congress asks Nitish Kumar to quit NDA if can’t protect farmers’ ‘interest’,hindustantimes
+2020-09-25,"Total bandh in Amritsar, Patiala, Jalandhar and Bathinda against Centre’s farm bills",hindustantimes
+2020-09-25,Stir across ‘food bowl’ today over farm laws,hindustantimes
+2020-09-25,Cong terms farm bills ‘unconstitutional’,hindustantimes
+2020-09-25,"No provision to end APMCs, says Tomar",hindustantimes
+2020-09-25,Stir to intensify as farm groups come together,hindustantimes
+2020-09-25,Farm bills: Maharashtra farmers participate in nationwide protests,hindustantimes
+2020-09-25,Farmers' protest: AIKS stages street plays during protests in Rohtak,tribune-haryana
+2020-09-25,Congress-ruled Punjab at standstill till 4pm in support of farmers’ bandh call,hindustantimes
+2020-09-25,Farm protests may hit transport of essentials: Railways,hindustantimes
+2020-09-25,Bharat bandh call over farm reform bills: UP police put on alert,hindustantimes
+2020-09-25,AAP activists stir against Centre’s farm bills,timesofindia
+2020-09-25,Pain of agitating farmers will reach Central govt: Capt Amarinder,tribune-punjab
+2020-09-25,Farmers across India begin protest on farm bills ,telegraph
+2020-09-25,Farmers in Punjab begin rail blockades,hindu
+2020-09-25,‘Cong. promised same reforms’,hindu
+2020-09-25,"Govt. claim on MSP is a half-truth, says Congress",hindu
+2020-09-25,Farmers in Punjab begin rail blockades,hindu
+2020-09-25,CPI(M) MP questions Deputy Chairman’s motives in ignoring Opposition demands,hindu
+2020-09-25,‘Cong. to work towards making Stalin CM’,hindu
+2020-09-25,Lone tusker tramples man to death,hindu
+2020-09-25,Bedi backs plea against CM’s call for agitation,hindu
+2020-09-25,Withdraw farm bills: farmers,hindu
+2020-09-25,‘Forest Dept. indifferent to farmers’ concerns’,hindu
+2020-09-25,Farmers’ protests outside 250 offices today,hindu
+2020-09-25,TS farmers cold to nationwide protest,hindu
+2020-09-25,Man kills father,hindu
+2020-09-25,Punjab govt to challenge farm Bills in Supreme Court: Manpreet Badal,tribune-punjab
+2020-09-25,"Bills aimed at lifting MSP safety cover, says Minister",hindu
+2020-09-25,‘Bio-decomposer technique will curb stubble burning pollution’,hindu
+2020-09-25,Bihar elections: A trial by fire for BJP,tribune-nation
+2020-09-25,Bihar elections: why BJP/NDA definitely needs to win the upcoming polls,tribune-nation
+2020-09-25,Congress backs Bharat Bandh; Rahul says new agriculture laws will ‘enslave’ farmers,tribune-nation
+2020-09-25,Security beefed up at Delhi borders amid protests against farm bills,tribune-nation
+2020-09-25,"Farm Bills to benefit small, marginal farmers most, says Modi",tribune-nation
+2020-09-25,Govt ready to talk to farmers even at midnight: Agriculture minister on bills,timesofindia
+2020-09-25,"Congress: Central, state govts anti-farmer",timesofindia
+2020-09-25,Rs 72cr retrieved from ineligible PM Kisan beneficiaries: Min,timesofindia
+2020-09-25,Nitish: Farm Bills to benefit farmers,timesofindia
+2020-09-25,Tomar sheds ‘pretense’ of honesty: Amarinder,timesofindia
+2020-09-25,Will quit if farmers fail to get MSP: Haryana deputy CM Dushyant Chautala,timesofindia
+2020-09-25,‘Centre dragging feet on MSP’,timesofindia
+2020-09-25,Farmers block train tracks while Modi tracks fitness routine,telegraph
+2020-09-25,Will quit if farmers fail to get MSP: Haryana deputy CM Dushyant Chautala,timesofindia
+2020-09-25,Digvijaya accuses BJD of supporting BJP,telegraph
+2020-09-25,"Modi ‘busy with fitness’, not farmers",telegraph
+2020-09-25,Farm Bills: Protests held across UP; farmers stage ‘panchayat’ at Delhi-UP border,tribune-nation
+2020-09-25,Karnataka: Farmers block highway in Mandya,deccanherald
+2020-09-25,"Agriculture reforms Bills: Farmers block highways in Mysuru, taken into custody",deccanherald
+2020-09-25,"Farm Bills to benefit small, marginal farmers most, says PM Modi",deccanherald
+2020-09-25,"As farmers' protest rages on, PM Modi asks BJP to counter rumours",deccanherald
+2020-09-25,Farm Bills remind of East India Company rule: Priyanka Gandhi Vadra,deccanherald
+2020-09-25,Pralhad Joshi on ‘misconduct’ of MPs over Farm Bills,deccanherald
+2020-09-25,"New Farm Bill reforms will 'enslave' farmers, says Rahul Gandhi",deccanherald
+2020-09-25,Disgusting conspiracy against farmers: Randeep Surjewala on Farm Bills,deccanherald
+2020-09-25,"Farm bills liberalisation for farmers, opp spreading canards: Sambit Patra",deccanherald
+2020-09-25,"2 Haryana BJP leaders Parminder Singh Dhull, Rampal Majra term Farm Bills 'anti-farmer'",deccanherald
+2020-09-25,"Farmers begin protest in Punjab, Haryana over Farm Bills",deccanherald
+2020-09-25,Security beefed up at Delhi-Uttar Pradesh border amid protests against Farm Bills,deccanherald
+2020-09-25,Farmers protest at Delhi-Noida border in Uttar Pradesh,deccanherald
+2020-09-25,Mixed response to 'Bharat Bandh' by farmers in Uttar Pradesh,deccanherald
+2020-09-25,"Farmers protest to affect movement of trains in Punjab, Haryana: Railways",deccanherald
+2020-09-25,Corruption 'flourished like cancer' during previous Cong regime: Khattar,deccanherald
+2020-09-25,Delhi's air quality predicted to turn 'poor' by September 30: SAFAR,deccanherald
+2020-09-25,When Parliament showcases India's institutional rot,deccanherald
+2020-09-25,Farmers hold protests in Kerala against new agriculture reforms bills,deccanherald
+2020-09-25,TN CM says Farm Bills will not affect Tamil Nadu ryots,deccanherald
+2020-09-25,BJP leaders slam DMK chief Stalin for criticising farm Bills,deccanherald
+2020-09-25,Devendra Fadnavis slams Congress for opposing Farm Bills ,deccanherald
+2020-09-25,"Farm Bills won't be implemented in Maharashtra, says govt",deccanherald
+2020-09-25,Congress only paid lip service to farmers during its rule: Goa BJP,deccanherald
+2020-09-25,Liquor haul at Bihar border,telegraph
+2020-09-25,"Hemant pans new laws, says farmers will be pushed to the brink",telegraph
+2020-09-25,Less is good: Dip in farmer suicides,telegraph
+2020-09-25,Pass motion against farm laws: Left & Cong to CM,telegraph
+2020-09-25,Trade unions to join farmer protests,telegraph
+2020-09-25,"Amid farmers’ protests, Agra division restricts trains running to Amritsar",timesofindia
+2020-09-25,Will the farm bills benefit farmers?,hindu
+2020-09-25,"Three years on, man gets 25 years jail sentence for raping minor",timesofindia
+2020-09-25,31 farm bodies to block traffic at 125 sites,tribune-punjab
+2020-09-25,"Akalis brought debate to fore with resignation, claims Sukhbir",tribune-punjab
+2020-09-25,Capt Amarinder Singh asks parties to join hands,tribune-punjab
+2020-09-25,Farm leaders behind the agitation,tribune-punjab
+2020-09-25,Educated youths hit streets against Bills,tribune-punjab
+2020-09-25,FM: Will safeguard farmers’ interests,tribune-punjab
+2020-09-25,Move to mark area outside mandis market yard,tribune-punjab
+2020-09-25,"Farmers begin 3-day ‘rail roko’, services suspended",tribune-punjab
+2020-09-25,Capt Amarinder Singh calls Tomar's claims 'atrocious lies',tribune-punjab
+2020-09-25,"Congress kicks off nation-wide campaign against farm bills, says govt misleading people",timesofindia
+2020-09-25,Jharkhand Congress plans protest against farm bills,timesofindia
+2020-09-25,"Modi praised Tamil Nadu Covid efforts out of political compulsion, says MK Stalin",timesofindia
+2020-09-25,"Punjab CM appeals to all parties to fight against farm bills, says ready to lead battle",timesofindia
+2020-09-25,‘Rail roko’ agitation starts in Punjab,timesofindia
+2020-09-25,Rural police on guard as farmers plan stir today,timesofindia
+2020-09-25,House passes land law amendments,timesofindia
+2020-09-25,Congress to hold protest march against farm bills on Sept 28,timesofindia
+2020-09-25,Railways pegs big losses due to farmers’ stir,tribune-punjab
+2020-09-25,Hubris as policy,tribune-punjab
+2020-09-25,"Punjab Bandh: Protests in 125 places across state; supply of essential commodities hit, major highways blocked",tribune-punjab
+2020-09-25,Farmers in Punjab begin their protest against farm Bills,tribune-punjab
+2020-09-25,New farm bills will end exploitation of farmers: UP CM Yogi Adityanath,timesofindia
+2020-09-25,Congress to back ryots’ protests today: TPCC chief,timesofindia
+2020-09-25,Organic farmers welcome new agri bill,timesofindia
+2020-09-25,BJP to hold ‘kisan chaupal’ to create awareness on farm bills,timesofindia
+2020-09-25,School shaped like a train attracts students,timesofindia
+2020-09-25,Mandi will remain closed today as farmers plan protests in Mandsaur,timesofindia
+2020-09-25,CM terms farmer bills as biggest reform in agri sector; Cong lambasts Centre’s move,timesofindia
+2020-09-25,"Delta farmers protest, burn farm bill copies",timesofindia
+2020-09-25,Punjab Kisan Morcha head says ordinances not anti-farmer,timesofindia
+2020-09-25,Delhi: New technique may help fight stubborn stubble,timesofindia
+2020-09-25,Govt set to roll out agri infrastructure fund benefits to boost farmers’ income,timesofindia
+2020-09-25,Modi govt hatching conspiracy to privatize agri sector: Chhattisgarh CM,timesofindia
+2020-09-25,Rain gives way to potholes in rural areas,timesofindia
+2020-09-25,"Punjab singers, actors back farmers, protest against farm Bills",tribune-punjab
+2020-09-25,"UP: Paddy sale at 3,000 govt feds, vigil on pvt players",timesofindia
+2020-09-26,Play adds spice to farmers’ agitation,tribune-haryana
+2020-09-26,MSP procurement of kharif paddy begins immediately in Punjab and Haryana: Centre,tribune-haryana
+2020-09-26,BJP workers thrash farm bill protesters,telegraph
+2020-09-26,"Army convoy stalled by farmers in Ambala, pro-Khalistan slogans raised",tribune-haryana
+2020-09-26,Agriculture Minister JP Dalal blames Cong for agitation,tribune-haryana
+2020-09-26,"Farmers block roads in Hisar, Jind",tribune-haryana
+2020-09-26,‘Will continue stir till Bills are withdrawn’,tribune-haryana
+2020-09-26,Tens of thousands of farmers bring west UP to a halt,timesofindia
+2020-09-26,Farmers in US Nagar hold stir against contentious farm bills,timesofindia
+2020-09-26,Pay MSP to farmers while procuring crops: Andhra Pradesh CM,timesofindia
+2020-09-26,‘Withdraw farm Bills’: Protesting farmers block roads across Ludhiana,timesofindia
+2020-09-26,Modi turns to foot soldiers for outreach,telegraph
+2020-09-26,Protesters block traffic on highways in Davanagere,timesofindia
+2020-09-26,ESZ protest: 6 arrested for bid to assault DFO,timesofindia
+2020-09-26,Neera unit in Bantwal to get a new lease of life,timesofindia
+2020-09-26,Commuters hit as roads blocked across Haryana,tribune-haryana
+2020-09-26,West UP stir reaches Delhi border as protests rage,timesofindia
+2020-09-26,"Withdraw agricultural bills, farmers tell Centre",timesofindia
+2020-09-26,Cong chalks out protest plan against farm bills,timesofindia
+2020-09-26,Maharashtra not to implement farm bills without legal review: Ajit Pawar,timesofindia
+2020-09-26,"Farmers block Bengaluru highway in Mandya, traffic thrown out of gear",timesofindia
+2020-09-26,Tens of thousands of farmers bring west UP to a halt,timesofindia
+2020-09-26,"‘One farmer, one nation’ phase begins: UP CM",timesofindia
+2020-09-26,Farmers scale up protest in Haryana,timesofindia
+2020-09-26,Farm bill protests: Rahul Gandhi sees freedom struggle parallel,telegraph
+2020-09-26,Punjab govt to challenge Farm Bills in SC: Manpreet Singh Badal,deccanherald
+2020-09-26,CAA takes back seat in state BJP,telegraph
+2020-09-26,Our stir has shaken Centre: SAD,tribune-punjab
+2020-09-26,"Farmers block major highways, essential supplies hit",tribune-punjab
+2020-09-26,Protests by Punjab farmers at 125 sites,tribune-punjab
+2020-09-26,A rare unity among diverse professions,tribune-punjab
+2020-09-26,BJP activists support bandh in Gurdaspur,tribune-punjab
+2020-09-26,"As protesters go bare-chested in Amritsar, scores of farmers join in",tribune-punjab
+2020-09-26,"Karnataka: Controversial APMC, Land Reforms Bills passed amid din",deccanherald
+2020-09-26,MSP procurement of kharif paddy begins immediately in Punjab and Haryana: Centre,tribune-punjab
+2020-09-26,Declare entire state agriculture market: Sukhbir to Punjab govt,tribune-punjab
+2020-09-26,Shiromani Akali Dal breaks away from BJP-led NDA,tribune-punjab
+2020-09-26,"Farmer ends life, commission agent among two booked for abetting suicide",tribune-punjab
+2020-09-26,Bihar Assembly poll unlikely to be cakewalk for NDA allies,tribune-nation
+2020-09-26,"Withdraw farm bills, labour laws: Akhilesh Yadav",timesofindia
+2020-09-26,"Karnataka farmers protest central, state policies",timesofindia
+2020-09-26,Punjab Cabinet Secy bats for lifting every single grain of paddy in a smooth and safe manner,tribune-punjab
+2020-09-26,Amendments to Land Reforms Act were Congress' idea: R Ashoka,deccanherald
+2020-09-26,BJP selects 4 Karnataka leaders for national office; C T Ravi becomes national general secretary,deccanherald
+2020-09-26,"Farm Bills revolutionise agriculture, opens farmers up to sell produce outside of APMCs",deccanherald
+2020-09-26,"Trinamul, Left and Congress hit streets ",telegraph
+2020-09-26,Partial nude demonstration for BSL jobs,telegraph
+2020-09-26,Opposition stalling Farm Bills fearing PM Modi's popularity: Minister Arjun Ram Meghwal,deccanherald
+2020-09-26,"Karnataka likely to see total bandh on Monday as protests against farm, labour bills intensify",deccanherald
+2020-09-26,Karnataka Land Reforms Bill: Govt drops move to up land ceiling,deccanherald
+2020-09-26,Union Health Minister has assured Rs 700 crore to manage Covid-19 situation: Puducherry CM,deccanherald
+2020-09-26,Farm Bills: Haryana Congress announces over month-long protest schedule,deccanherald
+2020-09-26,"Tejashwi, Tej Pratap, Pappu Yadav booked for violating Covid- 19 protocol during protest against farm bills",deccanherald
+2020-09-26,"Centre advances paddy procurement in Punjab, Haryana",deccanherald
+2020-09-26,"MSP procurement of kharif paddy to begin immediately in Punjab and Haryana, says Centre",deccanherald
+2020-09-26,Farm Bills: Farmers continue to block rail tracks in Punjab,deccanherald
+2020-09-26,"Farmers block Delhi highway, many shops open",timesofindia
+2020-09-26,"New labour codes have weakened trade unions, removed security net for workers: Congress",deccanherald
+2020-09-26,Raise voice in support of farmers: Rahul Gandhi on Farm Bills,deccanherald
+2020-09-26,"How polls will be held in Bihar amid pandemic, asks Shiv Sena's Sanjay Raut",deccanherald
+2020-09-26,Bengal worries about bill fallout on PDS source ,telegraph
+2020-09-26,Farmers protest against agriculture bills peacefully,timesofindia
+2020-09-26,Three-point strategy to check stubble burning in Mohali,timesofindia
+2020-09-26,Demonstration by LDF in Aurangabad,timesofindia
+2020-09-26,"Himachal Cong MLA from Rohru Mohan Lal Brakta, Kangra Co-op Bank chairman test positive for Covid-19",hindustantimes
+2020-09-26,Aarey: Final proposal allocates 329 ha forest soon to be part of SGNP,hindustantimes
+2020-09-26,Uttarakhand government gives point by point reply to Congress on 4 issues,hindustantimes
+2020-09-26,"As Punjab farmers extend rail roko till Sept 29, railways to decide on trains this evening",hindustantimes
+2020-09-26,Kharge slams Central govt’s farm bills,timesofindia
+2020-09-26,"Ruling partners Congress, NCP say they will not implement farm bills in Maharashtra",hindustantimes
+2020-09-26,"Maratha reservation: State government taking well-thought-out measures, says Maharashtra chief minister Uddhav Thackeray",hindustantimes
+2020-09-26,"Farmer attempts to kill himself in Harda, district administration calls him fraudster",hindustantimes
+2020-09-26,Ludhiana shopkeepers down shutters in solidarity with farmers,hindustantimes
+2020-09-26,"‘No longer the NDA envisioned by Vajpayee, Badal sahab’: Harsimrat after SAD’s exit from alliance",hindustantimes
+2020-09-26,"Meeting between Fadnavis and Sanjay Raut sparks speculations, sets tongues wagging",hindustantimes
+2020-09-26,"SAD quits NDA over farm bills, says party chief Sukhbir Singh Badal",hindustantimes
+2020-09-26,‘MSP not most preferred mode for farmers in Uttar Pradesh’: NITI Aayog study,hindustantimes
+2020-09-26,Kangana Ranaut must be booked over anti-farmer tweet: Lawyer files complaint in Karnataka court,hindustantimes
+2020-09-26,Uttarakhand BJP to go among farmers to explain ‘benefits’ of agri bills,hindustantimes
+2020-09-26,"Bihar Assembly Elections 2020: Issues from Mumbai can be sent as parcel to Bihar, says Sanjay Raut",hindustantimes
+2020-09-26,"‘No morality, just political compulsion’: Punjab CM on SAD’s exit from NDA",hindustantimes
+2020-09-26,"Rail roko: Farmers agitation in Punjab enters third day, extended till September 29",hindustantimes
+2020-09-26,"Farmers’ rail roko agitation spreads to Jalandhar, Tanda in Punjab’s Doaba region",hindustantimes
+2020-09-26,Congress leaders misleading farmers: Haryana agri minister,hindustantimes
+2020-09-26,‘Govt. wants to make us bonded labourers’,hindu
+2020-09-26,Demonstrations in Rajasthan,hindu
+2020-09-26,Farmers block roads in Haryana to protest against Central Bills,hindu
+2020-09-26,Sowing seeds of doubt,hindu
+2020-09-26,Shetti: will offer support if Centre promises MSP,hindu
+2020-09-26,"‘MVA govt. opposed to enacting farm, labour Bills’",hindu
+2020-09-26,Non-implementation will amount to betrayal of farmers: Fadnavis,hindu
+2020-09-26,"Ludhiana: Scribe asks protestors to make way for female police constable, gets beaten",hindustantimes
+2020-09-26,"BJP is blind to farmers’ interests, says Kharge",hindu
+2020-09-26,"Withdraw ‘anti-farmer’ legislations, demands AIKSCC",hindu
+2020-09-26,"Ensure fair deal to farmers, Jagan tells officials",hindu
+2020-09-26,Agri Bills: farmers in protest mode across State,hindu
+2020-09-26,COVID threat looms over Vengeri market,hindu
+2020-09-26,Twin districts too witness symbolic protest,hindu
+2020-09-26,"Bihar elections: Recording studios are abuzz again, thanks to polls",hindustantimes
+2020-09-26,Paddy procurement to commence in Haryana from Sept 27,hindustantimes
+2020-09-26,Farmers stage protest against farm Bills,hindu
+2020-09-26,BJP treads cautiously with SAD: Partnership could be in question,hindustantimes
+2020-09-26,Farmers’ rage spills on to streets,hindustantimes
+2020-09-26,Covid to flood: Tracing issues that may impact Bihar polls,hindustantimes
+2020-09-26,Farmers’ highway protest gets good response,timesofindia
+2020-09-26,"Chief minister Yogi Adityanath kicks off bypoll campaign, blasts opposition on farm bills",timesofindia
+2020-09-26,UP CM gives Rs 465 crore projects to Deoria,timesofindia
+2020-09-26,Farmers take out protest march against farm bills in Jhansi,timesofindia
+2020-09-26,"Farmers, led by BKU, protest against farm bill",timesofindia
+2020-09-26,"293 positive cases take Himachal tally to over 13,000",timesofindia
+2020-09-26,Farmers protest against agri bills across state,timesofindia
+2020-09-26,"Grain mandis remain open in Kota, Bundi & Jhalawar",timesofindia
+2020-09-26,Farmer unions extend ‘rail roko’ till Sept 29,tribune-punjab
+2020-09-26,"Non-farming groups, gurdwaras offer food",tribune-punjab
+2020-09-26,"Farm bills anger spills onto highways, railways",hindustantimes
+2020-09-26,Share-cropper fears threat from big firms ,telegraph
+2020-09-26,"Withdraw farm bills, guarantee MSP: Rahul to Centre",tribune-nation
+2020-09-26,JP Nadda announces new team of BJP’s national office-bearers,tribune-nation
+2020-09-26,PM Modi rejecting own report on MSP: Congress,timesofindia
+2020-09-26,Bihar: Handling smaller allies a difficult task for NDA,timesofindia
+2020-09-26,Bihar: Handling smaller allies a difficult task for NDA,timesofindia
+2020-09-26,Akali Dal quits BJP-led NDA over farm bills,telegraph
+2020-09-26,Oppn parties hit roads to protest farm Bills,timesofindia
+2020-09-26,Bihar: Parties hail poll date announcement,timesofindia
+2020-09-26,Need 4th law to make buying farm produce below MSP an offence: Bhupinder Singh Hooda,hindustantimes
+2020-09-26,Farmers block roads as a mark of protest,hindu
+2020-09-26,Roadblocks range from a few minutes to more than an hour as farmers stage protest in several districts,hindu
+2020-09-26,Farmers protest against Bills,hindu
+2020-09-26,‘Farm bills will turn ryots into slaves of corporates’,hindu
+2020-09-26,Puducherry farmers protest against new Bills,hindu
+2020-09-26,"Bills won’t affect Tamil Nadu farmers, says Minister",hindu
+2020-09-26,30 like-minded organisations extend support to bandh call,hindu
+2020-09-26,"New agriculture Bills will enslave farmers, says Rahul",hindu
+2020-09-26,"Small farmers happiest today, says PM",hindu
+2020-09-26,Thousands take to streets over farm Bills,hindu
+2020-09-26,"Protests across Bengal, highways blocked",hindu
+2020-09-26,"Farmers, workers to benefit for 1st time in years from new laws: PM Modi",timesofindia
+2020-09-26,Opposition misleading farmers on new bills: Gordhan Zadafiya,timesofindia
+2020-09-26,Farmers take to the streets over farm Bills,hindu
+2020-09-26,Migrants return to workplaces with heavy heart,timesofindia
+2020-09-27,Panchayats start building consensus against agri bills,timesofindia
+2020-09-27,SAD left NDA for political compulsion: Punjab CM Captain Amarinder Singh,timesofindia
+2020-09-27,Land reforms bill passed in Karnataka with changes,timesofindia
+2020-09-27,"BJP may have strong IT cell, but its Punjab unit is facing online heat",timesofindia
+2020-09-27,Gujarat yet to clear 54% of PMFBY dues,timesofindia
+2020-09-27,Sukhbir blames Congress MPs and Capt for not stalling farmers’ bills,timesofindia
+2020-09-27,Cong launches online campaign against farm bills,timesofindia
+2020-09-27,Cyber fraud: Ludhiana resident used to get the entire cash,timesofindia
+2020-09-27,Farmers block highway over crop loan demand,timesofindia
+2020-09-27,East Delhi residents share woes at TOI meet,timesofindia
+2020-09-27,Engage at grassroots level: Tagore to cadre,timesofindia
+2020-09-27,Punjab & Haryana to start paddy procurement today,timesofindia
+2020-09-27,"Jalna police raid 8 places, bust fake lottery racket",timesofindia
+2020-09-27,"We have parity with PLA, can give befitting reply: Rajnath Singh",timesofindia
+2020-09-27,"Day after farm bills stir, RLD membersbooked for 'violating Covid protocol'",timesofindia
+2020-09-27,10-year wait for Delhi to clear its garbage piles?,timesofindia
+2020-09-27,"Oppn exploited farmers, mocked migrants during lockdown, says CM Yogi",timesofindia
+2020-09-27,NBW issued against aide of Jaikant Bajpai,timesofindia
+2020-09-27,Mukhtar Ansari to be brought to Mau for questioning,timesofindia
+2020-09-27,Bihar: 35 lakh first-time voters to play key role this election,timesofindia
+2020-09-27,"India feels absence of a PM with depth of Manmohan, says Rahul Gandhi",timesofindia
+2020-09-27,"Farmers' 'victory', Akali Dal had to bow before their doorstep: Congress",timesofindia
+2020-09-27,"After quitting govt, BJP’s ‘oldest ally’ Akali Dal walks out of NDA",timesofindia
+2020-09-27,SAD walks out of NDA,timesofindia
+2020-09-27,"Bihar: Congress jolts MGB, says can go it alone if not ‘respected’",timesofindia
+2020-09-27,Abhishek’s online meet with MLAs today on farm bill stir,timesofindia
+2020-09-27,"Bihar: Congress jolts MGB, says can go it alone if not ‘respected’",timesofindia
+2020-09-27,Agriculture minister on Marathwada region tour,timesofindia
+2020-09-27,"Maharashtra: With new law, fate of 300 APMCs hangs in balance",timesofindia
+2020-09-27,The cop who loves the limelight,hindu
+2020-09-27,"President Kovind must not sign farm bills, says Chhattisgarh CM Bhupesh Baghel",hindustantimes
+2020-09-27,"‘Dark day for democracy, farmers’: SAD’s Sukhbir Singh Badal after President’s nod to farm bills",hindustantimes
+2020-09-27,"Dungarpur violence: Over 6,000 booked in 20 cases, more FIRs to follow",hindustantimes
+2020-09-27,"President Kovind gives his nod to all 3 farm bills, government notifies them",hindustantimes
+2020-09-27,Shiromani Akali Dal's reasons to cut ties very surprising: Punjab BJP chief,deccanherald
+2020-09-27,"Derek O’Brien backs NDA’s former ally SAD, says fighting for farmers is part of Trinamool DNA",hindustantimes
+2020-09-27,"News updates from Hindustan Times: Uttarakhand braces for twin protests over labour issues, farm bills and all the latest news",hindustantimes
+2020-09-27,‘Ideologically there can be differences but we aren’t enemies’: Raut on meeting Fadnavis,hindustantimes
+2020-09-27,Nadda’s team has 11 leaders from UP as party eyes 2022 state polls,hindustantimes
+2020-09-27,"News updates from Hindustan Times: ‘Your arrangements will take care of all’, says Adar Poonawalla praises PM Modi’s vaccine vision and all the latest news",hindustantimes
+2020-09-27,"Mann ki Baat: Farm sector playing key role in making India self-reliant, says PM Modi",hindustantimes
+2020-09-27,SAD quits NDA: How farm bills ended friendship between oldest allies,hindustantimes
+2020-09-27,PM Modi pledged that every poor person will have a roof over their head by 2022: Rajnath Singh,hindustantimes
+2020-09-27,"‘All must unite against Centre’, says SAD chief Sukhbir Singh Badal",hindustantimes
+2020-09-27,"Farm bills get President’s assent amid protests, SAD’s exit",hindustantimes
+2020-09-27,‘A win for the farmers’: Surjewala on SAD’s NDA exit,hindustantimes
+2020-09-27,"Centre orders early procurement of paddy in Punjab, Haryana at MSP",hindustantimes
+2020-09-27,"State polls, regional outreach among the key reasons for BJP team rejig",hindustantimes
+2020-09-27,"Snapping over two-decades-long ties, SAD pulls out of NDA over farm bills",hindustantimes
+2020-09-27,Address farmers’ issues now | HT Editorial,hindustantimes
+2020-09-27,"Child labour cases increased during Covid-19 pandemic, say Delhi Police, DCPCR",deccanherald
+2020-09-27,Vidyasagar’s legacy now on Net,telegraph
+2020-09-27,Badals vow to quit BJP alliance,telegraph
+2020-09-27,Farmers playing major role in building Aatmanirbhar Bharat: PM,telegraph
+2020-09-27,President Kovind gives his assent to 3 contentious farm bills,telegraph
+2020-09-27,"NCDC sanctions Rs 19,444 crore to 3 states for paddy procurement at MSP",deccanherald
+2020-09-27,"Karnataka bandh: Normal services will not be disrupted, says CM B S Yediyurappa",deccanherald
+2020-09-27,Karnataka bandh casts shadow over CLAT 2020,deccanherald
+2020-09-27,"BJP not keen on toppling MVA govt, it will collapse on its own: Devendra Fadnavis",deccanherald
+2020-09-27,Akalis quit NDA over farm bills,hindustantimes
+2020-09-27,"Being self-sufficient in defence sector linked to 'self-respect', 'sovereignty' of country: Rajnath Singh",deccanherald
+2020-09-27,‘Over 700 CBI investigations pending for more than a year’: Central Vigilance Commission,hindustantimes
+2020-09-27,Haryana govt turning blind eye to plight of farmers: Abhay Chautala,hindustantimes
+2020-09-27,"Congress backs bandh, plans campaign against Karnataka govt",deccanherald
+2020-09-27,Karnataka Bandh called for political gains: Somashekar,deccanherald
+2020-09-27,"An alliance that turns a deaf ear to its oldest ally, not the NDA envisioned by Vajpayee: Badal on Akali Dal quitting alliance",deccanherald
+2020-09-27,PM Modi lauds farmers in his Mann ki Baat address,deccanherald
+2020-09-27,Trinamool Congress commits support to Akali Dal over quitting NDA on Farm Bills,deccanherald
+2020-09-27,Modi cites UPA-II initiative to hardsell farm sector reforms in Mann ki Baat address,deccanherald
+2020-09-27,Modi and Yediyurappa govts have launched diabolical attack on lives of farmers: Surjewala,deccanherald
+2020-09-27,Shiv Sena welcomes SAD's decision of quitting NDA,deccanherald
+2020-09-27,Sharad Yadav will work with opposition parties in Bihar: Loktantrik Janata Dal,deccanherald
+2020-09-27,Farm Bills: Congress dares BJP allies to oppose Centre,deccanherald
+2020-09-27,"'Sad, disappointing', says Sukhbir Singh Badal as Farm Bills get President Ram Nath Kovind's nod",deccanherald
+2020-09-27,Farmers continue rail blockade in Amritsar over Farm Bills,deccanherald
+2020-09-27,Akalis snapping ties unfortunate: Punjab BJP leaders,deccanherald
+2020-09-27,‘Great to see Akali Dal holding flag of farmer’s rights aloft’: Farooq Abdullah on NDA exit,hindustantimes
+2020-09-27,SAD quit NDA over farm bills amid chinks in ties surfacing for a year,deccanherald
+2020-09-27,"‘Our farmer leaders clear about govt’s intentions, no scope for agitation’: Karnataka CM Yediyurappa",hindustantimes
+2020-09-27,Sharad Pawar lauds SAD’s Badals for their strong pro-farmer stance,hindustantimes
+2020-09-27,Farmers in Una village reaping benefits of crop diversification project,hindustantimes
+2020-09-27,Early procurement a tactic to appease and divide us: Protesting farmers,hindustantimes
+2020-09-27,Posters in Ambala villages warn BJP-JJP leaders to stay away,hindustantimes
+2020-09-27,Early procurement: No paddy purchase on first day in south Malwa,hindustantimes
+2020-09-27,Sever ties with NDA over anti-farmer bills: Selja to Dushyant,hindustantimes
+2020-09-27,Punjab CM to stage ‘dharna’ against farm bills on Bhagat Singh’s birth anniversary,hindustantimes
+2020-09-27,Crops not ready for harvesting in parts of Punjab as paddy procurement begins,hindustantimes
+2020-09-27,"‘He asked for interview, I agreed’: Devendra Fadnavis on meeting Sanjay Raut",hindustantimes
+2020-09-27,Twin protests in Uttarakhand on Monday over farm bills and labour issues,hindustantimes
+2020-09-27,Pullout won’t help SAD in state polls: Sukhdev Singh Dhindsa,hindustantimes
+2020-09-27,Bengal BJP’s top guns counter TMC’s offensive on farms bills,hindustantimes
+2020-09-27,‘Their reasons for quitting alliance weren’t sufficient’: Punjab BJP on SAD’s exit,hindustantimes
+2020-09-27,"On Saturday, SAD became third major NDA member to quit BJP",tribune-nation
+2020-09-27,President Ram Nath Kovind gives assent to contentious Farm Bills amid farmers' protest,deccanherald
+2020-09-27,"SAD, Cong equally responsible for passage of farm Bills: Bhagwant Mann",tribune-punjab
+2020-09-27,"SAD, oldest BJP ally, walks out of  NDA over contentious farm Bills",tribune-punjab
+2020-09-27,Will dedicate Banda Singh Bahadur’s day to farmers: Bairagi Mahamandal,tribune-punjab
+2020-09-27,SAD snapped ties with NDA 'out of compulsion': Sukhdev Dhindsa,tribune-punjab
+2020-09-27,Akalis snapping ties with NDA unfortunate: Punjab BJP leaders,tribune-punjab
+2020-09-27,Farmers continue rail blockade in Amritsar,tribune-punjab
+2020-09-27,Farm bills can have disastrous implications for national economy: Sukhbir Badal,tribune-punjab
+2020-09-27,"After Arun Jaitley, none in BJP understands psyche of Punjab: SAD MP Naresh Gujral",tribune-punjab
+2020-09-27,"Procurement in Punjab, Haryana begins from today",tribune-haryana
+2020-09-27,Sharad Pawar hails SAD for walking out of NDA over farm Bills,tribune-punjab
+2020-09-27,"Capt Amarinder terms Presidential assent to farm Bills as unfortunate, distressing",tribune-punjab
+2020-09-27,Sharad Pawar hails SAD for walking out of NDA over farm Bills,tribune-nation
+2020-09-27,"Haryana gets Rs 5,444 cr in first instalment for MSP operations support during Kharif season",tribune-nation
+2020-09-27,President Kovind gives assent to 3 contentious farm Bills,tribune-nation
+2020-09-27,No intention of joining hands with Shiv Sena: Fadnavis,tribune-nation
+2020-09-27,"From Orange spl to Keenu spl, railways considers linking Kisan Trains to seasonal fruits, vegetables",tribune-nation
+2020-09-27,"Mann Ki Baat: Farmers are the foundation of Atmanirbhar Bharat, says PM Modi",tribune-nation
+2020-09-27,Jumbo foray leaves Kuppam farmers jittery,hindu
+2020-09-27,"Resist ‘anti-farmer’ Bills, says Chennithala",hindu
+2020-09-27,Assembly adopts two farm Bills,hindu
+2020-09-27,This market is a slushy mess,hindu
+2020-09-27,Opposition to changes to farm laws,hindu
+2020-09-27,Punjab's Tarun Chugh among five new BJP general secretary,tribune-punjab
+2020-09-27,"Procurement in Punjab, Haryana begins from today",tribune-punjab
+2020-09-27,Paddy purchase to be staggered amid Covid,tribune-punjab
+2020-09-27,"Punjab farmers end ‘rail roko’ briefly, to resume blockade from October 1",tribune-punjab
+2020-09-27,"Centre advances procurement of paddy in Punjab, Haryana",hindu
+2020-09-27,"Centre advances procurement of paddy in Haryana, Punjab",hindu
+2020-09-27,Akalis quit NDA over farm sector Bills,hindu
+2020-09-27,"T.R. Baalu flays Minister, Secretary for supporting farm bills",hindu
+2020-09-27,No need for new parties in DMK alliance: VCK leader,hindu
+2020-09-27,"APMC Bill: Govt. acting under pressure from Centre, says Opposition",hindu
+2020-09-27,Sugarcane cultivation becomes bitter for farmers in Madurai,hindu
+2020-09-27,Punjab's Tarun Chugh among five new BJP general secretary,tribune-nation
+2020-09-27,Bills will benefit farmers: BJP,hindu
+2020-09-27,"Haryana gets Rs 5,444 cr in first instalment for MSP operations support during Kharif season",tribune-haryana
+2020-09-27,Farmers extend ‘rail roko’ protest in Punjab by 3 days,hindu
+2020-09-27,Congress dares JJP to quit ruling BJP alliance in Haryana over farm Bills,tribune-haryana
+2020-09-27,‘Akalis desperate to cling to power’,hindu
+2020-09-27,"Centre working for corporates,  alleges minister",tribune-punjab
+2020-09-27,"Amritsar farmer ends life, arhtiya among 2 held",tribune-punjab
+2020-09-27,Will back govt on farm issues in Assembly: Sukhbir to Capt,tribune-punjab
+2020-09-27,"Protesters go bare-chested, extend stir",tribune-punjab
+2020-09-27,"Aid for women, shelter for poor: Nitish unveils sequel to ‘saat nischay’ scheme",tribune-nation
+2020-09-27,Congress march against farm Bills tomorrow,tribune-haryana
+2020-09-28,UPCC president held while protesting against Farm Bills,deccanherald
+2020-09-28,SAD asks party leaders to resign from posts held in Delhi's civic bodies,deccanherald
+2020-09-28,"Farmers in Karnataka stage protests against amendments to Land Reforms Act, APMC Act",deccanherald
+2020-09-28,"Jagan govt to dig free borewells, provide motors to needy farmers in Andhra Pradesh",deccanherald
+2020-09-28,Telangana Congress protests against farm law,deccanherald
+2020-09-28,"Tamil Nadu govt should join other states in opposing farm laws, says M K Stalin as DMK, allies protest across state",deccanherald
+2020-09-28,"Delhi Congress chief, workers detained during farmer protests",deccanherald
+2020-09-28,Youth Congress torches tractor at India Gate in protest against farm laws,deccanherald
+2020-09-28,"Former bureaucrats back BJP's counter-campaign on farm issues, call it a 'far-sighted' move",deccanherald
+2020-09-28,"Will convince farmers on APMC, land reforms: BS Yediyurappa",deccanherald
+2020-09-28,Bandh evokes mixed response in Kalyana Karnataka,deccanherald
+2020-09-28,Kannada activists stop buses at Central Bus Stand in Belagavi,deccanherald
+2020-09-28,Farmers protest in Chennamma Circle in Hubballi,deccanherald
+2020-09-28,From The Newsroom: Bengaluru sees farmers’ protest; Maharashtra govt seeks answers from CBI on Sushant's case,deccanherald
+2020-09-28,"Punjabi singers, actors hold protest in support of farmers",deccanherald
+2020-09-28,"States can now buy paddy, pulses as Centre speeds up Kharif procurement across nation amid farmers protests",deccanherald
+2020-09-28,"'What is left of NDA after Akali Dal, Shiv Sena exit?'",deccanherald
+2020-09-28,Farm laws are death sentence for farmers: Rahul Gandhi,deccanherald
+2020-09-28,BJP hits out at Congress over tractor-burning incident near India Gate,deccanherald
+2020-09-28,Punjab CM says his government will move Supreme Court over new farm laws,deccanherald
+2020-09-28,Congress trying to do politics in the name of farmers: BJP over tractor-burning incident near India Gate,deccanherald
+2020-09-28,Sonia Gandhi asks Congress-ruled states to pass laws to bypass Centre's farm reforms,deccanherald
+2020-09-28,"SAD, BJP play blame game over alliance break up",timesofindia
+2020-09-28,"Siddaramaiah asks B S Yediyurappa to dissolve Karnataka Assembly, face fresh elections",deccanherald
+2020-09-28,Congress MP T N Prathapan moves SC against farm law,deccanherald
+2020-09-28,Akali Dal returns to meetings in gurdwaras,timesofindia
+2020-09-28,Gherao corporate businesses is new plan of protesting farmers in Punjab,tribune-punjab
+2020-09-28,"What is left of NDA after Akali Dal, Shiv Sena exit, asks Sena mouthpiece Saamana",tribune-punjab
+2020-09-28,"Will consult lawyers and move SC over farm Bills, Amarinder says at Khatkar Kalan",tribune-punjab
+2020-09-28,"Agitation, recourse will be undertaken to fight ‘draconian’ farm laws: Capt Amarinder",tribune-punjab
+2020-09-28,Navjot Sidhu reaches his ancestral village; asks farmers to elect MLAs from themselves,tribune-punjab
+2020-09-28,"5,637 MT paddy at MSP of Rs 1,868 procured from Haryana, Punjab farmers: Centre",tribune-punjab
+2020-09-28,Farmers to continue ‘rail roko’ agitation in Punjab till Oct 2,tribune-punjab
+2020-09-28,Congress dares JJP to quit alliance in Haryana,tribune-haryana
+2020-09-28,Paddy procurement begins on a dull note in Haryna,tribune-haryana
+2020-09-28,"Will step up stir, warns farm union in Haryana",tribune-haryana
+2020-09-28,Slow lifting irks Kurukshetra farmers,tribune-haryana
+2020-09-28,MSP as farmers’ legal right remains contentious issue in Haryana,tribune-haryana
+2020-09-28,"5,637 MT paddy at MSP of Rs 1,868 procured from Haryana, Punjab farmers: Centre",tribune-haryana
+2020-09-28,Negate farm Bills with your own laws: Sonia to Cong-ruled states,tribune-nation
+2020-09-28,"5,637 MT paddy at MSP of Rs 1,868 procured from Haryana, Punjab farmers: Centre",tribune-nation
+2020-09-28,Women trampled to death by elephant in Chittoor,tribune-nation
+2020-09-28,SAD third major ally to quit NDA in three years,tribune-nation
+2020-09-28,"Rs 19,444 cr sanctioned for MSP operations",tribune-nation
+2020-09-28,President nod to farm Bills as protests rage in region,tribune-nation
+2020-09-28,Congress dares JJP to quit alliance in Haryana,tribune-nation
+2020-09-28,"Farmers in Karnataka protest against amendments to Land Reforms Act, APMC Act",tribune-nation
+2020-09-28,"What is left of NDA after Akali Dal, Shiv Sena exit, asks Sena mouthpiece Saamana",tribune-nation
+2020-09-28,Agri bills are death sentence for farmers: Rahul,tribune-nation
+2020-09-28,Trissur MP moves Supreme Court against farm law,tribune-nation
+2020-09-28,Early procurement of paddy in all remaining States from today,tribune-nation
+2020-09-28,The options before Punjab,tribune-punjab
+2020-09-28,"Women join farmers’ protest, block railway line in Amritsar",tribune-punjab
+2020-09-28,Jalandhar farmer shows the way with stubble cardboard,tribune-punjab
+2020-09-28,"Paddy purchase begins, 4,035 centres set up across Punjb",tribune-punjab
+2020-09-28,Consult states and farmers before enacting farm bills,timesofindia
+2020-09-28,Jharkhand rally on farm bills today,telegraph
+2020-09-28,Anxious situation,telegraph
+2020-09-28,Unproductive: monsoon session sans debate,telegraph
+2020-09-28,Untamed spirit,telegraph
+2020-09-28,"Farm bill fire-fight: Facing protests, Modi sells stories",telegraph
+2020-09-28,Youth Congress activists set tractor ablaze at India Gate ,telegraph
+2020-09-28,Punjab government to move SC against farm laws,telegraph
+2020-09-28,"DMK, allies to take the streets to protest farm laws",telegraph
+2020-09-28,"Congress, Opposition parties step up the heat against govt on farm laws",telegraph
+2020-09-28,"Protests, rallies mark farmers' bandh in Karnataka, CM offers olive branch",deccanherald
+2020-09-28,Sikh solidarity with farmers,telegraph
+2020-09-28,"Sandhu, Bittu attack SAD on breaking alliance with BJP",timesofindia
+2020-09-28,boxSAD launches campaign to get back in farmers’ good graces,timesofindia
+2020-09-28,‘BJP leadership wanted to get rid of Akalis’: PPCC president Sunil Jakhar,timesofindia
+2020-09-28,"Sukhbir calls for joint fight for rights of farmers, farm labour, traders",timesofindia
+2020-09-28,"Opposition parties hail Akalis’ NDA exit, Congress not enthused",timesofindia
+2020-09-28,GHMC polls: Congress to take up padayatra,timesofindia
+2020-09-28,Bhuse: Offer quick relief to rain-affected farmers,timesofindia
+2020-09-28,"Ground set for Karnataka bandh; politically motivated, says BJP",timesofindia
+2020-09-28,Bandh likely to disrupt normal life in Dharwad,timesofindia
+2020-09-28,"PM Modi defends agri reforms, says farmers have flourished when freed from mandi restrictions",timesofindia
+2020-09-28,SAD third major ally to quit NDA in three years,tribune-punjab
+2020-09-28,Punjab CM: Exploring all options to skirt  three  Acts,tribune-punjab
+2020-09-28,Sukhbir Badal: Willing to follow anyone for welfare of farmers,tribune-punjab
+2020-09-28,"Day after exiting NDA, Harsimrat lashes out at Centre over agri laws",tribune-punjab
+2020-09-28,"Paddy procurement kicks off in Punjab, Haryana",timesofindia
+2020-09-28,Gujarat Congress chief among 100 detained for protesting Farm Bills,deccanherald
+2020-09-28,Sharad Pawar meets CM Uddhav Thackeray; allies say it’s business as usual,timesofindia
+2020-09-28,News updates from Hindustan Times: Health ministry says first Covid vaccine to be available in India by early 2021 and all the latest news,hindustantimes
+2020-09-28,SAD asks party leaders to resign from posts held in Delhi’s civic bodies,hindustantimes
+2020-09-28,Five more succumb to virus in Himachal,hindustantimes
+2020-09-28,SAD quits NDA: BJP no more main opposition party in Ludhiana MC,hindustantimes
+2020-09-28,Farmers extend ‘rail roko’ stir till Oct 2,hindustantimes
+2020-09-28,"Navjot Singh Sidhu is an asset for Congress, says party’s Punjab affairs in-charge Harish Rawat",hindustantimes
+2020-09-28,"Bombay HC asks Kangana Ranaut to submit her tweets, objectionable video by Sanjay Raut",hindustantimes
+2020-09-28,"Centre must make MSP a legal right, say Congress MPs Bajwa, Dullo",hindustantimes
+2020-09-28,"Farm bills: Protesters from Youth Congress burn tractor at Rajpath, raise slogans",hindustantimes
+2020-09-28,"Political dynamics in Ludhiana set to change as SAD, BJP go separate ways",hindustantimes
+2020-09-28,Paddy procurement begins in Mohali,hindustantimes
+2020-09-28,Farmer in extramarital relationship kills woman for exposing affair to wife,hindustantimes
+2020-09-28,Sonia Gandhi urges Congress-ruled states to override Centre’s farm laws,hindustantimes
+2020-09-28,Jagan govt launches scheme to drill borewells free of cost for farmers,hindustantimes
+2020-09-28,"In Karnataka, bandh against farm bills evokes mixed response; protesting farmers detained",hindustantimes
+2020-09-28,"Govt accountable to people, shocking it said no data was available: Mamata Banerjee",hindustantimes
+2020-09-28,Punjab CM Amarinder Singh holds sit-in protest against farm bills at Bhagat Singh’s village,hindustantimes
+2020-09-28,News updates from Hindustan Times: Mumbai likely to cross 0.2 million Covid-19 cases today and all the latest news,hindustantimes
+2020-09-28,Karnataka bandh: KSRTC buses ply in Mangaluru despite bandh called by farmers,hindustantimes
+2020-09-28,Farmers across India protest against farm bills. In photos,hindustantimes
+2020-09-28,Rahul Gandhi likely to join farmers’ protest in Punjab,hindustantimes
+2020-09-28,News updates from Hindustan Times: Karnataka bandh against state farm bills today and all the latest news,hindustantimes
+2020-09-28,SAD-NDA: Farm bill was final nail in the coffin. Here’s a look at other reasons for split,hindustantimes
+2020-09-28,Farm fires set to continue as subsidy may not encourage shift to tech,hindustantimes
+2020-09-28,BJP may be able to offset the impact of Akali exit,hindustantimes
+2020-09-28,PM Modi reaches out to farmers amid anger,hindustantimes
+2020-09-28,"Order in House must, says Rajya Sabha Dy Chair after quick passage of two farm bills",hindustantimes
+2020-09-28,Farmers to intensify stir; Punjab CM to stage sit-in protest today,hindustantimes
+2020-09-28,"Farm bills: Maharashtra Congress leaders to intensify protest, leaders meet Governor",hindustantimes
+2020-09-28,"My doors are open, don’t air grievances in public: Rawat to Punjab Cong leaders",hindustantimes
+2020-09-28,Telangana Congress workers protesting Farm Bills detained,tribune-nation
+2020-09-28,Punjab: SAD tries to get back in farmers’ good books,timesofindia
+2020-09-28,"Sena, NCP hail SAD’s decision to quit NDA over farm Bills",hindu
+2020-09-28,"No intention of joining hands with Sena again, says Fadnavis",hindu
+2020-09-28,‘BJP will emerge as an alternative to YSRCP in State’,hindu
+2020-09-28,Elephant continues to wreak havoc in Kuppam,hindu
+2020-09-28,"With key Bills stuck in Council, govt. may have to rethink strategy",hindu
+2020-09-28,Several organisations announce participation in bandh,hindu
+2020-09-28,"CPI slams L-G, AIADMK for their stand on agitation",hindu
+2020-09-28,‘Farm bills are for corporate firms’,hindu
+2020-09-28,President gives assent to farm Bills,hindu
+2020-09-28,Manickam Tagore stirs enthusiasm in party men,hindu
+2020-09-28,"Akali Dal on ‘course correction’ in Punjab, say political analysts",hindu
+2020-09-28,Bihar Cong. president booked for violating COVID-19 norms,hindu
+2020-09-28,SAD asks parties to fight for farmers,hindu
+2020-09-28,"Farmers can now break free of APMC shackles, says PM",hindu
+2020-09-28,Bihar Cong. chief booked for flouting virus norms,hindu
+2020-09-28,Congress dares BJP allies to oppose govt over farm legislations,timesofindia
+2020-09-28,Water released for irrigation of single crop areas in three districts,hindu
+2020-09-28,Former public servants bat for farm Bills,tribune-nation
+2020-09-28,Battle for Bihar,hindu
+2020-09-28,"Home-bound man from MP strays 2,000 km into Chatra",timesofindia
+2020-09-28,"Now, police in 3 west UP districts scramble to seize properties of gangsters",timesofindia
+2020-09-28,"Pune: Woman murdered, two arrested and one detained",timesofindia
+2020-09-28,"After crash, pandemic now sends chicken prices soaring in Bengaluru",timesofindia
+2020-09-29,Two suspected criminals arrested after separate encounters with police,hindustantimes
+2020-09-29,"Rajya Sabha MP, former minister among 290 test positive for Covid in HP",hindustantimes
+2020-09-29,"AAP launches ‘Gram sabha bulao, pind bachao’ in Ludhiana",hindustantimes
+2020-09-29,Farm laws like a stab in farmers' hearts; West India company has come in: Rahul Gandhi,deccanherald
+2020-09-29,"Codify MSP, remove doubts",deccanherald
+2020-09-29,"Farm laws to curb black money, says PM Narendra Modi",deccanherald
+2020-09-29,Farmers decide to intensify 'rail roko' agitation,deccanherald
+2020-09-29,DH Radio | The Lead: Congress leader Manish Tewari on the politics behind farm laws and protests,deccanherald
+2020-09-29,"There is no end to the debate on farm laws, says Finance Minister Nirmala Sitharaman",deccanherald
+2020-09-29,How the new farm bills are exploitative,hindustantimes
+2020-09-29,District administration proposes pedestrian-friendly changes for Delhi-Gurgaon Expressway,hindustantimes
+2020-09-29,10 farm fires detected in Fatehabad over 3 days,hindustantimes
+2020-09-29,"New farm laws won’t affect existing mandi system, MSP: BJP Kisan Morcha chief",hindustantimes
+2020-09-29,Land pooling policy to boost industrial growth in Gautam Budh Nagar,hindustantimes
+2020-09-29,"Ludhiana: Controversy over farm bills merely a distraction, says BJP state president",hindustantimes
+2020-09-29,Mixed response to bandh call in Dharwad,hindu
+2020-09-29,Farm laws opposed by Congress-NCP present new dilemma for Uddhav Thackeray,hindustantimes
+2020-09-29,"In farm bill protest, Cong finds a new inspiration: Arun Jaitley",hindustantimes
+2020-09-29,"As protests by farmers grow, BJD to form panel to study new farm laws",hindustantimes
+2020-09-29,Open to one more stimulus if necessary: Nirmala Sitharaman,hindustantimes
+2020-09-29,Oppn creating row over issues not in the laws: Gajendra Shekhawat,hindustantimes
+2020-09-29,Congress states look to bypass new farm laws,hindustantimes
+2020-09-29,BJP plans farm outreach to counter Oppn’s drive,hindustantimes
+2020-09-29,Punjab set to move Supreme Court on farm laws as stir intensifies,hindustantimes
+2020-09-29,"On new farm laws, Rahul Gandhi holds ‘Kisaan Ki Baat’ with farmers",hindustantimes
+2020-09-29,Crop burning: No end in sight,hindustantimes
+2020-09-29,Piles of garbage turn Haridwar’s ponds into crocodile nesting sites,timesofindia
+2020-09-29,Bandh evokes poor response in coastal districts,timesofindia
+2020-09-29,"Al-Qaeda suspect has no criminal history in UP, says ATS",timesofindia
+2020-09-29,"As crushing season nears, sugarcane farmers seek higher SAP for the crop",timesofindia
+2020-09-29,Those opposing farm Bills don't want farmers to have freedom of selling produce in open market: Modi,tribune-nation
+2020-09-29,Farm laws have to be opposed for country’s future: Rahul,tribune-nation
+2020-09-29,"Andhra farmers to get free bore wells, motors",tribune-nation
+2020-09-29,Fractional increase in PM2.5 could raise Covid death rate by 8%: Plea,timesofindia
+2020-09-29,Punjab farmers’ protest clicks with virtual followers,hindustantimes
+2020-09-29,‘They are insulting farmers’: PM Modi on protesters burning tractors at India Gate over farm laws,hindustantimes
+2020-09-29,"Environment ministers of Punjab, Haryana, 3 other states to meet on October 1 over air pollution",tribune-haryana
+2020-09-29,"Clamour for Dushyant, Ranjit Chautala’s resignations grow louder",hindustantimes
+2020-09-29,"Glut in Haryana mandis as arhtiyas, mill owners refuse to cooperate in paddy procurement",hindustantimes
+2020-09-29,"Paddy procurement begins early: Farmers, arhtiyas in Ambala allege absence of arrangements in mandis",hindustantimes
+2020-09-29,Mohali DC orders FIRs against agents bringing paddy from other states,hindustantimes
+2020-09-29,Rules go up in smoke as farm fires rage in Punjab,hindustantimes
+2020-09-29,Delhi HC wants Centre’s response on plea to stop stubble burning,hindustantimes
+2020-09-29,Andhra CM’s 3-capital plan creates troubles for Vijayawada airport expansion,hindustantimes
+2020-09-29,Prior registration must for farmers bringing produce from outside for procurement in Haryana,tribune-haryana
+2020-09-29,"Sitharaman slams Sonia Gandhi’s advice to party-ruled states on farm bills, cites Congress manifesto",hindustantimes
+2020-09-29,"Protest against farm laws continues in Amritsar, Punjab",hindustantimes
+2020-09-29,"On PM Modi’s ‘insulting farmers’ remark over farm law protest, Kapil Sibal responds with ‘SAD dumped you’ jibe",hindustantimes
+2020-09-29,"Farm bills, black money, MSP: Here’s what PM Modi said at Namami Gange Mission project launch",hindustantimes
+2020-09-29,State environment ministers to meet on Oct 1 to review air pollution management plan,hindustantimes
+2020-09-29,Officials locked up in Karnal mandi,tribune-haryana
+2020-09-29,Abhay Chautala praises SAD patron for snapping ties with BJP,tribune-haryana
+2020-09-29,Farmers protest non-procurement of paddy,tribune-haryana
+2020-09-29,‘Source of black money blocked’: PM shreds Opposition on farm law protests,hindustantimes
+2020-09-29,Punjab’s Capt Amarinder to fight farm laws on all fronts,hindustantimes
+2020-09-29,"Environment ministers of Punjab, Haryana, 3 other states to meet on October 1 over air pollution",tribune-punjab
+2020-09-29,Protesting farmers’ bodies to keep distance from political parties,tribune-punjab
+2020-09-29,Congress Ranchi rally against farm laws,telegraph
+2020-09-29,"Gehlot submits memo, Pilot hits out at Centre over agri laws",timesofindia
+2020-09-29,Amarinder meets representatives of 31 farmers' unions; assures them all legal steps will be taken,tribune-punjab
+2020-09-29,"Anti-farmer laws must be repealed, Congress tells Maharashtra governor",timesofindia
+2020-09-29,Gujarat: Congress members protest farm bills,timesofindia
+2020-09-29,Work hard to ensure NDA’s victory in Bihar: RCP Singh,timesofindia
+2020-09-29,"Congress MP challenges farm bills in SC, Punjab likely to follow suit",timesofindia
+2020-09-29,"Sacrifices made by farmers have gone waste, say Congress MPs",hindu
+2020-09-29,Haryana Congress asks President to repeal Acts,hindu
+2020-09-29,Delhi Congress leaders detained ahead of protest against farm Acts,hindu
+2020-09-29,"BJP’s twofold agenda: drum up support for farm Acts, attack AAP",hindu
+2020-09-29,Low-lying power lines pose threat to life,hindu
+2020-09-29,Modi govt wants to chain us to big money: Bengal farmers,telegraph
+2020-09-29,Cong. leaders denied entry into Raj Bhavan,hindu
+2020-09-29,President urged to revoke consent to farm Act,hindu
+2020-09-29,"Mixed response in Yadgir, Raichur dists.",hindu
+2020-09-29,"Poor response to bandh call in Dakshina Kannada, Udupi",hindu
+2020-09-29,Good response in Kalyana Karnataka,hindu
+2020-09-29,DMK stages protests against farm Acts,hindu
+2020-09-29,"DMK, allies for withdrawal of farm Acts",hindu
+2020-09-29,Corporates will decide prices of commodities: MP,hindu
+2020-09-29,Do not allow Bt brinjal trial: Stalin,hindu
+2020-09-29,‘Ready to challenge farm laws in court’,hindu
+2020-09-29,Mixed response to Karnataka bandh,hindu
+2020-09-29,Land acquisition order gifted govt. laxity: CJI,hindu
+2020-09-29,"Bring new farm laws, Sonia tells Cong. CMs",hindu
+2020-09-29,YSR Jala Kala to benefit about six lakh farmers in Prakasam,hindu
+2020-09-29,MLAs’ absence to hit Odisha session ,telegraph
+2020-09-29,Discontent brews against farm laws in Himachal,timesofindia
+2020-09-29,Kerala Cong MP urges SC to quash farm laws,telegraph
+2020-09-29,Make MSP a legal right: Congress to Centre,tribune-punjab
+2020-09-29,Paddy worth Rs 10 cr procured in 48 hours: Centre,tribune-punjab
+2020-09-29,"Post ordinances, debt pushed 65 farmers to suicide in Punjab",tribune-punjab
+2020-09-29,Corporates feel farmers’ heat,tribune-punjab
+2020-09-29,Abhay Chautala praises SAD patron for snapping ties with BJP,tribune-punjab
+2020-09-29,Congress holds tractor rally in Chandigarh against farm laws,tribune-punjab
+2020-09-29,Lockdown-hit labour edgy as farm stir rages,tribune-punjab
+2020-09-29,"Will consult lawyers, says Punjab Chief Minister",tribune-punjab
+2020-09-29,‘Neutral’ Naveen Patnaik tries to reassure farmers,telegraph
+2020-09-29,Centre failed to read situation: Harsimrat Kaur Badal,tribune-punjab
+2020-09-29,"In Malwa, cotton selling below MSP",tribune-punjab
+2020-09-29,Crop purchased in only 10 Jalandhar mandis,tribune-punjab
+2020-09-29,Farming will be ‘taken over’ by big houses,tribune-punjab
+2020-09-29,Navjot Singh Sidhu asks Punjab farmers to elect ‘own MLAs’,tribune-punjab
+2020-09-29,"Opposition wants only middlemen to thrive, not farmers: PM Modi",deccanherald
+2020-09-29,Sonia Gandhi asks Congress-ruled states to circumvent farm bills,telegraph
+2020-09-29,Capt Amarinder Singh trying to defame Punjab farmers’ struggle: SAD,tribune-punjab
+2020-09-29,"Farm laws must be opposed for country's future, says Rahul",telegraph
+2020-09-29,Telangana: TRS plays it safe on farm laws’ protests,timesofindia
+2020-09-29,"Employee of private finance company kills himself after taking loan, accuses firm of harassment",timesofindia
+2020-09-29,"Centre interfering in rights of states, says Kanimozhi",timesofindia
+2020-09-29,Modi attacks Opposition for insulting farmers ,telegraph
+2020-09-29,Stir largely peaceful across Karnataka,timesofindia
+2020-09-29,Karnataka government to push farm and labour ordinances,timesofindia
+2020-09-29,"Cong men not allowed to meet guv, detained",timesofindia
+2020-09-29,TRS has no right to protest farm bills: BJP,timesofindia
+2020-09-29,Social distancing to the wind at Cong protest against farm laws,timesofindia
+2020-09-29,Bandh gets mixed response in NK,timesofindia
+2020-09-29,"Farm laws, noteban, GST to disempower farmers, workers: Rahul Gandhi",deccanherald
+2020-09-30,Ticket seekers wait outside netas’ bungalows in Bihar,timesofindia
+2020-09-30,Tyre tube used for crossing river,timesofindia
+2020-09-30,Could have remained at large my entire life: Delhi Police SI after surrendering,timesofindia
+2020-09-30,Bihar will shower trust on us: Owaisi,timesofindia
+2020-09-30,"Pomegranates costlier than apples in Pune, poor supply after rain damages fruit",timesofindia
+2020-09-30,BJP campaign to create awareness on farm laws,timesofindia
+2020-09-30,‘Captain inciting farmers to save his face for not fulfilling promises’,timesofindia
+2020-09-30,"Customers soar for FPOs at Kallikudi market, but wholesale traders unmoved",timesofindia
+2020-09-30,Pay 1-3% extra for choice of flat in Delhi Development Authority localities,timesofindia
+2020-09-30,"Congress sets in motion organisational polls, asks states to update list of AICC delegates",hindustantimes
+2020-09-30,DMK Rajya Sabha MP moves SC against newly-enacted farm Acts,tribune-nation
+2020-09-30,‘There will be competition to give better terms and prices to farmers’,hindu
+2020-09-30,MSP will not be applicable: Congress,hindu
+2020-09-30,‘Reconsider paddy procurement price’,hindu
+2020-09-30,Kateel meets grieving Suresh Angadi family,hindu
+2020-09-30,Ex-civil servants express support for new farm laws,hindu
+2020-09-30,Change of job and realisation of a dream,hindu
+2020-09-30,MSP for all crops will be announced tomorrow: Jagan,hindu
+2020-09-30,"Farm Acts will trigger more suicides, say Congress leaders",hindu
+2020-09-30,APCC urges President to repeal three farm Acts,hindu
+2020-09-30,Arvind: TRS fears losing control over farmers,hindu
+2020-09-30,"Farmer groups meet Punjab CM, discuss next course of action",hindu
+2020-09-30,APMC traders put off indefinite protest,hindu
+2020-09-30,Managing the global commons,hindu
+2020-09-30,"Vested interests are opposing farm sector reforms, says PM",hindu
+2020-09-30,DDA proposal bats for ‘housing for all’ in city,hindu
+2020-09-30,Bajra procurement in Haryana from October 1,hindustantimes
+2020-09-30,Maharashtra stays August order issued for implementation of farm reform laws,hindustantimes
+2020-09-30,Uttarakhand Congress president booked for violating Covid norms during protest against farm bills,hindustantimes
+2020-09-30,"Uttarakhand’s ‘man-eater’ leopard killed two people, shot dead",hindustantimes
+2020-09-30,Friendship that bridged tunnel of hope at Rohtang,hindustantimes
+2020-09-30,Maharashtra Cabinet may discuss farm bill issue today,hindustantimes
+2020-09-30,Punjab farmers resort to early stubble burning for sowing veggies,hindustantimes
+2020-09-30,Farmer stir hits Punjab’s Covid-19 testing pace,hindustantimes
+2020-09-30,Delay in procurement triggers farmer protests in Haryana,hindustantimes
+2020-09-30,Farm laws: Maharashtra Vikas Aghadi government in a dilemma,hindustantimes
+2020-09-30,Four Youth Congress office holders among five more held for burning tractor at India Gate,hindustantimes
+2020-09-30,Centre convenes meeting to review anti-pollution steps,hindustantimes
+2020-09-30,Uddhav Thackeray government withdraws August order to implement new farm laws under pressure from Congress,hindustantimes
+2020-09-30,SAD asks Rahul Gandhi to tell farmers why he supported abolition of APMC Act,hindustantimes
+2020-09-30,Not advisable to give Rs 100 per quintal incentive to farmers for not burning stubble: EPCA,tribune-nation
+2020-09-30,"More parties likely to ally with DMK, says Baalu",timesofindia
+2020-09-30,Farm laws: Punjab BJP sets up 8-member panel to talk to farmers,deccanherald
+2020-09-30,Punjab sees 600 farm fires in 10 days,tribune-nation
+2020-09-30,"Opposition wants middlemen, not farmers, to prosper: Prime Minister Modi",tribune-nation
+2020-09-30,Haryana ban on outside crops negates Centre’s free market policy,tribune-nation
+2020-09-30,Not advisable to give Rs 100 per quintal incentive to farmers for not burning stubble: EPCA,tribune-haryana
+2020-09-30,"Haryana farmers protest delay in procurement of paddy, block highway",tribune-haryana
+2020-09-30,BKU road blockade today in Haryana,tribune-haryana
+2020-09-30,"Farmers, agencies in tizzy as arhtiyas boycott procurement in Haryana",tribune-haryana
+2020-09-30,Dushyant Chautala lists out farm laws’ benefits,tribune-haryana
+2020-09-30,Litmus test for Haryana govt: Bhupinder Singh Hooda,tribune-haryana
+2020-09-30,Not advisable to give Rs 100 per quintal incentive to farmers for not burning stubble: EPCA,tribune-punjab
+2020-09-30,Punjab farmers find friendship in some unlikely quarters as protests continue over agriculture laws,tribune-punjab
+2020-09-30,"Sangrur DC honours progressive farmer, procures his paddy in 2 hours",tribune-punjab
+2020-09-30,"National Award-winning director Rajeev Kumar’s upcoming movie, Siri, highlights the plight of farm workers in Punjab",tribune-punjab
+2020-09-30,Student shoots self for failing to get into MBA college,deccanherald
+2020-09-30,Farm unions join hands to take on corporate houses,tribune-punjab
+2020-09-30,Unite for farmers' cause: Sukhbir to workers,tribune-punjab
+2020-09-30,SAD to move privilege motion against government,tribune-punjab
+2020-09-30,Farmers seek cancellation of FIRs,tribune-punjab
+2020-09-30,Be wary of Punjab CM’s promises: AAP to farm groups,tribune-punjab
+2020-09-30,"Give compensation, else will burn stubble: Farmers’ body",tribune-punjab
+2020-09-30,"Tractor, not China, can move Modi to anger",telegraph
+2020-09-30,"Rahul draws DeMo, farm law parallel",telegraph
+2020-09-30,"Hemant govt to waive Rs 2,000 crore farm loans in first phase",telegraph
+2020-09-30,Political tussle over new farm laws heats up,hindustantimes
+2020-09-30,"Govt buys 44,809 tonne kharif paddy at MSP from Punjab, Haryana in 3 days",deccanherald
+2020-09-30,DMK MP Tiruchi Siva moves SC against farm laws,deccanherald
+2020-09-30,"DH Radio | The Lead: Farm laws and ensuing protests, explained",deccanherald
+2020-09-30,Rajasthan BJP president Satish Poonia accuses Congress of misleading farmers,deccanherald
+2020-09-30,Exploring all avenues to oppose farm legislations,tribune-punjab
+2020-09-30,Farm organisations plan stir across country from Oct 2,timesofindia

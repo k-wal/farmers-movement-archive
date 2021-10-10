@@ -1,0 +1,3 @@
+date,title,newspaper
+2020-09-18,Bank robbed of Rs 1.5 crore in Rajasthan's Hanumangarh,deccanherald
+2020-09-25,Six robbers loot jewellery worth Rs 2.5 cr at gunpoint in Bathinda,tribune-punjab

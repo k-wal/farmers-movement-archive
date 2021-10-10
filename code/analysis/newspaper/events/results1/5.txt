@@ -1,0 +1,3 @@
+date,title,newspaper
+2020-09-04,Punjab Police crack Rs 14.5 lakh Ludhiana dacoity with arrest of mastermind and 4 accomplices,tribune-punjab
+2020-09-05,5 held for Rs 14.5 lakh dacoity in Ludhiana,tribune-punjab

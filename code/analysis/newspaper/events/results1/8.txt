@@ -1,0 +1,3 @@
+date,title,newspaper
+2020-09-02,5 highly polluted regions identified in addition to pollution hotspots in Delhi,deccanherald
+2020-09-03,DPCC sets up 13 teams to monitor emission in industrial areas,hindustantimes

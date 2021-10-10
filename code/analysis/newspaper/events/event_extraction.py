@@ -109,7 +109,7 @@ def get_vectors(df):
 	sent_vecs = {}
 	docs = []
 	for _,row in tqdm(df.iterrows(), total=df.shape[0]):
-		title = row.title
+		title = row.text
 		doc = model(title)
 		docs.append(doc)
 		sent_vecs.update({title: doc.vector})
@@ -128,7 +128,7 @@ def get_clusters(sentences, vectors):
 	# for i in n_classes.keys():
 	# 	print(i, n_classes[i])
 
-	dbscan = DBSCAN(eps = 0.1, min_samples=2, metric='cosine').fit(x)
+	dbscan = DBSCAN(eps = 0.02, min_samples=2, metric='cosine').fit(x)
 	labels = dbscan.labels_
 	print("# CLUSTERS : " + str(len(pd.Series(labels).value_counts())))
 	return dbscan
@@ -137,12 +137,14 @@ def get_clusters(sentences, vectors):
 def show_dbscan_result(index, dbscan, sentences, df):
 	results = pd.DataFrame({'label' : dbscan.labels_, 'sent' : sentences})
 	example_result = results[results.label == index].sent.tolist()
-	event_df = df[df.title.isin(example_result)][['date', 'title', 'newspaper']]
+	event_df = df[df.text.isin(example_result)][['date', 'title', 'text', 'newspaper']]
 	event_df['date'] = pd.to_datetime(event_df.date, format="%d-%m-%Y", errors="ignore")
-	event_df['date'] = pd.to_datetime(event_df.date, format="%B %-d, %Y", errors="ignore")
-	event_df['date'] = pd.to_datetime(event_df.date, format="%d %B %Y", errors="ignore")
+	# event_df['date'] = pd.to_datetime(event_df.date, format="%B %-d, %Y", errors="ignore")
+	# event_df['date'] = pd.to_datetime(event_df.date, format="%d %B %Y", errors="ignore")
 	event_df = event_df.sort_values(by='date').dropna()
-	print(event_df)
+	del event_df['text']
+	event_df.to_csv('results1/' + str(index) + '.txt', index=False)
+	# print(event_df)
 
 
 def run_extraction(paths):
@@ -159,7 +161,10 @@ def run_extraction(paths):
 
 	sentences, vectors = get_vectors(df)
 	dbscan = get_clusters(sentences, vectors)
-	show_dbscan_result(10, dbscan, sentences, df)
+
+	for i in range((len(pd.Series(dbscan.labels_).value_counts()))):
+		print("writing cluster : " + str(i))
+		show_dbscan_result(i, dbscan, sentences, df)
 
 
 month = '09-2020'

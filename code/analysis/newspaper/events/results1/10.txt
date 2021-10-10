@@ -1,0 +1,6 @@
+date,title,newspaper
+2020-09-02,Flood-hit districts received record rainfall in August,hindu
+2020-09-03,Tea farmers happy with intermittent showers,timesofindia
+2020-09-13,Southwest monsoon brings more rain to Nilgiris this yr,timesofindia
+2020-09-22,Rain brings farmers hope for bumper harvest,timesofindia
+2020-09-23,Excessive rain spells doom for North Karnataka farmers,timesofindia

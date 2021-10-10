@@ -59,7 +59,7 @@ def update_hindu_interval(start_string, end_string):
 		date_string =  date.strftime("%Y-%m-%d")
 		filepath = dir_path + '/' + month_string + '/' + date.strftime("%d-%m-%Y") + '.txt'
 		scraper.write_date_range_articles(date, date, dir_path)
-		uploader.upload_date(date_string, filepath, month_string)
+		# uploader.upload_date(date_string, filepath, month_string)
 
 		date += datetime.timedelta(days=1)
 
@@ -85,7 +85,7 @@ def update_toi_interval(start_string, end_string):
 		# scraper_toi(date, date, dir_path)
 		# upload_date_toi(date_string, filepath, month_string)
 		scraper.write_date_range_articles(date, date, dir_path)
-		uploader.upload_date(date_string, filepath, month_string)
+		# uploader.upload_date(date_string, filepath, month_string)
 
 		date += datetime.timedelta(days=1)
 
@@ -102,31 +102,32 @@ def update_ht_interval(start_string, end_string, sections):
 filename = 'update_stats'
 
 # FOR Hindustan Times
-ht_sections = ['editorials',
-			'analysis',
-			'opinion',
-			'india-news',
-			'cities',
-			'world-news'
-			]	
+# ht_sections = [
+# 			'editorials',
+# 			'analysis',
+# 			'opinion',
+# 			'india-news',
+# 			'cities',
+# 			'world-news'
+# 			]	
 
 
-start_string = '01-08-2021'
-end_string = '31-08-2021'
-sections = ht_sections
-update_ht_interval(start_string, end_string, sections)
+# start_string = '01-09-2021'
+# end_string = '30-09-2021'
+# sections = ht_sections
+# update_ht_interval(start_string, end_string, sections)
 
 
 # FOR Times of India
-# start_string = "26-07-2021"
-# end_string = "31-07-2021"
+# start_string = "01-09-2021"
+# end_string = "30-09-2021"
 # update_toi_interval(start_string, end_string)
 
 
 # FOR HINDU
-# start_string = "23-08-2021"
-# end_string = "31-08-2021"
-# update_hindu_interval(start_string, end_string)
+start_string = "01-09-2021"
+end_string = "30-09-2021"
+update_hindu_interval(start_string, end_string)
 
 
 # FOR TRIBUNE

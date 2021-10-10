@@ -1,0 +1,3 @@
+date,title,newspaper
+2020-09-01,Sirsa’s sweets shop owner wins Punjab Rakhi bumper lottery of Rs 1.5 crore,hindustantimes
+2020-09-02,Shop owner wins Rs 1.5-crore Punjab state lottery,tribune-punjab

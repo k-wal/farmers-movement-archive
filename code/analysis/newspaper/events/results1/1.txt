@@ -1,0 +1,3 @@
+date,title,newspaper
+2020-09-02,"32,563 daily wagers, 10,281 in farming sector killed self in 2019: NCRB",tribune-nation
+2020-09-02,"Nearly 43,000 engaged in farming sector, daily wage earners killed self in 2019: NCRB",deccanherald

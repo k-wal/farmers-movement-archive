@@ -1,0 +1,3 @@
+date,title,newspaper
+2020-09-05,Bihar: New Koilwar bridge may open for traffic this month,timesofindia
+2020-09-27,UP: Purvanchal Expressway to be open for public in January,timesofindia

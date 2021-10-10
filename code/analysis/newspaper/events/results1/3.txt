@@ -1,0 +1,3 @@
+date,title,newspaper
+2020-09-15,Investors may have been duped of Rs 159 crore: EOW,timesofindia
+2020-09-29,Rs 15 cr GST fraud unearthed,tribune-haryana

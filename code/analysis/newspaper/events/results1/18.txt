@@ -1,0 +1,3 @@
+date,title,newspaper
+2020-09-26,Tahsildar booked for misconduct,timesofindia
+2020-09-28,Misconduct case: Farmer held for colluding with tahsildar in Telangana,timesofindia

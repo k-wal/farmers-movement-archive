@@ -9,10 +9,10 @@ class HTScraper:
 
 	# string of the form "PUBLISHED ON JUN 10, 2021"
 	def get_date(self, string):
-		if 'UPDATED' in string:
-			string = string.replace('UPDATED', 'PUBLISHED')
+		string = string.replace('Updated on ', '')
+		string = string.replace('Published on ', '')
 
-		string = string.strip()[13:25]
+		string = string.strip()[:-13]
 		date = datetime.datetime.strptime(string, "%b %d, %Y")
 		return datetime.datetime.strftime(date, "%d-%m-%Y")
 
@@ -102,8 +102,11 @@ class HTScraper:
 		soup = BeautifulSoup(r.content, 'html5lib')
 		
 		articles = []
-		h2s = soup.findAll("h2", class_ = "hdg3")
-		
+		# h2s = soup.findAll("h2", class_ = "hdg3")
+		# if len(h2s) == 0:
+		h2s = soup.findAll("h3", class_= "hdg3")
+			# print("-----H3------")
+
 		earliest_date, latest_date = self.get_page_date_range(h2s)
 
 		if latest_date < from_date:

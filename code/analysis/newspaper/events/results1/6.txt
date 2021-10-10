@@ -1,0 +1,3 @@
+date,title,newspaper
+2020-09-12,MULTANI DISAPPEARANCE CASEMohali court issues arrest warrant against former DGP Sumedh Saini,hindustantimes
+2020-09-13,Arrest warrant against Sumedh Singh Saini in Multani case,tribune-punjab

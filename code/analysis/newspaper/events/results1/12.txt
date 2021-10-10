@@ -1,0 +1,3 @@
+date,title,newspaper
+2020-09-17,Use technology to increase farm yield: NABARD chief,hindu
+2020-09-18,Take technology to farmers: NABARD chief,hindu

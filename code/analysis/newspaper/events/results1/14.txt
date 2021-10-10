@@ -1,0 +1,4 @@
+date,title,newspaper
+2020-09-19,Parcel containing explosive substances sent to farmer,hindu
+2020-09-20,Man gets parcel containing explosive substance,hindu
+2020-09-20,Tiruvarur photographer gets explosive in courier,timesofindia

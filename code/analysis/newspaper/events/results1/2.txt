@@ -1,0 +1,4 @@
+date,title,newspaper
+2020-09-27,"Travellers from Dubai, UK contributed maximum COVID-19 importations into India: IIT study",tribune-nation
+2020-09-27,"Travellers from Dubai, UK brought in maximum Covid-19 cases into India: IIT study",deccanherald
+2020-09-27,"Travellers from Dubai, UK contributed maximum Covid-19 importations into India: IIT study",hindustantimes
