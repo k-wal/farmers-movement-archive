@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import os
 from time import strptime
 import datetime
+import traceback
 
 # take date from article and format in dd-mm-yyyy format
 def format_date(date):
@@ -20,7 +21,10 @@ def compare_dates(d1, d2):
 		date1 = datetime.datetime.strptime(d1.strip(), "%d-%m-%Y")
 		date2 = datetime.datetime.strptime(d2.strip(), "%d-%m-%Y")
 	except:
-		print(d1,d2)
+		d1 = d1.replace('31','30')
+		date1 = datetime.datetime.strptime(d1.strip(), "%d-%m-%Y")
+		d2 = d2.replace('31','30')
+		date2 = datetime.datetime.strptime(d2.strip(), "%d-%m-%Y")
 	if date1 < date2 :
 		return 2
 	if date2 < date1:

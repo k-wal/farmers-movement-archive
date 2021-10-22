@@ -68,7 +68,7 @@ class UploadFunctions:
 			try:
 				title, description, url = parts[2], parts[3], parts[4].strip()
 			except:
-				print("ERROR")
+				print("not enough fields in line")
 				continue
 			location = self.get_location(parts[1])
 			if self.if_upload(title, description, keywords):
@@ -147,7 +147,7 @@ def upload_file(filepath, date, item_set_id, parent_set_id, publisher, location,
 		try:
 			title, description, url = parts[2], parts[3], parts[4].strip()
 		except:
-			print("ERROR")
+			print("not enough fields in line")
 			continue
 		location = get_location(parts[1])
 		if if_upload(title, description, keywords):
