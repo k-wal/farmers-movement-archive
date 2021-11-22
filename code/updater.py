@@ -11,6 +11,8 @@ from uploaders.hindu_uploader import HinduUploader
 from scrapers.toi_scraper import TOIScraper
 from uploaders.toi_uploader import TOIUploader
 
+from scrapers.dh_scraper import DHScraper
+
 from scrapers.ht_scraper import HTScraper
 from uploaders.ht_uploader import HTUploader
 from remove_repetition.ht import remove_all_ht_repetitions as ht_remove_reptitions
@@ -99,6 +101,17 @@ def update_ht_interval(start_string, end_string, sections):
 	ht_combine_interval(start_string, end_string, dir_path)
 	uploader.upload_interval(start_string, end_string, dir_path)
 
+def update_dh_interval(start_string, end_string):
+	scraper = DHScraper()
+	dir_path = '../corpus/deccanherald'
+
+	start_date = datetime.datetime.strptime(start_string, "%d-%m-%Y")
+	end_date = datetime.datetime.strptime(end_string, "%d-%m-%Y")
+	date = start_date
+	while date <= end_date:
+		scraper.write_date_range_articles(start_date, end_date, dir_path)
+		date += datetime.timedelta(days=1)
+
 filename = 'update_stats'
 
 # FOR Hindustan Times
@@ -123,9 +136,9 @@ filename = 'update_stats'
 
 
 # FOR HINDU
-start_string = "21-10-2021"
-end_string = "31-10-2021"
-update_hindu_interval(start_string, end_string)
+# start_string = "21-10-2021"
+# end_string = "31-10-2021"
+# update_hindu_interval(start_string, end_string)
 
 
 # FOR TRIBUNE

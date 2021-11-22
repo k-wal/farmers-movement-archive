@@ -47,7 +47,7 @@ def combine_interval(start_string, end_string, dir_path):
 		date += datetime.timedelta(days=1)
 
 
-start_string = "01-08-2020"
-end_string = "30-06-2021"
+start_string = "01-07-2021"
+end_string = "31-10-2021"
 dir_path = '../../corpus/telegraph'
 combine_interval(start_string, end_string, dir_path)
