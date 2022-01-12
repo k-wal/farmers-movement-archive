@@ -122,4 +122,4 @@ dir_path = '../../corpus/deccanherald'
 
 start_date = datetime.datetime.strptime(start_string, "%d-%m-%Y")
 end_date = datetime.datetime.strptime(end_string, "%d-%m-%Y")
-scraper.write_date_range_articles(start_date, end_date, dir_path)
+# scraper.write_date_range_articles(start_date, end_date, dir_path)

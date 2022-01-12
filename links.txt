@@ -1,0 +1,2 @@
+- for graphing
+	- https://towardsdatascience.com/customizing-networkx-graphs-f80b4e69bedf

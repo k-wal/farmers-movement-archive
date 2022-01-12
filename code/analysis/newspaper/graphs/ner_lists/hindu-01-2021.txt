@@ -1,0 +1,50 @@
+ORG||bjp||133
+ORG||state||109
+ORG||congress||86
+ORG||ghazipur||63
+ORG||bku||55
+ORG||supreme court||52
+PERSON||singh||50
+ORG||singhu||39
+PERSON||tikait||38
+ORG||uttar pradesh||36
+PERSON||modi||34
+ORG||parliament||31
+ORG||msp||29
+PERSON||rakesh tikait||29
+PERSON||kisan sabha||28
+ORG||delhi police||23
+ORG||maharashtra||22
+NORP||hindu||20
+NORP||indian||20
+ORG||aiks||20
+ORG||assembly||19
+PERSON||kisan morcha||17
+ORG||kmsc||17
+ORG||house||17
+PERSON||tikri||15
+ORG||ito||15
+PERSON||raj bhavan||14
+PERSON||dharwad||13
+PERSON||deep sidhu||12
+ORG||all india||12
+ORG||lohri||12
+ORG||aap||12
+ORG||fir||11
+PERSON||lok sabha||11
+PERSON||azad maidan||11
+ORG||opposition||11
+ORG||sad||11
+PERSON||sharad pawar||10
+PERSON||gandhi||10
+ORG||skm||10
+PERSON||sidhu||10
+ORG||punjab’s||10
+PERSON||tomar||9
+ORG||amritsar||8
+PERSON||tamil nadu||8
+ORG||punjab||8
+PERSON||amit shah||8
+ORG||nda||8
+ORG||budget||8
+PERSON||hoshiarpur||7
