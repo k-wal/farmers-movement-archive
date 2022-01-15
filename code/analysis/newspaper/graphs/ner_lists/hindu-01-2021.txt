@@ -1,50 +1,50 @@
-ORG||bjp||133
-ORG||state||109
-ORG||congress||86
-ORG||ghazipur||63
-ORG||bku||55
-ORG||supreme court||52
-PERSON||singh||50
-ORG||singhu||39
-PERSON||tikait||38
-ORG||uttar pradesh||36
-PERSON||modi||34
-ORG||parliament||31
-ORG||msp||29
-PERSON||rakesh tikait||29
+ORG||bjp||61
+ORG||state||59
+ORG||bku||45
+ORG||congress||42
+PERSON||tikait||31
+ORG||supreme court||28
 PERSON||kisan sabha||28
-ORG||delhi police||23
-ORG||maharashtra||22
-NORP||hindu||20
-NORP||indian||20
-ORG||aiks||20
-ORG||assembly||19
+PERSON||singh||26
+PERSON||modi||22
+ORG||delhi police||20
+NORP||hindu||19
+ORG||parliament||19
 PERSON||kisan morcha||17
-ORG||kmsc||17
-ORG||house||17
-PERSON||tikri||15
-ORG||ito||15
-PERSON||raj bhavan||14
-PERSON||dharwad||13
-PERSON||deep sidhu||12
+NORP||indian||16
 ORG||all india||12
-ORG||lohri||12
-ORG||aap||12
-ORG||fir||11
-PERSON||lok sabha||11
-PERSON||azad maidan||11
-ORG||opposition||11
-ORG||sad||11
-PERSON||sharad pawar||10
-PERSON||gandhi||10
-ORG||skm||10
-PERSON||sidhu||10
-ORG||punjab’s||10
-PERSON||tomar||9
+ORG||aiks||11
+ORG||assembly||11
+PERSON||deep sidhu||10
+PERSON||lok sabha||10
+PERSON||sharad pawar||9
+ORG||aap||9
+ORG||kmsc||9
+PERSON||tomar||8
 ORG||amritsar||8
-PERSON||tamil nadu||8
-ORG||punjab||8
+PERSON||raj bhavan||8
+ORG||ito||8
+ORG||punjab’s||8
 PERSON||amit shah||8
-ORG||nda||8
-ORG||budget||8
-PERSON||hoshiarpur||7
+PERSON||rahul gandhi||7
+ORG||punjabi||7
+ORG||skm||7
+ORG||state assembly||7
+PERSON||narendra singh||6
+PERSON||hoshiarpur||6
+PERSON||azad maidan||6
+PERSON||dharmendra malik||6
+ORG||rss||6
+ORG||lohri||6
+PERSON||sikh||6
+PERSON||kavitha kuruganti||6
+PERSON||darshan pal||6
+PERSON||amarinder singh||6
+ORG||karnataka||5
+PERSON||abhimanyu kohar||5
+PERSON||tamil nadu||5
+PERSON||hannan mollah||5
+PERSON||gandhi||5
+PERSON||b.s. yediyurappa||5
+PERSON||amreek singh||5
+NORP||sikhs||5

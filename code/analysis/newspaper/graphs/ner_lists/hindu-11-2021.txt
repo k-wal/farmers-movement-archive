@@ -1,0 +1,50 @@
+ORG||bjp||108
+ORG||msp||65
+ORG||state||61
+ORG||parliament||40
+ORG||skm||36
+ORG||uttar pradesh||32
+ORG||congress||29
+PERSON||modi||28
+ORG||assembly||20
+PERSON||kisan morcha||15
+ORG||bku||15
+PERSON||tikait||14
+PERSON||rakesh tikait||13
+PERSON||kisan sabha||11
+PERSON||bill||11
+PERSON||rao||10
+ORG||state government||9
+ORG||sad||9
+NORP||hindu||9
+PERSON||kcr||9
+ORG||house||9
+PERSON||singh||8
+PERSON||narendra modi’s||8
+ORG||union government||7
+ORG||farmers||7
+PERSON||lok sabha||7
+ORG||rld||7
+ORG||aiks||6
+PERSON||hannan mollah||6
+PERSON||gurmeet||6
+PERSON||tomar||6
+PERSON||k. chandrasekhar rao||5
+PERSON||tamil nadu||5
+ORG||bks||5
+PERSON||jagmohan singh||4
+NORP||indian||4
+ORG||modi government||4
+PERSON||ghazipur||4
+PERSON||birla||4
+NORP||sp||4
+PERSON||hassan||4
+PERSON||ch||4
+ORG||supreme court||4
+PERSON||chautala||4
+ORG||sircilla||4
+ORG||lakhimpur kheri||4
+PERSON||badal||3
+ORG||udf||3
+ORG||k-rail||3
+NORP||russian||3

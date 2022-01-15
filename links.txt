@@ -1,2 +1,8 @@
 - for graphing
 	- https://towardsdatascience.com/customizing-networkx-graphs-f80b4e69bedf
+
+- entity cooccurence
+	- http://sujitpal.blogspot.com/2020/02/entity-co-occurrence-graphs-as-mind-maps.html
+
+- timeline
+	- https://schoolofdata.org/handbook/courses/timeline-tools/

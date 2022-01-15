@@ -65,17 +65,20 @@ def get_relevant_text(filepath):
 			all_articles.append(desc)
 	return all_articles
 
+# load entities and their counts from path==filename
 def load_month_entities(filename):
 	f = open(filename, 'r')
 	lines = f.readlines()
 	f.close()
 
 	ners = []
+	ner_counts = {}
 	for line in lines:
 		ners.append(line.split('||')[1])
-	return ners
+		ner_counts[ners[-1]] = int(line.split('||')[2].strip())
+	return ners, ner_counts
 
-
+# add relation between ner1 and ner2 to ner_counts and relation_counts
 def add_relation(ner1, ner2, ner_counts, relation_counts):
 	key = frozenset([ner1, ner2])
 	if key not in relation_counts.keys():
@@ -91,6 +94,8 @@ def add_relation(ner1, ner2, ner_counts, relation_counts):
 	ner_counts[ner2] += 1
 	return ner_counts, relation_counts
 
+# get relations in one particular article (doc==text of article)
+# and update ner_counts and relation counts
 def get_article_relations(doc, ners, ner_counts, relation_counts):
 	for ner1 in ners:
 		if ner1 not in doc.lower():
@@ -103,6 +108,7 @@ def get_article_relations(doc, ners, ner_counts, relation_counts):
 			ner_counts, relation_counts = add_relation(ner1, ner2, ner_counts, relation_counts)
 	return ner_counts, relation_counts
 
+# get all relations of a month
 def get_month_relations(dir_path, ners):
 	filenames = os.listdir(dir_path)
 	ner_counts, relation_counts = {}, {}
@@ -133,7 +139,7 @@ def create_relation_df(relation_counts, limit=20):
 
 	return node1, node2, edge_labels
 
-def plot_month_relation(ners, ner_counts, relation_counts):
+def plot_month_relations(ners, ner_counts, relation_counts):
 	node1, node2, edge_labels = create_relation_df(relation_counts)
 	edges = [[x, y] for x,y in zip(node1, node2)]
 
@@ -141,7 +147,7 @@ def plot_month_relation(ners, ner_counts, relation_counts):
 	G.add_edges_from(edges)
 
 	nodes = G.nodes()
-	max_size = 5000
+	max_size = 6000
 	max_val = max(ner_counts.values())
 	node_sizes = [max_size*(ner_counts[node]/max_val) for node in nodes]
 
@@ -152,11 +158,11 @@ def plot_month_relation(ners, ner_counts, relation_counts):
 	node_colors = []
 	for size in node_sizes:
 		if size > max_size*0.7:
-			node_colors.append('red')
+			node_colors.append('#3cd14e')
 		elif size > max_size*0.4:
-			node_colors.append('blue')
+			node_colors.append('#f95d5d')
 		else:
-			node_colors.append('orange')
+			node_colors.append('#5dbdfb')
 
 	pos = nx.spring_layout(G)
 	plt.figure()
@@ -170,16 +176,16 @@ def plot_month_relation(ners, ner_counts, relation_counts):
 	plt.axis('off')
 	plt.show()
 
-	# fig, ax = plt.subplots(figsize=(15,8))
-	# relationships = pd.DataFrame({'from':node1,'to':node2})
-	# G = nx.from_pandas_edgelist(relationships, 'from', 'to', create_using=nx.Graph())
-	# pos = nx.spring_layout(G)
-	# nx.draw(G, with_labels=True)
-	# nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels,font_color='red')
-	# plt.axis('off')
-	# plt.show()
+def main_func(dir_path, ner_path):
+	ners, ner_counts = load_month_entities(ner_path)
+	_, relation_counts = get_month_relations(dir_path, ners)
+	plot_month_relations(ners, ner_counts, relation_counts)
 
-ners = load_month_entities('ner_lists/hindu-01-2021.txt')
+
+ner_path = 'ner_lists/hindu-01-2021.txt'
 dir_path = '../../../../corpus/hindu/01-2021'
-ner_counts, relation_counts = get_month_relations(dir_path, ners)
-plot_month_relation(ners, ner_counts, relation_counts)
+
+# ner_path = 'ner_lists/toi-01-2021.txt'
+# dir_path = '../../../../corpus/timesofindia/01-2021'
+
+main_func(dir_path, ner_path)

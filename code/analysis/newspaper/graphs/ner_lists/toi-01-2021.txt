@@ -1,0 +1,50 @@
+ORG||bku||91
+ORG||bjp||71
+PERSON||tikait||49
+ORG||supreme court||45
+ORG||congress||45
+ORG||delhi police||40
+PERSON||kisan morcha||28
+ORG||parliament||24
+PERSON||kisan sabha||22
+PERSON||sikh||21
+NORP||sikhs||20
+PERSON||deep sidhu||19
+ORG||cm||19
+PERSON||yogendra yadav||18
+ORG||modi||17
+PERSON||tomar||17
+PERSON||skm||17
+ORG||sad||16
+NORP||indian||15
+ORG||kmsc||15
+ORG||ito||15
+PERSON||narendra singh||14
+ORG||mann||14
+PERSON||khalistani||13
+ORG||nishan sahib||13
+ORG||justice||12
+ORG||aap||12
+PERSON||darshan pal||12
+ORG||farmers||11
+ORG||charuni||11
+ORG||mukarba chowk||11
+ORG||punjabi||10
+ORG||aiks||10
+ORG||sfj||9
+PERSON||singh||9
+PERSON||amarinder singh||9
+ORG||rewari||9
+ORG||ipc||8
+ORG||lohri||8
+ORG||madhya pradesh||8
+PERSON||singh virk||8
+PERSON||balbir singh||7
+PERSON||shingara singh mann||7
+PERSON||joginder singh ugrahan||7
+ORG||bhanu||7
+PERSON||bittu||7
+PERSON||jind||7
+PERSON||anil ghanwat||7
+ORG||cji||7
+PERSON||morcha||7

@@ -101,8 +101,8 @@ def check_article_relevance(title, desc):
 			return True
 	return False
 
-# get list of text from all relevant articles
-def get_relevant_text(filepath):
+# get list of text from all relevant articles from one file
+def get_file_relevant_text(filepath):
 	file = open(filepath, 'r')
 	lines = file.readlines()
 	file.close()
@@ -127,10 +127,31 @@ def get_ner(lines):
 		ners.append(doc)
 	return ners
 
-def print_ner(ners):
-	pprint([(X.text, X.label_) for X in ners.ents])
-
+# edit NER to either remove some or to replace with synonyms/abbreviations
 def get_correct_ner(text):
+	exluding_list = ['toi',
+	 'msp',
+	 'fir',
+	 'punjab',
+	 'haryana',
+	 'uttar pradesh',
+	 'u.p.',
+	 'maharashtra',
+	 'delhi',
+	 'india',
+
+	 'ghazipur',
+	 'tikri',
+	 'red fort',
+	 'singhu',
+	 'chandigarh',
+	 'ludhiana',
+	 'ambala',
+	 'bathinda',
+	 ]
+	if text in exluding_list:
+		return -1
+
 	if text == 'bhartiya kisan union':
 		return 'bku'
 	if text == 'bharatiya kisan union':
@@ -145,6 +166,10 @@ def get_correct_ner(text):
 		return 'aap'
 	if text == 'ncp':
 		return 'congress'
+	if text == 'sc':
+		return 'supreme court'
+	if 'tikait' in text:
+		return 'tikait'
 	if text == 'pm modi' or text == 'narendra modi' or text == 'prime minister':
 		return 'modi'
 	if text == 'all india kisan sabha':
@@ -166,9 +191,12 @@ def get_correct_ner(text):
 
 	return text
 
-def update_ner_counts(ners, counts, label_map):
+def update_ner_counts(ners, counts, label_map, place_labels=False):
 	labels = ['PERSON', 'NORP', 'ORG']
+	if place_labels:
+		labels.extend(['LABELS', 'GPE'])
 	for line_ners in ners:
+		current_ners = []
 		for ner in line_ners.ents:
 			ner_text, ner_label = ner.text.lower(), ner.label_
 			if ner_text[0:4] == 'the ':
@@ -178,19 +206,22 @@ def update_ner_counts(ners, counts, label_map):
 				continue
 			if ner_label not in labels:
 				continue
+			if ner_text in current_ners:
+				continue
 			if ner_text not in counts.keys():
 				counts[ner_text] = 0
 				label_map[ner_text] = ner_label
 			counts[ner_text] += 1
+			current_ners.append(ner_text)
 	return counts, label_map
 
-
+# get entities for a month : sorted entity count and label map for each
 def get_month_ners(dir_path, ner_counts={}, label_map={}):
 	print(dir_path)
 	filenames = os.listdir(dir_path)
 	for filename in filenames:
 		filepath = dir_path + '/' + filename
-		text = get_relevant_text(filepath)
+		text = get_file_relevant_text(filepath)
 		# print(text)
 		ners = get_ner(text)
 		ner_counts, label_map = update_ner_counts(ners, ner_counts, label_map)
@@ -200,6 +231,7 @@ def get_month_ners(dir_path, ner_counts={}, label_map={}):
 	sorted_counts = {k: v for k, v in sorted_tuples}
 	return sorted_counts, label_map
 
+# get ALL entities from one newspaper (for all months)
 def get_all_ners(dir_path):
 	ner_counts = {}
 	label_map = {}
@@ -215,6 +247,7 @@ def get_all_ners(dir_path):
 	sorted_counts = {k: v for k, v in sorted_tuples}
 	return sorted_counts, label_map
 
+# print counts in a file the ner_lists folder
 def print_counts(counts, label_map,filename, limit):
 	if len(counts.keys()) < limit:
 		limit = len(counts.keys())	
@@ -228,6 +261,7 @@ def print_counts(counts, label_map,filename, limit):
 			break
 	file.close()
 
+# plot the wordcloud with given counts
 def plot_wordcloud(counts):
 	wordcloud = WordCloud(stopwords=stop_words, background_color="black", collocations=True)
 	wordcloud.generate_from_frequencies(frequencies=counts)
@@ -236,27 +270,15 @@ def plot_wordcloud(counts):
 	plt.axis("off")
 	plt.show()
 
+def main_func(dir_path):
+	filename = dir_path.split('/')[-2] + '-' + dir_path.split('/')[-1]
+	limit = 50
+	counts, label_map = get_month_ners(dir_path)
+	print_counts(counts, label_map, filename, limit)
+	plot_wordcloud(counts)
+
 dir_path = '../../../../corpus/hindu/01-2021'
-filename = 'hindu-' + dir_path.split('/')[-1]
 
-limit = 50
-counts, label_map = get_month_ners(dir_path)
-print_counts(counts, label_map, filename, limit)
-plot_wordcloud(counts)
+# dir_path = '../../../../corpus/timesofindia/01-2021'
 
-# dir_path = '../../../corpus/tribune/editorial'
-# filename = 'tribune-editorial'
-
-# dir_path = '../../../corpus/hindustantimes'
-# filename = 'hindustan-times'
-
-# dir_path = '../../../corpus/timesofindia'
-# filename = 'timesofindia'
-
-# dir_path = '../../../../corpus/hindu'
-# filename = 'hindu'
-
-# limit = 200
-# counts, label_map = get_all_ners(dir_path)
-# print_counts(counts, label_map, filename, limit)
-# plot_wordcloud(counts)
+main_func(dir_path)
