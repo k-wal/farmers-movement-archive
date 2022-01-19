@@ -130,24 +130,26 @@ def get_ner(lines):
 # edit NER to either remove some or to replace with synonyms/abbreviations
 def get_correct_ner(text):
 	exluding_list = ['toi',
-	 'msp',
-	 'fir',
+	 # 'msp',
+	 # 'fir',
 	 'punjab',
 	 'haryana',
 	 'uttar pradesh',
 	 'u.p.',
-	 'maharashtra',
+	 # 'maharashtra',
 	 'delhi',
+	 'new delhi',
 	 'india',
+	 'hindu',
 
-	 'ghazipur',
-	 'tikri',
-	 'red fort',
-	 'singhu',
-	 'chandigarh',
-	 'ludhiana',
-	 'ambala',
-	 'bathinda',
+	 # 'ghazipur',
+	 # 'tikri',
+	 # 'red fort',
+	 # 'singhu',
+	 # 'chandigarh',
+	 # 'ludhiana',
+	 # 'ambala',
+	 # 'bathinda',
 	 ]
 	if text in exluding_list:
 		return -1
@@ -166,6 +168,8 @@ def get_correct_ner(text):
 		return 'aap'
 	if text == 'ncp':
 		return 'congress'
+	if text == 'new delhi':
+		return 'delhi'
 	if text == 'sc':
 		return 'supreme court'
 	if 'tikait' in text:
@@ -174,7 +178,7 @@ def get_correct_ner(text):
 		return 'modi'
 	if text == 'all india kisan sabha':
 		return 'aiks'
-	if text == 'all india kisan sangharsh coordination committe':
+	if text == 'all india kisan sangharsh coordination committee':
 		return 'aikscc'
 	if text == 'samyukt kisan morcha' or text == 'sanyukt kisan morcha' or text == 'samyukta kisan morcha':
 		return 'skm'
@@ -186,12 +190,12 @@ def get_correct_ner(text):
 		return 'sad'
 	if 'trinamool' in text:
 		return 'tmc'
-	if "'" in text:
-		return text.split("'")[0]
+	# text[-2] == "\'":
+	# 	return text.split("\'")[0]
 
 	return text
 
-def update_ner_counts(ners, counts, label_map, place_labels=False):
+def update_ner_counts(ners, counts, label_map, place_labels=True):
 	labels = ['PERSON', 'NORP', 'ORG']
 	if place_labels:
 		labels.extend(['LABELS', 'GPE'])

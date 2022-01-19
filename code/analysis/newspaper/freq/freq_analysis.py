@@ -43,6 +43,8 @@ to_exclude = [
 "near",
 "agit"
 ]
+
+to_exclude = []
 STOPWORDS = list(STOPWORDS)
 # STOPWORDS.extend(to_exclude)
 
@@ -137,7 +139,7 @@ def get_counts(df):
 	# reduce span until we get atleast 20 tokens
 	while len(list(dictionary.values())) <= 20: 
 		span -= 20
-		print(span)
+		# print(span)
 		dictionary = gensim.corpora.Dictionary(df)
 		dictionary.filter_extremes(no_below=span, no_above=1, keep_n=200)
 
@@ -162,7 +164,7 @@ def get_all_counts(dir_path):
 	article_df = pd.DataFrame({"text":[]})
 
 	for index, month in enumerate(os.listdir(dir_path)):
-		print(index)
+		#print(index)
 		if 'hindustantimes' in dir_path:
 			article_df = get_month_articles(dir_path + '/' + month + '/combined', article_df)
 		else:
@@ -171,6 +173,18 @@ def get_all_counts(dir_path):
 	processed_df = article_df['text'].map(preprocess_text)
 	counts = get_counts(processed_df)
 	return counts
+
+def get_month_counts(dir_path):
+	article_df = pd.DataFrame({"text":[]})
+
+	article_df = get_month_articles(dir_path, article_df)
+	processed_df = article_df['text'].map(preprocess_text)
+	counts = get_counts(processed_df)
+	
+	sorted_tuples = sorted(counts.items(), key=lambda item: item[1], reverse=True)
+	sorted_counts = {k: v for k, v in sorted_tuples}
+
+	return sorted_counts
 
 def print_counts(counts, filename):
 	file = open('freq_results/'+filename+'.txt','w')
@@ -185,6 +199,13 @@ def plot_wordcloud(counts):
 	plt.imshow(wordcloud, interpolation="bilinear")
 	plt.axis("off")
 	plt.show()
+
+# dir_path = '../../../../corpus/hindu/12-2021'
+# filename = 'hindu/' + dir_path.split('/')[-1]
+
+counts = get_month_counts(dir_path)
+print_counts(counts, filename)
+
 
 # dir_path = '../../../corpus/tribune/punjab'
 # filename = 'tribune-punjab'
@@ -207,10 +228,9 @@ def plot_wordcloud(counts):
 # dir_path = '../../../corpus/hindu'
 # filename = 'hindu'
 
-dir_path = '../../../../corpus/deccanherald'
-filename = 'deccanherald'
+# dir_path = '../../../../corpus/deccanherald'
+# filename = 'deccanherald'
 
-counts = get_all_counts(dir_path)
-# print(counts)
-print_counts(counts, filename)
-plot_wordcloud(counts)
+# counts = get_all_counts(dir_path)
+# print_counts(counts, filename)
+# plot_wordcloud(counts)

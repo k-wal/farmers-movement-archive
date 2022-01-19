@@ -1,50 +1,50 @@
+GPE||delhi||108
 ORG||bjp||61
 ORG||state||59
+ORG||ghazipur||47
+GPE||haryana||47
 ORG||bku||45
+GPE||centre||42
 ORG||congress||42
+ORG||singhu||38
+GPE||india||37
+GPE||tikri||34
 PERSON||tikait||31
+PERSON||singh||29
 ORG||supreme court||28
 PERSON||kisan sabha||28
-PERSON||singh||26
+ORG||uttar pradesh||26
+GPE||states||22
 PERSON||modi||22
+ORG||msp||20
 ORG||delhi police||20
-NORP||hindu||19
 ORG||parliament||19
 PERSON||kisan morcha||17
+GPE||new delhi||17
 NORP||indian||16
+ORG||maharashtra||14
+GPE||kerala||13
 ORG||all india||12
+GPE||ludhiana||11
 ORG||aiks||11
 ORG||assembly||11
 PERSON||deep sidhu||10
 PERSON||lok sabha||10
+GPE||bills||10
+ORG||amritsar||9
 PERSON||sharad pawar||9
 ORG||aap||9
 ORG||kmsc||9
+GPE||ghaziabad||9
 PERSON||tomar||8
-ORG||amritsar||8
+ORG||karnataka||8
+GPE||mumbai||8
 PERSON||raj bhavan||8
 ORG||ito||8
+ORG||punjab||8
 ORG||punjab’s||8
 PERSON||amit shah||8
+ORG||fir||7
 PERSON||rahul gandhi||7
 ORG||punjabi||7
 ORG||skm||7
-ORG||state assembly||7
-PERSON||narendra singh||6
-PERSON||hoshiarpur||6
-PERSON||azad maidan||6
-PERSON||dharmendra malik||6
-ORG||rss||6
-ORG||lohri||6
-PERSON||sikh||6
-PERSON||kavitha kuruganti||6
-PERSON||darshan pal||6
-PERSON||amarinder singh||6
-ORG||karnataka||5
-PERSON||abhimanyu kohar||5
-PERSON||tamil nadu||5
-PERSON||hannan mollah||5
-PERSON||gandhi||5
-PERSON||b.s. yediyurappa||5
-PERSON||amreek singh||5
-NORP||sikhs||5

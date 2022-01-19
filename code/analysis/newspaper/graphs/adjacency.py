@@ -122,7 +122,7 @@ def get_month_relations(dir_path, ners):
 	sorted_relation_counts = {k: v for k, v in sorted_tuples}
 	return ner_counts, sorted_relation_counts
 
-def create_relation_df(relation_counts, limit=20):
+def create_relation_df(relation_counts, limit=50):
 	node1 = []
 	node2 = []
 	edge_labels = {}

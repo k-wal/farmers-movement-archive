@@ -130,15 +130,15 @@ filename = 'update_stats'
 
 
 # FOR Times of India
-# start_string = "11-11-2021"
-# end_string = "11-11-2021"
-# update_toi_interval(start_string, end_string)
+start_string = "21-12-2021"
+end_string = "31-12-2021"
+update_toi_interval(start_string, end_string)
 
 
 # FOR HINDU
-start_string = "11-12-2021"
-end_string = "20-12-2021"
-update_hindu_interval(start_string, end_string)
+# start_string = "11-12-2021"
+# end_string = "20-12-2021"
+# update_hindu_interval(start_string, end_string)
 
 
 # FOR TRIBUNE

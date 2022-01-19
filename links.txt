@@ -6,3 +6,7 @@
 
 - timeline
 	- https://schoolofdata.org/handbook/courses/timeline-tools/
+
+- timeline extraction
+	- https://medium.com/unfound-news/auto-timeline-generate-a-high-quality-timeline-of-any-topic-using-machine-learning-269224878eb9
+	- https://www.researchgate.net/publication/301973784_Timeline_Summarization_from_Relevant_Headlines
