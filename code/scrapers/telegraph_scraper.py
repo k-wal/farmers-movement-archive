@@ -145,9 +145,9 @@ def write_one_section(section_name, main_dir_path, start_date, end_date):
 		print("\n\n SECTION ENDING : " + section_name + "\n-----")
 
 
-section_name = 'west-bengal'
-start_date = "01-07-2021"
-end_date = "31-10-2021"
+section_name = 'jharkhand'
+start_date = "01-11-2021"
+end_date = "31-12-2021"
 dir_path = '../../corpus/telegraph'
 
 start_date = datetime.datetime.strptime(start_date, "%d-%m-%Y")

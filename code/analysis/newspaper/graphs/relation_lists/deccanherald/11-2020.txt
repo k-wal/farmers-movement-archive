@@ -1,0 +1,1407 @@
+74	farmers	centre
+69	farmers	singh
+61	centre	singh
+46	singhu	farmers
+46	singhu	singh
+45	nda	farmers
+45	farmers	union
+44	centre	union
+43	nda	centre
+43	singhu	centre
+40	nda	singh
+39	singh	union
+36	singhu border	singhu
+36	singhu border	farmers
+36	singhu border	singh
+35	modi	farmers
+33	modi	centre
+33	singhu border	centre
+31	singhu	tikri
+31	farmers	tikri
+31	tikri	singh
+31	singhu	tikri border
+31	tikri border	tikri
+31	tikri border	farmers
+31	tikri border	singh
+30	farmers	delhi police
+30	delhi police	singh
+29	centre	tikri
+29	tikri border	centre
+29	delhi police	centre
+28	nda	union
+28	burari	centre
+28	farmers	burari
+26	nda	modi
+26	singhu	delhi police
+25	singhu	burari
+25	burari	singh
+25	nda	singhu
+25	singhu	union
+24	centre	bjp
+24	farmers	bjp
+24	modi	singh
+23	singhu border	tikri
+23	singhu border	tikri border
+23	congress	centre
+23	farmers	congress
+22	nda	burari
+21	singhu border	burari
+21	nda	tikri
+21	nda	tikri border
+21	singhu border	delhi police
+20	modi	bjp
+20	congress	singh
+19	burari	tikri
+19	tikri border	burari
+18	modi	union
+18	singhu border	nda
+18	tikri	union
+18	burari	union
+18	singhu border	union
+18	tikri border	union
+18	singh	bjp
+17	congress	bjp
+17	modi	congress
+17	amarinder singh	farmers
+17	amarinder singh	singh
+17	assembly	farmers
+17	assembly	singh
+16	bjp	union
+16	amit shah	singh
+16	centre	union home
+16	singhu	union home
+16	farmers	union home
+16	singh	union home
+16	nda	amit shah
+16	union	union home
+16	delhi police	tikri
+16	tikri border	delhi police
+15	centre	bill
+15	farmers	bill
+15	centre	amit shah
+15	singhu	amit shah
+15	farmers	amit shah
+15	tikri	union home
+15	tikri border	union home
+15	amit shah	union
+15	amarinder singh	centre
+15	assembly	centre
+14	nda	bjp
+14	tikri	amit shah
+14	burari	union home
+14	tikri border	amit shah
+14	nda	union home
+14	delhi police	union
+14	nda	congress
+13	farmers	bku
+13	singh	bku
+13	amit shah	union home
+13	delhi police	burari
+13	congress	union
+13	amarinder singh	union
+12	burari	amit shah
+12	bku	union
+12	nda	delhi police
+12	nda	amarinder singh
+11	centre	indian
+11	farmers	indian
+11	farmers	sad
+11	nda	bill
+11	centre	bku
+11	modi	singhu
+11	modi	burari
+11	singhu border	amit shah
+11	singhu border	union home
+11	assembly	congress
+11	nda	assembly
+10	farmers	msp
+10	farmers	arvind kejriwal
+10	modi	bill
+10	singhu border	modi
+10	singhu	delhi traffic police
+10	tikri	delhi traffic police
+10	farmers	delhi traffic police
+10	singh	delhi traffic police
+10	singhu border	delhi traffic police
+10	modi	assembly
+10	tikri border	delhi traffic police
+10	farmers	haryana police
+10	singh	haryana police
+10	singh	sad
+10	singh	bill
+10	farmers	shambhu
+10	shambhu	singh
+9	centre	msp
+9	sad	union
+9	aap	centre
+9	aap	farmers
+9	aap	singh
+9	modi	delhi police
+9	centre	jantar mantar
+9	union	indian
+9	singhu	bjp
+9	amarinder singh	modi
+9	centre	delhi traffic police
+9	assembly	delhi police
+9	khattar	farmers
+9	khattar	singh
+9	shambhu	centre
+9	delhi police	shambhu
+8	centre	arvind kejriwal
+8	bjp	arvind kejriwal
+8	centre	sad
+8	msp	union
+8	modi	tikri
+8	aap	singhu
+8	modi	tikri border
+8	nda	bku
+8	singh	indian
+8	singh	arvind kejriwal
+8	singh	msp
+8	amarinder singh	singhu
+8	amarinder singh	congress
+8	parliament	centre
+8	delhi police	delhi traffic police
+8	amarinder singh	assembly
+8	centre	haryana police
+8	haryana police	union
+8	centre	gtk
+8	singhu	gtk
+8	tikri	gtk
+8	farmers	gtk
+8	singh	gtk
+8	singhu border	gtk
+8	tikri border	gtk
+8	farmers	ambala
+8	singh	ambala
+8	delhi police	lalru
+8	farmers	lalru
+8	lalru	singh
+8	lalru	shambhu
+8	patiala-pehowa	delhi police
+8	patiala-pehowa	farmers
+8	patiala-pehowa	singh
+8	patiala-pehowa	shambhu
+8	patiala-pehowa	lalru
+8	delhi police	patran-khanauri
+8	farmers	patran-khanauri
+8	singh	patran-khanauri
+8	shambhu	patran-khanauri
+8	lalru	patran-khanauri
+8	patiala-pehowa	patran-khanauri
+8	moonak	delhi police
+8	moonak	farmers
+8	moonak	singh
+8	moonak	shambhu
+8	moonak	lalru
+8	moonak	patiala-pehowa
+8	moonak	patran-khanauri
+8	delhi police	ratia-fatehabad
+8	farmers	ratia-fatehabad
+8	singh	ratia-fatehabad
+8	shambhu	ratia-fatehabad
+8	lalru	ratia-fatehabad
+8	patiala-pehowa	ratia-fatehabad
+8	ratia-fatehabad	patran-khanauri
+8	moonak	ratia-fatehabad
+8	delhi police	talwandi-sirsa
+8	farmers	talwandi-sirsa
+8	talwandi-sirsa	singh
+8	shambhu	talwandi-sirsa
+8	lalru	talwandi-sirsa
+8	patiala-pehowa	talwandi-sirsa
+8	talwandi-sirsa	patran-khanauri
+8	moonak	talwandi-sirsa
+8	talwandi-sirsa	ratia-fatehabad
+7	bjp	indian
+7	modi	indian
+7	bjp	msp
+7	modi	arvind kejriwal
+7	nda	msp
+7	nda	arvind kejriwal
+7	nda	sad
+7	modi	bku
+7	modi	amit shah
+7	farmers	jantar mantar
+7	singh	jantar mantar
+7	nda	indian
+7	jantar mantar	union
+7	singhu	congress
+7	amarinder singh	burari
+7	parliament	bjp
+7	modi	parliament
+7	farmers	parliament
+7	singhu border	amarinder singh
+7	burari	delhi traffic police
+7	assembly	bjp
+7	assembly	bku
+7	bku	haryana police
+7	khattar	centre
+7	khattar	bjp
+7	khattar	congress
+7	assembly	union
+7	khattar	union
+7	hyderabad	centre
+7	hyderabad	bjp
+7	hyderabad	farmers
+7	hyderabad	nda
+7	burari	gtk
+7	gtk	delhi traffic police
+7	centre	mukarba chowk & gtk
+7	singhu	mukarba chowk & gtk
+7	tikri	mukarba chowk & gtk
+7	farmers	mukarba chowk & gtk
+7	singh	mukarba chowk & gtk
+7	singhu border	mukarba chowk & gtk
+7	mukarba chowk & gtk	delhi traffic police
+7	tikri border	mukarba chowk & gtk
+7	gtk	mukarba chowk & gtk
+7	centre	rahul gandhi
+7	congress	rahul gandhi
+7	farmers	rahul gandhi
+7	centre	gandhi
+7	congress	gandhi
+7	modi	gandhi
+7	farmers	gandhi
+7	singh	gandhi
+7	rahul gandhi	gandhi
+7	aap	delhi police
+7	singhu	shambhu
+7	lalru	centre
+7	singhu	lalru
+7	patiala-pehowa	centre
+7	patiala-pehowa	singhu
+7	centre	patran-khanauri
+7	singhu	patran-khanauri
+7	moonak	centre
+7	moonak	singhu
+7	centre	ratia-fatehabad
+7	singhu	ratia-fatehabad
+7	centre	talwandi-sirsa
+7	singhu	talwandi-sirsa
+7	congress	bill
+6	modi	msp
+6	centre	hindi
+6	farmers	hindi
+6	bjp	sad
+6	arvind kejriwal	union
+6	aap	tikri
+6	aap	tikri border
+6	farmers	dakaunda
+6	singh	dakaunda
+6	farmers	jagmohan singh
+6	jagmohan singh	singh
+6	aap	nda
+6	nda	dakaunda
+6	nda	jagmohan singh
+6	union	dakaunda
+6	jagmohan singh	union
+6	ghazipur	centre
+6	ghazipur	singhu
+6	ghazipur	farmers
+6	ghazipur	singh
+6	singhu	arvind kejriwal
+6	singhu border	ghazipur
+6	singhu	jantar mantar
+6	singhu border	jantar mantar
+6	ghazipur	union
+6	tikri	bjp
+6	delhi police	congress
+6	amarinder singh	tikri
+6	amarinder singh	delhi police
+6	amit shah	bjp
+6	congress	parliament
+6	singhu border	bjp
+6	delhi police	union home
+6	amarinder singh	union home
+6	singhu	assembly
+6	tikri border	bjp
+6	amarinder singh	tikri border
+6	assembly	haryana police
+6	khattar	bku
+6	modi	khattar
+6	khattar	assembly
+6	nda	delhi traffic police
+6	parliament	union
+6	gurnam singh charuni	farmers
+6	gurnam singh charuni	singh
+6	gurnam singh charuni	union
+6	nda	gtk
+6	burari	mukarba chowk & gtk
+6	delhi police	gtk
+6	centre	ambala
+6	ambala	union
+6	modi	rahul gandhi
+6	rahul gandhi	singh
+6	bjp	gandhi
+6	singhu border	shambhu
+6	assembly	shambhu
+6	singhu border	lalru
+6	assembly	lalru
+6	patiala-pehowa	singhu border
+6	patiala-pehowa	assembly
+6	singhu border	patran-khanauri
+6	assembly	patran-khanauri
+6	moonak	singhu border
+6	moonak	assembly
+6	singhu border	ratia-fatehabad
+6	assembly	ratia-fatehabad
+6	singhu border	talwandi-sirsa
+6	assembly	talwandi-sirsa
+6	congress	indian
+6	ambala	haryana police
+6	centre	aikscc
+6	aikscc	union
+5	modi	hindi
+5	msp	sad
+5	union	bill
+5	singhu	bku
+5	singhu border	aap
+5	modi	union home
+5	centre	dakaunda
+5	centre	jagmohan singh
+5	ghazipur	delhi police
+5	ghazipur	burari
+5	tikri	arvind kejriwal
+5	tikri	jantar mantar
+5	delhi police	jantar mantar
+5	tikri border	arvind kejriwal
+5	tikri border	jantar mantar
+5	nda	ghazipur
+5	nda	jantar mantar
+5	bku	bjp
+5	singhu	msp
+5	congress	tikri
+5	congress	bku
+5	delhi police	bjp
+5	delhi police	bku
+5	burari	bjp
+5	congress	burari
+5	amarinder singh	bku
+5	amarinder singh	amit shah
+5	parliament	singh
+5	congress	arvind kejriwal
+5	singhu border	congress
+5	assembly	msp
+5	singhu border	assembly
+5	tikri border	congress
+5	delhi police	haryana police
+5	khattar	msp
+5	amarinder singh	khattar
+5	khattar	haryana police
+5	singhu	sad
+5	burari	sad
+5	nda	khattar
+5	gurnam singh charuni	centre
+5	gurnam singh charuni	bku
+5	gurnam singh charuni	assembly
+5	hyderabad	modi
+5	hyderabad	singh
+5	hyderabad	union
+5	nda	mukarba chowk & gtk
+5	delhi police	mukarba chowk & gtk
+5	centre	rajasthan
+5	farmers	rajasthan
+5	singh	rajasthan
+5	nda	rajasthan
+5	rahul gandhi	bjp
+5	shambhu	tikri
+5	tikri border	shambhu
+5	lalru	tikri
+5	tikri border	lalru
+5	patiala-pehowa	tikri
+5	patiala-pehowa	tikri border
+5	tikri	patran-khanauri
+5	tikri border	patran-khanauri
+5	moonak	tikri
+5	moonak	tikri border
+5	tikri	ratia-fatehabad
+5	tikri border	ratia-fatehabad
+5	talwandi-sirsa	tikri
+5	tikri border	talwandi-sirsa
+5	centre	darshan pal
+5	singhu	darshan pal
+5	farmers	darshan pal
+5	singh	darshan pal
+5	singhu	rahul gandhi
+5	singhu	gandhi
+5	assembly	bill
+5	shambhu	union
+5	amarinder singh	bill
+5	telangana	bjp
+5	shambhu	haryana police
+5	bku	ambala
+4	msp	arvind kejriwal
+4	hindi	bjp
+4	bjp	bill
+4	modi	sad
+4	arvind kejriwal	sad
+4	centre	apmc
+4	farmers	apmc
+4	union	apmc
+4	tikri	bku
+4	burari	bku
+4	aap	modi
+4	aap	burari
+4	singhu border	bku
+4	bku	union home
+4	tikri border	bku
+4	singhu	dakaunda
+4	bku	dakaunda
+4	modi	dakaunda
+4	singhu border	dakaunda
+4	singhu	jagmohan singh
+4	modi	jagmohan singh
+4	singhu border	jagmohan singh
+4	jagmohan singh	dakaunda
+4	ghazipur	tikri
+4	singhu	indian
+4	tikri	indian
+4	delhi police	indian
+4	delhi police	arvind kejriwal
+4	singhu border	arvind kejriwal
+4	ghazipur	jantar mantar
+4	burari	jantar mantar
+4	ghazipur	tikri border
+4	tikri border	indian
+4	bku	msp
+4	congress	msp
+4	burari	msp
+4	amarinder singh	msp
+4	delhi police	amit shah
+4	singhu border	msp
+4	amit shah	delhi traffic police
+4	bjp	union home
+4	congress	union home
+4	delhi traffic police	union home
+4	assembly	tikri
+4	tikri border	assembly
+4	bjp	haryana police
+4	congress	haryana police
+4	modi	haryana police
+4	amarinder singh	haryana police
+4	singhu	khattar
+4	khattar	delhi police
+4	tikri	sad
+4	congress	sad
+4	amarinder singh	sad
+4	amit shah	sad
+4	sad	union home
+4	assembly	sad
+4	tikri border	sad
+4	khattar	sad
+4	nda	parliament
+4	union	delhi traffic police
+4	gurnam singh charuni	delhi police
+4	amarinder singh	gurnam singh charuni
+4	gurnam singh charuni	haryana police
+4	gurnam singh charuni	khattar
+4	hyderabad	singhu
+4	hyderabad	tikri
+4	hyderabad	amit shah
+4	hyderabad	union home
+4	hyderabad	tikri border
+4	gtk	union home
+4	gtk	union
+4	bihar	singh
+4	bihar	assembly
+4	bihar	nda
+4	modi	rajasthan
+4	centre	tomar
+4	singhu	tomar
+4	farmers	tomar
+4	tomar	singh
+4	rahul gandhi	union
+4	union	gandhi
+4	tikri	darshan pal
+4	delhi police	darshan pal
+4	burari	darshan pal
+4	darshan pal	union home
+4	tikri border	darshan pal
+4	krantikari kisan union	centre
+4	singhu	krantikari kisan union
+4	krantikari kisan union	farmers
+4	krantikari kisan union	burari
+4	krantikari kisan union	singh
+4	krantikari kisan union	darshan pal
+4	krantikari kisan union	union home
+4	union	darshan pal
+4	krantikari kisan union	union
+4	singhu border	rahul gandhi
+4	singhu border	gandhi
+4	singhu	hindi
+4	hindi	tikri
+4	hindi	singh
+4	singhu border	hindi
+4	singhu border	darshan pal
+4	tikri border	hindi
+4	nda	gandhi
+4	centre	bathinda
+4	modi	bathinda
+4	farmers	bathinda
+4	singh	bathinda
+4	nda	bathinda
+4	assembly	ambala
+4	khattar	ambala
+4	farmers	aikscc
+4	bjp	odisha
+4	telangana	odisha
+3	hindi	arvind kejriwal
+3	arvind kejriwal	bill
+3	sad	bill
+3	nda	hindi
+3	hindi	union
+3	msp	apmc
+3	modi	apmc
+3	nda	apmc
+3	amit shah	bku
+3	aap	union home
+3	tikri	dakaunda
+3	burari	dakaunda
+3	amit shah	dakaunda
+3	tikri border	dakaunda
+3	jagmohan singh	bku
+3	burari	jagmohan singh
+3	aap	union
+3	modi	ghazipur
+3	burari	indian
+3	burari	arvind kejriwal
+3	modi	jantar mantar
+3	jantar mantar	indian
+3	delhi police	msp
+3	amarinder singh	bjp
+3	amit shah	msp
+3	congress	amit shah
+3	singhu	parliament
+3	delhi police	parliament
+3	parliament	amit shah
+3	amarinder singh	arvind kejriwal
+3	amit shah	arvind kejriwal
+3	arvind kejriwal	union home
+3	assembly	arvind kejriwal
+3	singhu	haryana police
+3	msp	haryana police
+3	khattar	tikri
+3	khattar	amit shah
+3	khattar	arvind kejriwal
+3	khattar	union home
+3	khattar	tikri border
+3	bku	sad
+3	singhu border	sad
+3	nda	haryana police
+3	gurnam singh charuni	msp
+3	modi	gurnam singh charuni
+3	nda	gurnam singh charuni
+3	hyderabad	congress
+3	hyderabad	burari
+3	hyderabad	arvind kejriwal
+3	amit shah	gtk
+3	amit shah	mukarba chowk & gtk
+3	mukarba chowk & gtk	union home
+3	mukarba chowk & gtk	union
+3	ghazipur	amit shah
+3	amit shah	jantar mantar
+3	bihar	modi
+3	bihar	farmers
+3	singhu	bill
+3	burari	bill
+3	singhu border	bill
+3	singh	apmc
+3	bjp	rajasthan
+3	narendra singh	centre
+3	singhu	narendra singh
+3	modi	narendra singh
+3	farmers	narendra singh
+3	narendra singh	singh
+3	singhu border	narendra singh
+3	tomar	bjp
+3	modi	tomar
+3	singhu border	tomar
+3	tomar	union
+3	narendra singh	tomar
+3	shambhu	delhi traffic police
+3	aap	assembly
+3	lalru	delhi traffic police
+3	patiala-pehowa	delhi traffic police
+3	delhi traffic police	patran-khanauri
+3	moonak	delhi traffic police
+3	ratia-fatehabad	delhi traffic police
+3	talwandi-sirsa	delhi traffic police
+3	krantikari kisan union	tikri
+3	krantikari kisan union	delhi police
+3	krantikari kisan union	tikri border
+3	aap	indian
+3	delhi police	rahul gandhi
+3	burari	rahul gandhi
+3	aap	congress
+3	delhi police	gandhi
+3	burari	gandhi
+3	parliament	gandhi
+3	congress	rajasthan
+3	assembly	rajasthan
+3	amarinder singh	indian
+3	rahul gandhi	tikri
+3	amarinder singh	rahul gandhi
+3	congress	hindi
+3	hindi	rahul gandhi
+3	amarinder singh	darshan pal
+3	shambhu	bku
+3	congress	shambhu
+3	modi	shambhu
+3	amarinder singh	shambhu
+3	tikri	gandhi
+3	amarinder singh	gandhi
+3	hindi	gandhi
+3	assembly	indian
+3	tikri border	rahul gandhi
+3	tikri border	gandhi
+3	lalru	bku
+3	congress	lalru
+3	patiala-pehowa	bku
+3	patiala-pehowa	congress
+3	bku	patran-khanauri
+3	congress	patran-khanauri
+3	moonak	bku
+3	moonak	congress
+3	bku	ratia-fatehabad
+3	congress	ratia-fatehabad
+3	talwandi-sirsa	bku
+3	congress	talwandi-sirsa
+3	nda	rahul gandhi
+3	amarinder singh	krantikari kisan union
+3	singhu border	krantikari kisan union
+3	lalru	union
+3	patiala-pehowa	union
+3	union	patran-khanauri
+3	moonak	union
+3	ratia-fatehabad	union
+3	talwandi-sirsa	union
+3	amarinder singh	bathinda
+3	bathinda	bill
+3	centre	telangana
+3	nda	telangana
+3	hyderabad	telangana
+3	parliament	indian
+3	gurnam singh charuni	ambala
+3	modi	tikait
+3	farmers	tikait
+3	nda	tikait
+3	tikait	union
+3	congress	jantar mantar
+3	singhu	aikscc
+3	aikscc	singh
+3	singhu border	aikscc
+3	aikscc	bjp
+3	congress	aikscc
+3	aikscc	indian
+3	bjp	ambala
+3	congress	ambala
+3	modi	ambala
+3	congress	telangana
+3	congress	odisha
+3	delhi police	ambala
+3	shambhu	ambala
+3	lalru	haryana police
+3	patiala-pehowa	haryana police
+3	haryana police	patran-khanauri
+3	moonak	haryana police
+3	haryana police	ratia-fatehabad
+3	talwandi-sirsa	haryana police
+2	hindi	msp
+2	msp	bill
+2	hindi	bill
+2	hindi	sad
+2	bjp	apmc
+2	bill	apmc
+2	sad	apmc
+2	aap	bku
+2	aap	amit shah
+2	yogendra yadav	centre
+2	singhu	yogendra yadav
+2	yogendra yadav	bku
+2	yogendra yadav	farmers
+2	yogendra yadav	singh
+2	union home	dakaunda
+2	jagmohan singh	tikri
+2	jagmohan singh	amit shah
+2	tikri border	jagmohan singh
+2	yogendra yadav	union
+2	singhu border	indian
+2	delhi police	dakaunda
+2	tikri	msp
+2	parliament	tikri
+2	parliament	burari
+2	bku	arvind kejriwal
+2	singhu border	parliament
+2	msp	union home
+2	parliament	union home
+2	assembly	burari
+2	assembly	delhi traffic police
+2	assembly	union home
+2	tikri border	msp
+2	tikri border	parliament
+2	parliament	haryana police
+2	arvind kejriwal	haryana police
+2	singhu border	haryana police
+2	khattar	burari
+2	khattar	parliament
+2	singhu border	khattar
+2	delhi police	sad
+2	haryana police	sad
+2	singhu	gurnam singh charuni
+2	gurnam singh charuni	bjp
+2	gurnam singh charuni	congress
+2	gurnam singh charuni	burari
+2	singhu border	gurnam singh charuni
+2	gurnam singh charuni	union home
+2	gurnam singh charuni	sad
+2	hyderabad	msp
+2	hyderabad	parliament
+2	hyderabad	assembly
+2	hyderabad	khattar
+2	hyderabad	sad
+2	ghazipur	delhi traffic police
+2	ghazipur	union home
+2	jantar mantar	delhi traffic police
+2	jantar mantar	union home
+2	ghazipur	gtk
+2	jantar mantar	gtk
+2	ghazipur	mukarba chowk & gtk
+2	jantar mantar	mukarba chowk & gtk
+2	bihar	centre
+2	nda	ambala
+2	jagmohan singh	msp
+2	singhu	apmc
+2	singhu border	apmc
+2	jagmohan singh	apmc
+2	bjp	dakaunda
+2	jagmohan singh	bjp
+2	union	rajasthan
+2	rajasthan	apmc
+2	narendra singh	bjp
+2	nda	narendra singh
+2	narendra singh	union
+2	tomar	msp
+2	nda	tomar
+2	aap	shambhu
+2	aap	gtk
+2	shambhu	gtk
+2	assembly	gtk
+2	aap	lalru
+2	lalru	gtk
+2	patiala-pehowa	aap
+2	patiala-pehowa	gtk
+2	aap	patran-khanauri
+2	gtk	patran-khanauri
+2	moonak	aap
+2	moonak	gtk
+2	aap	ratia-fatehabad
+2	gtk	ratia-fatehabad
+2	aap	talwandi-sirsa
+2	talwandi-sirsa	gtk
+2	centre	muzaffarnagar
+2	muzaffarnagar	bku
+2	farmers	muzaffarnagar
+2	muzaffarnagar	singh
+2	muzaffarnagar	union
+2	parliament	rahul gandhi
+2	aap	bjp
+2	aap	rahul gandhi
+2	aap	gandhi
+2	narendra singh	burari
+2	congress	tomar
+2	delhi police	tomar
+2	burari	tomar
+2	tomar	rahul gandhi
+2	tomar	gandhi
+2	aap	arvind kejriwal
+2	delhi police	bill
+2	delhi police	rajasthan
+2	bill	rajasthan
+2	bku	indian
+2	rahul gandhi	bku
+2	burari	hindi
+2	amarinder singh	hindi
+2	shambhu	rahul gandhi
+2	rahul gandhi	union home
+2	hindi	union home
+2	bku	gandhi
+2	gandhi	indian
+2	shambhu	gandhi
+2	gandhi	union home
+2	assembly	rahul gandhi
+2	assembly	gandhi
+2	modi	lalru
+2	amarinder singh	lalru
+2	lalru	rahul gandhi
+2	lalru	gandhi
+2	patiala-pehowa	modi
+2	patiala-pehowa	amarinder singh
+2	patiala-pehowa	rahul gandhi
+2	patiala-pehowa	gandhi
+2	modi	patran-khanauri
+2	amarinder singh	patran-khanauri
+2	rahul gandhi	patran-khanauri
+2	gandhi	patran-khanauri
+2	moonak	modi
+2	moonak	amarinder singh
+2	moonak	rahul gandhi
+2	moonak	gandhi
+2	modi	ratia-fatehabad
+2	amarinder singh	ratia-fatehabad
+2	rahul gandhi	ratia-fatehabad
+2	ratia-fatehabad	gandhi
+2	modi	talwandi-sirsa
+2	amarinder singh	talwandi-sirsa
+2	talwandi-sirsa	rahul gandhi
+2	talwandi-sirsa	gandhi
+2	nda	darshan pal
+2	nda	shambhu
+2	nda	lalru
+2	patiala-pehowa	nda
+2	nda	patran-khanauri
+2	moonak	nda
+2	nda	ratia-fatehabad
+2	nda	talwandi-sirsa
+2	nda	krantikari kisan union
+2	congress	bathinda
+2	assembly	bathinda
+2	parliament	bill
+2	modi	telangana
+2	assembly	telangana
+2	bjp	british
+2	singh	british
+2	amit shah	british
+2	bihar	bjp
+2	amit shah	gandhi
+2	nda	british
+2	congress	dmk
+2	modi	dmk
+2	farmers	dmk
+2	singhu	ambala
+2	msp	ambala
+2	tikait	centre
+2	singhu	tikait
+2	ghazipur	tikait
+2	tikait	burari
+2	tikait	singh
+2	singhu border	tikait
+2	amarinder singh	jantar mantar
+2	amarinder singh	ambala
+2	khattar	indian
+2	sad	indian
+2	bihar	congress
+2	bihar	rajasthan
+2	burari	aikscc
+2	nda	aikscc
+2	ghazipur	aikscc
+2	farmers	andhra pradesh
+2	union	andhra pradesh
+2	haryana police	dakaunda
+2	rahul gandhi	msp
+2	rahul gandhi	arvind kejriwal
+2	msp	gandhi
+2	arvind kejriwal	gandhi
+2	khattar	rahul gandhi
+2	khattar	gandhi
+2	bjp	jantar mantar
+2	parliament	aikscc
+2	aikscc	jantar mantar
+2	kisan morcha	centre
+2	kisan morcha	delhi police
+2	kisan morcha	farmers
+2	kisan morcha	singh
+2	morcha	centre
+2	morcha	delhi police
+2	morcha	farmers
+2	morcha	kisan morcha
+2	morcha	singh
+2	kisan morcha	union
+2	morcha	union
+2	farmers	telangana
+2	telangana	singh
+2	farmers	odisha
+2	singh	odisha
+2	nda	odisha
+2	hyderabad	odisha
+2	telangana	union
+2	centre	odisha
+2	union	odisha
+2	shambhu	bjp
+2	lalru	bjp
+2	lalru	ambala
+2	patiala-pehowa	bjp
+2	patiala-pehowa	ambala
+2	bjp	patran-khanauri
+2	ambala	patran-khanauri
+2	moonak	bjp
+2	moonak	ambala
+2	bjp	ratia-fatehabad
+2	ambala	ratia-fatehabad
+2	talwandi-sirsa	bjp
+2	talwandi-sirsa	ambala
+2	khattar	shambhu
+2	khattar	lalru
+2	patiala-pehowa	khattar
+2	khattar	patran-khanauri
+2	moonak	khattar
+2	khattar	ratia-fatehabad
+2	khattar	talwandi-sirsa
+1	arvind kejriwal	apmc
+1	hindi	apmc
+1	yogendra yadav	tikri
+1	modi	yogendra yadav
+1	yogendra yadav	burari
+1	yogendra yadav	amit shah
+1	aap	yogendra yadav
+1	singhu border	yogendra yadav
+1	yogendra yadav	union home
+1	yogendra yadav	tikri border
+1	aap	dakaunda
+1	yogendra yadav	dakaunda
+1	aap	jagmohan singh
+1	jagmohan singh	union home
+1	yogendra yadav	jagmohan singh
+1	nda	yogendra yadav
+1	ghazipur	indian
+1	ghazipur	arvind kejriwal
+1	arvind kejriwal	indian
+1	arvind kejriwal	jantar mantar
+1	ghazipur	dakaunda
+1	indian	dakaunda
+1	arvind kejriwal	dakaunda
+1	jantar mantar	dakaunda
+1	ghazipur	jagmohan singh
+1	delhi police	jagmohan singh
+1	jagmohan singh	indian
+1	jagmohan singh	arvind kejriwal
+1	jagmohan singh	jantar mantar
+1	parliament	bku
+1	parliament	msp
+1	amarinder singh	parliament
+1	parliament	arvind kejriwal
+1	bjp	delhi traffic police
+1	bku	delhi traffic police
+1	msp	delhi traffic police
+1	congress	delhi traffic police
+1	modi	delhi traffic police
+1	amarinder singh	delhi traffic police
+1	parliament	delhi traffic police
+1	arvind kejriwal	delhi traffic police
+1	assembly	amit shah
+1	assembly	parliament
+1	tikri	haryana police
+1	burari	haryana police
+1	amit shah	haryana police
+1	haryana police	delhi traffic police
+1	haryana police	union home
+1	tikri border	haryana police
+1	khattar	delhi traffic police
+1	parliament	sad
+1	sad	delhi traffic police
+1	gurnam singh charuni	tikri
+1	gurnam singh charuni	amit shah
+1	gurnam singh charuni	parliament
+1	gurnam singh charuni	arvind kejriwal
+1	gurnam singh charuni	delhi traffic police
+1	gurnam singh charuni	tikri border
+1	hyderabad	bku
+1	hyderabad	delhi police
+1	hyderabad	amarinder singh
+1	singhu border	hyderabad
+1	hyderabad	delhi traffic police
+1	hyderabad	haryana police
+1	hyderabad	gurnam singh charuni
+1	bihar	bku
+1	bihar	msp
+1	bihar	delhi police
+1	bihar	amarinder singh
+1	bihar	khattar
+1	bihar	union
+1	bihar	gurnam singh charuni
+1	jagmohan singh	bill
+1	jagmohan singh	sad
+1	burari	apmc
+1	msp	dakaunda
+1	singhu	rajasthan
+1	msp	rajasthan
+1	amit shah	rajasthan
+1	singhu border	rajasthan
+1	dakaunda	rajasthan
+1	jagmohan singh	rajasthan
+1	amit shah	apmc
+1	dakaunda	apmc
+1	narendra singh	msp
+1	narendra singh	amit shah
+1	narendra singh	dakaunda
+1	narendra singh	jagmohan singh
+1	narendra singh	rajasthan
+1	narendra singh	apmc
+1	tomar	amit shah
+1	tomar	dakaunda
+1	tomar	jagmohan singh
+1	tomar	rajasthan
+1	tomar	apmc
+1	aap	delhi traffic police
+1	aap	mukarba chowk & gtk
+1	shambhu	mukarba chowk & gtk
+1	assembly	mukarba chowk & gtk
+1	lalru	mukarba chowk & gtk
+1	patiala-pehowa	mukarba chowk & gtk
+1	mukarba chowk & gtk	patran-khanauri
+1	moonak	mukarba chowk & gtk
+1	ratia-fatehabad	mukarba chowk & gtk
+1	talwandi-sirsa	mukarba chowk & gtk
+1	muzaffarnagar	sad
+1	aap	parliament
+1	congress	narendra singh
+1	delhi police	narendra singh
+1	narendra singh	rahul gandhi
+1	narendra singh	parliament
+1	aap	narendra singh
+1	narendra singh	gandhi
+1	parliament	tomar
+1	aap	tomar
+1	aap	bill
+1	aap	sad
+1	aap	rajasthan
+1	arvind kejriwal	rajasthan
+1	sad	rajasthan
+1	rahul gandhi	indian
+1	aap	amarinder singh
+1	hindi	bku
+1	delhi police	hindi
+1	hindi	indian
+1	aap	hindi
+1	bku	darshan pal
+1	congress	darshan pal
+1	modi	darshan pal
+1	indian	darshan pal
+1	rahul gandhi	darshan pal
+1	aap	darshan pal
+1	hindi	darshan pal
+1	shambhu	burari
+1	shambhu	indian
+1	shambhu	hindi
+1	shambhu	darshan pal
+1	indian	union home
+1	shambhu	union home
+1	gandhi	darshan pal
+1	assembly	hindi
+1	assembly	darshan pal
+1	bku	gtk
+1	congress	gtk
+1	modi	gtk
+1	gtk	indian
+1	amarinder singh	gtk
+1	rahul gandhi	gtk
+1	hindi	gtk
+1	gtk	darshan pal
+1	gtk	gandhi
+1	lalru	burari
+1	lalru	indian
+1	lalru	hindi
+1	lalru	darshan pal
+1	lalru	union home
+1	patiala-pehowa	burari
+1	patiala-pehowa	indian
+1	patiala-pehowa	hindi
+1	patiala-pehowa	darshan pal
+1	patiala-pehowa	union home
+1	burari	patran-khanauri
+1	indian	patran-khanauri
+1	hindi	patran-khanauri
+1	darshan pal	patran-khanauri
+1	union home	patran-khanauri
+1	moonak	burari
+1	moonak	indian
+1	moonak	hindi
+1	moonak	darshan pal
+1	moonak	union home
+1	burari	ratia-fatehabad
+1	ratia-fatehabad	indian
+1	hindi	ratia-fatehabad
+1	ratia-fatehabad	darshan pal
+1	ratia-fatehabad	union home
+1	burari	talwandi-sirsa
+1	talwandi-sirsa	indian
+1	hindi	talwandi-sirsa
+1	talwandi-sirsa	darshan pal
+1	talwandi-sirsa	union home
+1	krantikari kisan union	bku
+1	krantikari kisan union	congress
+1	modi	krantikari kisan union
+1	krantikari kisan union	indian
+1	krantikari kisan union	rahul gandhi
+1	aap	krantikari kisan union
+1	krantikari kisan union	hindi
+1	krantikari kisan union	shambhu
+1	krantikari kisan union	gandhi
+1	krantikari kisan union	assembly
+1	krantikari kisan union	gtk
+1	krantikari kisan union	lalru
+1	patiala-pehowa	krantikari kisan union
+1	krantikari kisan union	patran-khanauri
+1	moonak	krantikari kisan union
+1	krantikari kisan union	ratia-fatehabad
+1	krantikari kisan union	talwandi-sirsa
+1	singhu	muzaffarnagar
+1	muzaffarnagar	tikri
+1	congress	muzaffarnagar
+1	delhi police	muzaffarnagar
+1	modi	muzaffarnagar
+1	burari	muzaffarnagar
+1	muzaffarnagar	indian
+1	amarinder singh	muzaffarnagar
+1	muzaffarnagar	rahul gandhi
+1	aap	muzaffarnagar
+1	hindi	muzaffarnagar
+1	singhu border	muzaffarnagar
+1	muzaffarnagar	darshan pal
+1	shambhu	muzaffarnagar
+1	muzaffarnagar	union home
+1	muzaffarnagar	gandhi
+1	assembly	muzaffarnagar
+1	tikri border	muzaffarnagar
+1	muzaffarnagar	gtk
+1	lalru	muzaffarnagar
+1	patiala-pehowa	muzaffarnagar
+1	muzaffarnagar	patran-khanauri
+1	moonak	muzaffarnagar
+1	muzaffarnagar	ratia-fatehabad
+1	talwandi-sirsa	muzaffarnagar
+1	nda	muzaffarnagar
+1	krantikari kisan union	muzaffarnagar
+1	bjp	bathinda
+1	bku	bathinda
+1	jagmohan singh	bathinda
+1	union	bathinda
+1	amit shah	indian
+1	modi	british
+1	british	indian
+1	parliament	british
+1	bihar	indian
+1	bihar	amit shah
+1	bihar	parliament
+1	bihar	british
+1	british	gandhi
+1	bihar	gandhi
+1	dmk	centre
+1	dmk	burari
+1	darshan pal	bill
+1	union home	bill
+1	krantikari kisan union	bill
+1	gurnam singh charuni	darshan pal
+1	gurnam singh charuni	bill
+1	gurnam singh charuni	krantikari kisan union
+1	singhu border	ambala
+1	burari	rajasthan
+1	tikait	tikri
+1	delhi police	tikait
+1	amarinder singh	ghazipur
+1	amarinder singh	tikait
+1	tikait	amit shah
+1	tikait	jantar mantar
+1	tikri border	tikait
+1	hindi	jantar mantar
+1	ambala	indian
+1	haryana police	indian
+1	ambala	sad
+1	gurnam singh charuni	indian
+1	bihar	bill
+1	assembly	jantar mantar
+1	jantar mantar	bill
+1	indian	bathinda
+1	indian	bill
+1	rahul gandhi	bill
+1	gandhi	bill
+1	amit shah	darshan pal
+1	aikscc	tikri
+1	amarinder singh	aikscc
+1	aikscc	amit shah
+1	aikscc	darshan pal
+1	aikscc	union home
+1	tikri border	aikscc
+1	krantikari kisan union	amit shah
+1	krantikari kisan union	aikscc
+1	centre	british
+1	singhu	british
+1	tikri	british
+1	farmers	british
+1	burari	british
+1	british	union home
+1	tikri border	british
+1	british	sad
+1	british	union
+1	hyderabad	british
+1	modi	aikscc
+1	tikait	aikscc
+1	ghazipur	narendra singh
+1	narendra singh	tikait
+1	narendra singh	aikscc
+1	ghazipur	tomar
+1	tikait	tomar
+1	tomar	aikscc
+1	tikait	indian
+1	modi	andhra pradesh
+1	tikait	andhra pradesh
+1	indian	andhra pradesh
+1	nda	andhra pradesh
+1	jagmohan singh	haryana police
+1	aap	hyderabad
+1	rahul gandhi	amit shah
+1	hindi	amit shah
+1	khattar	hindi
+1	rahul gandhi	sad
+1	sad	gandhi
+1	parliament	jantar mantar
+1	kisan morcha	singhu
+1	kisan morcha	ghazipur
+1	singhu border	kisan morcha
+1	morcha	singhu
+1	morcha	ghazipur
+1	morcha	singhu border
+1	delhi police	aikscc
+1	kisan morcha	aikscc
+1	morcha	aikscc
+1	msp	indian
+1	telangana	arvind kejriwal
+1	dmk	bjp
+1	dmk	singh
+1	dmk	arvind kejriwal
+1	dmk	telangana
+1	nda	dmk
+1	modi	odisha
+1	arvind kejriwal	odisha
+1	dmk	odisha
+1	hyderabad	dmk
+1	centre	bharat bandh
+1	bjp	bharat bandh
+1	congress	bharat bandh
+1	farmers	bharat bandh
+1	bharat bandh	indian
+1	parliament	bharat bandh
+1	aikscc	bharat bandh
+1	bharat bandh	union
+1	kisan morcha	modi
+1	kisan morcha	parliament
+1	kisan morcha	ambala
+1	parliament	ambala
+1	kisan morcha	shambhu
+1	shambhu	parliament
+1	kisan morcha	haryana police
+1	morcha	modi
+1	morcha	parliament
+1	morcha	ambala
+1	morcha	shambhu
+1	morcha	haryana police
+1	kisan morcha	rajasthan
+1	parliament	rajasthan
+1	ambala	rajasthan
+1	shambhu	rajasthan
+1	haryana police	rajasthan
+1	morcha	rajasthan
+1	delhi police	apmc
+1	kisan morcha	apmc
+1	parliament	apmc
+1	ambala	apmc
+1	shambhu	apmc
+1	haryana police	apmc
+1	morcha	apmc
+1	telangana	indian
+1	telangana	jantar mantar
+1	aikscc	telangana
+1	odisha	indian
+1	jantar mantar	odisha
+1	aikscc	odisha
+1	centre	andhra pradesh
+1	bjp	andhra pradesh
+1	telangana	andhra pradesh
+1	odisha	andhra pradesh
+1	hyderabad	andhra pradesh
+1	congress	dakaunda
+1	ambala	dakaunda
+1	shambhu	dakaunda
+1	assembly	dakaunda
+1	lalru	dakaunda
+1	patiala-pehowa	dakaunda
+1	dakaunda	patran-khanauri
+1	moonak	dakaunda
+1	ratia-fatehabad	dakaunda
+1	talwandi-sirsa	dakaunda
+1	khattar	dakaunda
+1	gurnam singh charuni	shambhu
+1	gurnam singh charuni	dakaunda
+1	gurnam singh charuni	lalru
+1	patiala-pehowa	gurnam singh charuni
+1	gurnam singh charuni	patran-khanauri
+1	moonak	gurnam singh charuni
+1	gurnam singh charuni	ratia-fatehabad
+1	gurnam singh charuni	talwandi-sirsa
+1	rahul gandhi	ambala
+1	arvind kejriwal	ambala
+1	shambhu	msp
+1	shambhu	arvind kejriwal
+1	ambala	gandhi
+1	yogendra yadav	bjp
+1	yogendra yadav	msp
+1	yogendra yadav	congress
+1	yogendra yadav	delhi police
+1	amarinder singh	yogendra yadav
+1	yogendra yadav	rahul gandhi
+1	yogendra yadav	arvind kejriwal
+1	yogendra yadav	ambala
+1	yogendra yadav	shambhu
+1	yogendra yadav	gandhi
+1	yogendra yadav	assembly
+1	rahul gandhi	haryana police
+1	haryana police	gandhi
+1	yogendra yadav	haryana police
+1	lalru	msp
+1	lalru	arvind kejriwal
+1	yogendra yadav	lalru
+1	patiala-pehowa	msp
+1	patiala-pehowa	arvind kejriwal
+1	patiala-pehowa	yogendra yadav
+1	msp	patran-khanauri
+1	arvind kejriwal	patran-khanauri
+1	yogendra yadav	patran-khanauri
+1	moonak	msp
+1	moonak	arvind kejriwal
+1	moonak	yogendra yadav
+1	msp	ratia-fatehabad
+1	arvind kejriwal	ratia-fatehabad
+1	yogendra yadav	ratia-fatehabad
+1	talwandi-sirsa	msp
+1	talwandi-sirsa	arvind kejriwal
+1	yogendra yadav	talwandi-sirsa
+1	yogendra yadav	khattar
+1	tomar	bku
+1	amarinder singh	tomar
+1	tomar	arvind kejriwal
+1	tomar	ambala
+1	shambhu	tomar
+1	yogendra yadav	tomar
+1	assembly	tomar
+1	tomar	haryana police
+1	lalru	tomar
+1	patiala-pehowa	tomar
+1	tomar	patran-khanauri
+1	moonak	tomar
+1	tomar	ratia-fatehabad
+1	talwandi-sirsa	tomar
+1	khattar	tomar
+1	bihar	telangana
+1	gujarat	bjp
+1	congress	gujarat
+1	gujarat	singh
+1	bihar	gujarat
+1	assembly	gujarat
+1	gujarat	telangana
+1	nda	gujarat
+1	telangana	rajasthan
+1	gujarat	rajasthan
+1	bihar	odisha
+1	assembly	odisha
+1	gujarat	odisha
+1	odisha	rajasthan

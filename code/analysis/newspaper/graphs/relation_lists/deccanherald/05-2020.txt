@@ -1,0 +1,138 @@
+3	farmers	apmc
+3	up	congress
+3	up	farmers
+3	up	apmc
+3	up	sp
+2	up	delhi police
+2	delhi police	ghaziabad
+2	up	ghaziabad
+2	congress	sp
+2	tikri	sp
+2	delhi police	sp
+2	ghaziabad	sp
+2	singhu	singh
+2	up	singhu
+2	up	singh
+2	singhu	sp
+2	singh	sp
+1	congress	bjp
+1	farmers	bjp
+1	farmers	congress
+1	bjp	opposition
+1	congress	opposition
+1	farmers	opposition
+1	bjp	apmc
+1	congress	apmc
+1	opposition	apmc
+1	assembly	bjp
+1	assembly	congress
+1	assembly	farmers
+1	assembly	opposition
+1	assembly	apmc
+1	agriculture	bjp
+1	agriculture	congress
+1	agriculture	farmers
+1	agriculture	opposition
+1	agriculture	apmc
+1	agriculture	assembly
+1	up	bjp
+1	up	opposition
+1	up	assembly
+1	up	agriculture
+1	madhya pradesh	bjp
+1	congress	madhya pradesh
+1	farmers	madhya pradesh
+1	madhya pradesh	opposition
+1	madhya pradesh	apmc
+1	assembly	madhya pradesh
+1	agriculture	madhya pradesh
+1	up	madhya pradesh
+1	bjp	union
+1	congress	union
+1	farmers	union
+1	union	opposition
+1	union	apmc
+1	assembly	union
+1	agriculture	union
+1	up	union
+1	madhya pradesh	union
+1	gujarat	bjp
+1	congress	gujarat
+1	farmers	gujarat
+1	gujarat	opposition
+1	gujarat	apmc
+1	assembly	gujarat
+1	agriculture	gujarat
+1	up	gujarat
+1	madhya pradesh	gujarat
+1	gujarat	union
+1	congress	tikri
+1	ghazipur	congress
+1	ghazipur	tikri
+1	delhi police	congress
+1	delhi police	tikri
+1	ghazipur	delhi police
+1	nda	congress
+1	nda	tikri
+1	nda	ghazipur
+1	nda	delhi police
+1	congress	house
+1	tikri	house
+1	ghazipur	house
+1	delhi police	house
+1	nda	house
+1	bihar	congress
+1	bihar	tikri
+1	bihar	ghazipur
+1	bihar	delhi police
+1	bihar	nda
+1	bihar	house
+1	up	tikri
+1	up	ghazipur
+1	up	nda
+1	up	house
+1	bihar	up
+1	congress	ghaziabad
+1	tikri	ghaziabad
+1	ghazipur	ghaziabad
+1	nda	ghaziabad
+1	ghaziabad	house
+1	bihar	ghaziabad
+1	ghazipur	sp
+1	nda	sp
+1	house	sp
+1	bihar	sp
+1	modi	house
+1	modi	kisan sabha
+1	kisan sabha	house
+1	singhu	delhi police
+1	delhi police	singh
+1	singhu	noida
+1	delhi police	noida
+1	noida	singh
+1	up	noida
+1	singhu	delhi traffic police
+1	delhi police	delhi traffic police
+1	singh	delhi traffic police
+1	up	delhi traffic police
+1	noida	delhi traffic police
+1	singhu	ghaziabad
+1	singh	ghaziabad
+1	noida	ghaziabad
+1	ghaziabad	delhi traffic police
+1	noida	sp
+1	delhi traffic police	sp
+1	tikri	singh
+1	congress	centre
+1	singhu	congress
+1	singhu	centre
+1	congress	singh
+1	centre	singh
+1	congress	indian
+1	centre	indian
+1	singhu	indian
+1	singh	indian
+1	up	centre
+1	up	indian
+1	centre	sp
+1	indian	sp

@@ -1,0 +1,804 @@
+53	farmers	state
+40	farmers	centre
+35	farmers	singh
+34	state	centre
+32	nda	state
+31	state	central
+30	farmers	nda
+29	farmers	central
+26	singh	state
+25	bjp	farmers
+25	bjp	state
+24	nda	centre
+23	farmers	bills
+23	farmers	congress
+21	bills	state
+20	centre	central
+19	bjp	nda
+18	singh	centre
+18	singh	nda
+18	farmers	modi
+18	congress	state
+16	bjp	congress
+16	nda	central
+16	congress	centre
+15	singh	singhu
+15	centre’s	centre
+15	centre’s	farmers
+14	delhi police	singh
+14	delhi police	farmers
+14	bjp	centre
+14	modi	state
+13	congress	nda
+13	farmers	all india
+13	states	state
+13	congress	central
+12	farmers	singhu
+12	centre’s	state
+12	centre’s	singh
+12	bharat	state
+12	bjp	bills
+12	modi	central
+12	singh	central
+12	congress	bills
+12	farmers	states
+12	bills	central
+11	modi	nda
+11	tikri	singh
+11	modi	centre
+11	bjp	central
+10	burari	singh
+10	parliament	farmers
+10	burari	farmers
+10	farmers	bharat
+10	msp	farmers
+10	tikri	farmers
+10	state	all india
+10	kisan sabha	farmers
+9	delhi police	state
+9	bharat	centre
+9	bjp	modi
+9	modi	congress
+9	centre	all india
+9	state	assembly
+9	mla	central
+9	mla	farmers
+9	bills	centre
+9	cm	state
+8	state	singhu
+8	centre	singhu
+8	delhi police	centre
+8	delhi police	singhu
+8	burari	singhu
+8	nda	singhu
+8	bjp	singh
+8	mla	state
+8	states	singh
+8	farmers	cm
+8	kisan sabha	state
+8	yogendra yadav	state
+8	swaraj india	state
+8	yogendra yadav	swaraj india
+8	farmers	yogendra yadav
+8	farmers	swaraj india
+7	parliament	state
+7	burari	centre
+7	delhi police	burari
+7	singh	jantar mantar
+7	farmers	jantar mantar
+7	centre’s	nda
+7	bjp	msp
+7	msp	nda
+7	tikri	centre
+7	bjp	assembly
+7	delhi police	tikri
+7	farmers	assembly
+7	centre’s	central
+7	msp	state
+7	kisan sabha	all india
+7	bharat	central
+7	yogendra yadav	states
+7	states	swaraj india
+7	rashtriya kisan mahasangh	state
+7	farmers	rashtriya kisan mahasangh
+7	morcha	state
+7	morcha	singh
+7	morcha	farmers
+7	centre	citu
+7	indian	state
+7	bjp	states
+7	singh	bills
+6	parliament	nda
+6	burari	nda
+6	state	jantar mantar
+6	bharat	nda
+6	farmers	amit shah
+6	parliament	bills
+6	modi	bills
+6	bills	nda
+6	tikri	state
+6	tikri	singhu
+6	burari	tikri
+6	tikri	nda
+6	farmers	rajya sabha
+6	mla	singh
+6	states	centre
+6	singh	congress
+6	cm	nda
+6	cm	central
+6	bharat	all india
+6	aiks	all india
+6	bharat	bills
+6	singh	kisan morcha
+6	yogendra yadav	singh
+6	singh	swaraj india
+6	farmers	kisan morcha
+6	states	rashtriya kisan mahasangh
+6	singh	rashtriya kisan mahasangh
+6	yogendra yadav	rashtriya kisan mahasangh
+6	rashtriya kisan mahasangh	swaraj india
+6	morcha	kisan morcha
+6	morcha	rashtriya kisan mahasangh
+6	states	bills
+6	bku	farmers
+6	cm	singh
+6	state	amarinder singh
+6	singh	amarinder singh
+6	farmers	amarinder singh
+6	bku	state
+5	burari	state
+5	centre’s	singhu
+5	centre’s	delhi police
+5	state	amit shah
+5	singh	amit shah
+5	nda	amit shah
+5	parliament	modi
+5	parliament	congress
+5	msp	modi
+5	nda	all india
+5	bills	assembly
+5	farmers	aap
+5	rajya sabha	state
+5	rajya sabha	centre
+5	singh	rajya sabha
+5	mla	bjp
+5	mla	modi
+5	msp	centre
+5	assembly	central
+5	kisan sabha	bjp
+5	bjp	bharat
+5	kisan sabha	aiks
+5	farmers	aiks
+5	telangana	bjp
+5	telangana	farmers
+5	kisan morcha	state
+5	delhi police	kisan morcha
+5	rashtriya kisan mahasangh	kisan morcha
+5	morcha	states
+5	morcha	yogendra yadav
+5	delhi police	morcha
+5	morcha	swaraj india
+5	kisan sabha	states
+5	kisan sabha	singh
+5	kisan sabha	yogendra yadav
+5	kisan sabha	swaraj india
+5	parliament	central
+5	indian	centre
+5	indian	bills
+5	farmers	citu
+5	state	citu
+5	cm	amarinder singh
+5	central	amarinder singh
+5	indian	nda
+5	telangana	nda
+5	indira gandhi	state
+5	indira gandhi	congress
+5	farmers	indira gandhi
+4	delhi police	nda
+4	delhi police	jantar mantar
+4	centre’s	burari
+4	singh	bharat
+4	delhi police	bharat
+4	centre’s	bharat
+4	centre	amit shah
+4	bjp	parliament
+4	msp	congress
+4	nda	assembly
+4	state	andhra pradesh
+4	aap	state
+4	singh	aap
+4	mla	centre
+4	mla	nda
+4	congress	assembly
+4	centre’s	rajya sabha
+4	centre’s	congress
+4	modi	assembly
+4	cm	centre
+4	cm	congress
+4	cm	assembly
+4	central	all india
+4	congress	bharat
+4	aiks	centre
+4	bjp	dmk
+4	states	kisan morcha
+4	yogendra yadav	kisan morcha
+4	kisan morcha	swaraj india
+4	states	all india
+4	delhi police	rashtriya kisan mahasangh
+4	states	bharat
+4	yogendra yadav	bharat
+4	bharat	swaraj india
+4	bharat	rashtriya kisan mahasangh
+4	morcha	bharat
+4	kisan sabha	rashtriya kisan mahasangh
+4	kisan sabha	morcha
+4	indian	central
+4	indian	farmers
+4	mla	congress
+4	bills	citu
+4	indian	citu
+4	central	citu
+4	bjp	morcha
+4	morcha	bills
+4	centre	amarinder singh
+4	nda	amarinder singh
+4	centre’s	amarinder singh
+4	msp	states
+4	cm	bills
+4	telangana	centre
+4	bku	singh
+4	indira gandhi	central
+4	telangana	state
+4	bjp	yogendra yadav
+4	bjp	swaraj india
+4	bjp	jantar mantar
+4	states	jantar mantar
+4	kisan sabha	jantar mantar
+4	yogendra yadav	jantar mantar
+4	swaraj india	jantar mantar
+3	parliament	centre
+3	bharat	singhu
+3	parliament	bharat
+3	singhu	amit shah
+3	parliament	amit shah
+3	burari	amit shah
+3	msp	parliament
+3	singhu	all india
+3	singh	all india
+3	bills	andhra pradesh
+3	modi	singh
+3	modi	aap
+3	aap	central
+3	nda	rajya sabha
+3	rajya sabha	central
+3	mla	aap
+3	central	amit shah
+3	centre	assembly
+3	aap	assembly
+3	aap	bills
+3	states	singhu
+3	states	nda
+3	states	central
+3	centre’s	tikri
+3	centre’s	states
+3	bjp	cm
+3	cm	modi
+3	msp	cm
+3	msp	central
+3	state assembly	state
+3	state assembly	assembly
+3	state assembly	modi
+3	state assembly	cm
+3	state assembly	central
+3	state assembly	farmers
+3	bills	all india
+3	kisan sabha	centre
+3	bjp	all india
+3	congress	all india
+3	kisan sabha	bharat
+3	modi	bharat
+3	centre	andhra pradesh
+3	congress	andhra pradesh
+3	farmers	andhra pradesh
+3	aiks	state
+3	aiks	nda
+3	congress	rajya sabha
+3	dmk	state
+3	aiadmk	state
+3	bjp	aiadmk
+3	aiadmk	dmk
+3	dmk	central
+3	farmers	dmk
+3	kisan morcha	centre
+3	state	skm
+3	kisan morcha	skm
+3	kisan morcha	singhu
+3	singhu	skm
+3	singh	skm
+3	delhi police	states
+3	delhi police	skm
+3	delhi police	yogendra yadav
+3	delhi police	swaraj india
+3	farmers	skm
+3	yogendra yadav	all india
+3	delhi police	all india
+3	swaraj india	all india
+3	rashtriya kisan mahasangh	centre
+3	rashtriya kisan mahasangh	skm
+3	rashtriya kisan mahasangh	singhu
+3	rashtriya kisan mahasangh	all india
+3	centre’s	all india
+3	bharat	kisan morcha
+3	fatehabad	singh
+3	delhi police	fatehabad
+3	fatehabad	farmers
+3	morcha	centre
+3	morcha	skm
+3	morcha	singhu
+3	kisan sabha	kisan morcha
+3	delhi police	kisan sabha
+3	indian	congress
+3	indian	bharat
+3	mla	bills
+3	bharat	citu
+3	bku	nda
+3	dharmendra malik	bku
+3	tikait	farmers
+3	dharmendra malik	farmers
+3	tikait	muzaffarnagar
+3	farmers	muzaffarnagar
+3	centre’s	cm
+3	bjp	indira gandhi
+3	indira gandhi	bills
+3	singh	assembly
+3	indian	singh
+3	bjp	bku
+3	bku	states
+3	kisan sabha	bku
+3	bku	bills
+3	kisan sabha	bills
+3	bku	yogendra yadav
+3	yogendra yadav	bills
+3	bku	swaraj india
+3	bills	swaraj india
+3	bku	jantar mantar
+3	bills	jantar mantar
+3	bjp	rashtriya kisan mahasangh
+3	bku	rashtriya kisan mahasangh
+3	rashtriya kisan mahasangh	bills
+3	rashtriya kisan mahasangh	jantar mantar
+3	bku	morcha
+3	morcha	jantar mantar
+2	parliament	singh
+2	centre	jantar mantar
+2	singhu	jantar mantar
+2	burari	jantar mantar
+2	nda	jantar mantar
+2	centre’s	jantar mantar
+2	bharat	jantar mantar
+2	delhi police	amit shah
+2	centre’s	amit shah
+2	bjp	amit shah
+2	congress	amit shah
+2	modi	amit shah
+2	rajasthan	farmers
+2	bjp	andhra pradesh
+2	nda	andhra pradesh
+2	bjp	aap
+2	aap	centre
+2	aap	nda
+2	modi	rajya sabha
+2	mla	rajya sabha
+2	rajya sabha	amit shah
+2	tikri	central
+2	singhu	central
+2	burari	central
+2	tikri	rajya sabha
+2	states	rajya sabha
+2	tikri	amit shah
+2	msp	assembly
+2	kisan sabha	modi
+2	kisan sabha	central
+2	modi	all india
+2	mla	all india
+2	bengaluru	state
+2	karnataka rajya raitha sangha	state
+2	karnataka rajya raitha sangha	bengaluru
+2	kisan sabha	msp
+2	kisan sabha	nda
+2	parliament	all india
+2	msp	all india
+2	bjp	aiks
+2	msp	aiks
+2	aiks	bharat
+2	telangana	congress
+2	telangana	bills
+2	bills	rajya sabha
+2	dmk	assembly
+2	aiadmk	assembly
+2	aiadmk	central
+2	b.s. yediyurappa	state
+2	dmk	centre
+2	dmk	congress
+2	modi	dmk
+2	dmk	nda
+2	modi	aiadmk
+2	aiadmk	nda
+2	farmers	aiadmk
+2	centre	skm
+2	states	skm
+2	yogendra yadav	centre
+2	yogendra yadav	skm
+2	yogendra yadav	singhu
+2	swaraj india	centre
+2	swaraj india	skm
+2	swaraj india	singhu
+2	kisan morcha	all india
+2	skm	all india
+2	centre’s	kisan morcha
+2	centre’s	yogendra yadav
+2	centre’s	swaraj india
+2	centre’s	rashtriya kisan mahasangh
+2	bharat	skm
+2	fatehabad	state
+2	fatehabad	kisan morcha
+2	fatehabad	states
+2	fatehabad	skm
+2	fatehabad	singhu
+2	fatehabad	yogendra yadav
+2	fatehabad	swaraj india
+2	fatehabad	all india
+2	fatehabad	rashtriya kisan mahasangh
+2	fatehabad	bharat
+2	morcha	all india
+2	centre’s	morcha
+2	fatehabad	morcha
+2	state	inderjit singh
+2	states	inderjit singh
+2	kisan sabha	inderjit singh
+2	singh	inderjit singh
+2	yogendra yadav	inderjit singh
+2	swaraj india	inderjit singh
+2	farmers	inderjit singh
+2	coimbatore	state
+2	coimbatore	nda
+2	coimbatore	central
+2	indian	bjp
+2	indian	all india
+2	mla	dmk
+2	mla	indian
+2	mla	bharat
+2	bjp	citu
+2	congress	citu
+2	citu	all india
+2	mla	citu
+2	states	congress
+2	indian	states
+2	visakhapatnam steel plant	state
+2	visakhapatnam steel plant	centre
+2	visakhapatnam steel plant	central
+2	visakhapatnam steel plant	farmers
+2	nda	citu
+2	tikait	bku
+2	tikait	nda
+2	dharmendra malik	tikait
+2	bku	muzaffarnagar
+2	nda	muzaffarnagar
+2	dharmendra malik	muzaffarnagar
+2	farmers	dalit
+2	state	lok sabha
+2	bjp	lok sabha
+2	congress	lok sabha
+2	nda	lok sabha
+2	morcha	nda
+2	tikri	congress
+2	tikri	cm
+2	indian	cm
+2	states	assembly
+2	msp	bills
+2	cm	states
+2	centre	lok sabha
+2	tikri	kisan morcha
+2	burari	kisan morcha
+2	tikri	morcha
+2	burari	morcha
+2	delhi police	central
+2	dharmendra malik	state
+2	indira gandhi	singh
+2	indira gandhi	nda
+2	mla	indira gandhi
+2	central	andhra pradesh
+2	indira gandhi	centre
+2	indira gandhi	andhra pradesh
+2	states	modi
+2	telangana	states
+2	telangana	modi
+2	telangana	msp
+2	cm	aap
+2	state assembly	singh
+2	state assembly	bills
+2	state assembly	aap
+2	assembly	amarinder singh
+2	modi	amarinder singh
+2	bills	amarinder singh
+2	aap	amarinder singh
+2	state assembly	amarinder singh
+2	mla	assembly
+2	mla	cm
+2	mla	state assembly
+2	mla	amarinder singh
+2	cm	rajya sabha
+2	telangana	all india
+2	bjp	kisan morcha
+2	bku	kisan morcha
+2	bills	kisan morcha
+2	kisan morcha	jantar mantar
+1	parliament	singhu
+1	delhi police	parliament
+1	burari	parliament
+1	parliament	jantar mantar
+1	centre’s	parliament
+1	burari	bharat
+1	jantar mantar	amit shah
+1	bharat	amit shah
+1	msp	amit shah
+1	tikri	all india
+1	burari	all india
+1	rajasthan	parliament
+1	rajasthan	modi
+1	rajasthan	bills
+1	assembly	andhra pradesh
+1	centre	ghazipur
+1	tikri	ghazipur
+1	singhu	ghazipur
+1	singh	ghazipur
+1	delhi police	ghazipur
+1	burari	ghazipur
+1	nda	ghazipur
+1	farmers	ghazipur
+1	bjp	rajya sabha
+1	aap	rajya sabha
+1	aap	amit shah
+1	mla	amit shah
+1	congress	aap
+1	tikri	states
+1	burari	states
+1	rajya sabha	singhu
+1	burari	rajya sabha
+1	states	amit shah
+1	centre’s	bjp
+1	bjp	state assembly
+1	state assembly	centre
+1	state assembly	congress
+1	state assembly	msp
+1	state assembly	nda
+1	mla	kisan sabha
+1	bjp	bengaluru
+1	bengaluru	centre
+1	bengaluru	bills
+1	bjp	karnataka rajya raitha sangha
+1	karnataka rajya raitha sangha	centre
+1	karnataka rajya raitha sangha	bills
+1	bengaluru	farmers
+1	karnataka rajya raitha sangha	farmers
+1	kisan sabha	congress
+1	kisan sabha	parliament
+1	msp	bharat
+1	kisan sabha	andhra pradesh
+1	parliament	andhra pradesh
+1	modi	andhra pradesh
+1	msp	andhra pradesh
+1	andhra pradesh	all india
+1	bharat	andhra pradesh
+1	aiks	congress
+1	parliament	aiks
+1	modi	aiks
+1	aiks	andhra pradesh
+1	telangana	parliament
+1	centre’s	modi
+1	centre’s	bills
+1	bharat	rajya sabha
+1	bjp	b.s. yediyurappa
+1	b.s. yediyurappa	bills
+1	b.s. yediyurappa	central
+1	farmers	b.s. yediyurappa
+1	bjp’s	state
+1	bjp	bjp’s
+1	congress	bjp’s
+1	farmers	bjp’s
+1	aiadmk	centre
+1	aiadmk	congress
+1	centre’s	skm
+1	fatehabad	centre
+1	centre’s	fatehabad
+1	kisan sabha	skm
+1	kisan sabha	singhu
+1	kisan morcha	inderjit singh
+1	inderjit singh	skm
+1	singhu	inderjit singh
+1	delhi police	inderjit singh
+1	inderjit singh	all india
+1	rashtriya kisan mahasangh	inderjit singh
+1	bharat	inderjit singh
+1	kisan sabha	fatehabad
+1	fatehabad	inderjit singh
+1	morcha	inderjit singh
+1	coimbatore	parliament
+1	dmk	bills
+1	indian	dmk
+1	dmk	all india
+1	dmk	bharat
+1	dmk	citu
+1	states	citu
+1	visakhapatnam steel plant	bills
+1	visakhapatnam steel plant	nda
+1	visakhapatnam steel plant	bharat
+1	visakhapatnam steel plant	citu
+1	msp	bku
+1	msp	tikait
+1	dharmendra malik	msp
+1	dharmendra malik	nda
+1	msp	muzaffarnagar
+1	yogendra yadav	central
+1	swaraj india	central
+1	rashtriya kisan mahasangh	central
+1	holi	state
+1	holi	centre
+1	holi	states
+1	holi	yogendra yadav
+1	holi	swaraj india
+1	holi	central
+1	holi	farmers
+1	holi	all india
+1	holi	rashtriya kisan mahasangh
+1	holi	centre’s
+1	holi	bharat
+1	visakhapatnam steel plant	parliament
+1	visakhapatnam steel plant	modi
+1	congress	dalit
+1	bills	dalit
+1	telangana	dalit
+1	modi	lok sabha
+1	bills	lok sabha
+1	central	lok sabha
+1	bharat	lok sabha
+1	morcha	congress
+1	morcha	modi
+1	morcha	lok sabha
+1	morcha	central
+1	bjp	tikri
+1	indian	tikri
+1	parliament	states
+1	parliament	assembly
+1	parliament	cm
+1	telangana	lok sabha
+1	centre	dalit
+1	dalit	citu
+1	fatehabad	tikri
+1	aap	singhu
+1	delhi police	aap
+1	burari	aap
+1	tikait	state
+1	muzaffarnagar	state
+1	centre’s	kisan sabha
+1	delhi police	aiks
+1	aiks	central
+1	centre’s	aiks
+1	bills	amit shah
+1	bku	centre
+1	darshan pal	state
+1	darshan pal	centre
+1	bku	darshan pal
+1	singh	darshan pal
+1	darshan pal	nda
+1	bku	central
+1	darshan pal	central
+1	farmers	darshan pal
+1	singh	lok sabha
+1	farmers	lok sabha
+1	centre’s	lok sabha
+1	rajya sabha	lok sabha
+1	mla	lok sabha
+1	mla	centre’s
+1	shivamogga	state
+1	shivamogga	bengaluru
+1	shivamogga	lok sabha
+1	bengaluru	lok sabha
+1	karnataka rajya raitha sangha	shivamogga
+1	karnataka rajya raitha sangha	lok sabha
+1	shivamogga	b.s. yediyurappa
+1	bengaluru	b.s. yediyurappa
+1	b.s. yediyurappa	lok sabha
+1	karnataka rajya raitha sangha	b.s. yediyurappa
+1	mla	aiadmk
+1	bjp	coimbatore
+1	coimbatore	modi
+1	coimbatore	dmk
+1	coimbatore	aiadmk
+1	coimbatore	farmers
+1	mla	coimbatore
+1	tikri	skm
+1	burari	skm
+1	kisan morcha	nda
+1	nda	skm
+1	tikri	rashtriya kisan mahasangh
+1	burari	rashtriya kisan mahasangh
+1	rashtriya kisan mahasangh	nda
+1	kisan morcha	amit shah
+1	skm	amit shah
+1	rashtriya kisan mahasangh	amit shah
+1	morcha	amit shah
+1	tikait	singh
+1	delhi police	tikait
+1	burari	tikait
+1	tikait	jantar mantar
+1	singh	muzaffarnagar
+1	delhi police	muzaffarnagar
+1	burari	muzaffarnagar
+1	muzaffarnagar	jantar mantar
+1	congress	amarinder singh
+1	tikri	amarinder singh
+1	rajya sabha	amarinder singh
+1	telangana	bku
+1	bku	all india
+1	bharat bandh	state
+1	bjp	bharat bandh
+1	bharat bandh	centre
+1	bharat bandh	nda
+1	farmers	bharat bandh
+1	telangana	bharat bandh
+1	bharat bandh	all india
+1	bharat bandh	bharat
+1	telangana	bharat
+1	aiks	bharat bandh
+1	telangana	aiks
+1	kisan sabha	assembly
+1	yogendra yadav	assembly
+1	swaraj india	assembly
+1	rajasthan	state
+1	rajasthan	bjp
+1	rajasthan	states
+1	rajasthan	assembly
+1	rajasthan	kisan sabha
+1	rajasthan	singh
+1	rajasthan	yogendra yadav
+1	rajasthan	swaraj india
+1	assembly	jantar mantar
+1	rajasthan	jantar mantar
+1	bjp	inderjit singh
+1	assembly	inderjit singh
+1	rajasthan	inderjit singh
+1	inderjit singh	jantar mantar
+1	msp	citu
+1	indian	singhu
+1	indian	amarinder singh
+1	centre’s	indian
+1	msp	singh
+1	indian	msp
+1	msp	rajya sabha
+1	indian	rajya sabha
+1	delhi police	bjp
+1	delhi police	bku
+1	delhi police	bills
+1	bjp	dharmendra malik
+1	dharmendra malik	kisan morcha
+1	dharmendra malik	states
+1	kisan sabha	dharmendra malik
+1	dharmendra malik	singh
+1	dharmendra malik	bills
+1	dharmendra malik	yogendra yadav
+1	delhi police	dharmendra malik
+1	dharmendra malik	swaraj india
+1	dharmendra malik	jantar mantar
+1	dharmendra malik	rashtriya kisan mahasangh
+1	bku	bharat
+1	dharmendra malik	bharat
+1	dharmendra malik	morcha
+1	indian	parliament
+1	national democratic alliance	state
+1	national democratic alliance	parliament
+1	national democratic alliance	bills
+1	national democratic alliance	nda
+1	national democratic alliance	indian
+1	national democratic alliance	central
+1	national democratic alliance	bharat

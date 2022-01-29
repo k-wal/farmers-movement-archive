@@ -1,0 +1,1346 @@
+153	bills	bill
+131	farmers	bill
+126	farmers	bills
+107	farmers	state
+105	state	bill
+104	nda	bill
+100	bills	state
+99	bills	nda
+99	farmers	nda
+84	nda	state
+81	parliament	bills
+81	parliament	bill
+80	farmers	centre
+79	congress	bill
+77	congress	bills
+75	centre	bill
+75	parliament	farmers
+74	farmers	congress
+71	bills	centre
+69	opposition	bill
+68	state	centre
+67	bills	opposition
+66	bjp	bill
+65	bjp	farmers
+64	bjp	bills
+61	congress	state
+61	farmers	modi
+60	bjp	state
+59	parliament	nda
+59	nda	centre
+59	farmers	opposition
+57	congress	nda
+56	parliament	state
+56	modi	bill
+55	bjp	nda
+54	modi	bills
+52	nda	opposition
+52	union	farmers
+51	farmers	singh
+50	singh	bills
+50	singh	bill
+49	union	bills
+49	union	bill
+48	parliament	congress
+48	state	opposition
+45	congress	opposition
+45	union	state
+44	singh	state
+44	modi	state
+43	house	bill
+43	modi	nda
+43	bjp	centre
+42	house	bills
+41	parliament	opposition
+41	parliament	centre
+41	bjp	congress
+40	bjp	parliament
+39	singh	nda
+38	parliament	modi
+38	msp	farmers
+37	farmers	central
+37	congress	centre
+36	msp	bill
+35	farmers	house
+35	union	nda
+34	singh	congress
+34	union	centre
+33	modi	congress
+33	msp	bills
+32	central	bill
+32	bjp	singh
+32	singh	centre
+31	house	nda
+31	parliament	singh
+30	bills	central
+30	centre	opposition
+30	bjp	modi
+30	modi	centre
+30	modi	opposition
+30	bjp	union
+30	union	congress
+30	apmc	farmers
+30	farmers	bharat
+30	union	singh
+29	msp	modi
+29	bjp	opposition
+29	kumar	farmers
+29	bill	lok sabha
+28	bills	rajya sabha
+28	rajya sabha	bill
+28	parliament	house
+28	state	central
+28	centre	central
+28	nda	central
+28	bills	lok sabha
+28	farmers	lok sabha
+28	bharat	bills
+28	bharat	bill
+27	house	state
+27	msp	state
+27	msp	parliament
+27	msp	nda
+27	kumar	state
+27	kumar	bill
+27	apmc	state
+27	apmc	bill
+26	congress	house
+26	bharat	state
+25	house	opposition
+25	state	assembly
+25	covid-19	bills
+25	covid-19	bill
+25	apmc	bills
+25	bharat	nda
+24	nda	rajya sabha
+24	states	state
+24	covid-19	state
+24	covid-19	congress
+24	covid-19	farmers
+24	kumar	bills
+24	kumar	nda
+24	nda	lok sabha
+24	badal	bills
+24	badal	bill
+23	bills	assembly
+23	assembly	bill
+23	parliament	central
+23	state	lok sabha
+23	congress	lok sabha
+23	union	parliament
+23	union	modi
+23	farmers	all india
+23	farmers	badal
+22	house	centre
+22	bills	all india
+22	bill	all india
+21	rajya sabha	opposition
+21	singh	opposition
+21	covid-19	nda
+21	msp	congress
+21	farmers	assembly
+21	bjp	bharat
+20	congress	rajya sabha
+20	dmk	bill
+20	farmers	states
+20	bjp	central
+20	apmc	nda
+20	singh	amarinder singh
+20	amarinder	amarinder singh
+20	amarinder	singh
+19	parliament	rajya sabha
+19	states	bills
+19	states	bill
+19	dmk	bills
+19	state	all india
+19	msp	opposition
+19	bjp	house
+19	farmers	cabinet
+19	union	badal
+19	bjp	badal
+18	farmers	rajya sabha
+18	sad	bills
+18	sad	bill
+18	bjp	msp
+18	msp	centre
+18	opposition	lok sabha
+18	apmc	congress
+18	centre	all india
+18	bharat	centre
+18	cabinet	bill
+18	farmers	amarinder singh
+18	badal	nda
+18	amarinder	farmers
+18	union	central
+18	union	bharat
+17	rajya sabha	state
+17	singh	house
+17	nda	assembly
+17	covid-19	opposition
+17	congress	central
+17	bjp	assembly
+17	bjp	lok sabha
+17	parliament	lok sabha
+17	kumar	congress
+17	union	opposition
+17	apmc	modi
+17	singh	bharat
+17	bills	cabinet
+17	singh	badal
+17	badal	state
+17	state	amarinder singh
+17	centre	amarinder singh
+17	amarinder	state
+17	amarinder	centre
+16	parliament	states
+16	indian	bills
+16	indian	bill
+16	bihar	bill
+16	sad	nda
+16	kumar	centre
+16	modi	lok sabha
+16	apmc	centre
+16	kisan sabha	farmers
+16	farmers	sad
+16	modi	house
+16	modi	singh
+16	bills	amarinder singh
+16	amarinder singh	bill
+16	amarinder	bills
+16	amarinder	bill
+16	badal	centre
+15	house	rajya sabha
+15	states	nda
+15	farmers	dmk
+15	indian	farmers
+15	farmers (empowerment and protection) agreement on price assurance and farm services	bill
+15	farmers (empowerment and protection) agreement on price assurance and farm services	farmers
+15	bihar	bills
+15	kumar	parliament
+15	covid-19	centre
+15	union	msp
+15	apmc	opposition
+15	nda	cabinet
+15	bills	harsimrat kaur badal
+15	bill	harsimrat kaur badal
+15	badal	harsimrat kaur badal
+15	bjp	amarinder singh
+15	amarinder	bjp
+14	dmk	state
+14	farmers (empowerment and protection) agreement on price assurance and farm services	bills
+14	modi	rajya sabha
+14	states	modi
+14	farmers	bihar
+14	congress	assembly
+14	aiadmk	dmk
+14	kumar	bjp
+14	bjp	covid-19
+14	opposition	central
+14	centre	lok sabha
+14	congress	bharat
+14	modi	bharat
+14	modi	central
+14	nda	amarinder singh
+14	amarinder	nda
+14	bjp	sad
+13	dmk	congress
+13	parliament	dmk
+13	dmk	nda
+13	bihar	nda
+13	sad	state
+13	aiadmk	bill
+13	msp	lok sabha
+13	kisan sabha	state
+13	kisan sabha	centre
+13	apmc	msp
+13	farmers	aiks
+13	singh	lok sabha
+13	farmers	harsimrat kaur badal
+13	sad	badal
+13	union	harsimrat kaur badal
+13	parliament	badal
+13	parliament	amarinder singh
+13	amarinder	parliament
+13	apmc	union
+13	congress	badal
+13	state	cabinet
+12	indian	congress
+12	indian	nda
+12	parliament	farmers (empowerment and protection) agreement on price assurance and farm services
+12	farmers (empowerment and protection) agreement on price assurance and farm services	nda
+12	bihar	state
+12	parliament	all india
+12	aiadmk	state
+12	nda	all india
+12	centre	assembly
+12	rajya sabha	lok sabha
+12	kumar	opposition
+12	union	lok sabha
+12	bjp	apmc
+12	bharat	opposition
+12	kisan sabha	bills
+12	kisan sabha	bill
+12	msp	house
+12	kisan sabha	all india
+12	msp	central
+12	farmers (empowerment and protection) agreement on price assurance and farm services	modi
+12	badal	amarinder singh
+12	amarinder	badal
+12	singh	central
+12	centre	cabinet
+12	union	cabinet
+12	aiadmk	bills
+12	bjp	harsimrat kaur badal
+12	states	centre
+12	house	lok sabha
+11	states	congress
+11	states	opposition
+11	indian	state
+11	covid-19	modi
+11	parliament	assembly
+11	parliament	sad
+11	assembly	opposition
+11	communist party of india	state
+11	bjp	dmk
+11	farmers	aiadmk
+11	kumar	central
+11	apmc	parliament
+11	sad	centre
+11	aiks	bills
+11	aiks	bill
+11	aiks	all india
+11	singh	assembly
+11	parliament	bharat
+11	union	amarinder singh
+11	amarinder	union
+11	singh	sad
+11	union	sad
+11	bjp	cabinet
+11	apmc	singh
+11	union	all india
+10	dmk	opposition
+10	covid-19	parliament
+10	covid-19	rajya sabha
+10	parliament	bihar
+10	modi	bihar
+10	bihar	opposition
+10	house	assembly
+10	telangana	bills
+10	telangana	bill
+10	telangana	nda
+10	telangana	farmers
+10	union	assembly
+10	kumar	union
+10	national democratic alliance	bills
+10	national democratic alliance	bill
+10	national democratic alliance	farmers
+10	aiks	state
+10	modi	cabinet
+10	amarinder singh	central
+10	amarinder	central
+10	nda	harsimrat kaur badal
+10	badal	cabinet
+10	state	harsimrat kaur badal
+10	modi	badal
+10	bku	singh
+10	bku	farmers
+10	indian	centre
+10	union	house
+9	dmk	rajya sabha
+9	indian	opposition
+9	farmers (empowerment and protection) agreement on price assurance and farm services	state
+9	farmers (empowerment and protection) agreement on price assurance and farm services	opposition
+9	msp	states
+9	sad	congress
+9	bjp	rajya sabha
+9	dmk	centre
+9	bjp	aiadmk
+9	aiadmk	centre
+9	congress	all india
+9	telangana	state
+9	apmc	lok sabha
+9	modi	sad
+9	national democratic alliance	parliament
+9	modi	all india
+9	aiks	centre
+9	house	central
+9	house	bharat
+9	bharat	all india
+9	dmk	lok sabha
+9	parliament	cabinet
+9	state	edappadi k. palaniswami
+9	bills	edappadi k. palaniswami
+9	edappadi k. palaniswami	bill
+9	parliament	harsimrat kaur badal
+9	modi	harsimrat kaur badal
+9	congress	amarinder singh
+9	amarinder	congress
+9	union	bku
+9	msp	singh
+8	indian	parliament
+8	indian	singh
+8	farmers (empowerment and protection) agreement on price assurance and farm services	congress
+8	msp	bihar
+8	congress	bihar
+8	communist party of india	bills
+8	communist party of india	bill
+8	aiadmk	nda
+8	m.k. stalin	state
+8	m.k. stalin	bill
+8	dmk	m.k. stalin
+8	aiadmk	m.k. stalin
+8	farmers	m.k. stalin
+8	telangana	congress
+8	telangana	opposition
+8	kumar	msp
+8	kumar	modi
+8	kisan sabha	parliament
+8	kisan sabha	modi
+8	kisan sabha	nda
+8	national democratic alliance	state
+8	national democratic alliance	nda
+8	modi	aiks
+8	kisan sabha	aiks
+8	bharat bandh	bills
+8	bharat bandh	bill
+8	farmers	bharat bandh
+8	bharat	bharat bandh
+8	farmers (empowerment and protection) agreement on price assurance and farm services	lok sabha
+8	opposition	cabinet
+8	centre	harsimrat kaur badal
+8	cabinet	harsimrat kaur badal
+8	badal	opposition
+8	dmk	edappadi k. palaniswami
+8	aiadmk	edappadi k. palaniswami
+8	bjp	states
+8	national democratic alliance	bjp
+8	bku	state
+8	indian	union
+8	bills	aikscc
+8	aikscc	bill
+8	farmers	aikscc
+8	aikscc	all india
+8	aiks	aikscc
+8	farmers	edappadi k. palaniswami
+8	indian	modi
+8	communist party of india	congress
+8	communist party of india	farmers
+8	congress	harsimrat kaur badal
+8	singh	jagmohan singh
+8	nda	jagmohan singh
+8	farmers	jagmohan singh
+7	rajasthan	state
+7	rajasthan	farmers
+7	sad	opposition
+7	opposition	all india
+7	bihar	centre
+7	bjp	m.k. stalin
+7	telangana	parliament
+7	msp	rajya sabha
+7	kumar	assembly
+7	bharat	lok sabha
+7	apmc	house
+7	national democratic alliance	centre
+7	national democratic alliance	sad
+7	parliament	aiks
+7	aiks	nda
+7	apmc	central
+7	central	all india
+7	kumar	house
+7	kisan sabha	bharat
+7	bharat bandh	state
+7	singh	bharat bandh
+7	national democratic alliance	union
+7	sad	harsimrat kaur badal
+7	singh	harsimrat kaur badal
+7	singh	cabinet
+7	opposition	harsimrat kaur badal
+7	union	covid-19
+7	m.k. stalin	bills
+7	cm	farmers
+7	apmc	assembly
+7	bengaluru	state
+7	covid-19	house
+7	bku	bills
+7	bku	bill
+7	bku	nda
+7	bku	bharat
+7	msp	bharat
+7	parliament	aiadmk
+7	aiadmk	congress
+7	indian	bjp
+7	kisan sabha	union
+7	msp	badal
+7	bjp	jagmohan singh
+7	bills	jagmohan singh
+7	jagmohan singh	bill
+7	union	jagmohan singh
+7	bharat	central
+7	msp	farmers (empowerment and protection) agreement on price assurance and farm services
+7	union	aiks
+6	states	singh
+6	singh	rajya sabha
+6	aap	bills
+6	aap	bill
+6	aap	nda
+6	dmk	house
+6	indian	house
+6	farmers (empowerment and protection) agreement on price assurance and farm services	rajya sabha
+6	farmers (empowerment and protection) agreement on price assurance and farm services	house
+6	rajasthan	bills
+6	rajasthan	parliament
+6	rajasthan	bill
+6	parliament	communist party of india
+6	communist party of india	opposition
+6	bjp	all india
+6	communist party of india	all india
+6	marxist	state
+6	marxist	bills
+6	parliament	marxist
+6	marxist	bill
+6	communist party of india	marxist
+6	bjp	bihar
+6	bjp	farmers (empowerment and protection) agreement on price assurance and farm services
+6	farmers (empowerment and protection) agreement on price assurance and farm services	centre
+6	assembly	lok sabha
+6	kisan sabha	central
+6	aiks	central
+6	kisan sabha	bjp
+6	kisan sabha	congress
+6	bharat	assembly
+6	aiks	bharat
+6	bjp	bharat bandh
+6	modi	dmk
+6	covid-19	lok sabha
+6	covid-19	dmk
+6	congress	cabinet
+6	cabinet	lok sabha
+6	farmers (empowerment and protection) agreement on price assurance and farm services	cabinet
+6	badal	lok sabha
+6	national democratic alliance	singh
+6	national democratic alliance	badal
+6	badal	central
+6	cm	state
+6	cm	centre
+6	cm	bill
+6	bengaluru	bills
+6	bengaluru	bill
+6	bengaluru	farmers
+6	union	bihar
+6	assembly	amarinder singh
+6	covid-19	singh
+6	amarinder	assembly
+6	bku	centre
+6	karnataka rajya raitha sangha	state
+6	karnataka rajya raitha sangha	farmers
+6	communist party of india	centre
+6	congress	marxist
+6	cm	nda
+6	indian	msp
+6	central	cabinet
+6	msp	harsimrat kaur badal
+6	apmc	badal
+6	bjp	bku
+6	jagmohan singh	state
+6	jagmohan singh	centre
+6	bharat	jagmohan singh
+6	house	amarinder singh
+6	amarinder	house
+6	amarinder singh	cabinet
+6	amarinder	cabinet
+6	kumar	singh
+6	state	andhra pradesh
+6	farmers	andhra pradesh
+6	union	bharat bandh
+5	dmk	singh
+5	congress	aap
+5	farmers	aap
+5	farmers (empowerment and protection) agreement on price assurance and farm services	dmk
+5	rajasthan	nda
+5	sad	assembly
+5	sad	house
+5	bihar	house
+5	marxist	opposition
+5	m.k. stalin	centre
+5	m.k. stalin	nda
+5	telangana	centre
+5	covid-19	central
+5	rajya sabha	centre
+5	telangana	rajya sabha
+5	kumar	telangana
+5	telangana	states
+5	apmc	bharat
+5	national democratic alliance	modi
+5	national democratic alliance	opposition
+5	aiks	opposition
+5	aiks	house
+5	national democratic alliance	central
+5	rajasthan	bjp
+5	singh	all india
+5	bjp	aiks
+5	bharat bandh	nda
+5	bharat bandh	all india
+5	amarinder singh	lok sabha
+5	amarinder	lok sabha
+5	central	lok sabha
+5	sad	cabinet
+5	badal	assembly
+5	bjp	edappadi k. palaniswami
+5	m.k. stalin	edappadi k. palaniswami
+5	bjp	cm
+5	cm	bills
+5	states	central
+5	cm	central
+5	union	states
+5	bjp	bengaluru
+5	bengaluru	nda
+5	bengaluru	opposition
+5	bihar	cabinet
+5	apmc	amarinder singh
+5	amarinder	apmc
+5	apmc	states
+5	parliament	edappadi k. palaniswami
+5	centre	edappadi k. palaniswami
+5	nda	edappadi k. palaniswami
+5	parliament	m.k. stalin
+5	karnataka rajya raitha sangha	congress
+5	farmers	marxist
+5	kumar	covid-19
+5	sad	amarinder singh
+5	amarinder	sad
+5	covid-19	bharat
+5	apmc	bihar
+5	house	cabinet
+5	msp	cabinet
+5	house	badal
+5	bharat	amarinder singh
+5	amarinder	bharat
+5	jagmohan singh	central
+5	apmc	farmers (empowerment and protection) agreement on price assurance and farm services
+5	aikscc	state
+5	union	aikscc
+5	states	lok sabha
+4	states	dmk
+4	indian	states
+4	parliament	aap
+4	aap	rajya sabha
+4	aap	opposition
+4	states	house
+4	aap	house
+4	farmers (empowerment and protection) agreement on price assurance and farm services	states
+4	farmers (empowerment and protection) agreement on price assurance and farm services	singh
+4	rajasthan	modi
+4	sad	bihar
+4	bihar	rajya sabha
+4	telangana	bjp
+4	telangana	covid-19
+4	msp	assembly
+4	modi	assembly
+4	telangana	lok sabha
+4	kumar	lok sabha
+4	bharat	rajya sabha
+4	msp	sad
+4	kisan sabha	opposition
+4	apmc	sad
+4	kisan sabha	house
+4	house	all india
+4	delhi police	congress
+4	delhi police	msp
+4	delhi police	nda
+4	delhi police	farmers
+4	rajasthan	congress
+4	rajasthan	singh
+4	rajasthan	bharat
+4	parliament	bharat bandh
+4	bharat bandh	centre
+4	aiks	bharat bandh
+4	rajya sabha	cabinet
+4	national democratic alliance	amarinder singh
+4	amarinder	national democratic alliance
+4	telangana	house
+4	aiadmk	opposition
+4	covid-19	assembly
+4	covid-19	aiadmk
+4	covid-19	states
+4	parliament	cm
+4	cm	modi
+4	union	cm
+4	bengaluru	congress
+4	bihar	harsimrat kaur badal
+4	bihar	badal
+4	national democratic alliance	bihar
+4	indian	bharat
+4	karnataka rajya raitha sangha	nda
+4	parliament	aikscc
+4	aikscc	centre
+4	nda	aikscc
+4	muzaffarnagar	state
+4	singh	muzaffarnagar
+4	farmers	muzaffarnagar
+4	union	muzaffarnagar
+4	modi	aiadmk
+4	aiadmk	lok sabha
+4	dmk	central
+4	aiadmk	central
+4	congress	m.k. stalin
+4	kumar	all india
+4	central	edappadi k. palaniswami
+4	karnataka rajya raitha sangha	bills
+4	karnataka rajya raitha sangha	bill
+4	apmc	karnataka rajya raitha sangha
+4	karnataka rajya raitha sangha	union
+4	communist party of india	nda
+4	b.s. yediyurappa	state
+4	b.s. yediyurappa	nda
+4	union	communist party of india
+4	amarinder singh	harsimrat kaur badal
+4	amarinder	harsimrat kaur badal
+4	central	harsimrat kaur badal
+4	aiadmk	rajya sabha
+4	indian	covid-19
+4	bihar	central
+4	apmc	cabinet
+4	msp	dmk
+4	apmc	harsimrat kaur badal
+4	states	badal
+4	bku	congress
+4	bku	jagmohan singh
+4	assembly	central
+4	jagmohan singh	amarinder singh
+4	amarinder	jagmohan singh
+4	kumar	apmc
+4	union	farmers (empowerment and protection) agreement on price assurance and farm services
+4	centre	andhra pradesh
+4	modi	andhra pradesh
+4	sad	lok sabha
+4	bku	bharat bandh
+4	modi	aikscc
+4	covid-19	communist party of india
+4	kumar	cabinet
+4	singh	bihar
+3	states	rajya sabha
+3	singh	aap
+3	indian	farmers (empowerment and protection) agreement on price assurance and farm services
+3	rajasthan	msp
+3	rajya sabha	assembly
+3	sad	rajya sabha
+3	bjp	communist party of india
+3	communist party of india	rajya sabha
+3	marxist	rajya sabha
+3	marxist	all india
+3	farmers (empowerment and protection) agreement on price assurance and farm services	bihar
+3	telangana	assembly
+3	telangana	modi
+3	union	rajya sabha
+3	apmc	rajya sabha
+3	national democratic alliance	msp
+3	national democratic alliance	house
+3	msp	all india
+3	sad	central
+3	rajya sabha	central
+3	delhi police	bills
+3	delhi police	parliament
+3	delhi police	centre
+3	delhi police	bill
+3	delhi police	modi
+3	delhi police	house
+3	kisan sabha	singh
+3	rajasthan	centre
+3	rajasthan	assembly
+3	aiks	congress
+3	aiks	singh
+3	congress	bharat bandh
+3	modi	bharat bandh
+3	house	bharat bandh
+3	rajasthan	bharat bandh
+3	tikri	nda
+3	covid-19	farmers (empowerment and protection) agreement on price assurance and farm services
+3	dmk	cabinet
+3	covid-19	cabinet
+3	dmk	assembly
+3	opposition	edappadi k. palaniswami
+3	union	dmk
+3	union	aiadmk
+3	covid-19	msp
+3	national democratic alliance	congress
+3	cm	congress
+3	msp	cm
+3	cm	states
+3	covid-19	cm
+3	bengaluru	centre
+3	apmc	bengaluru
+3	apmc	covid-19
+3	covid-19	bengaluru
+3	national democratic alliance	harsimrat kaur badal
+3	national democratic alliance	cabinet
+3	bjp	aap
+3	aap	lok sabha
+3	bku	lok sabha
+3	kumar	bengaluru
+3	bjp	karnataka rajya raitha sangha
+3	kisan sabha	aikscc
+3	bku	modi
+3	bku	all india
+3	nda	muzaffarnagar
+3	msp	amarinder singh
+3	modi	amarinder singh
+3	rajasthan	amarinder singh
+3	amarinder	msp
+3	amarinder	modi
+3	amarinder	rajasthan
+3	rajasthan	central
+3	states	aiadmk
+3	modi	edappadi k. palaniswami
+3	states	m.k. stalin
+3	modi	m.k. stalin
+3	m.k. stalin	lok sabha
+3	m.k. stalin	central
+3	indian	apmc
+3	kumar	communist party of india
+3	marxist	nda
+3	b.s. yediyurappa	congress
+3	b.s. yediyurappa	opposition
+3	farmers	b.s. yediyurappa
+3	kumar	states
+3	bihar	lok sabha
+3	rajya sabha	edappadi k. palaniswami
+3	states	assembly
+3	states	harsimrat kaur badal
+3	states	cabinet
+3	cm	singh
+3	cm	house
+3	cm	badal
+3	bharat	badal
+3	assembly	cabinet
+3	cm	cabinet
+3	bharat	cabinet
+3	jagmohan singh	assembly
+3	house	jagmohan singh
+3	jagmohan singh	cabinet
+3	singh	china
+3	kumar	amarinder singh
+3	kumar	amarinder
+3	farmers (empowerment and protection) agreement on price assurance and farm services	central
+3	kumar	bharat
+3	parliament	jagmohan singh
+3	jagmohan singh	lok sabha
+3	kumar	jagmohan singh
+3	china	state
+3	kisan sabha	covid-19
+3	covid-19	bihar
+3	covid-19	aiks
+3	bihar	bharat
+3	bjp	andhra pradesh
+3	msp	aap
+3	lok sabha	harsimrat kaur badal
+3	house	harsimrat kaur badal
+3	farmers (empowerment and protection) agreement on price assurance and farm services	harsimrat kaur badal
+3	farmers (empowerment and protection) agreement on price assurance and farm services	badal
+3	bharat bandh	opposition
+3	bharat bandh	jagmohan singh
+3	bjp	aikscc
+3	aikscc	opposition
+3	bharat	aikscc
+3	bharat bandh	aikscc
+3	indian	harsimrat kaur badal
+3	indian	badal
+3	communist party of india	states
+3	house	marxist
+3	aikscc	central
+3	bills	andhra pradesh
+3	andhra pradesh	bill
+3	bjp	muzaffarnagar
+3	bills	muzaffarnagar
+3	muzaffarnagar	bill
+3	kumar	muzaffarnagar
+3	covid-19	all india
+3	kisan sabha	communist party of india
+3	communist party of india	central
+3	amarinder singh	opposition
+3	indian	bihar
+3	amarinder	opposition
+3	bku	parliament
+2	indian	rajya sabha
+2	aap	state
+2	dmk	aap
+2	farmers (empowerment and protection) agreement on price assurance and farm services	aap
+2	states	bihar
+2	rajasthan	states
+2	rajasthan	bihar
+2	bihar	assembly
+2	rajya sabha	all india
+2	bjp	marxist
+2	dmk	bihar
+2	aiadmk	bihar
+2	farmers (empowerment and protection) agreement on price assurance and farm services	aiadmk
+2	bihar	m.k. stalin
+2	telangana	msp
+2	kisan sabha	msp
+2	kisan sabha	sad
+2	kisan sabha	apmc
+2	national democratic alliance	kisan sabha
+2	national democratic alliance	apmc
+2	apmc	all india
+2	aiks	sad
+2	national democratic alliance	aiks
+2	delhi police	bjp
+2	delhi police	opposition
+2	kumar	delhi police
+2	kisan sabha	assembly
+2	assembly	all india
+2	rajasthan	all india
+2	rajasthan	aiks
+2	bharat bandh	assembly
+2	kisan sabha	bharat bandh
+2	aiadmk	assembly
+2	assembly	harsimrat kaur badal
+2	dmk	harsimrat kaur badal
+2	aiadmk	harsimrat kaur badal
+2	dmk	badal
+2	aiadmk	badal
+2	covid-19	edappadi k. palaniswami
+2	edappadi k. palaniswami	harsimrat kaur badal
+2	badal	edappadi k. palaniswami
+2	union	edappadi k. palaniswami
+2	m.k. stalin	assembly
+2	covid-19	m.k. stalin
+2	m.k. stalin	harsimrat kaur badal
+2	m.k. stalin	badal
+2	union	m.k. stalin
+2	national democratic alliance	states
+2	national democratic alliance	covid-19
+2	bengaluru	assembly
+2	bengaluru	house
+2	aap	centre
+2	kumar	karnataka rajya raitha sangha
+2	bku	msp
+2	tikait	state
+2	tikait	centre
+2	tikait	msp
+2	tikait	modi
+2	tikait	singh
+2	tikait	nda
+2	tikait	farmers
+2	delhi police	singh
+2	tikait	bharat
+2	union	tikait
+2	state	jantar mantar
+2	centre	jantar mantar
+2	nda	jantar mantar
+2	farmers	jantar mantar
+2	all india	jantar mantar
+2	dharmendra malik	state
+2	dharmendra malik	msp
+2	dharmendra malik	bku
+2	dharmendra malik	singh
+2	dharmendra malik	farmers
+2	dharmendra malik	union
+2	muzaffarnagar	centre
+2	msp	muzaffarnagar
+2	bku	muzaffarnagar
+2	bharat	muzaffarnagar
+2	dharmendra malik	muzaffarnagar
+2	states	edappadi k. palaniswami
+2	dmk	all india
+2	aiadmk	all india
+2	congress	edappadi k. palaniswami
+2	edappadi k. palaniswami	all india
+2	indian	kisan sabha
+2	karnataka rajya raitha sangha	centre
+2	indian	karnataka rajya raitha sangha
+2	communist party of india	modi
+2	indian	communist party of india
+2	kumar	indian
+2	marxist	centre
+2	modi	marxist
+2	kumar	marxist
+2	bjp	b.s. yediyurappa
+2	b.s. yediyurappa	centre
+2	modi	b.s. yediyurappa
+2	union	b.s. yediyurappa
+2	apmc	b.s. yediyurappa
+2	karnataka rajya raitha sangha	modi
+2	aiadmk	singh
+2	telangana	farmers (empowerment and protection) agreement on price assurance and farm services
+2	aiadmk	house
+2	house	edappadi k. palaniswami
+2	m.k. stalin	rajya sabha
+2	house	m.k. stalin
+2	msp	aiadmk
+2	cm	amarinder singh
+2	amarinder	cm
+2	china	bills
+2	congress	china
+2	parliament	china
+2	china	bill
+2	china	opposition
+2	farmers (empowerment and protection) agreement on price assurance and farm services	amarinder singh
+2	amarinder	farmers (empowerment and protection) agreement on price assurance and farm services
+2	kumar	farmers (empowerment and protection) agreement on price assurance and farm services
+2	farmers (empowerment and protection) agreement on price assurance and farm services	bharat
+2	modi	jagmohan singh
+2	state	singhu
+2	singh	singhu
+2	china	nda
+2	china	singhu
+2	covid-19	sad
+2	sad	bharat
+2	national democratic alliance	bharat
+2	kisan sabha	andhra pradesh
+2	covid-19	andhra pradesh
+2	house	andhra pradesh
+2	aiks	andhra pradesh
+2	central	andhra pradesh
+2	bharat	andhra pradesh
+2	union	andhra pradesh
+2	modi	aap
+2	farmers (empowerment and protection) agreement on price assurance and farm services	sad
+2	cm	harsimrat kaur badal
+2	bku	opposition
+2	bku	house
+2	lok sabha	all india
+2	bku	aiks
+2	aiks	lok sabha
+2	jagmohan singh	opposition
+2	jagmohan singh	all india
+2	aiks	jagmohan singh
+2	bharat bandh	lok sabha
+2	bku	aikscc
+2	aikscc	lok sabha
+2	singh	aikscc
+2	house	aikscc
+2	jagmohan singh	aikscc
+2	communist party of india	lok sabha
+2	communist party of india	house
+2	telangana	communist party of india
+2	marxist	lok sabha
+2	states	marxist
+2	telangana	marxist
+2	communist party of india	farmers (empowerment and protection) agreement on price assurance and farm services
+2	farmers (empowerment and protection) agreement on price assurance and farm services	marxist
+2	rajasthan	opposition
+2	marxist	central
+2	nda	andhra pradesh
+2	andhra pradesh	all india
+2	kumar	bku
+2	kumar	rajasthan
+2	rajasthan	cabinet
+2	rajasthan	union
+2	rajasthan	jagmohan singh
+2	parliament	muzaffarnagar
+2	muzaffarnagar	assembly
+2	muzaffarnagar	amarinder singh
+2	rajasthan	muzaffarnagar
+2	amarinder	muzaffarnagar
+2	muzaffarnagar	central
+2	muzaffarnagar	cabinet
+2	jagmohan singh	muzaffarnagar
+2	states	bharat
+2	national democratic alliance	assembly
+2	kumar	sad
+2	kumar	national democratic alliance
+2	indian	all india
+2	karnataka rajya raitha sangha	covid-19
+2	kumar	aiks
+2	kumar	aikscc
+2	communist party of india	aiks
+2	cm	opposition
+2	opposition	andhra pradesh
+2	aap	central
+2	states	sad
+1	indian	dmk
+1	states	aap
+1	indian	aap
+1	farmers (empowerment and protection) agreement on price assurance and farm services	m.k. stalin
+1	telangana	central
+1	kumar	rajya sabha
+1	telangana	union
+1	kisan sabha	rajya sabha
+1	national democratic alliance	rajya sabha
+1	sad	all india
+1	national democratic alliance	all india
+1	msp	aiks
+1	aiks	rajya sabha
+1	apmc	aiks
+1	delhi police	central
+1	rajasthan	kisan sabha
+1	rajasthan	house
+1	aiks	assembly
+1	tikri	state
+1	national democratic alliance	lok sabha
+1	covid-19	harsimrat kaur badal
+1	covid-19	badal
+1	assembly	edappadi k. palaniswami
+1	m.k. stalin	opposition
+1	national democratic alliance	cm
+1	aap	assembly
+1	aap	amarinder singh
+1	apmc	aap
+1	covid-19	amarinder singh
+1	covid-19	aap
+1	amarinder	aap
+1	amarinder	covid-19
+1	tikri	centre
+1	indian	tikri
+1	tikri	bharat
+1	union	tikri
+1	yogendra yadav	state
+1	bjp	yogendra yadav
+1	yogendra yadav	nda
+1	bengaluru	yogendra yadav
+1	yogendra yadav	farmers
+1	kumar	yogendra yadav
+1	karnataka rajya raitha sangha	bengaluru
+1	karnataka rajya raitha sangha	yogendra yadav
+1	tikait	bku
+1	state	ghazipur
+1	centre	ghazipur
+1	msp	ghazipur
+1	bku	ghazipur
+1	modi	ghazipur
+1	tikait	ghazipur
+1	singh	ghazipur
+1	nda	ghazipur
+1	farmers	ghazipur
+1	delhi police	state
+1	delhi police	bku
+1	delhi police	tikait
+1	delhi police	ghazipur
+1	tikait	all india
+1	ghazipur	all india
+1	delhi police	all india
+1	bharat	ghazipur
+1	delhi police	bharat
+1	union	ghazipur
+1	delhi police	union
+1	msp	jantar mantar
+1	bku	jantar mantar
+1	modi	jantar mantar
+1	tikait	jantar mantar
+1	singh	jantar mantar
+1	ghazipur	jantar mantar
+1	delhi police	jantar mantar
+1	bharat	jantar mantar
+1	union	jantar mantar
+1	dharmendra malik	centre
+1	dharmendra malik	modi
+1	dharmendra malik	tikait
+1	dharmendra malik	nda
+1	dharmendra malik	ghazipur
+1	delhi police	dharmendra malik
+1	dharmendra malik	all india
+1	dharmendra malik	bharat
+1	dharmendra malik	jantar mantar
+1	modi	muzaffarnagar
+1	tikait	muzaffarnagar
+1	muzaffarnagar	ghazipur
+1	delhi police	muzaffarnagar
+1	muzaffarnagar	all india
+1	muzaffarnagar	jantar mantar
+1	states	amarinder singh
+1	rajasthan	apmc
+1	amarinder	states
+1	union	bengaluru
+1	kumar	dmk
+1	kumar	aiadmk
+1	kumar	edappadi k. palaniswami
+1	kisan sabha	karnataka rajya raitha sangha
+1	karnataka rajya raitha sangha	singh
+1	karnataka rajya raitha sangha	opposition
+1	karnataka rajya raitha sangha	bharat
+1	shivamogga	state
+1	bjp	shivamogga
+1	shivamogga	congress
+1	shivamogga	centre
+1	shivamogga	modi
+1	shivamogga	nda
+1	shivamogga	opposition
+1	indian	shivamogga
+1	shivamogga	farmers
+1	shivamogga	communist party of india
+1	kumar	shivamogga
+1	indian	marxist
+1	shivamogga	marxist
+1	indian	b.s. yediyurappa
+1	shivamogga	b.s. yediyurappa
+1	communist party of india	b.s. yediyurappa
+1	kumar	b.s. yediyurappa
+1	b.s. yediyurappa	marxist
+1	union	shivamogga
+1	union	marxist
+1	swaraj india	state
+1	bjp	swaraj india
+1	congress	swaraj india
+1	swaraj india	centre
+1	modi	swaraj india
+1	nda	swaraj india
+1	swaraj india	opposition
+1	indian	swaraj india
+1	farmers	swaraj india
+1	shivamogga	swaraj india
+1	communist party of india	swaraj india
+1	kumar	swaraj india
+1	marxist	swaraj india
+1	b.s. yediyurappa	swaraj india
+1	union	swaraj india
+1	karnataka rajya raitha sangha	b.s. yediyurappa
+1	telangana	singh
+1	telangana	dmk
+1	telangana	aiadmk
+1	apmc	dmk
+1	apmc	aiadmk
+1	edappadi k. palaniswami	lok sabha
+1	apmc	edappadi k. palaniswami
+1	bihar	edappadi k. palaniswami
+1	aiadmk	cabinet
+1	edappadi k. palaniswami	cabinet
+1	apmc	m.k. stalin
+1	m.k. stalin	cabinet
+1	msp	edappadi k. palaniswami
+1	kumar	cm
+1	indian	assembly
+1	telangana	indian
+1	congress	jagmohan singh
+1	bengaluru	lok sabha
+1	cm	assembly
+1	cm	bharat
+1	badal	jagmohan singh
+1	cm	jagmohan singh
+1	china	rajya sabha
+1	dmk	china
+1	house	china
+1	bjp	tikait
+1	tikait	bills
+1	tikait	parliament
+1	tikait	bill
+1	tikait	lok sabha
+1	tikait	amarinder singh
+1	apmc	tikait
+1	tikait	house
+1	tikait	farmers (empowerment and protection) agreement on price assurance and farm services
+1	amarinder	tikait
+1	kumar	tikait
+1	tikait	central
+1	msp	jagmohan singh
+1	tikait	jagmohan singh
+1	apmc	jagmohan singh
+1	farmers (empowerment and protection) agreement on price assurance and farm services	jagmohan singh
+1	congress	singhu
+1	states	singhu
+1	nda	singhu
+1	covid-19	singhu
+1	cm	singhu
+1	singhu	central
+1	states	china
+1	covid-19	china
+1	cm	china
+1	china	central
+1	kisan sabha	bihar
+1	aiks	bihar
+1	sad	andhra pradesh
+1	bihar	andhra pradesh
+1	national democratic alliance	andhra pradesh
+1	sad	aap
+1	rajya sabha	harsimrat kaur badal
+1	aap	harsimrat kaur badal
+1	badal	rajya sabha
+1	aap	badal
+1	cm	lok sabha
+1	cm	sad
+1	cm	rajya sabha
+1	cm	aap
+1	cm	farmers (empowerment and protection) agreement on price assurance and farm services
+1	aap	cabinet
+1	union	aap
+1	indian	sad
+1	bengaluru	sad
+1	b.s. yediyurappa	bills
+1	b.s. yediyurappa	bill
+1	b.s. yediyurappa	sad
+1	bengaluru	b.s. yediyurappa
+1	covid-19	b.s. yediyurappa
+1	indian	singhu
+1	indian	china
+1	covid-19	marxist
+1	rajasthan	lok sabha
+1	rajasthan	rajya sabha
+1	kumar	m.k. stalin
+1	marxist	m.k. stalin
+1	congress	andhra pradesh
+1	assembly	andhra pradesh
+1	kisan sabha	jantar mantar
+1	andhra pradesh	jantar mantar
+1	covid-19	bku
+1	bharat bandh	amarinder singh
+1	amarinder	bharat bandh
+1	kumar	bharat bandh
+1	bharat bandh	central
+1	bharat bandh	cabinet
+1	bharat bandh	muzaffarnagar
+1	kumar	bihar
+1	kisan sabha	edappadi k. palaniswami
+1	aiks	edappadi k. palaniswami
+1	aikscc	edappadi k. palaniswami
+1	apmc	communist party of india
+1	karnataka rajya raitha sangha	communist party of india
+1	karnataka rajya raitha sangha	all india
+1	kumar	andhra pradesh
+1	aikscc	andhra pradesh
+1	kumar	kisan sabha
+1	communist party of india	aikscc
+1	indian	amarinder singh
+1	bihar	amarinder singh
+1	national democratic alliance	indian
+1	national democratic alliance	farmers (empowerment and protection) agreement on price assurance and farm services
+1	amarinder	indian
+1	amarinder	bihar
+1	indian	central
+1	bharat	harsimrat kaur badal
+1	indian	cabinet
+1	kisan sabha	bku
+1	congress	aikscc
+1	rajasthan	aikscc
+1	apmc	bku
+1	bjp	dharmendra malik
+1	dharmendra malik	bills
+1	dharmendra malik	congress
+1	dharmendra malik	parliament
+1	dharmendra malik	bill
+1	apmc	dharmendra malik
+1	kumar	dharmendra malik
+1	congress	muzaffarnagar
+1	apmc	muzaffarnagar
+1	bku	central
+1	telangana	cm
+1	states	andhra pradesh
+1	telangana	andhra pradesh
+1	cm	andhra pradesh
+1	telangana	cabinet
+1	andhra pradesh	cabinet
+1	msp	m.k. stalin
+1	aap	bharat
+1	kisan sabha	farmers (empowerment and protection) agreement on price assurance and farm services
+1	farmers (empowerment and protection) agreement on price assurance and farm services	all india
+1	kisan sabha	marxist
+1	msp	china
+1	modi	china
+1	apmc	china
+1	farmers	china
+1	bihar	china
+1	farmers (empowerment and protection) agreement on price assurance and farm services	china
+1	telangana	bharat
+1	delhi police	lok sabha
+1	delhi police	dmk
+1	delhi police	indian
+1	parliament	bengaluru
+1	bengaluru	states
+1	bengaluru	modi
+1	bengaluru	singh
+1	bengaluru	bharat
+1	communist party of india	dmk
+1	communist party of india	aiadmk
+1	karnataka rajya raitha sangha	rajya sabha
+1	communist party of india	bharat
+1	singh	edappadi k. palaniswami
+1	b.s. yediyurappa	assembly
+1	tikri	central

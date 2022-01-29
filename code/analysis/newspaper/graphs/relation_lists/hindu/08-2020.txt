@@ -1,0 +1,472 @@
+9	state	centre
+9	farmers	state
+9	farmers	centre
+6	states	state
+6	states	centre
+6	farmers	states
+6	nda	centre
+6	covid-19	state
+6	covid-19	centre
+6	covid-19	farmers
+6	union	centre
+5	modi	centre
+5	farmers	modi
+5	centre	all india
+5	nda	state
+5	farmers	nda
+5	state	central
+5	centre	central
+5	nda	central
+5	farmers	central
+5	union	state
+4	state	assembly
+4	modi	state
+4	states	modi
+4	modi	all india
+4	farmers	all india
+4	aiks	centre
+4	modi	aiks
+4	farmers	aiks
+4	aiks	all india
+4	modi	nda
+4	covid-19	nda
+4	covid-19	central
+4	msp	centre
+4	singh	centre
+4	covid-19	msp
+4	msp	farmers
+4	farmers	singh
+4	union	states
+4	union	farmers
+3	mla	covid-19
+3	congress	state
+3	congress	assembly
+3	kisan sabha	centre
+3	state	all india
+3	kisan sabha	all india
+3	states	all india
+3	aiks	state
+3	states	aiks
+3	states	nda
+3	covid-19	states
+3	covid-19	modi
+3	modi	central
+3	nda	all india
+3	aiks	nda
+3	aikscc	centre
+3	modi	aikscc
+3	nda	aikscc
+3	farmers	aikscc
+3	aikscc	all india
+3	aiks	aikscc
+3	msp	state
+3	singh	state
+3	msp	singh
+3	msp	nda
+3	singh	nda
+3	covid-19	singh
+3	farmers	assembly
+3	msp	central
+3	mla	state
+3	mla	centre
+3	mla	farmers
+3	apmc	farmers
+3	farmers	house
+3	apmc	state
+3	apmc	covid-19
+3	union	nda
+2	bjp	congress
+2	congress	opposition
+2	bjp	covid-19
+2	covid-19	congress
+2	covid-19	opposition
+2	covid-19	bengaluru
+2	kumar	bjp
+2	kumar	congress
+2	kumar	covid-19
+2	mla	bjp
+2	mla	congress
+2	mla	opposition
+2	mla	bengaluru
+2	bjp	state
+2	bjp	assembly
+2	kumar	state
+2	bharat	state
+2	congress	bharat
+2	bharat	assembly
+2	kisan sabha	state
+2	kisan sabha	states
+2	kisan sabha	modi
+2	kisan sabha	farmers
+2	kisan sabha	aiks
+2	telangana	state
+2	telangana	centre
+2	telangana	states
+2	telangana	farmers
+2	states	central
+2	covid-19	all india
+2	central	all india
+2	covid-19	aiks
+2	aiks	central
+2	aikscc	state
+2	states	aikscc
+2	covid-19	aikscc
+2	aikscc	central
+2	centre	assembly
+2	msp	assembly
+2	singh	assembly
+2	covid-19	assembly
+2	farmers	congress
+2	congress	central
+2	assembly	central
+2	singh	central
+2	mla	msp
+2	mla	assembly
+2	mla	singh
+2	mla	nda
+2	apmc	house
+2	msp	states
+2	msp	modi
+2	apmc	centre
+2	house	state
+2	house	centre
+2	msp	house
+2	states	house
+2	covid-19	house
+2	union	msp
+2	union	modi
+2	union	covid-19
+2	union	house
+2	union	central
+2	bjp	centre
+2	indian	centre
+2	indian	all india
+2	bjp	union
+2	kisan sabha	union
+2	union	all india
+2	bengaluru	state
+2	mla	states
+2	mla	union
+2	centre	bill
+2	msp	bill
+2	singh	bill
+2	covid-19	bill
+2	indian	singh
+2	indian	nda
+2	farmers	bill
+2	states	singh
+2	union	singh
+1	bjp	opposition
+1	bjp	bengaluru
+1	bengaluru	congress
+1	bengaluru	opposition
+1	kumar	opposition
+1	kumar	bengaluru
+1	mla	kumar
+1	kumar	assembly
+1	bjp	bharat
+1	kumar	bharat
+1	sad	state
+1	sad	centre
+1	kisan sabha	sad
+1	states	sad
+1	modi	sad
+1	farmers	sad
+1	sad	all india
+1	aiks	sad
+1	telangana	modi
+1	telangana	nda
+1	telangana	covid-19
+1	state	andhra pradesh
+1	centre	andhra pradesh
+1	states	andhra pradesh
+1	modi	andhra pradesh
+1	nda	andhra pradesh
+1	covid-19	andhra pradesh
+1	telangana	andhra pradesh
+1	farmers	andhra pradesh
+1	telangana	central
+1	andhra pradesh	central
+1	telangana	all india
+1	andhra pradesh	all india
+1	telangana	aiks
+1	aiks	andhra pradesh
+1	telangana	aikscc
+1	aikscc	andhra pradesh
+1	congress	centre
+1	msp	congress
+1	singh	congress
+1	congress	nda
+1	nda	assembly
+1	state	opposition
+1	centre	opposition
+1	msp	opposition
+1	assembly	opposition
+1	singh	opposition
+1	nda	opposition
+1	farmers	opposition
+1	opposition	central
+1	bharat	centre
+1	msp	bharat
+1	singh	bharat
+1	bharat	nda
+1	bharat	opposition
+1	covid-19	bharat
+1	farmers	bharat
+1	bharat	central
+1	manohar lal	state
+1	manohar lal	congress
+1	manohar lal	centre
+1	manohar lal	msp
+1	manohar lal	assembly
+1	manohar lal	singh
+1	manohar lal	nda
+1	manohar lal	opposition
+1	manohar lal	covid-19
+1	manohar lal	farmers
+1	manohar lal	central
+1	manohar lal	bharat
+1	mla	central
+1	mla	bharat
+1	mla	manohar lal
+1	parliament	state
+1	parliament	centre
+1	msp	parliament
+1	parliament	states
+1	parliament	modi
+1	parliament	nda
+1	apmc	parliament
+1	apmc	msp
+1	apmc	states
+1	apmc	modi
+1	apmc	nda
+1	covid-19	parliament
+1	parliament	house
+1	modi	house
+1	house	nda
+1	parliament	farmers
+1	parliament	central
+1	apmc	central
+1	house	central
+1	union	parliament
+1	apmc	union
+1	kisan sabha	bjp
+1	indian	bjp
+1	indian	kisan sabha
+1	bjp	communist party of india
+1	communist party of india	centre
+1	kisan sabha	communist party of india
+1	indian	communist party of india
+1	bjp	all india
+1	communist party of india	all india
+1	bjp	marxist
+1	marxist	centre
+1	kisan sabha	marxist
+1	indian	marxist
+1	communist party of india	marxist
+1	marxist	all india
+1	indian	union
+1	union	communist party of india
+1	union	marxist
+1	kisan sabha	nda
+1	bengaluru	centre
+1	kisan sabha	bengaluru
+1	bengaluru	states
+1	bengaluru	modi
+1	bengaluru	nda
+1	bengaluru	farmers
+1	state	harsimrat kaur badal
+1	centre	harsimrat kaur badal
+1	kisan sabha	harsimrat kaur badal
+1	states	harsimrat kaur badal
+1	modi	harsimrat kaur badal
+1	nda	harsimrat kaur badal
+1	bengaluru	harsimrat kaur badal
+1	farmers	harsimrat kaur badal
+1	rajasthan	state
+1	rajasthan	centre
+1	rajasthan	kisan sabha
+1	rajasthan	states
+1	rajasthan	modi
+1	rajasthan	nda
+1	rajasthan	bengaluru
+1	rajasthan	farmers
+1	rajasthan	harsimrat kaur badal
+1	badal	state
+1	badal	centre
+1	kisan sabha	badal
+1	states	badal
+1	modi	badal
+1	badal	nda
+1	bengaluru	badal
+1	farmers	badal
+1	badal	harsimrat kaur badal
+1	rajasthan	badal
+1	bengaluru	all india
+1	harsimrat kaur badal	all india
+1	rajasthan	all india
+1	badal	all india
+1	bengaluru	aiks
+1	aiks	harsimrat kaur badal
+1	rajasthan	aiks
+1	aiks	badal
+1	kisan sabha	aikscc
+1	bengaluru	aikscc
+1	aikscc	harsimrat kaur badal
+1	rajasthan	aikscc
+1	badal	aikscc
+1	union	bengaluru
+1	union	harsimrat kaur badal
+1	rajasthan	union
+1	union	badal
+1	union	aiks
+1	union	aikscc
+1	mla	kisan sabha
+1	mla	modi
+1	mla	harsimrat kaur badal
+1	mla	rajasthan
+1	mla	badal
+1	mla	all india
+1	mla	aiks
+1	mla	aikscc
+1	apmc	bengaluru
+1	bku	centre
+1	msp	bku
+1	bku	bill
+1	bku	modi
+1	modi	bill
+1	bku	singh
+1	modi	singh
+1	bku	nda
+1	nda	bill
+1	covid-19	bku
+1	indian	bku
+1	indian	msp
+1	indian	bill
+1	indian	modi
+1	indian	covid-19
+1	bku	farmers
+1	indian	farmers
+1	bku	central
+1	central	bill
+1	indian	central
+1	bku	all india
+1	msp	all india
+1	bill	all india
+1	singh	all india
+1	farmers (empowerment and protection) agreement on price assurance and farm services	centre
+1	bku	farmers (empowerment and protection) agreement on price assurance and farm services
+1	msp	farmers (empowerment and protection) agreement on price assurance and farm services
+1	farmers (empowerment and protection) agreement on price assurance and farm services	bill
+1	farmers (empowerment and protection) agreement on price assurance and farm services	modi
+1	farmers (empowerment and protection) agreement on price assurance and farm services	singh
+1	farmers (empowerment and protection) agreement on price assurance and farm services	nda
+1	covid-19	farmers (empowerment and protection) agreement on price assurance and farm services
+1	indian	farmers (empowerment and protection) agreement on price assurance and farm services
+1	farmers (empowerment and protection) agreement on price assurance and farm services	farmers
+1	farmers (empowerment and protection) agreement on price assurance and farm services	central
+1	farmers (empowerment and protection) agreement on price assurance and farm services	all india
+1	bku	aiks
+1	msp	aiks
+1	aiks	bill
+1	aiks	singh
+1	indian	aiks
+1	farmers (empowerment and protection) agreement on price assurance and farm services	aiks
+1	bku	aikscc
+1	msp	aikscc
+1	aikscc	bill
+1	singh	aikscc
+1	indian	aikscc
+1	farmers (empowerment and protection) agreement on price assurance and farm services	aikscc
+1	jagmohan singh	centre
+1	bku	jagmohan singh
+1	msp	jagmohan singh
+1	jagmohan singh	bill
+1	modi	jagmohan singh
+1	singh	jagmohan singh
+1	nda	jagmohan singh
+1	covid-19	jagmohan singh
+1	indian	jagmohan singh
+1	farmers	jagmohan singh
+1	jagmohan singh	central
+1	jagmohan singh	all india
+1	farmers (empowerment and protection) agreement on price assurance and farm services	jagmohan singh
+1	aiks	jagmohan singh
+1	jagmohan singh	aikscc
+1	singh	singhu
+1	nda	singhu
+1	indian	singhu
+1	kumar	singh
+1	kumar	singhu
+1	kumar	nda
+1	kumar	indian
+1	telangana	singh
+1	telangana	union
+1	bills	state
+1	bjp	bills
+1	bills	centre
+1	bjp	msp
+1	msp	bills
+1	bjp	states
+1	states	bills
+1	bills	assembly
+1	states	assembly
+1	state	bill
+1	bjp	bill
+1	bills	bill
+1	states	bill
+1	assembly	bill
+1	bjp	singh
+1	singh	bills
+1	state	amarinder singh
+1	bjp	amarinder singh
+1	bills	amarinder singh
+1	centre	amarinder singh
+1	msp	amarinder singh
+1	states	amarinder singh
+1	assembly	amarinder singh
+1	amarinder singh	bill
+1	singh	amarinder singh
+1	covid-19	bills
+1	covid-19	amarinder singh
+1	bjp	house
+1	house	bills
+1	house	assembly
+1	house	bill
+1	singh	house
+1	house	amarinder singh
+1	bjp	farmers
+1	farmers	bills
+1	farmers	amarinder singh
+1	amarinder	state
+1	amarinder	bjp
+1	amarinder	bills
+1	amarinder	centre
+1	amarinder	msp
+1	amarinder	states
+1	amarinder	assembly
+1	amarinder	bill
+1	amarinder	singh
+1	amarinder	amarinder singh
+1	amarinder	covid-19
+1	amarinder	house
+1	amarinder	farmers
+1	union	bills
+1	union	assembly
+1	union	bill
+1	union	amarinder singh
+1	amarinder	union
+1	mla	bills
+1	mla	bill
+1	mla	amarinder singh
+1	mla	house
+1	mla	amarinder
+1	kumar	centre
+1	kumar	apmc
+1	kumar	farmers
+1	b.s. yediyurappa	state
+1	b.s. yediyurappa	centre
+1	apmc	b.s. yediyurappa
+1	covid-19	b.s. yediyurappa
+1	farmers	b.s. yediyurappa
+1	kumar	b.s. yediyurappa

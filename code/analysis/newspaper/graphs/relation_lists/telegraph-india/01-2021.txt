@@ -1,0 +1,1594 @@
+117	farmers	us
+99	farmers	singh
+97	singh	us
+71	state	us
+70	state	farmers
+60	farmers	centre
+59	centre	us
+57	morcha	farmers
+57	state	singh
+56	morcha	us
+54	singhu	singh
+53	singhu	farmers
+52	singhu	us
+52	farmers	kisan morcha
+52	morcha	kisan morcha
+52	morcha	singh
+51	kisan morcha	us
+49	centre	singh
+47	modi	us
+47	kisan morcha	singh
+45	farmers	modi
+40	supreme court	farmers
+39	supreme court	us
+39	farmers	bjp
+38	morcha	state
+38	state	centre
+38	us	bjp
+37	modi	singh
+37	farmers	msp
+37	us	msp
+36	ghazipur	farmers
+36	tikri	us
+36	delhi police	farmers
+36	delhi police	us
+35	farmers	tikri
+35	tikri	singh
+35	ghazipur	us
+34	supreme court	singh
+34	singhu	tikri
+34	farmers	all india
+34	all india	us
+34	singh	bjp
+33	state	kisan morcha
+32	ghazipur	singh
+31	state	modi
+31	delhi police	singh
+31	supreme court	state
+31	tikait	farmers
+30	morcha	centre
+30	singh	msp
+30	tikait	us
+29	morcha	singhu
+29	state	bjp
+28	tomar	farmers
+28	tomar	singh
+28	tomar	us
+28	singhu	kisan morcha
+27	narendra singh	farmers
+27	narendra singh	tomar
+27	narendra singh	singh
+27	narendra singh	us
+27	centre	kisan morcha
+27	centre	msp
+27	singh	all india
+26	supreme court	centre
+26	red fort	farmers
+26	red fort	us
+26	tikait	singh
+25	singhu	centre
+25	singhu	ghazipur
+25	ghazipur	tikri
+25	state	all india
+24	outer ring road	farmers
+24	outer ring road	us
+24	parliament	us
+24	singhu	state
+24	state	msp
+23	parliament	farmers
+22	outer ring road	singh
+22	morcha	all india
+22	morcha	delhi police
+22	state	tomar
+22	red fort	singh
+21	morcha	modi
+21	singhu	delhi police
+21	delhi police	kisan morcha
+21	bku	farmers
+21	bku	us
+21	narendra singh	state
+20	modi	centre
+20	morcha	tikri
+20	parliament	singh
+20	kisan sabha	farmers
+20	kisan sabha	us
+20	morcha	supreme court
+20	modi	bjp
+19	supreme court	tomar
+19	supreme court	narendra singh
+19	tikri	kisan morcha
+19	centre	all india
+19	kisan sabha	all india
+19	supreme court	kisan morcha
+19	kisan morcha	all india
+19	bku	singh
+18	singhu	modi
+18	morcha	ghazipur
+18	morcha	msp
+18	telegraph	us
+18	modi	kisan morcha
+17	tomar	centre
+17	narendra singh	centre
+17	outer ring road	singhu
+17	ghazipur	kisan morcha
+17	kisan sabha	morcha
+17	opposition	us
+17	delhi police	centre
+17	telegraph	farmers
+17	state	tikait
+17	tikait	centre
+16	farmers	sikh
+16	singh	sikh
+16	sikh	us
+16	opposition	farmers
+16	bill	farmers
+16	congress	us
+16	bill	us
+16	delhi police	ghazipur
+16	state	delhi police
+16	singhu	bjp
+16	telegraph	singh
+16	kisan morcha	msp
+16	tomar	kisan morcha
+16	narendra singh	kisan morcha
+16	morcha	tomar
+16	morcha	narendra singh
+16	bhupinder singh mann	farmers
+16	supreme court	bhupinder singh mann
+16	bhupinder singh mann	singh
+16	bhupinder singh mann	us
+16	kisan morcha	bjp
+16	morcha	bjp
+15	yogendra yadav	farmers
+15	darshan pal	farmers
+15	darshan pal	singh
+15	yogendra yadav	us
+15	darshan pal	us
+15	outer ring road	centre
+15	ghazipur	centre
+15	indian	farmers
+15	state	parliament
+15	state	ghazipur
+15	state	tikri
+15	parliament	modi
+15	state	congress
+15	skm	kisan morcha
+15	skm	farmers
+15	morcha	skm
+15	skm	us
+15	farmers	house
+15	house	us
+15	kisan sabha	kisan morcha
+15	state	bhupinder singh mann
+15	supreme court	all india
+15	tomar	msp
+15	narendra singh	msp
+14	yogendra yadav	singh
+14	centre	tikri
+14	morcha	parliament
+14	congress	farmers
+14	kisan sabha	singh
+14	all india	msp
+14	delhi police	tikri
+14	indian	us
+14	centre	bjp
+14	farmers	anil ghanwat
+14	supreme court	anil ghanwat
+14	singh	anil ghanwat
+14	bhupinder singh mann	anil ghanwat
+14	balbir singh rajewal	farmers
+14	balbir singh rajewal	singh
+14	anil ghanwat	us
+14	balbir singh rajewal	us
+14	state	anil ghanwat
+14	farmers	balbir singh
+14	singh	balbir singh
+14	balbir singh rajewal	balbir singh
+14	us	balbir singh
+14	red fort	delhi police
+14	tomar	all india
+14	narendra singh	all india
+14	tikait	bjp
+14	red fort	singhu
+14	outer ring road	delhi police
+14	tikait	msp
+13	supreme court	modi
+13	madhya pradesh	farmers
+13	madhya pradesh	singh
+13	madhya pradesh	us
+13	kisan sabha	state
+13	state	skm
+13	shetkari sanghatana	farmers
+13	supreme court	shetkari sanghatana
+13	shetkari sanghatana	singh
+13	shetkari sanghatana	anil ghanwat
+13	bhupinder singh mann	shetkari sanghatana
+13	shetkari sanghatana	us
+13	bku	state
+13	state	shetkari sanghatana
+13	red fort	bjp
+13	red fort	morcha
+13	red fort	ghazipur
+13	bku	centre
+13	outer ring road	kisan morcha
+13	outer ring road	morcha
+13	ghazipur	tikait
+13	bku	tikait
+13	singhu	msp
+13	piyush goyal	farmers
+13	piyush goyal	tomar
+13	piyush goyal	narendra singh
+13	piyush goyal	singh
+13	piyush goyal	us
+12	farmers	rajasthan
+12	morcha	darshan pal
+12	modi	msp
+12	congress	modi
+12	kisan sabha	centre
+12	hannan mollah	farmers
+12	modi	all india
+12	hannan mollah	all india
+12	hannan mollah	us
+12	state	opposition
+12	skm	singh
+12	ghazipur	bjp
+12	sad	us
+12	red fort	kisan morcha
+12	red fort	state
+12	red fort	tikri
+12	outer ring road	state
+12	tikait	kisan morcha
+12	morcha	tikait
+12	tikait	tomar
+12	supreme court	msp
+12	supreme court	tikait
+12	piyush goyal	state
+11	singhu	sikh
+11	indian	singh
+11	singhu	parliament
+11	hannan mollah	morcha
+11	hannan mollah	kisan sabha
+11	rajasthan	us
+11	bill	state
+11	supreme court	delhi police
+11	tikri	bjp
+11	farmers	sad
+11	khalistani	farmers
+11	khalistani	us
+11	darshan pal	kisan morcha
+11	state	balbir singh rajewal
+11	state	balbir singh
+11	yogendra yadav	kisan morcha
+11	yogendra yadav	morcha
+11	telegraph	modi
+11	yogendra yadav	state
+11	state	house
+11	madhya pradesh	state
+11	parliament	kisan morcha
+11	farmers	deep sidhu
+11	deep sidhu	us
+11	outer ring road	tikri
+11	ghazipur	msp
+11	outer ring road	msp
+11	ghazipur	modi
+11	bhupinder singh mann	centre
+11	narendra singh	tikait
+11	piyush goyal	msp
+11	piyush goyal	supreme court
+10	outer ring road	supreme court
+10	singh	rajasthan
+10	congress	centre
+10	parliament	centre
+10	opposition	modi
+10	opposition	singh
+10	hannan mollah	singh
+10	supreme court	bjp
+10	house	bjp
+10	sad	singh
+10	telegraph	bjp
+10	khalistani	singh
+10	bku	kisan morcha
+10	supreme court	bku
+10	morcha	bku
+10	tomar	anil ghanwat
+10	narendra singh	anil ghanwat
+10	tomar	shetkari sanghatana
+10	narendra singh	shetkari sanghatana
+10	tomar	bhupinder singh mann
+10	narendra singh	bhupinder singh mann
+10	balbir singh rajewal	kisan morcha
+10	morcha	balbir singh rajewal
+10	kisan morcha	balbir singh
+10	morcha	balbir singh
+10	parliament	bjp
+10	kisan sabha	supreme court
+10	deep sidhu	singh
+10	red fort	deep sidhu
+10	centre	anil ghanwat
+9	supreme court	darshan pal
+9	darshan pal	tomar
+9	narendra singh	darshan pal
+9	madhya pradesh	modi
+9	singhu	madhya pradesh
+9	modi	sikh
+9	outer ring road	tomar
+9	outer ring road	narendra singh
+9	congress	singh
+9	morcha	congress
+9	bill	msp
+9	bill	centre
+9	bill	singh
+9	parliament	all india
+9	indian	state
+9	house	singh
+9	delhi police	bjp
+9	state	telegraph
+9	singhu	all india
+9	telegraph	all india
+9	hannan mollah	kisan morcha
+9	skm	all india
+9	sikh	bjp
+9	morcha	sikh
+9	state	sikh
+9	red fort	tikait
+9	tikri	msp
+9	tikait	modi
+9	modi	tikri
+9	bku	msp
+9	piyush goyal	centre
+9	piyush goyal	tikait
+9	shetkari sanghatana	centre
+8	supreme court	singhu
+8	tomar	modi
+8	yogendra yadav	modi
+8	yogendra yadav	singhu
+8	darshan pal	centre
+8	indian	centre
+8	morcha	indian
+8	singhu	rajasthan
+8	state	darshan pal
+8	modi	rajasthan
+8	hannan mollah	centre
+8	assembly	us
+8	state	rajasthan
+8	hannan mollah	state
+8	skm	centre
+8	supreme court	skm
+8	singhu	telegraph
+8	morcha	bhupinder singh mann
+8	delhi police	modi
+8	yogendra yadav	bjp
+8	telegraph	kisan morcha
+8	morcha	telegraph
+8	red fort	modi
+8	house	modi
+8	tikri	sikh
+8	kisan sabha	skm
+8	kisan sabha	tomar
+8	kisan sabha	narendra singh
+8	hannan mollah	supreme court
+8	kisan morcha	sikh
+8	deep sidhu	bjp
+8	morcha	deep sidhu
+8	amit shah	farmers
+8	amit shah	us
+8	joginder singh ugrahan	farmers
+8	joginder singh ugrahan	singh
+8	joginder singh ugrahan	us
+8	outer ring road	ghazipur
+8	delhi police	msp
+8	opposition	bjp
+8	delhi police	tikait
+8	piyush goyal	anil ghanwat
+8	piyush goyal	shetkari sanghatana
+8	piyush goyal	bhupinder singh mann
+7	narendra singh	modi
+7	indian	kisan morcha
+7	parliament	tikri
+7	congress	msp
+7	assembly	farmers
+7	opposition	congress
+7	opposition	centre
+7	kisan sabha	msp
+7	kisan sabha	modi
+7	bill	parliament
+7	bill	modi
+7	congress	all india
+7	bill	all india
+7	assembly	state
+7	supreme court	indian
+7	telegraph	tikri
+7	khalistani	bjp
+7	congress	kisan morcha
+7	indian	modi
+7	morcha	anil ghanwat
+7	bku	bhupinder singh mann
+7	bhupinder singh mann	kisan morcha
+7	balbir singh rajewal	bjp
+7	delhi police	balbir singh rajewal
+7	red fort	balbir singh rajewal
+7	bjp	balbir singh
+7	delhi police	balbir singh
+7	red fort	balbir singh
+7	supreme court	bill
+7	ghazipur	sikh
+7	khalistani	sikh
+7	skm	bjp
+7	skm	modi
+7	tomar	bjp
+7	telegraph	centre
+7	hannan mollah	tomar
+7	hannan mollah	narendra singh
+7	tikait	all india
+7	red fort	sikh
+7	state	deep sidhu
+7	deep sidhu	kisan morcha
+7	bku	ghazipur
+7	joginder singh ugrahan	centre
+7	amit shah	singh
+7	bjp	msp
+7	delhi police	parliament
+7	singhu	tikait
+7	tikait	tikri
+7	delhi police	all india
+7	outer ring road	parliament
+7	piyush goyal	kisan morcha
+7	piyush goyal	morcha
+7	anil ghanwat	msp
+7	tikait	anil ghanwat
+7	shetkari sanghatana	msp
+7	tikait	shetkari sanghatana
+7	bhupinder singh mann	msp
+7	tikait	bhupinder singh mann
+6	singhu	tomar
+6	singhu	narendra singh
+6	yogendra yadav	supreme court
+6	madhya pradesh	centre
+6	supreme court	madhya pradesh
+6	price assurance and farm services act	modi
+6	price assurance and farm services act	farmers
+6	centre	sikh
+6	price assurance and farm services act	us
+6	outer ring road	modi
+6	outer ring road	yogendra yadav
+6	outer ring road	sikh
+6	centre	rajasthan
+6	tikri	rajasthan
+6	parliament	msp
+6	parliament	congress
+6	assembly	singh
+6	opposition	msp
+6	kisan sabha	parliament
+6	morcha	bill
+6	pakistan	farmers
+6	pakistan	us
+6	singhu	skm
+6	delhi police	skm
+6	indian	delhi police
+6	singhu	sad
+6	ghazipur	telegraph
+6	supreme court	khalistani
+6	bku	modi
+6	bku	tomar
+6	bku	narendra singh
+6	kisan morcha	anil ghanwat
+6	shetkari sanghatana	kisan morcha
+6	morcha	shetkari sanghatana
+6	balbir singh rajewal	modi
+6	supreme court	balbir singh rajewal
+6	modi	balbir singh
+6	supreme court	balbir singh
+6	parliament	house
+6	state	sad
+6	parliament	tomar
+6	skm	tomar
+6	narendra singh	bjp
+6	narendra singh	skm
+6	house	centre
+6	house	kisan morcha
+6	morcha	house
+6	all india	bjp
+6	parliament	sikh
+6	morcha	khalistani
+6	darshan pal	tikait
+6	yogendra yadav	all india
+6	darshan pal	all india
+6	gurnam singh	farmers
+6	gurnam singh	singh
+6	gurnam singh	us
+6	red fort	centre
+6	state	amit shah
+6	bku	bjp
+6	joginder singh ugrahan	kisan morcha
+6	morcha	joginder singh ugrahan
+6	aap	farmers
+6	aap	us
+6	indian	msp
+6	bku	delhi police
+6	opposition	tikait
+6	delhi police	tomar
+6	narendra singh	delhi police
+6	kisan sabha	delhi police
+6	darshan pal	delhi police
+6	delhi police	sikh
+6	bku	all india
+6	sad	kisan morcha
+6	morcha	sad
+6	piyush goyal	all india
+6	amit shah	bjp
+5	yogendra yadav	tomar
+5	yogendra yadav	narendra singh
+5	darshan pal	modi
+5	singhu	darshan pal
+5	price assurance and farm services act	centre
+5	price assurance and farm services act	singh
+5	singhu	indian
+5	indian	ghazipur
+5	ghazipur	rajasthan
+5	morcha	rajasthan
+5	ghazipur	parliament
+5	darshan pal	parliament
+5	opposition	parliament
+5	assembly	opposition
+5	assembly	morcha
+5	bill	congress
+5	bill	opposition
+5	kisan sabha	bill
+5	pakistan	centre
+5	pakistan	singh
+5	hannan mollah	parliament
+5	hannan mollah	modi
+5	china	farmers
+5	rajasthan	all india
+5	china	us
+5	pakistan	state
+5	skm	tikri
+5	singhu	house
+5	supreme court	house
+5	sad	bjp
+5	supreme court	telegraph
+5	telegraph	house
+5	singhu	khalistani
+5	bku	anil ghanwat
+5	modi	anil ghanwat
+5	darshan pal	anil ghanwat
+5	bku	shetkari sanghatana
+5	darshan pal	shetkari sanghatana
+5	bhupinder singh mann	modi
+5	darshan pal	bhupinder singh mann
+5	balbir singh rajewal	tomar
+5	tomar	balbir singh
+5	yogendra yadav	delhi police
+5	delhi police	telegraph
+5	red fort	yogendra yadav
+5	yogendra yadav	balbir singh rajewal
+5	yogendra yadav	balbir singh
+5	supreme court	parliament
+5	bill	house
+5	tikri	all india
+5	madhya pradesh	all india
+5	narendra singh	parliament
+5	skm	house
+5	hannan mollah	skm
+5	narendra modi’s	bjp
+5	narendra modi’s	modi
+5	narendra modi’s	farmers
+5	khalistani	modi
+5	khalistani	centre
+5	khalistani	kisan morcha
+5	narendra modi’s	us
+5	state	narendra modi’s
+5	state	khalistani
+5	tikait	parliament
+5	balbir singh rajewal	parliament
+5	tikait	balbir singh rajewal
+5	balbir singh rajewal	all india
+5	parliament	balbir singh
+5	tikait	balbir singh
+5	all india	balbir singh
+5	delhi police	deep sidhu
+5	bku	singhu
+5	singhu	deep sidhu
+5	outer ring road	bjp
+5	state	joginder singh ugrahan
+5	delhi police	sad
+5	congress	rahul gandhi
+5	rahul gandhi	modi
+5	rahul gandhi	us
+5	delhi police	house
+5	indian	parliament
+5	congress	bjp
+5	bill	bjp
+5	ghazipur	muzaffarnagar
+5	tikait	muzaffarnagar
+5	muzaffarnagar	farmers
+5	muzaffarnagar	us
+5	assembly	bjp
+5	outer ring road	all india
+5	singhu	balbir singh rajewal
+5	ghazipur	balbir singh rajewal
+5	balbir singh rajewal	tikri
+5	singhu	balbir singh
+5	ghazipur	balbir singh
+5	tikri	balbir singh
+5	bhupinder singh mann	all india
+5	supreme court	joginder singh ugrahan
+5	yogendra yadav	skm
+5	piyush goyal	darshan pal
+5	aap	singh
+5	joginder singh ugrahan	msp
+5	tikait	joginder singh ugrahan
+5	tikait	amit shah
+5	skm	msp
+4	yogendra yadav	centre
+4	yogendra yadav	darshan pal
+4	supreme court	sikh
+4	yogendra yadav	sikh
+4	indian	tikri
+4	darshan pal	ghazipur
+4	assembly	modi
+4	morcha	opposition
+4	kisan sabha	congress
+4	rajasthan	msp
+4	opposition	rajasthan
+4	pakistan	modi
+4	pakistan	morcha
+4	hannan mollah	msp
+4	hannan mollah	bill
+4	china	congress
+4	china	bill
+4	opposition	all india
+4	china	state
+4	ghazipur	skm
+4	supreme court	ghazipur
+4	indian	skm
+4	ghazipur	house
+4	ghazipur	sad
+4	sad	tikri
+4	supreme court	sad
+4	house	sad
+4	ghazipur	khalistani
+4	khalistani	tikri
+4	telegraph	khalistani
+4	supreme court	congress
+4	indian	tomar
+4	narendra singh	indian
+4	indian	darshan pal
+4	shetkari sanghatana	modi
+4	narendra singh	balbir singh rajewal
+4	darshan pal	balbir singh rajewal
+4	narendra singh	balbir singh
+4	darshan pal	balbir singh
+4	parliament	sad
+4	sad	modi
+4	madhya pradesh	parliament
+4	madhya pradesh	tikri
+4	telegraph	parliament
+4	telegraph	tomar
+4	kisan sabha	telegraph
+4	hannan mollah	telegraph
+4	house	all india
+4	narendra modi’s	singh
+4	yogendra yadav	parliament
+4	red fort	parliament
+4	red fort	all india
+4	gurnam singh	bjp
+4	tikait	deep sidhu
+4	yogendra yadav	deep sidhu
+4	farmers	lok sabha
+4	us	lok sabha
+4	gurnam singh	centre
+4	deep sidhu	sikh
+4	gurnam singh	state
+4	amit shah	kisan morcha
+4	morcha	amit shah
+4	red fort	amit shah
+4	bku	joginder singh ugrahan
+4	deep sidhu	tikri
+4	outer ring road	bku
+4	red fort	sad
+4	rahul gandhi	centre
+4	rahul gandhi	farmers
+4	state	rahul gandhi
+4	aap	state
+4	red fort	house
+4	indian	bjp
+4	house	msp
+4	indian	bill
+4	kisan sabha	singhu
+4	outer ring road	kisan sabha
+4	tikait	sad
+4	tikait	telegraph
+4	madhya pradesh	bjp
+4	delhi police	khalistani
+4	supreme court	opposition
+4	ambala	farmers
+4	ambala	singh
+4	ambala	us
+4	darshan pal	msp
+4	tomar	joginder singh ugrahan
+4	narendra singh	joginder singh ugrahan
+4	piyush goyal	joginder singh ugrahan
+4	bill	kisan morcha
+4	kisan sabha	balbir singh rajewal
+4	odisha	us
+4	state	odisha
+4	kisan sabha	balbir singh
+4	opposition	tomar
+4	narendra singh	opposition
+4	singhu	congress
+4	amit shah	tomar
+4	narendra singh	amit shah
+4	outer ring road	tikait
+4	piyush goyal	bku
+4	yogendra yadav	kisan sabha
+4	tikait	skm
+4	muzaffarnagar	modi
+3	madhya pradesh	tomar
+3	narendra singh	madhya pradesh
+3	yogendra yadav	madhya pradesh
+3	price assurance and farm services act	singhu
+3	price assurance and farm services act	supreme court
+3	tomar	sikh
+3	narendra singh	sikh
+3	madhya pradesh	sikh
+3	outer ring road	darshan pal
+3	price assurance and farm services act	outer ring road
+3	kisan morcha	rajasthan
+3	farmers	cpm
+3	indian	cpm
+3	darshan pal	tikri
+3	assembly	msp
+3	assembly	congress
+3	assembly	bill
+3	congress	rajasthan
+3	parliament	rajasthan
+3	pakistan	msp
+3	pakistan	parliament
+3	pakistan	opposition
+3	pakistan	rajasthan
+3	china	msp
+3	china	parliament
+3	china	modi
+3	china	centre
+3	china	singh
+3	china	opposition
+3	assembly	all india
+3	pakistan	singhu
+3	pakistan	ghazipur
+3	singhu	hindi
+3	farmers	hindi
+3	singh	hindi
+3	khalistani	house
+3	hindi	us
+3	bku	congress
+3	bku	indian
+3	indian	congress
+3	bku	darshan pal
+3	congress	anil ghanwat
+3	congress	shetkari sanghatana
+3	congress	bhupinder singh mann
+3	red fort	telegraph
+3	singhu	bill
+3	bill	sad
+3	madhya pradesh	ghazipur
+3	madhya pradesh	rajasthan
+3	telegraph	rajasthan
+3	ghazipur	all india
+3	telegraph	sikh
+3	khalistani	all india
+3	skm	parliament
+3	kisan sabha	bjp
+3	kisan sabha	house
+3	telegraph	skm
+3	narendra singh	telegraph
+3	house	sikh
+3	narendra modi’s	centre
+3	narendra modi’s	kisan morcha
+3	narendra modi’s	skm
+3	morcha	narendra modi’s
+3	parliament	khalistani
+3	tomar	khalistani
+3	narendra singh	khalistani
+3	yogendra yadav	tikait
+3	darshan pal	bjp
+3	gurnam singh	all india
+3	parliament	deep sidhu
+3	darshan pal	deep sidhu
+3	deep sidhu	all india
+3	balbir singh rajewal	deep sidhu
+3	deep sidhu	balbir singh
+3	bjp	lok sabha
+3	singh	lok sabha
+3	deep sidhu	centre
+3	state	lok sabha
+3	delhi police	amit shah
+3	amit shah	deep sidhu
+3	bku	tikri
+3	red fort	bku
+3	joginder singh ugrahan	bjp
+3	ghazipur	joginder singh ugrahan
+3	ghazipur	deep sidhu
+3	khalistani	deep sidhu
+3	outer ring road	khalistani
+3	red fort	outer ring road
+3	outer ring road	joginder singh ugrahan
+3	amit shah	modi
+3	aap	modi
+3	aap	centre
+3	randeep surjewala	congress
+3	randeep surjewala	centre
+3	randeep surjewala	farmers
+3	randeep surjewala	us
+3	randeep surjewala	state
+3	centre	dalit
+3	farmers	dalit
+3	us	dalit
+3	state	dalit
+3	red fort	skm
+3	skm	deep sidhu
+3	indian	opposition
+3	opposition	house
+3	yogendra yadav	ghazipur
+3	yogendra yadav	tikri
+3	muzaffarnagar	bjp
+3	muzaffarnagar	singh
+3	tikait	sikh
+3	red fort	muzaffarnagar
+3	bku	opposition
+3	opposition	ghazipur
+3	kisan sabha	darshan pal
+3	darshan pal	telegraph
+3	hannan mollah	delhi police
+3	hannan mollah	darshan pal
+3	balbir singh rajewal	sikh
+3	outer ring road	balbir singh rajewal
+3	sikh	balbir singh
+3	outer ring road	balbir singh
+3	outer ring road	indian
+3	delhi police	bhupinder singh mann
+3	delhi police	joginder singh ugrahan
+3	joginder singh ugrahan	all india
+3	bhupinder singh mann	joginder singh ugrahan
+3	outer ring road	bhupinder singh mann
+3	skm	sad
+3	tomar	sad
+3	narendra singh	sad
+3	madhya pradesh	kisan morcha
+3	morcha	madhya pradesh
+3	outer ring road	skm
+3	indian	tikait
+3	bku	bill
+3	bku	gurnam singh
+3	rahul gandhi	singh
+3	anil ghanwat	all india
+3	shetkari sanghatana	all india
+3	aap	kisan morcha
+3	aap	morcha
+3	darshan pal	joginder singh ugrahan
+3	rajya sabha	us
+3	state	rajya sabha
+3	telangana	farmers
+3	telangana	singh
+3	bill	balbir singh rajewal
+3	telangana	us
+3	odisha	farmers
+3	state	telangana
+3	bill	balbir singh
+3	madhya pradesh	congress
+3	piyush goyal	bjp
+3	amit shah	msp
+3	supreme court	amit shah
+3	piyush goyal	amit shah
+3	outer ring road	piyush goyal
+3	outer ring road	amit shah
+3	telegraph	msp
+3	indian	telegraph
+3	hannan mollah	piyush goyal
+3	balbir singh rajewal	skm
+3	skm	balbir singh
+3	madhya pradesh	anil ghanwat
+3	madhya pradesh	shetkari sanghatana
+3	madhya pradesh	bhupinder singh mann
+3	aap	bjp
+3	aap	singhu
+3	sad	centre
+3	yogendra yadav	msp
+3	price assurance and farm services act	msp
+3	narendra modi’s	ghazipur
+3	assembly	kisan morcha
+3	assembly	telegraph
+3	rajasthan	bjp
+2	madhya pradesh	darshan pal
+2	price assurance and farm services act	yogendra yadav
+2	price assurance and farm services act	madhya pradesh
+2	darshan pal	sikh
+2	price assurance and farm services act	sikh
+2	outer ring road	madhya pradesh
+2	indian	rajasthan
+2	cpm	kisan morcha
+2	cpm	singh
+2	morcha	cpm
+2	assembly	parliament
+2	assembly	centre
+2	assembly	kisan sabha
+2	kisan sabha	opposition
+2	assembly	rajasthan
+2	kisan sabha	rajasthan
+2	bill	rajasthan
+2	pakistan	congress
+2	assembly	pakistan
+2	pakistan	kisan sabha
+2	pakistan	bill
+2	hannan mollah	congress
+2	hannan mollah	assembly
+2	hannan mollah	opposition
+2	hannan mollah	rajasthan
+2	hannan mollah	pakistan
+2	china	assembly
+2	china	morcha
+2	china	kisan sabha
+2	china	rajasthan
+2	china	pakistan
+2	china	hannan mollah
+2	pakistan	all india
+2	china	all india
+2	supreme court	tikri
+2	pakistan	tikri
+2	pakistan	kisan morcha
+2	pakistan	delhi police
+2	house	tikri
+2	hindi	bjp
+2	ghazipur	hindi
+2	tikri	hindi
+2	telegraph	hindi
+2	khalistani	sad
+2	khalistani	hindi
+2	congress	tomar
+2	narendra singh	congress
+2	darshan pal	congress
+2	congress	cpm
+2	indian	anil ghanwat
+2	indian	bhupinder singh mann
+2	bku	balbir singh rajewal
+2	indian	balbir singh rajewal
+2	balbir singh rajewal	anil ghanwat
+2	balbir singh rajewal	shetkari sanghatana
+2	balbir singh rajewal	bhupinder singh mann
+2	cpm	us
+2	state	cpm
+2	bku	balbir singh
+2	indian	balbir singh
+2	anil ghanwat	balbir singh
+2	shetkari sanghatana	balbir singh
+2	bhupinder singh mann	balbir singh
+2	yogendra yadav	telegraph
+2	red fort	supreme court
+2	telegraph	balbir singh rajewal
+2	telegraph	balbir singh
+2	madhya pradesh	house
+2	madhya pradesh	sad
+2	madhya pradesh	bill
+2	madhya pradesh	hindi
+2	madhya pradesh	telegraph
+2	rajasthan	sikh
+2	all india	sikh
+2	madhya pradesh	khalistani
+2	khalistani	rajasthan
+2	tomar	house
+2	narendra singh	house
+2	hannan mollah	house
+2	skm	sikh
+2	narendra modi’s	parliament
+2	supreme court	narendra modi’s
+2	narendra modi’s	house
+2	kisan sabha	narendra modi’s
+2	narendra modi’s	telegraph
+2	narendra modi’s	all india
+2	skm	khalistani
+2	kisan sabha	khalistani
+2	hannan mollah	khalistani
+2	red fort	darshan pal
+2	gurnam singh	tikait
+2	gurnam singh	darshan pal
+2	red fort	gurnam singh
+2	gurnam singh	deep sidhu
+2	centre	lok sabha
+2	sikh	lok sabha
+2	deep sidhu	lok sabha
+2	bku	sikh
+2	red fort	khalistani
+2	singhu	joginder singh ugrahan
+2	joginder singh ugrahan	tikri
+2	joginder singh ugrahan	khalistani
+2	red fort	joginder singh ugrahan
+2	joginder singh ugrahan	deep sidhu
+2	outer ring road	deep sidhu
+2	singhu	amit shah
+2	opposition	rahul gandhi
+2	aap	congress
+2	aap	rahul gandhi
+2	randeep surjewala	modi
+2	randeep surjewala	rahul gandhi
+2	bjp	dalit
+2	house	deep sidhu
+2	opposition	delhi police
+2	congress	house
+2	indian	house
+2	sad	msp
+2	indian	sad
+2	bill	delhi police
+2	china	bjp
+2	china	indian
+2	red fort	congress
+2	red fort	china
+2	muzaffarnagar	sikh
+2	state	muzaffarnagar
+2	assembly	bku
+2	assembly	ghazipur
+2	assembly	delhi police
+2	bku	sad
+2	kisan sabha	bku
+2	parliament	lok sabha
+2	modi	lok sabha
+2	kisan morcha	lok sabha
+2	supreme court	lok sabha
+2	tomar	lok sabha
+2	narendra singh	lok sabha
+2	delhi police	lok sabha
+2	morcha	lok sabha
+2	yogendra yadav	lok sabha
+2	darshan pal	skm
+2	darshan pal	lok sabha
+2	madhya pradesh	skm
+2	indian	sikh
+2	indian	khalistani
+2	darshan pal	khalistani
+2	deep sidhu	modi
+2	madhya pradesh	deep sidhu
+2	bill	tikait
+2	ambala	bjp
+2	bku	ambala
+2	ambala	centre
+2	state	ambala
+2	rahul gandhi	msp
+2	rahul gandhi	kisan morcha
+2	morcha	rahul gandhi
+2	aap	msp
+2	aap	tikait
+2	aap	supreme court
+2	aap	tomar
+2	aap	narendra singh
+2	aap	darshan pal
+2	aap	piyush goyal
+2	aap	anil ghanwat
+2	aap	all india
+2	aap	shetkari sanghatana
+2	aap	bhupinder singh mann
+2	joginder singh ugrahan	anil ghanwat
+2	joginder singh ugrahan	shetkari sanghatana
+2	rajya sabha	farmers
+2	rajya sabha	all india
+2	bill	tomar
+2	narendra singh	bill
+2	telangana	centre
+2	supreme court	telangana
+2	telangana	all india
+2	bill	khalistani
+2	hannan mollah	balbir singh rajewal
+2	balbir singh rajewal	khalistani
+2	odisha	centre
+2	supreme court	odisha
+2	odisha	singh
+2	bill	odisha
+2	odisha	telangana
+2	odisha	all india
+2	supreme court	dalit
+2	tomar	dalit
+2	narendra singh	dalit
+2	singh	dalit
+2	hannan mollah	balbir singh
+2	khalistani	balbir singh
+2	madhya pradesh	msp
+2	madhya pradesh	tikait
+2	madhya pradesh	opposition
+2	singhu	rahul gandhi
+2	bihar	msp
+2	bihar	modi
+2	bihar	centre
+2	bihar	ghazipur
+2	bihar	farmers
+2	bihar	singh
+2	madhya pradesh	rahul gandhi
+2	gujarat	modi
+2	singhu	gujarat
+2	farmers	gujarat
+2	gujarat	singh
+2	bihar	us
+2	gujarat	us
+2	state	bihar
+2	piyush goyal	parliament
+2	amit shah	parliament
+2	amit shah	centre
+2	amit shah	joginder singh ugrahan
+2	anil ghanwat	bjp
+2	amit shah	anil ghanwat
+2	shetkari sanghatana	bjp
+2	amit shah	shetkari sanghatana
+2	bhupinder singh mann	bjp
+2	amit shah	bhupinder singh mann
+2	outer ring road	anil ghanwat
+2	outer ring road	shetkari sanghatana
+2	piyush goyal	delhi police
+2	delhi police	anil ghanwat
+2	piyush goyal	balbir singh rajewal
+2	piyush goyal	balbir singh
+2	hannan mollah	yogendra yadav
+2	bku	telegraph
+2	bku	skm
+2	tomar	tikri
+2	narendra singh	tikri
+2	singhu	gurnam singh
+2	gurnam singh	tikri
+2	gurnam singh	kisan morcha
+2	gurnam singh	delhi police
+2	morcha	gurnam singh
+2	kisan sabha	tikait
+2	kisan sabha	sad
+2	bill	skm
+2	hannan mollah	sad
+2	piyush goyal	kisan sabha
+2	sad	all india
+2	balbir singh rajewal	msp
+2	msp	balbir singh
+2	opposition	anil ghanwat
+2	opposition	shetkari sanghatana
+2	opposition	bhupinder singh mann
+2	amit shah	skm
+2	yogendra yadav	amit shah
+2	red fort	madhya pradesh
+2	balbir singh rajewal	amit shah
+2	amit shah	balbir singh
+2	tikait	khalistani
+2	price assurance and farm services act	anil ghanwat
+2	telangana	modi
+2	madhya pradesh	telangana
+2	price assurance and farm services act	bhupinder singh mann
+2	odisha	modi
+2	price assurance and farm services act	state
+2	price assurance and farm services act	delhi police
+2	opposition	kisan morcha
+2	rajya sabha	modi
+2	singhu	narendra modi’s
+2	randeep surjewala	singhu
+2	randeep surjewala	singh
+2	randeep surjewala	madhya pradesh
+2	bku	rajasthan
+2	tikait	rajasthan
+2	bku	muzaffarnagar
+2	muzaffarnagar	centre
+2	tikait	house
+2	pakistan	bjp
+2	muzaffarnagar	house
+2	assembly	singhu
+2	assembly	house
+2	aap	delhi police
+2	assembly	tikri
+2	narendra modi’s	msp
+2	ambala	msp
+2	singhu	ambala
+2	ghazipur	ambala
+2	ambala	tikri
+2	ambala	kisan morcha
+2	morcha	ambala
+2	opposition	telegraph
+2	yogendra yadav	rajasthan
+2	singhu	opposition
+2	opposition	tikri
+1	price assurance and farm services act	tomar
+1	price assurance and farm services act	narendra singh
+1	price assurance and farm services act	darshan pal
+1	singhu	cpm
+1	cpm	centre
+1	ghazipur	cpm
+1	cpm	tikri
+1	cpm	rajasthan
+1	pakistan	skm
+1	pakistan	supreme court
+1	pakistan	indian
+1	supreme court	hindi
+1	house	hindi
+1	sad	hindi
+1	telegraph	sad
+1	bku	cpm
+1	cpm	modi
+1	supreme court	cpm
+1	tomar	cpm
+1	narendra singh	cpm
+1	darshan pal	cpm
+1	cpm	anil ghanwat
+1	indian	shetkari sanghatana
+1	shetkari sanghatana	cpm
+1	bhupinder singh mann	cpm
+1	balbir singh rajewal	congress
+1	balbir singh rajewal	cpm
+1	congress	balbir singh
+1	cpm	balbir singh
+1	hindi	rajasthan
+1	hindi	all india
+1	hindi	sikh
+1	hannan mollah	bjp
+1	kisan sabha	sikh
+1	hannan mollah	sikh
+1	narendra modi’s	tomar
+1	narendra singh	narendra modi’s
+1	hannan mollah	narendra modi’s
+1	narendra modi’s	sikh
+1	narendra modi’s	khalistani
+1	gurnam singh	parliament
+1	yogendra yadav	gurnam singh
+1	gurnam singh	balbir singh rajewal
+1	gurnam singh	balbir singh
+1	red fort	lok sabha
+1	gurnam singh	lok sabha
+1	gurnam singh	sikh
+1	bku	khalistani
+1	joginder singh ugrahan	sikh
+1	bku	deep sidhu
+1	amit shah	sad
+1	rahul gandhi	rajasthan
+1	aap	opposition
+1	aap	rajasthan
+1	randeep surjewala	opposition
+1	randeep surjewala	rajasthan
+1	aap	randeep surjewala
+1	modi	dalit
+1	parliament	rahul gandhi
+1	indian	rahul gandhi
+1	delhi police	congress
+1	congress	sad
+1	opposition	sad
+1	china	delhi police
+1	china	house
+1	china	sad
+1	cpm	bjp
+1	cpm	msp
+1	parliament	cpm
+1	delhi police	cpm
+1	opposition	cpm
+1	house	cpm
+1	cpm	sad
+1	bill	cpm
+1	china	cpm
+1	red fort	msp
+1	red fort	indian
+1	red fort	opposition
+1	red fort	bill
+1	red fort	cpm
+1	singhu	muzaffarnagar
+1	muzaffarnagar	tikri
+1	muzaffarnagar	kisan morcha
+1	morcha	muzaffarnagar
+1	yogendra yadav	muzaffarnagar
+1	muzaffarnagar	deep sidhu
+1	assembly	tikait
+1	hannan mollah	singhu
+1	delhi police	rajasthan
+1	darshan pal	rajasthan
+1	balbir singh rajewal	rajasthan
+1	outer ring road	rajasthan
+1	rajasthan	balbir singh
+1	kisan sabha	bhupinder singh mann
+1	kisan sabha	joginder singh ugrahan
+1	skm	lok sabha
+1	indian	lok sabha
+1	house	lok sabha
+1	sad	lok sabha
+1	yogendra yadav	indian
+1	yogendra yadav	house
+1	yogendra yadav	sad
+1	darshan pal	house
+1	darshan pal	sad
+1	madhya pradesh	lok sabha
+1	indian	madhya pradesh
+1	madhya pradesh	delhi police
+1	sad	sikh
+1	khalistani	lok sabha
+1	yogendra yadav	khalistani
+1	supreme court	deep sidhu
+1	tomar	deep sidhu
+1	narendra singh	deep sidhu
+1	indian	deep sidhu
+1	deep sidhu	sad
+1	outer ring road	lok sabha
+1	outer ring road	house
+1	outer ring road	sad
+1	gurnam singh	ambala
+1	tikait	ambala
+1	supreme court	ambala
+1	tikait	congress
+1	tikait	rahul gandhi
+1	supreme court	rahul gandhi
+1	tomar	rahul gandhi
+1	narendra singh	rahul gandhi
+1	darshan pal	rahul gandhi
+1	piyush goyal	congress
+1	piyush goyal	modi
+1	piyush goyal	rahul gandhi
+1	rahul gandhi	anil ghanwat
+1	rahul gandhi	all india
+1	shetkari sanghatana	rahul gandhi
+1	bhupinder singh mann	rahul gandhi
+1	congress	joginder singh ugrahan
+1	joginder singh ugrahan	modi
+1	joginder singh ugrahan	rahul gandhi
+1	aap	joginder singh ugrahan
+1	bku	rajya sabha
+1	supreme court	rajya sabha
+1	rajya sabha	singh
+1	rajya sabha	bhupinder singh mann
+1	telangana	kisan morcha
+1	tomar	telangana
+1	narendra singh	telangana
+1	morcha	telangana
+1	kisan sabha	telangana
+1	bill	telangana
+1	hannan mollah	telangana
+1	khalistani	telangana
+1	balbir singh rajewal	centre
+1	balbir singh rajewal	telangana
+1	odisha	kisan morcha
+1	odisha	tomar
+1	narendra singh	odisha
+1	morcha	odisha
+1	kisan sabha	odisha
+1	hannan mollah	odisha
+1	odisha	khalistani
+1	odisha	balbir singh rajewal
+1	kisan morcha	dalit
+1	morcha	dalit
+1	kisan sabha	dalit
+1	bill	dalit
+1	hannan mollah	dalit
+1	telangana	dalit
+1	all india	dalit
+1	khalistani	dalit
+1	balbir singh rajewal	dalit
+1	odisha	dalit
+1	centre	balbir singh
+1	telangana	balbir singh
+1	odisha	balbir singh
+1	dalit	balbir singh
+1	piyush goyal	opposition
+1	piyush goyal	madhya pradesh
+1	ghazipur	congress
+1	ghazipur	rahul gandhi
+1	bihar	congress
+1	singhu	bihar
+1	bihar	kisan morcha
+1	morcha	bihar
+1	bihar	rahul gandhi
+1	madhya pradesh	bihar
+1	gujarat	msp
+1	congress	gujarat
+1	gujarat	centre
+1	ghazipur	gujarat
+1	gujarat	kisan morcha
+1	morcha	gujarat
+1	rahul gandhi	gujarat
+1	bihar	gujarat
+1	madhya pradesh	gujarat
+1	state	gujarat
+1	piyush goyal	indian
+1	indian	amit shah
+1	parliament	joginder singh ugrahan
+1	indian	joginder singh ugrahan
+1	msp	dalit
+1	parliament	dalit
+1	tikait	dalit
+1	indian	dalit
+1	piyush goyal	dalit
+1	amit shah	dalit
+1	joginder singh ugrahan	dalit
+1	outer ring road	dalit
+1	bku	amit shah
+1	delhi police	shetkari sanghatana
+1	outer ring road	pakistan
+1	skm	congress
+1	hannan mollah	outer ring road
+1	bku	bihar
+1	bihar	tikait
+1	indian	bihar
+1	bihar	delhi police
+1	bihar	telegraph
+1	gurnam singh	msp
+1	gurnam singh	skm
+1	gurnam singh	tomar
+1	narendra singh	gurnam singh
+1	outer ring road	gurnam singh
+1	hannan mollah	bku
+1	hannan mollah	tikait
+1	piyush goyal	skm
+1	piyush goyal	sad
+1	piyush goyal	bill
+1	balbir singh rajewal	sad
+1	sad	balbir singh
+1	aap	parliament
+1	aap	sikh
+1	aap	khalistani
+1	kisan sabha	tikri
+1	kisan sabha	madhya pradesh
+1	amit shah	tikri
+1	kisan sabha	amit shah
+1	madhya pradesh	amit shah
+1	amit shah	all india
+1	red fort	kisan sabha
+1	madhya pradesh	balbir singh rajewal
+1	kisan sabha	deep sidhu
+1	madhya pradesh	balbir singh
+1	ghazipur	amit shah
+1	darshan pal	amit shah
+1	amit shah	khalistani
+1	balbir singh rajewal	joginder singh ugrahan
+1	joginder singh ugrahan	balbir singh
+1	telangana	anil ghanwat
+1	price assurance and farm services act	telangana
+1	price assurance and farm services act	shetkari sanghatana
+1	shetkari sanghatana	telangana
+1	bhupinder singh mann	telangana
+1	madhya pradesh	odisha
+1	odisha	anil ghanwat
+1	price assurance and farm services act	odisha
+1	odisha	shetkari sanghatana
+1	odisha	bhupinder singh mann
+1	kisan sabha	indian
+1	hannan mollah	indian
+1	indian	all india
+1	outer ring road	bill
+1	congress	lok sabha
+1	opposition	lok sabha
+1	hannan mollah	joginder singh ugrahan
+1	opposition	skm
+1	yogendra yadav	opposition
+1	opposition	amit shah
+1	rajya sabha	msp
+1	rajya sabha	parliament
+1	rajya sabha	centre
+1	rajya sabha	house
+1	telegraph	rajya sabha
+1	bill	rajya sabha
+1	bill	telegraph
+1	odisha	msp
+1	odisha	parliament
+1	odisha	rajya sabha
+1	odisha	house
+1	odisha	telegraph
+1	rajya sabha	congress
+1	rahul gandhi	bjp
+1	congress	hindi
+1	modi	hindi
+1	centre	hindi
+1	rahul gandhi	hindi
+1	china	singhu
+1	china	rahul gandhi
+1	china	madhya pradesh
+1	china	hindi
+1	narendra modi’s	congress
+1	narendra modi’s	rahul gandhi
+1	madhya pradesh	narendra modi’s
+1	narendra modi’s	hindi
+1	china	narendra modi’s
+1	red fort	rahul gandhi
+1	red fort	hindi
+1	red fort	narendra modi’s
+1	randeep surjewala	bjp
+1	randeep surjewala	hindi
+1	china	randeep surjewala
+1	randeep surjewala	narendra modi’s
+1	red fort	randeep surjewala
+1	state	hindi
+1	muzaffarnagar	msp
+1	muzaffarnagar	rajasthan
+1	price assurance and farm services act	bku
+1	price assurance and farm services act	ghazipur
+1	price assurance and farm services act	tikait
+1	price assurance and farm services act	rajasthan
+1	price assurance and farm services act	muzaffarnagar
+1	pakistan	tikait
+1	pakistan	house
+1	parliament	muzaffarnagar
+1	opposition	muzaffarnagar
+1	pakistan	muzaffarnagar
+1	narendra modi’s	tikait
+1	narendra modi’s	opposition
+1	pakistan	narendra modi’s
+1	narendra modi’s	muzaffarnagar
+1	aap	assembly
+1	aap	house
+1	aap	telegraph
+1	assembly	skm
+1	assembly	indian
+1	narendra modi’s	tikri
+1	indian	narendra modi’s
+1	assembly	narendra modi’s
+1	ambala	modi
+1	ambala	skm
+1	indian	ambala
+1	assembly	ambala
+1	telegraph	ambala
+1	narendra modi’s	ambala
+1	aap	tikri
+1	red fort	aap
+1	aap	deep sidhu
+1	balbir singh rajewal	house
+1	house	balbir singh
+1	telegraph	muzaffarnagar
+1	gurnam singh	ghazipur
+1	congress	sikh
+1	bill	sikh
+1	kisan sabha	lok sabha
+1	telegraph	lok sabha
+1	hannan mollah	lok sabha
+1	piyush goyal	lok sabha
+1	piyush goyal	yogendra yadav
+1	piyush goyal	telegraph
+1	all india	lok sabha
+1	telegraph	congress
+1	gurnam singh	congress
+1	gurnam singh	modi
+1	assembly	gurnam singh
+1	gurnam singh	opposition
+1	gurnam singh	telegraph
+1	kisan sabha	ghazipur
+1	bill	ghazipur
+1	yogendra yadav	bill
+1	yogendra yadav	narendra modi’s
+1	bill	narendra modi’s
+1	narendra modi’s	balbir singh rajewal
+1	narendra modi’s	balbir singh
+1	yogendra yadav	bku
+1	pakistan	bku
+1	pakistan	yogendra yadav
+1	gujarat	tikri
+1	tomar	rajasthan
+1	narendra singh	rajasthan
+1	ghazipur	tomar
+1	narendra singh	ghazipur
+1	outer ring road	opposition
+1	opposition	sikh
+1	opposition	khalistani
+1	telangana	bjp
+1	singhu	telangana
+1	telangana	tikri
+1	telegraph	telangana
+1	telangana	rajasthan
+1	bku	parliament
+1	bku	madhya pradesh
+1	parliament	anil ghanwat
+1	singhu	anil ghanwat
+1	bill	anil ghanwat
+1	parliament	shetkari sanghatana
+1	singhu	shetkari sanghatana
+1	bill	shetkari sanghatana
+1	parliament	bhupinder singh mann
+1	singhu	bhupinder singh mann
+1	bill	bhupinder singh mann
+1	randeep surjewala	bku
+1	randeep surjewala	parliament
+1	randeep surjewala	supreme court
+1	randeep surjewala	bill
+1	randeep surjewala	anil ghanwat
+1	randeep surjewala	all india
+1	randeep surjewala	shetkari sanghatana
+1	randeep surjewala	bhupinder singh mann
+1	price assurance and farm services act	indian
+1	price assurance and farm services act	morcha
+1	anil ghanwat	sikh
+1	khalistani	anil ghanwat
+1	price assurance and farm services act	khalistani
+1	bhupinder singh mann	sikh
+1	bhupinder singh mann	khalistani
+1	assembly	sad
+1	odisha	tikri
+1	assembly	odisha
+1	odisha	sad

@@ -1,0 +1,120 @@
+6	congress	bjp
+6	assembly	congress
+6	up	bjp
+6	up	congress
+5	assembly	bjp
+5	up	assembly
+4	farmers	bjp
+4	farmers	congress
+4	congress	jd(s
+4	nda	modi
+4	up	modi
+4	up	farmers
+4	up	nda
+3	assembly	farmers
+3	bjp	jd(s
+3	assembly	jd(s
+3	modi	bjp
+3	modi	farmers
+3	nda	bjp
+3	nda	farmers
+3	up	jd(s
+2	farmers	jd(s
+2	bjp	apmc
+2	congress	apmc
+2	farmers	apmc
+2	jd(s	apmc
+2	centre	singh
+2	up	centre
+2	up	singh
+2	up	rajasthan
+2	modi	congress
+2	modi	assembly
+2	nda	congress
+2	nda	assembly
+2	madhya pradesh	bjp
+2	congress	madhya pradesh
+2	up	madhya pradesh
+2	modi	union
+2	nda	union
+2	up	union
+1	assembly	apmc
+1	centre	tikri
+1	tikri	singh
+1	centre	ambala
+1	tikri	ambala
+1	singh	ambala
+1	centre	rajasthan
+1	tikri	rajasthan
+1	singh	rajasthan
+1	ambala	rajasthan
+1	up	tikri
+1	up	ambala
+1	bjp	rajasthan
+1	congress	rajasthan
+1	farmers	rajasthan
+1	jd(s	rajasthan
+1	farmers	madhya pradesh
+1	madhya pradesh	rajasthan
+1	madhya pradesh	jd(s
+1	bjp	rajya sabha
+1	congress	rajya sabha
+1	farmers	rajya sabha
+1	rajya sabha	rajasthan
+1	jd(s	rajya sabha
+1	up	rajya sabha
+1	madhya pradesh	rajya sabha
+1	rajasthan	apmc
+1	up	apmc
+1	madhya pradesh	apmc
+1	rajya sabha	apmc
+1	centre	bku
+1	centre	msp
+1	bku	msp
+1	modi	centre
+1	modi	bku
+1	modi	msp
+1	farmers	centre
+1	farmers	bku
+1	farmers	msp
+1	singh	bku
+1	singh	msp
+1	modi	singh
+1	farmers	singh
+1	amarinder singh	centre
+1	amarinder singh	bku
+1	amarinder singh	msp
+1	amarinder singh	modi
+1	amarinder singh	farmers
+1	amarinder singh	singh
+1	centre	bill
+1	bku	bill
+1	msp	bill
+1	modi	bill
+1	farmers	bill
+1	singh	bill
+1	amarinder singh	bill
+1	nda	centre
+1	nda	bku
+1	nda	msp
+1	nda	singh
+1	nda	amarinder singh
+1	nda	bill
+1	up	bku
+1	up	msp
+1	up	amarinder singh
+1	up	bill
+1	centre	union
+1	bku	union
+1	msp	union
+1	farmers	union
+1	singh	union
+1	amarinder singh	union
+1	union	bill
+1	assembly	madhya pradesh
+1	bihar	bjp
+1	bihar	modi
+1	bihar	nda
+1	bihar	up
+1	bjp	union
+1	bihar	union

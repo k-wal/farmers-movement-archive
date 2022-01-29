@@ -1,0 +1,1149 @@
+45	bill	farmers
+41	bill	congress
+40	bill	modi
+40	farmers	modi
+40	bill	state
+37	state	farmers
+36	congress	farmers
+35	bill	opposition
+34	bill	parliament
+33	farmers	bjp
+33	state	congress
+32	bill	bjp
+32	bill	singh
+32	state	modi
+30	congress	modi
+30	modi	bjp
+30	opposition	farmers
+30	parliament	farmers
+29	opposition	congress
+29	farmers	msp
+29	farmers	singh
+28	parliament	congress
+28	modi	msp
+28	bill	msp
+28	state	parliament
+27	opposition	modi
+27	opposition	parliament
+27	state	bjp
+27	state	singh
+26	modi	singh
+26	state	msp
+26	state	opposition
+25	congress	bjp
+25	parliament	modi
+25	congress	singh
+24	bill	rajya sabha
+24	bill	house
+24	parliament	singh
+23	congress	house
+23	bjp	msp
+22	congress	msp
+21	opposition	house
+21	opposition	singh
+21	singh	bjp
+20	opposition	bjp
+20	house	farmers
+20	parliament	bjp
+20	bill	centre
+19	opposition	rajya sabha
+19	opposition	msp
+19	parliament	house
+19	singh	msp
+19	farmers	centre
+18	rajya sabha	congress
+18	rajya sabha	farmers
+18	parliament	msp
+18	state	centre
+18	state	house
+17	rajya sabha	modi
+17	house	modi
+17	bill	lok sabha
+17	bill	chair
+17	house	singh
+17	state	rajya sabha
+17	congress	centre
+16	rajya sabha	parliament
+15	house	bjp
+15	rajya sabha	house
+15	bill	indian
+15	congress	chair
+15	rajya sabha	chair
+15	opposition	chair
+15	house	chair
+15	centre	bjp
+15	parliament	centre
+15	modi	centre
+14	congress	lok sabha
+14	rajya sabha	lok sabha
+14	farmers	lok sabha
+14	indian	opposition
+14	house	msp
+14	bill	bihar
+14	rajya sabha	singh
+14	congress	gandhi
+14	bill	gandhi
+14	indian	state
+14	centre	singh
+13	modi	lok sabha
+13	opposition	lok sabha
+13	farmers	chair
+13	modi	gandhi
+13	farmers	gandhi
+13	centre	msp
+13	opposition	centre
+13	indian	parliament
+13	modi	apmc
+13	farmers	apmc
+12	rajya sabha	bjp
+12	house	lok sabha
+12	indian	congress
+12	indian	farmers
+12	modi	chair
+12	rajya sabha	msp
+12	bihar	modi
+12	bihar	farmers
+12	bill	apmc
+12	parliament	lok sabha
+12	state	lok sabha
+11	indian	modi
+11	bihar	msp
+11	bihar	opposition
+11	parliament	chair
+11	singh	chair
+11	singh	gandhi
+11	apmc	msp
+11	state	apmc
+11	state	chair
+11	state	gandhi
+10	bjp	lok sabha
+10	bihar	congress
+10	bihar	rajya sabha
+10	harivansh	parliament
+10	harivansh	rajya sabha
+10	harivansh	opposition
+10	harivansh	bill
+10	harivansh	chair
+10	gandhi	msp
+10	parliament	gandhi
+10	apmc	bjp
+10	state	bihar
+10	singh	lok sabha
+10	msp	lok sabha
+9	indian	rajya sabha
+9	indian	house
+9	chair	lok sabha
+9	congress	dmk
+9	dmk	modi
+9	bill	dmk
+9	farmers	dmk
+9	chair	msp
+9	harivansh	house
+9	opposition	gandhi
+9	bill	sad
+9	state	sad
+9	bill	farmers (empowerment and protection) agreement of price assurance and farm services
+9	farmers (empowerment and protection) agreement of price assurance and farm services	farmers
+9	singh	apmc
+9	congress	apmc
+9	assembly	congress
+9	assembly	bill
+8	indian	bjp
+8	chair	bjp
+8	bihar	chair
+8	congress	cpm
+8	opposition	cpm
+8	bill	cpm
+8	harivansh	congress
+8	harivansh	singh
+8	sad	modi
+8	indian	msp
+8	parliament	apmc
+8	opposition	apmc
+8	indian	singh
+8	gandhi	bjp
+8	farmers (empowerment and protection) agreement of price assurance and farm services	modi
+8	farmers (empowerment and protection) agreement of price assurance and farm services	singh
+8	state	farmers (empowerment and protection) agreement of price assurance and farm services
+8	state	dmk
+8	bihar	bjp
+8	house	centre
+8	amarinder singh	modi
+8	amarinder singh	bill
+8	amarinder singh	farmers
+8	amarinder singh	singh
+8	assembly	parliament
+8	assembly	centre
+8	assembly	farmers
+8	amarinder	modi
+8	amarinder	amarinder singh
+8	amarinder	bill
+8	amarinder	farmers
+8	amarinder	singh
+8	amarinder singh	state
+8	assembly	state
+8	amarinder	state
+7	indian	chair
+7	bjd	congress
+7	bill	bjd
+7	bjd	farmers
+7	dmk	bjp
+7	congress	naidu
+7	rajya sabha	naidu
+7	opposition	naidu
+7	naidu	house
+7	bill	naidu
+7	naidu	chair
+7	bihar	singh
+7	parliament	cpm
+7	harivansh	farmers
+7	opposition	sad
+7	farmers	sad
+7	sad	singh
+7	bill	ram nath kovind
+7	harivansh	state
+7	farmers (empowerment and protection) agreement of price assurance and farm services	bjp
+7	narendra singh	congress
+7	narendra singh	modi
+7	bill	narendra singh
+7	narendra singh	farmers
+7	narendra singh	singh
+7	congress	tomar
+7	tomar	modi
+7	bill	tomar
+7	tomar	farmers
+7	tomar	singh
+7	narendra singh	tomar
+7	narendra singh	state
+7	state	tomar
+7	congress	kumar
+7	bjp	kumar
+7	modi	kumar
+7	bill	kumar
+7	farmers	kumar
+7	centre	lok sabha
+7	amarinder singh	congress
+7	amarinder singh	bjp
+7	amarinder singh	msp
+7	amarinder singh	centre
+7	assembly	bjp
+7	congress	rahul gandhi
+7	rahul gandhi	modi
+7	bill	rahul gandhi
+7	rahul gandhi	farmers
+7	amarinder	congress
+7	amarinder	bjp
+7	amarinder	msp
+7	amarinder	centre
+7	rahul gandhi	gandhi
+7	assembly	opposition
+7	state	gujarat
+6	bjd	bjp
+6	aiadmk	congress
+6	aiadmk	modi
+6	bill	aiadmk
+6	aiadmk	farmers
+6	rajya sabha	upper house
+6	opposition	upper house
+6	house	upper house
+6	bill	upper house
+6	chair	upper house
+6	opposition	dmk
+6	aiadmk	dmk
+6	bihar	parliament
+6	bihar	house
+6	rajya sabha	cpm
+6	house	cpm
+6	farmers	cpm
+6	cpm	chair
+6	harivansh	modi
+6	house	gandhi
+6	parliament	sad
+6	telegraph	modi
+6	opposition	telegraph
+6	bill	telegraph
+6	telegraph	farmers
+6	centre	apmc
+6	harivansh	indian
+6	singh	ram nath kovind
+6	state	cpm
+6	state	ram nath kovind
+6	modi	ram nath kovind
+6	farmers	ram nath kovind
+6	farmers (empowerment and protection) agreement of price assurance and farm services	parliament
+6	rajya sabha	apmc
+6	apmc	lok sabha
+6	chair	apmc
+6	narendra singh	msp
+6	narendra singh	parliament
+6	narendra singh	house
+6	narendra singh	lok sabha
+6	tomar	msp
+6	parliament	tomar
+6	tomar	house
+6	tomar	lok sabha
+6	farmers (empowerment and protection) agreement of price assurance and farm services	congress
+6	farmers (empowerment and protection) agreement of price assurance and farm services	msp
+6	harsimrat kaur badal	msp
+6	harsimrat kaur badal	modi
+6	bill	harsimrat kaur badal
+6	harsimrat kaur badal	farmers
+6	state	harsimrat kaur badal
+6	dmk	msp
+6	parliament	dmk
+6	state	kumar
+6	amarinder singh	parliament
+6	assembly	msp
+6	assembly	modi
+6	assembly	singh
+6	rahul gandhi	msp
+6	rahul gandhi	singh
+6	amarinder	parliament
+6	centre	gandhi
+6	amarinder singh	gandhi
+6	amarinder	gandhi
+6	state	rahul gandhi
+6	assembly	house
+6	state	bjd
+6	congress	gujarat
+6	gujarat	modi
+6	bill	gujarat
+6	farmers	gujarat
+5	indian	lok sabha
+5	bjd	opposition
+5	bjd	house
+5	aiadmk	bjp
+5	congress	upper house
+5	lok sabha	upper house
+5	rajya sabha	dmk
+5	house	dmk
+5	indian	dmk
+5	aap	congress
+5	aap	parliament
+5	aap	bill
+5	aap	singh
+5	cpm	modi
+5	cpm	singh
+5	harivansh	msp
+5	harivansh	bihar
+5	harivansh	cpm
+5	bihar	gandhi
+5	chair	gandhi
+5	parliament	naidu
+5	naidu	cpm
+5	elamaram kareem	congress
+5	elamaram kareem	parliament
+5	elamaram kareem	rajya sabha
+5	elamaram kareem	opposition
+5	elamaram kareem	house
+5	bill	elamaram kareem
+5	elamaram kareem	chair
+5	elamaram kareem	cpm
+5	elamaram kareem	naidu
+5	sad	bjp
+5	sad	msp
+5	indian	sad
+5	telegraph	parliament
+5	odisha	parliament
+5	bill	odisha
+5	odisha	farmers
+5	state	telegraph
+5	state	odisha
+5	congress	sad
+5	rajya sabha	sad
+5	opposition	ram nath kovind
+5	bill	madhya pradesh
+5	ram nath kovind	msp
+5	madhya pradesh	state
+5	randeep surjewala	congress
+5	randeep surjewala	bjp
+5	randeep surjewala	msp
+5	randeep surjewala	modi
+5	randeep surjewala	bill
+5	randeep surjewala	farmers
+5	surjewala	congress
+5	surjewala	bjp
+5	surjewala	msp
+5	surjewala	modi
+5	bill	surjewala
+5	surjewala	farmers
+5	randeep surjewala	surjewala
+5	randeep surjewala	state
+5	state	surjewala
+5	farmers (empowerment and protection) agreement of price assurance and farm services	rajya sabha
+5	house	apmc
+5	harivansh	lok sabha
+5	narendra singh	opposition
+5	opposition	tomar
+5	harsimrat kaur badal	congress
+5	harsimrat kaur badal	house
+5	harsimrat kaur badal	singh
+5	bihar	lok sabha
+5	narendra singh	bjp
+5	tomar	bjp
+5	congress	telangana
+5	telangana	bjp
+5	telangana	msp
+5	telangana	modi
+5	bill	telangana
+5	telangana	farmers
+5	aiadmk	state
+5	state	telangana
+5	telegraph	congress
+5	rahul gandhi	bjp
+5	rahul gandhi	centre
+5	bjd	parliament
+5	harsimrat kaur badal	bjp
+5	gujarat	msp
+4	bjd	rajya sabha
+4	bjd	lok sabha
+4	aiadmk	opposition
+4	modi	upper house
+4	farmers	upper house
+4	dmk	lok sabha
+4	dmk	chair
+4	naidu	modi
+4	naidu	farmers
+4	aap	rajya sabha
+4	aap	opposition
+4	aap	house
+4	aap	chair
+4	bihar	cpm
+4	aap	harivansh
+4	rajya sabha	gandhi
+4	cpm	gandhi
+4	naidu	singh
+4	harivansh	naidu
+4	naidu	gandhi
+4	elamaram kareem	singh
+4	harivansh	elamaram kareem
+4	elamaram kareem	gandhi
+4	indian	centre
+4	telegraph	bjp
+4	telegraph	msp
+4	sad	apmc
+4	odisha	bjp
+4	odisha	centre
+4	odisha	opposition
+4	bihar	sad
+4	sad	chair
+4	indian	cpm
+4	indian	gandhi
+4	congress	ram nath kovind
+4	parliament	ram nath kovind
+4	rajya sabha	ram nath kovind
+4	gandhi	ram nath kovind
+4	aap	state
+4	madhya pradesh	modi
+4	madhya pradesh	rajya sabha
+4	madhya pradesh	farmers
+4	madhya pradesh	singh
+4	opposition	farmers (empowerment and protection) agreement of price assurance and farm services
+4	farmers (empowerment and protection) agreement of price assurance and farm services	house
+4	farmers (empowerment and protection) agreement of price assurance and farm services	chair
+4	farmers (empowerment and protection) agreement of price assurance and farm services	apmc
+4	harivansh	bjp
+4	parliament	upper house
+4	narendra singh	apmc
+4	tomar	apmc
+4	harsimrat kaur badal	parliament
+4	harsimrat kaur badal	opposition
+4	harsimrat kaur badal	lok sabha
+4	dmk	singh
+4	dmk	apmc
+4	bihar	apmc
+4	msp	kumar
+4	house	kumar
+4	singh	kumar
+4	aiadmk	parliament
+4	parliament	telangana
+4	narendra singh	centre
+4	tomar	centre
+4	telegraph	house
+4	amarinder singh	rahul gandhi
+4	rahul gandhi	apmc
+4	amarinder	rahul gandhi
+4	bhagat singh	congress
+4	bhagat singh	bjp
+4	bhagat singh	modi
+4	bhagat singh	bill
+4	bhagat singh	farmers
+4	bhagat singh	singh
+4	assembly	gandhi
+4	apmc	gandhi
+4	telangana	gandhi
+4	bjd	singh
+4	odisha	congress
+4	congress	jjp
+4	jjp	bjp
+4	jjp	modi
+4	bill	jjp
+4	farmers	jjp
+4	state	jjp
+4	dushyant chautala	congress
+4	dushyant chautala	bjp
+4	dushyant chautala	modi
+4	bill	dushyant chautala
+4	dushyant chautala	farmers
+4	dushyant chautala	jjp
+4	dushyant chautala	state
+4	amarinder singh	opposition
+4	gujarat	singh
+4	amarinder	opposition
+4	gujarat	gandhi
+4	harsimrat kaur badal	centre
+4	rajya sabha	centre
+4	bihar	centre
+4	opposition	kumar
+4	ram nath kovind	bjp
+4	gujarat	bjp
+3	bjd	modi
+3	indian	bjd
+3	bjd	chair
+3	aiadmk	rajya sabha
+3	indian	aiadmk
+3	aiadmk	bjd
+3	bjd	dmk
+3	indian	naidu
+3	naidu	upper house
+3	aap	farmers
+3	cpm	msp
+3	aap	cpm
+3	aap	gandhi
+3	harivansh	gandhi
+3	bihar	naidu
+3	aap	naidu
+3	elamaram kareem	modi
+3	elamaram kareem	bihar
+3	elamaram kareem	farmers
+3	aap	elamaram kareem
+3	sad	centre
+3	telegraph	centre
+3	indian	telegraph
+3	indian	apmc
+3	odisha	msp
+3	house	sad
+3	indian	bihar
+3	cpm	sad
+3	harivansh	sad
+3	sad	ram nath kovind
+3	house	ram nath kovind
+3	bihar	ram nath kovind
+3	indian	ram nath kovind
+3	chair	ram nath kovind
+3	state	naidu
+3	elamaram kareem	state
+3	madhya pradesh	msp
+3	madhya pradesh	opposition
+3	madhya pradesh	bihar
+3	modi	rajasthan
+3	bill	rajasthan
+3	madhya pradesh	rajasthan
+3	state	rajasthan
+3	randeep surjewala	opposition
+3	randeep surjewala	house
+3	surjewala	opposition
+3	surjewala	house
+3	randeep surjewala	gandhi
+3	surjewala	gandhi
+3	farmers (empowerment and protection) agreement of price assurance and farm services	lok sabha
+3	harivansh	farmers (empowerment and protection) agreement of price assurance and farm services
+3	harivansh	apmc
+3	harivansh	upper house
+3	sad	lok sabha
+3	narendra singh	rajya sabha
+3	rajya sabha	tomar
+3	farmers (empowerment and protection) agreement of price assurance and farm services	sad
+3	indian	farmers (empowerment and protection) agreement of price assurance and farm services
+3	harsimrat kaur badal	rajya sabha
+3	narendra singh	harsimrat kaur badal
+3	harsimrat kaur badal	tomar
+3	harsimrat kaur badal	apmc
+3	farmers (empowerment and protection) agreement of price assurance and farm services	dmk
+3	bihar	kumar
+3	chair	kumar
+3	dmk	kumar
+3	aiadmk	msp
+3	opposition	telangana
+3	telangana	dmk
+3	telegraph	singh
+3	china	parliament
+3	china	modi
+3	china	opposition
+3	china	bill
+3	china	singh
+3	china	state
+3	assembly	amarinder singh
+3	parliament	rahul gandhi
+3	amarinder	assembly
+3	bhagat singh	msp
+3	bhagat singh	parliament
+3	bhagat singh	centre
+3	amarinder singh	bhagat singh
+3	amarinder	bhagat singh
+3	bhagat singh	gandhi
+3	telangana	singh
+3	assembly	telangana
+3	bhagat singh	state
+3	dmk	centre
+3	assembly	dmk
+3	bjd	centre
+3	odisha	house
+3	odisha	singh
+3	assembly	odisha
+3	opposition	jjp
+3	house	jjp
+3	dushyant chautala	opposition
+3	dushyant chautala	house
+3	opposition	gujarat
+3	pakistan	congress
+3	pakistan	modi
+3	amarinder singh	pakistan
+3	pakistan	bill
+3	pakistan	farmers
+3	pakistan	singh
+3	amarinder	pakistan
+3	pakistan	gandhi
+3	pakistan	state
+3	assembly	rajya sabha
+3	assembly	bihar
+3	centre	chair
+3	assembly	chair
+3	centre	kumar
+3	fci	bjp
+3	fci	modi
+3	bill	fci
+3	fci	farmers
+3	fci	singh
+3	state	fci
+3	madhya pradesh	parliament
+3	telegraph	cpm
+3	centre	ram nath kovind
+3	amarinder singh	ram nath kovind
+3	amarinder	ram nath kovind
+3	madhya pradesh	bjp
+3	farmers (empowerment and protection) agreement of price assurance and farm services	centre
+3	amarinder singh	farmers (empowerment and protection) agreement of price assurance and farm services
+3	amarinder	farmers (empowerment and protection) agreement of price assurance and farm services
+3	farmers (empowerment and protection) agreement of price assurance and farm services	gandhi
+3	assembly	indian
+3	farmers (empowerment and protection) agreement of price assurance and farm services	ram nath kovind
+2	aiadmk	house
+2	aiadmk	lok sabha
+2	aiadmk	chair
+2	bjp	upper house
+2	indian	upper house
+2	dmk	upper house
+2	naidu	bjp
+2	naidu	lok sabha
+2	aap	msp
+2	aap	modi
+2	aap	bihar
+2	naidu	msp
+2	elamaram kareem	msp
+2	telegraph	sad
+2	odisha	modi
+2	indian	odisha
+2	aap	indian
+2	sad	gandhi
+2	cpm	ram nath kovind
+2	harivansh	ram nath kovind
+2	naidu	ram nath kovind
+2	indian	elamaram kareem
+2	elamaram kareem	ram nath kovind
+2	rajasthan	msp
+2	rajya sabha	rajasthan
+2	opposition	rajasthan
+2	bihar	rajasthan
+2	farmers	rajasthan
+2	singh	rajasthan
+2	madhya pradesh	ram nath kovind
+2	randeep surjewala	parliament
+2	surjewala	parliament
+2	singh	upper house
+2	farmers (empowerment and protection) agreement of price assurance and farm services	upper house
+2	apmc	upper house
+2	narendra singh	sad
+2	tomar	sad
+2	narendra singh	chair
+2	tomar	chair
+2	narendra singh	farmers (empowerment and protection) agreement of price assurance and farm services
+2	farmers (empowerment and protection) agreement of price assurance and farm services	tomar
+2	cpm	upper house
+2	harsimrat kaur badal	sad
+2	indian	harsimrat kaur badal
+2	harsimrat kaur badal	chair
+2	dmk	sad
+2	narendra singh	dmk
+2	tomar	dmk
+2	harivansh	dmk
+2	bihar	farmers (empowerment and protection) agreement of price assurance and farm services
+2	rajya sabha	kumar
+2	sad	kumar
+2	lok sabha	kumar
+2	farmers (empowerment and protection) agreement of price assurance and farm services	kumar
+2	apmc	kumar
+2	aiadmk	apmc
+2	rajya sabha	telangana
+2	telangana	apmc
+2	aiadmk	telangana
+2	china	congress
+2	china	lok sabha
+2	china	farmers
+2	assembly	rahul gandhi
+2	amarinder singh	apmc
+2	assembly	apmc
+2	amarinder	apmc
+2	assembly	bhagat singh
+2	bhagat singh	rahul gandhi
+2	aiadmk	centre
+2	assembly	aiadmk
+2	telangana	centre
+2	amarinder singh	telangana
+2	telangana	rahul gandhi
+2	amarinder	telangana
+2	bhagat singh	telangana
+2	amarinder singh	dmk
+2	amarinder	dmk
+2	bhagat singh	dmk
+2	dmk	gandhi
+2	bjd	msp
+2	assembly	bjd
+2	odisha	bjd
+2	jjp	msp
+2	parliament	jjp
+2	jjp	singh
+2	harsimrat kaur badal	jjp
+2	congress	hindi
+2	hindi	bjp
+2	hindi	msp
+2	parliament	hindi
+2	modi	hindi
+2	bill	hindi
+2	farmers	hindi
+2	singh	hindi
+2	state	hindi
+2	dushyant chautala	msp
+2	dushyant chautala	parliament
+2	dushyant chautala	singh
+2	dushyant chautala	harsimrat kaur badal
+2	harivansh	bjd
+2	amarinder singh	sad
+2	parliament	gujarat
+2	amarinder singh	gujarat
+2	pakistan	parliament
+2	pakistan	opposition
+2	pakistan	gujarat
+2	amarinder	sad
+2	amarinder	gujarat
+2	china	sad
+2	bku	congress
+2	bku	bill
+2	indian	gujarat
+2	bku	state
+2	assembly	lok sabha
+2	randeep surjewala	centre
+2	randeep surjewala	bihar
+2	randeep surjewala	lok sabha
+2	randeep surjewala	chair
+2	surjewala	centre
+2	surjewala	bihar
+2	surjewala	lok sabha
+2	surjewala	chair
+2	randeep surjewala	apmc
+2	surjewala	apmc
+2	assembly	kumar
+2	jjp	kumar
+2	randeep surjewala	kumar
+2	surjewala	kumar
+2	dushyant chautala	kumar
+2	amarinder singh	lok sabha
+2	opposition	rahul gandhi
+2	amarinder singh	narendra singh
+2	amarinder singh	tomar
+2	randeep surjewala	singh
+2	randeep surjewala	rahul gandhi
+2	surjewala	singh
+2	surjewala	rahul gandhi
+2	amarinder	lok sabha
+2	amarinder	narendra singh
+2	amarinder	tomar
+2	farmers (empowerment and protection) agreement of price assurance and farm services	fci
+2	madhya pradesh	sad
+2	madhya pradesh	lok sabha
+2	indian	madhya pradesh
+2	telegraph	rajya sabha
+2	telegraph	chair
+2	telegraph	gandhi
+2	telegraph	naidu
+2	elamaram kareem	telegraph
+2	amarinder singh	harsimrat kaur badal
+2	amarinder	harsimrat kaur badal
+2	odisha	farmers (empowerment and protection) agreement of price assurance and farm services
+2	cpm	bjp
+2	cpm	centre
+2	bihar	telegraph
+2	bihar	gujarat
+2	bihar	rahul gandhi
+2	rahul gandhi	gujarat
+2	madhya pradesh	congress
+2	randeep surjewala	gujarat
+2	surjewala	gujarat
+2	bihar	telangana
+2	telangana	gujarat
+2	assembly	farmers (empowerment and protection) agreement of price assurance and farm services
+2	farmers (empowerment and protection) agreement of price assurance and farm services	rahul gandhi
+2	gujarat	centre
+2	gujarat	chair
+2	gujarat	apmc
+2	assembly	harivansh
+2	telangana	house
+2	indian	telangana
+2	house	gujarat
+2	gujarat	kumar
+2	congress	fci
+2	fci	msp
+2	amarinder singh	house
+2	pakistan	bjp
+2	pakistan	msp
+2	pakistan	centre
+2	pakistan	farmers (empowerment and protection) agreement of price assurance and farm services
+2	amarinder	house
+2	parliament	kumar
+2	bhagat singh	opposition
+2	bhagat singh	farmers (empowerment and protection) agreement of price assurance and farm services
+2	bhagat singh	pakistan
+2	bhagat singh	kumar
+2	pakistan	ram nath kovind
+2	bhagat singh	ram nath kovind
+1	bjd	upper house
+1	aiadmk	upper house
+1	bjd	naidu
+1	aiadmk	naidu
+1	naidu	dmk
+1	telegraph	apmc
+1	odisha	sad
+1	odisha	telegraph
+1	odisha	apmc
+1	aap	sad
+1	aap	ram nath kovind
+1	naidu	sad
+1	elamaram kareem	sad
+1	rajasthan	ram nath kovind
+1	randeep surjewala	indian
+1	indian	surjewala
+1	indian	narendra singh
+1	indian	tomar
+1	cpm	lok sabha
+1	narendra singh	cpm
+1	tomar	cpm
+1	farmers (empowerment and protection) agreement of price assurance and farm services	cpm
+1	cpm	apmc
+1	harivansh	narendra singh
+1	harivansh	tomar
+1	msp	upper house
+1	sad	upper house
+1	narendra singh	upper house
+1	tomar	upper house
+1	harsimrat kaur badal	farmers (empowerment and protection) agreement of price assurance and farm services
+1	harsimrat kaur badal	cpm
+1	harivansh	harsimrat kaur badal
+1	harsimrat kaur badal	upper house
+1	state	upper house
+1	cpm	dmk
+1	harsimrat kaur badal	dmk
+1	narendra singh	bihar
+1	bihar	tomar
+1	narendra singh	kumar
+1	tomar	kumar
+1	bihar	dmk
+1	telegraph	lok sabha
+1	narendra singh	telegraph
+1	telegraph	tomar
+1	china	msp
+1	china	centre
+1	china	house
+1	china	narendra singh
+1	china	tomar
+1	china	telegraph
+1	bhagat singh	apmc
+1	amarinder singh	aiadmk
+1	aiadmk	singh
+1	aiadmk	rahul gandhi
+1	amarinder	aiadmk
+1	bhagat singh	aiadmk
+1	aiadmk	gandhi
+1	rahul gandhi	dmk
+1	indian	jjp
+1	telegraph	jjp
+1	harsimrat kaur badal	telegraph
+1	opposition	hindi
+1	house	hindi
+1	indian	hindi
+1	telegraph	hindi
+1	jjp	hindi
+1	harsimrat kaur badal	hindi
+1	indian	dushyant chautala
+1	dushyant chautala	telegraph
+1	dushyant chautala	hindi
+1	harivansh	aiadmk
+1	aap	lok sabha
+1	aap	bjd
+1	gujarat	sad
+1	pakistan	sad
+1	china	amarinder singh
+1	china	gujarat
+1	china	pakistan
+1	china	amarinder
+1	china	gandhi
+1	bku	rajya sabha
+1	bku	indian
+1	rajya sabha	gujarat
+1	bku	gujarat
+1	jjp	centre
+1	rajya sabha	jjp
+1	bihar	jjp
+1	jjp	lok sabha
+1	assembly	jjp
+1	jjp	chair
+1	randeep surjewala	rajya sabha
+1	assembly	randeep surjewala
+1	randeep surjewala	jjp
+1	surjewala	rajya sabha
+1	assembly	surjewala
+1	surjewala	jjp
+1	jjp	apmc
+1	harsimrat kaur badal	bihar
+1	assembly	harsimrat kaur badal
+1	randeep surjewala	harsimrat kaur badal
+1	harsimrat kaur badal	surjewala
+1	harsimrat kaur badal	kumar
+1	dushyant chautala	centre
+1	dushyant chautala	rajya sabha
+1	dushyant chautala	bihar
+1	dushyant chautala	lok sabha
+1	assembly	dushyant chautala
+1	dushyant chautala	chair
+1	randeep surjewala	dushyant chautala
+1	dushyant chautala	surjewala
+1	dushyant chautala	apmc
+1	rahul gandhi	lok sabha
+1	narendra singh	rahul gandhi
+1	tomar	rahul gandhi
+1	amarinder singh	randeep surjewala
+1	randeep surjewala	narendra singh
+1	randeep surjewala	tomar
+1	amarinder singh	surjewala
+1	narendra singh	surjewala
+1	surjewala	tomar
+1	amarinder	randeep surjewala
+1	amarinder	surjewala
+1	gandhi	lok sabha
+1	narendra singh	gandhi
+1	tomar	gandhi
+1	rajya sabha	fci
+1	parliament	rajasthan
+1	sad	rajasthan
+1	rajasthan	lok sabha
+1	indian	rajasthan
+1	china	rajya sabha
+1	china	indian
+1	china	madhya pradesh
+1	china	rajasthan
+1	telegraph	ram nath kovind
+1	telegraph	upper house
+1	gandhi	upper house
+1	ram nath kovind	upper house
+1	elamaram kareem	upper house
+1	harsimrat kaur badal	ram nath kovind
+1	cpm	kumar
+1	telegraph	kumar
+1	madhya pradesh	gujarat
+1	madhya pradesh	rahul gandhi
+1	congress	rajasthan
+1	rajasthan	bjp
+1	gujarat	rajasthan
+1	rahul gandhi	rajasthan
+1	randeep surjewala	madhya pradesh
+1	randeep surjewala	rajasthan
+1	madhya pradesh	surjewala
+1	surjewala	rajasthan
+1	madhya pradesh	gandhi
+1	rajasthan	gandhi
+1	madhya pradesh	telangana
+1	telangana	rajasthan
+1	randeep surjewala	telangana
+1	surjewala	telangana
+1	bku	bjp
+1	bku	msp
+1	bku	parliament
+1	bku	modi
+1	bku	centre
+1	amarinder singh	bku
+1	bku	farmers
+1	bku	singh
+1	assembly	bku
+1	bku	rahul gandhi
+1	delhi police	congress
+1	delhi police	bjp
+1	delhi police	msp
+1	delhi police	parliament
+1	delhi police	modi
+1	delhi police	centre
+1	bku	delhi police
+1	amarinder singh	delhi police
+1	bill	delhi police
+1	delhi police	farmers
+1	delhi police	singh
+1	assembly	delhi police
+1	delhi police	rahul gandhi
+1	aap	bjp
+1	aap	centre
+1	aap	bku
+1	aap	amarinder singh
+1	aap	assembly
+1	aap	rahul gandhi
+1	aap	delhi police
+1	bku	farmers (empowerment and protection) agreement of price assurance and farm services
+1	delhi police	farmers (empowerment and protection) agreement of price assurance and farm services
+1	aap	farmers (empowerment and protection) agreement of price assurance and farm services
+1	amarinder	bku
+1	amarinder	delhi police
+1	amarinder	aap
+1	bku	gandhi
+1	delhi police	gandhi
+1	state	delhi police
+1	congress	bharat bandh
+1	bharat bandh	bjp
+1	bharat bandh	msp
+1	parliament	bharat bandh
+1	bharat bandh	modi
+1	bharat bandh	centre
+1	bku	bharat bandh
+1	amarinder singh	bharat bandh
+1	bill	bharat bandh
+1	farmers	bharat bandh
+1	bharat bandh	singh
+1	assembly	bharat bandh
+1	rahul gandhi	bharat bandh
+1	delhi police	bharat bandh
+1	aap	bharat bandh
+1	farmers (empowerment and protection) agreement of price assurance and farm services	bharat bandh
+1	amarinder	bharat bandh
+1	bharat bandh	gandhi
+1	state	bharat bandh
+1	centre	hindi
+1	bku	hindi
+1	amarinder singh	hindi
+1	assembly	hindi
+1	rahul gandhi	hindi
+1	delhi police	hindi
+1	aap	hindi
+1	farmers (empowerment and protection) agreement of price assurance and farm services	hindi
+1	amarinder	hindi
+1	gandhi	hindi
+1	bharat bandh	hindi
+1	narendra singh	jjp
+1	tomar	jjp
+1	narendra singh	dushyant chautala
+1	dushyant chautala	tomar
+1	madhya pradesh	centre
+1	madhya pradesh	bjd
+1	rahul gandhi	chair
+1	assembly	cpm
+1	assembly	telegraph
+1	harivansh	telegraph
+1	telangana	chair
+1	telangana	cpm
+1	telegraph	telangana
+1	harivansh	telangana
+1	assembly	naidu
+1	naidu	telangana
+1	elamaram kareem	bjp
+1	assembly	elamaram kareem
+1	elamaram kareem	telangana
+1	harivansh	centre
+1	centre	upper house
+1	bihar	upper house
+1	assembly	upper house
+1	fci	house
+1	fci	gujarat
+1	fci	chair
+1	randeep surjewala	fci
+1	surjewala	fci
+1	fci	kumar
+1	amarinder singh	indian
+1	assembly	gujarat
+1	farmers (empowerment and protection) agreement of price assurance and farm services	gujarat
+1	pakistan	house
+1	pakistan	indian
+1	assembly	pakistan
+1	amarinder	indian
+1	amarinder singh	odisha
+1	odisha	gujarat
+1	pakistan	odisha
+1	amarinder	odisha
+1	amarinder singh	kumar
+1	indian	kumar
+1	pakistan	kumar
+1	amarinder	kumar
+1	odisha	kumar
+1	bhagat singh	house
+1	bhagat singh	indian
+1	bhagat singh	gujarat
+1	bhagat singh	odisha
+1	odisha	gandhi
+1	gandhi	kumar
+1	assembly	ram nath kovind
+1	gujarat	ram nath kovind
+1	odisha	ram nath kovind
+1	ram nath kovind	kumar
+1	farmers (empowerment and protection) agreement of price assurance and farm services	telangana
+1	pakistan	telangana
+1	odisha	telangana
+1	telangana	kumar
+1	telangana	ram nath kovind
+1	gujarat	dmk
+1	pakistan	dmk
+1	odisha	dmk
+1	dmk	ram nath kovind
+1	pakistan	rahul gandhi
+1	rahul gandhi	ram nath kovind
+1	fci	centre
+1	amarinder singh	fci
+1	fci	rahul gandhi
+1	pakistan	fci
+1	amarinder	fci
+1	bhagat singh	fci
+1	fci	gandhi
+1	fci	ram nath kovind
+1	bjd	jjp
+1	bjd	kumar
+1	aiadmk	jjp
+1	aiadmk	kumar
+1	dushyant chautala	bjd
+1	aiadmk	dushyant chautala
+1	jjp	dmk
+1	dushyant chautala	dmk
+1	sonipat	bjp
+1	sonipat	msp
+1	sonipat	modi
+1	sonipat	farmers
+1	sonipat	gujarat
+1	sonipat	apmc
+1	state	sonipat
+1	mann ki baat	bjp
+1	mann ki baat	msp
+1	mann ki baat	modi
+1	mann ki baat	farmers
+1	mann ki baat	gujarat
+1	mann ki baat	sonipat
+1	mann ki baat	apmc
+1	mann ki baat	state
+1	madhya pradesh	chair
+1	madhya pradesh	farmers (empowerment and protection) agreement of price assurance and farm services
+1	madhya pradesh	apmc
+1	harivansh	madhya pradesh
+1	apmc	ram nath kovind
+1	amarinder singh	rajya sabha
+1	amarinder	rajya sabha

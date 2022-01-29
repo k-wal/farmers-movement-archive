@@ -1,0 +1,1347 @@
+34	farmers	modi
+33	union	farmers
+30	farmers	msp
+29	farmers	centre
+28	state	farmers
+27	modi	msp
+26	farmers	singh
+26	union	msp
+26	union	modi
+25	farmers	nda
+25	parliament	farmers
+24	modi	centre
+24	morcha	farmers
+23	centre	msp
+23	union	centre
+22	union	nda
+22	farmers	kisan morcha
+22	morcha	kisan morcha
+22	morcha	union
+22	farmers	bjp
+22	state	union
+21	parliament	modi
+21	state	modi
+21	union	parliament
+20	union	singh
+20	morcha	modi
+20	union	kisan morcha
+19	modi	singh
+19	nda	msp
+19	modi	nda
+19	tikait	farmers
+19	morcha	msp
+19	state	bjp
+19	parliament	msp
+18	singh	msp
+18	skm	farmers
+18	modi	kisan morcha
+18	morcha	skm
+18	tikait	union
+18	state	parliament
+18	state	singh
+18	bill	farmers
+18	union	bjp
+17	centre	nda
+17	singh	nda
+17	kisan morcha	msp
+17	skm	kisan morcha
+17	union	skm
+17	modi	bjp
+17	parliament	centre
+17	state	msp
+17	state	centre
+17	parliament	nda
+17	morcha	nda
+16	centre	singh
+16	morcha	singh
+16	parliament	singh
+16	bill	parliament
+16	morcha	centre
+16	state	kisan morcha
+16	morcha	state
+15	singhu	farmers
+15	singhu	singh
+15	bku	farmers
+15	kisan morcha	singh
+15	bku	union
+15	bjp	msp
+15	bill	msp
+15	bill	nda
+15	state	nda
+15	morcha	parliament
+15	kisan morcha	nda
+14	singhu	union
+14	skm	msp
+14	skm	modi
+14	tikait	msp
+14	morcha	tikait
+14	parliament	bjp
+14	singh	bjp
+14	centre	bjp
+14	bill	union
+14	bill	modi
+14	parliament	kisan morcha
+14	centre	kisan morcha
+14	skm	nda
+13	assembly	farmers
+13	tikait	modi
+13	bill	singh
+13	tikait	nda
+13	lakhimpur kheri	farmers
+13	union	lakhimpur kheri
+12	singhu	msp
+12	singhu	modi
+12	singhu	nda
+12	tikait	kisan morcha
+12	skm	singh
+12	assembly	bjp
+12	bill	centre
+12	bill	state
+12	nda	bjp
+12	skm	parliament
+12	skm	centre
+12	state	skm
+11	singhu	centre
+11	bku	msp
+11	bku	tikait
+11	tikait	singh
+11	congress	farmers
+11	tikait	bjp
+11	tikait	parliament
+11	state	tikait
+11	bku	centre
+11	tikait	centre
+11	bill	bjp
+11	morcha	bjp
+11	morcha	bill
+11	parliament	lakhimpur kheri
+11	lakhimpur kheri	nda
+11	state	lakhimpur kheri
+10	assembly	modi
+10	assembly	union
+10	bku	modi
+10	tikait	skm
+10	farmers	tikri
+10	bku	kisan morcha
+10	singhu	kisan morcha
+10	ghazipur	farmers
+10	tikri	singh
+10	farmers	hindi
+10	morcha	bku
+10	morcha	singhu
+10	union	tikri
+10	ghazipur	union
+10	assembly	state
+10	bku	parliament
+10	singhu	state
+10	kisan morcha	bjp
+10	bill	kisan morcha
+10	lakhimpur kheri	msp
+10	lakhimpur kheri	modi
+10	morcha	lakhimpur kheri
+10	lakhimpur kheri	bjp
+9	assembly	singh
+9	assembly	nda
+9	bku	skm
+9	singhu	skm
+9	bku	singh
+9	hindi	msp
+9	price assurance and farm services act	modi
+9	price assurance and farm services act	farmers
+9	singhu	parliament
+9	bill	tikait
+9	bku	nda
+9	tikait	lakhimpur kheri
+9	lakhimpur kheri	kisan morcha
+9	lakhimpur kheri	singh
+8	assembly	msp
+8	singhu	tikri
+8	tikri	kisan morcha
+8	ghazipur	modi
+8	singhu	ghazipur
+8	ghazipur	kisan morcha
+8	ghazipur	singh
+8	modi	hindi
+8	morcha	tikri
+8	morcha	ghazipur
+8	price assurance and farm services act	msp
+8	farmers	lok sabha
+8	assembly	tikait
+8	state	congress
+8	bku	bjp
+8	bku	state
+8	price assurance and farm services act	centre
+8	assembly	morcha
+8	lucknow	farmers
+8	lucknow	union
+8	bill	lakhimpur kheri
+8	bill	skm
+7	tikri	msp
+7	modi	tikri
+7	bku	tikri
+7	ghazipur	msp
+7	farmers	sad
+7	union	hindi
+7	congress	bjp
+7	congress	modi
+7	parliament	lok sabha
+7	opposition	parliament
+7	opposition	farmers
+7	assembly	parliament
+7	modi	gandhi
+7	farmers	gandhi
+7	state	lok sabha
+7	singhu	bjp
+7	centre	tikri
+7	singhu	bill
+7	state	tikri
+7	ghazipur	centre
+7	state	ghazipur
+7	congress	centre
+7	skm	bjp
+7	assembly	kisan morcha
+7	lucknow	modi
+7	lucknow	kisan morcha
+7	lucknow	morcha
+7	skm	lakhimpur kheri
+7	assembly	lakhimpur kheri
+7	lucknow	msp
+7	lucknow	nda
+6	assembly	centre
+6	bku	singhu
+6	skm	tikri
+6	tikait	tikri
+6	bku	ghazipur
+6	ghazipur	skm
+6	ghazipur	tikri
+6	bku	sad
+6	sad	singh
+6	tikait	hindi
+6	union	sad
+6	modi	lok sabha
+6	opposition	bjp
+6	opposition	modi
+6	congress	singh
+6	state	opposition
+6	tikri	bjp
+6	parliament	tikri
+6	bku	bill
+6	ghazipur	bjp
+6	parliament	house
+6	farmers	house
+6	amit shah	bjp
+6	amit shah	parliament
+6	amit shah	farmers
+6	union	amit shah
+6	nda	lok sabha
+6	ghazipur	nda
+6	state	amit shah
+6	congress	msp
+6	indian	farmers
+6	indian	union
+6	gandhi	msp
+6	indian	state
+6	centre	hindi
+6	lucknow	bjp
+6	lucknow	state
+6	lakhimpur kheri	centre
+6	assembly	bill
+6	tikri	nda
+6	lucknow	parliament
+5	singhu	tikait
+5	tikait	ghazipur
+5	sad	msp
+5	bku	hindi
+5	kisan morcha	hindi
+5	morcha	hindi
+5	price assurance and farm services act	hindi
+5	price assurance and farm services act	morcha
+5	parliament	congress
+5	bjp	lok sabha
+5	amarinder singh	farmers
+5	amarinder singh	singh
+5	congress	gandhi
+5	parliament	gandhi
+5	amarinder	farmers
+5	amarinder	amarinder singh
+5	amarinder	singh
+5	amarinder singh	state
+5	amarinder	state
+5	sad	bjp
+5	parliament	sad
+5	all india	bjp
+5	bku	all india
+5	centre	all india
+5	farmers	all india
+5	union	all india
+5	state	sad
+5	darshan pal	parliament
+5	darshan pal	centre
+5	darshan pal	farmers
+5	darshan pal	singh
+5	darshan pal	union
+5	opposition	msp
+5	ghazipur	parliament
+5	house	centre
+5	supreme court	farmers
+5	amit shah	msp
+5	amit shah	modi
+5	union	lok sabha
+5	opposition	union
+5	supreme court	union
+5	opposition	nda
+5	house	nda
+5	supreme court	nda
+5	amit shah	nda
+5	state	house
+5	supreme court	state
+5	indian	bjp
+5	indian	modi
+5	indian	centre
+5	union	congress
+5	assembly	skm
+5	state	hindi
+5	lucknow	assembly
+5	hindi	nda
+5	bku	lakhimpur kheri
+5	lucknow	skm
+5	lucknow	singh
+5	lucknow	lakhimpur kheri
+4	sad	modi
+4	singhu	sad
+4	tikait	sad
+4	skm	hindi
+4	singh	hindi
+4	price assurance and farm services act	skm
+4	price assurance and farm services act	kisan morcha
+4	price assurance and farm services act	singh
+4	price assurance and farm services act	union
+4	congress	lok sabha
+4	tikait	lok sabha
+4	opposition	congress
+4	opposition	lok sabha
+4	assembly	congress
+4	assembly	opposition
+4	amarinder singh	bjp
+4	amarinder singh	congress
+4	singh	lok sabha
+4	opposition	singh
+4	congress	rahul gandhi
+4	rahul gandhi	modi
+4	rahul gandhi	farmers
+4	gandhi	bjp
+4	rahul gandhi	gandhi
+4	amarinder	bjp
+4	amarinder	congress
+4	state	gandhi
+4	bill	tikri
+4	bill	sad
+4	all india	msp
+4	parliament	all india
+4	tikait	all india
+4	singh	all india
+4	bill	all india
+4	darshan pal	bjp
+4	darshan pal	msp
+4	darshan pal	tikait
+4	darshan pal	tikri
+4	bill	darshan pal
+4	rajya sabha	parliament
+4	rajya sabha	farmers
+4	house	modi
+4	house	lok sabha
+4	house	singh
+4	bill	lok sabha
+4	bill	opposition
+4	supreme court	bjp
+4	supreme court	msp
+4	supreme court	modi
+4	supreme court	parliament
+4	supreme court	opposition
+4	amit shah	centre
+4	opposition	amit shah
+4	amit shah	singh
+4	union	house
+4	sad	nda
+4	all india	nda
+4	indian	msp
+4	indian	parliament
+4	centre	gandhi
+4	union	gandhi
+4	price assurance and farm services act	congress
+4	hindi	gandhi
+4	parliament	hindi
+4	price assurance and farm services act	state
+4	lucknow	tikait
+4	singhu	lakhimpur kheri
+4	amit shah	lakhimpur kheri
+4	lucknow	bill
+4	congress	nda
+4	morcha	darshan pal
+4	darshan pal	nda
+3	assembly	singhu
+3	farmers	chair
+3	singh	chair
+3	skm	sad
+3	sad	tikri
+3	sad	kisan morcha
+3	ghazipur	sad
+3	morcha	sad
+3	price assurance and farm services act	tikait
+3	muzaffarnagar	msp
+3	muzaffarnagar	modi
+3	muzaffarnagar	farmers
+3	union	muzaffarnagar
+3	opposition	tikait
+3	assembly	lok sabha
+3	amarinder singh	modi
+3	amarinder singh	parliament
+3	rahul gandhi	bjp
+3	parliament	rahul gandhi
+3	opposition	rahul gandhi
+3	aap	farmers
+3	tikait	gandhi
+3	gandhi	lok sabha
+3	opposition	gandhi
+3	assembly	gandhi
+3	amarinder	modi
+3	amarinder	parliament
+3	state	rahul gandhi
+3	aap	state
+3	sad	centre
+3	delhi police	bjp
+3	delhi police	parliament
+3	bku	delhi police
+3	delhi police	centre
+3	delhi police	farmers
+3	singhu	delhi police
+3	delhi police	singh
+3	singhu	all india
+3	tikri	all india
+3	delhi police	all india
+3	delhi police	union
+3	state	delhi police
+3	state	all india
+3	kisan sabha	bjp
+3	kisan sabha	parliament
+3	kisan sabha	bku
+3	kisan sabha	centre
+3	kisan sabha	farmers
+3	kisan sabha	tikait
+3	kisan sabha	tikri
+3	kisan sabha	singh
+3	kisan sabha	all india
+3	kisan sabha	union
+3	bku	darshan pal
+3	singhu	darshan pal
+3	darshan pal	all india
+3	darshan pal	state
+3	kisan sabha	darshan pal
+3	rajya sabha	bjp
+3	rajya sabha	modi
+3	rajya sabha	centre
+3	msp	lok sabha
+3	centre	lok sabha
+3	opposition	centre
+3	opposition	rajya sabha
+3	ghazipur	lok sabha
+3	house	bjp
+3	bku	house
+3	singhu	house
+3	rajya sabha	house
+3	rajya sabha	sad
+3	house	sad
+3	rajya sabha	singh
+3	bill	rajya sabha
+3	bill	ghazipur
+3	bill	house
+3	supreme court	centre
+3	supreme court	bill
+3	singhu	amit shah
+3	amit shah	lok sabha
+3	bill	amit shah
+3	supreme court	amit shah
+3	modi	all india
+3	union	rajya sabha
+3	rajya sabha	nda
+3	state	rajya sabha
+3	indian	congress
+3	rahul gandhi	msp
+3	amit shah	congress
+3	congress	hindi
+3	amarinder singh	centre
+3	amarinder	centre
+3	price assurance and farm services act	bjp
+3	hindi	bjp
+3	pakistan	bjp
+3	pakistan	modi
+3	pakistan	parliament
+3	pakistan	farmers
+3	pakistan	state
+3	kisan morcha	lok sabha
+3	assembly	ghazipur
+3	morcha	lok sabha
+3	telangana	msp
+3	telangana	modi
+3	telangana	centre
+3	telangana	farmers
+3	union	telangana
+3	lakhimpur kheri	lok sabha
+3	lakhimpur kheri	hindi
+3	lakhimpur kheri	gandhi
+3	gandhi	nda
+3	narendra modi’s	msp
+3	narendra modi’s	modi
+3	narendra modi’s	farmers
+3	narendra modi’s	union
+3	narendra modi’s	state
+3	ghazipur	lakhimpur kheri
+3	assembly	bku
+3	assembly	tikri
+3	lakhimpur kheri	tikri
+3	lakhimpur kheri	sad
+3	amit shah	skm
+3	amit shah	kisan morcha
+3	morcha	amit shah
+3	lucknow	singhu
+3	gujarat	msp
+3	gujarat	modi
+3	gujarat	centre
+3	farmers	gujarat
+3	tikait	gujarat
+3	morcha	gujarat
+3	union	gujarat
+3	gujarat	nda
+3	darshan pal	modi
+3	darshan pal	lakhimpur kheri
+3	singhu	indian
+3	indian	singh
+3	lucknow	centre
+3	darshan pal	kisan morcha
+3	supreme court	skm
+3	supreme court	tikait
+3	supreme court	kisan morcha
+3	supreme court	morcha
+3	indian	nda
+3	assembly	supreme court
+3	opposition	lakhimpur kheri
+3	supreme court	lakhimpur kheri
+2	chair	msp
+2	modi	chair
+2	centre	chair
+2	singhu	chair
+2	union	chair
+2	chair	nda
+2	singhu	hindi
+2	tikri	hindi
+2	ghazipur	hindi
+2	sad	hindi
+2	price assurance and farm services act	bku
+2	price assurance and farm services act	singhu
+2	price assurance and farm services act	tikri
+2	price assurance and farm services act	ghazipur
+2	bku	muzaffarnagar
+2	skm	muzaffarnagar
+2	singhu	muzaffarnagar
+2	tikait	muzaffarnagar
+2	muzaffarnagar	kisan morcha
+2	ghazipur	muzaffarnagar
+2	muzaffarnagar	sad
+2	muzaffarnagar	singh
+2	morcha	muzaffarnagar
+2	tikait	congress
+2	amarinder singh	tikait
+2	amarinder singh	lok sabha
+2	amarinder singh	assembly
+2	rahul gandhi	lok sabha
+2	assembly	rahul gandhi
+2	aap	bjp
+2	aap	modi
+2	aap	parliament
+2	aap	tikait
+2	aap	amarinder singh
+2	aap	singh
+2	singh	gandhi
+2	amarinder	tikait
+2	amarinder	lok sabha
+2	amarinder	assembly
+2	amarinder	aap
+2	delhi police	msp
+2	delhi police	tikait
+2	delhi police	tikri
+2	delhi police	sad
+2	bill	delhi police
+2	rajasthan	bjp
+2	rajasthan	msp
+2	parliament	rajasthan
+2	bku	rajasthan
+2	farmers	rajasthan
+2	singhu	rajasthan
+2	tikait	rajasthan
+2	tikri	rajasthan
+2	sad	rajasthan
+2	singh	rajasthan
+2	bill	rajasthan
+2	sad	all india
+2	union	rajasthan
+2	state	rajasthan
+2	kisan sabha	msp
+2	kisan sabha	singhu
+2	kisan sabha	bill
+2	kisan sabha	delhi police
+2	kisan sabha	state
+2	darshan pal	delhi police
+2	rajya sabha	msp
+2	bku	rajya sabha
+2	bku	lok sabha
+2	singhu	lok sabha
+2	rajya sabha	lok sabha
+2	house	msp
+2	opposition	house
+2	ghazipur	house
+2	sad	lok sabha
+2	opposition	sad
+2	delhi police	lok sabha
+2	delhi police	ghazipur
+2	delhi police	house
+2	supreme court	bku
+2	supreme court	rajya sabha
+2	supreme court	lok sabha
+2	supreme court	singh
+2	bku	amit shah
+2	amit shah	rajya sabha
+2	ghazipur	amit shah
+2	amit shah	house
+2	delhi police	amit shah
+2	all india	lok sabha
+2	ghazipur	all india
+2	house	all india
+2	amit shah	all india
+2	ambala	bjp
+2	ambala	parliament
+2	bku	ambala
+2	ambala	centre
+2	ambala	farmers
+2	singhu	ambala
+2	ambala	lok sabha
+2	ghazipur	ambala
+2	ambala	house
+2	ambala	singh
+2	delhi police	ambala
+2	ambala	amit shah
+2	ambala	all india
+2	union	ambala
+2	delhi police	nda
+2	ambala	nda
+2	muzaffarnagar	bjp
+2	parliament	muzaffarnagar
+2	opposition	muzaffarnagar
+2	bill	muzaffarnagar
+2	supreme court	muzaffarnagar
+2	muzaffarnagar	nda
+2	state	ambala
+2	state	muzaffarnagar
+2	bharat bandh	bjp
+2	bharat bandh	msp
+2	bharat bandh	modi
+2	parliament	bharat bandh
+2	bharat bandh	centre
+2	farmers	bharat bandh
+2	rajya sabha	bharat bandh
+2	opposition	bharat bandh
+2	bharat bandh	singh
+2	bill	bharat bandh
+2	supreme court	bharat bandh
+2	amit shah	bharat bandh
+2	union	bharat bandh
+2	bharat bandh	nda
+2	state	bharat bandh
+2	indian	opposition
+2	rahul gandhi	centre
+2	indian	rahul gandhi
+2	randeep surjewala	bjp
+2	randeep surjewala	msp
+2	randeep surjewala	congress
+2	randeep surjewala	modi
+2	randeep surjewala	parliament
+2	randeep surjewala	farmers
+2	randeep surjewala	opposition
+2	randeep surjewala	indian
+2	randeep surjewala	rahul gandhi
+2	surjewala	bjp
+2	surjewala	msp
+2	surjewala	congress
+2	surjewala	modi
+2	surjewala	parliament
+2	surjewala	farmers
+2	surjewala	opposition
+2	indian	surjewala
+2	surjewala	rahul gandhi
+2	randeep surjewala	surjewala
+2	indian	amit shah
+2	amit shah	rahul gandhi
+2	randeep surjewala	amit shah
+2	surjewala	amit shah
+2	union	rahul gandhi
+2	randeep surjewala	union
+2	surjewala	union
+2	indian	gandhi
+2	randeep surjewala	gandhi
+2	surjewala	gandhi
+2	amit shah	gandhi
+2	randeep surjewala	state
+2	state	surjewala
+2	price assurance and farm services act	gandhi
+2	congress	kisan morcha
+2	amarinder singh	msp
+2	amarinder singh	kisan morcha
+2	morcha	congress
+2	amarinder singh	morcha
+2	price assurance and farm services act	amarinder singh
+2	amarinder	msp
+2	amarinder	kisan morcha
+2	amarinder	morcha
+2	amarinder	price assurance and farm services act
+2	rahul gandhi	hindi
+2	amarinder singh	bill
+2	bill	hindi
+2	pakistan	msp
+2	pakistan	centre
+2	pakistan	hindi
+2	aap	centre
+2	aap	hindi
+2	amarinder	bill
+2	china	bjp
+2	china	modi
+2	china	parliament
+2	china	centre
+2	china	farmers
+2	china	pakistan
+2	china	state
+2	lucknow	lok sabha
+2	telangana	bjp
+2	telangana	nda
+2	hindi	lok sabha
+2	bill	gandhi
+2	morcha	gandhi
+2	narendra modi’s	parliament
+2	narendra modi’s	kisan morcha
+2	narendra modi’s	lok sabha
+2	narendra modi’s	hindi
+2	morcha	narendra modi’s
+2	narendra modi’s	lakhimpur kheri
+2	narendra modi’s	gandhi
+2	narendra modi’s	nda
+2	assembly	sad
+2	lucknow	amit shah
+2	congress	house
+2	bill	congress
+2	congress	cpm
+2	parliament	cpm
+2	farmers	cpm
+2	cpm	lok sabha
+2	house	cpm
+2	cpm	singh
+2	cpm	nda
+2	gujarat	bjp
+2	parliament	gujarat
+2	assembly	gujarat
+2	gujarat	singh
+2	bill	gujarat
+2	lakhimpur kheri	gujarat
+2	yogendra yadav	bjp
+2	yogendra yadav	msp
+2	yogendra yadav	modi
+2	yogendra yadav	parliament
+2	yogendra yadav	centre
+2	yogendra yadav	farmers
+2	yogendra yadav	tikait
+2	assembly	yogendra yadav
+2	yogendra yadav	singh
+2	yogendra yadav	bill
+2	yogendra yadav	gujarat
+2	yogendra yadav	morcha
+2	yogendra yadav	lakhimpur kheri
+2	yogendra yadav	union
+2	yogendra yadav	nda
+2	yadav	bjp
+2	yadav	msp
+2	yadav	modi
+2	yadav	parliament
+2	yadav	centre
+2	yadav	farmers
+2	yadav	tikait
+2	assembly	yadav
+2	yadav	singh
+2	bill	yadav
+2	yadav	gujarat
+2	morcha	yadav
+2	yadav	lakhimpur kheri
+2	yogendra yadav	yadav
+2	yadav	union
+2	yadav	nda
+2	assembly	darshan pal
+2	darshan pal	gujarat
+2	yogendra yadav	darshan pal
+2	darshan pal	yadav
+2	bihar	bjp
+2	bihar	modi
+2	bihar	centre
+2	bihar	farmers
+2	indian	tikri
+2	indian	kisan morcha
+2	indian	ghazipur
+2	indian	bihar
+2	morcha	indian
+2	singhu	telangana
+2	telangana	kisan morcha
+2	indian	telangana
+2	telangana	singh
+2	morcha	telangana
+2	bihar	union
+2	state	bihar
+2	state	telangana
+2	narendra modi’s	bjp
+2	indian	narendra modi’s
+2	kisan morcha	all india
+2	morcha	all india
+2	lakhimpur kheri	all india
+2	lucknow	bku
+2	kisan sabha	kisan morcha
+2	kisan sabha	morcha
+2	kisan sabha	lakhimpur kheri
+2	kisan sabha	nda
+2	supreme court	hindi
+2	price assurance and farm services act	nda
+2	skm	house
+2	house	kisan morcha
+2	indian	house
+2	morcha	house
+2	lucknow	indian
+2	assembly	hindi
+2	lucknow	hindi
+2	singhu	congress
+2	congress	tikri
+2	ghazipur	congress
+2	assembly	indian
+2	darshan pal	skm
+2	opposition	skm
+2	opposition	kisan morcha
+2	morcha	opposition
+2	rajya sabha	lakhimpur kheri
+2	tikait	amit shah
+2	assembly	amit shah
+2	lucknow	opposition
+2	lucknow	supreme court
+2	congress	lakhimpur kheri
+2	lakhimpur kheri	house
+2	pakistan	indian
+2	indian	lakhimpur kheri
+2	pakistan	lakhimpur kheri
+2	pakistan	union
+1	assembly	chair
+1	price assurance and farm services act	sad
+1	muzaffarnagar	tikri
+1	muzaffarnagar	hindi
+1	price assurance and farm services act	muzaffarnagar
+1	amarinder singh	opposition
+1	tikait	rahul gandhi
+1	amarinder singh	rahul gandhi
+1	rahul gandhi	singh
+1	aap	congress
+1	aap	lok sabha
+1	aap	opposition
+1	aap	assembly
+1	aap	rahul gandhi
+1	amarinder singh	gandhi
+1	aap	gandhi
+1	amarinder	opposition
+1	amarinder	rahul gandhi
+1	amarinder	gandhi
+1	narendra singh	bjp
+1	narendra singh	msp
+1	narendra singh	parliament
+1	bku	narendra singh
+1	narendra singh	centre
+1	narendra singh	farmers
+1	singhu	narendra singh
+1	narendra singh	tikait
+1	narendra singh	tikri
+1	narendra singh	sad
+1	narendra singh	singh
+1	bill	narendra singh
+1	tomar	bjp
+1	tomar	msp
+1	parliament	tomar
+1	bku	tomar
+1	tomar	centre
+1	tomar	farmers
+1	singhu	tomar
+1	tikait	tomar
+1	tomar	tikri
+1	tomar	sad
+1	tomar	singh
+1	bill	tomar
+1	narendra singh	tomar
+1	narendra singh	delhi police
+1	delhi police	tomar
+1	centre	rajasthan
+1	narendra singh	rajasthan
+1	tomar	rajasthan
+1	delhi police	rajasthan
+1	narendra singh	all india
+1	tomar	all india
+1	rajasthan	all india
+1	narendra singh	union
+1	union	tomar
+1	narendra singh	state
+1	state	tomar
+1	kisan sabha	sad
+1	kisan sabha	narendra singh
+1	kisan sabha	tomar
+1	kisan sabha	rajasthan
+1	darshan pal	sad
+1	narendra singh	darshan pal
+1	darshan pal	tomar
+1	darshan pal	rajasthan
+1	singhu	rajya sabha
+1	bku	opposition
+1	singhu	opposition
+1	ghazipur	rajya sabha
+1	opposition	ghazipur
+1	bjp	jantar mantar
+1	msp	jantar mantar
+1	modi	jantar mantar
+1	parliament	jantar mantar
+1	bku	jantar mantar
+1	centre	jantar mantar
+1	farmers	jantar mantar
+1	singhu	jantar mantar
+1	rajya sabha	jantar mantar
+1	lok sabha	jantar mantar
+1	opposition	jantar mantar
+1	ghazipur	jantar mantar
+1	house	jantar mantar
+1	sad	jantar mantar
+1	singh	jantar mantar
+1	bill	jantar mantar
+1	delhi police	modi
+1	delhi police	rajya sabha
+1	delhi police	opposition
+1	delhi police	jantar mantar
+1	supreme court	singhu
+1	supreme court	ghazipur
+1	supreme court	house
+1	supreme court	sad
+1	supreme court	jantar mantar
+1	supreme court	delhi police
+1	burari	bjp
+1	burari	msp
+1	burari	modi
+1	burari	parliament
+1	burari	bku
+1	burari	centre
+1	burari	farmers
+1	burari	singhu
+1	burari	rajya sabha
+1	burari	lok sabha
+1	burari	opposition
+1	burari	ghazipur
+1	burari	house
+1	burari	sad
+1	burari	singh
+1	burari	bill
+1	burari	jantar mantar
+1	burari	delhi police
+1	burari	supreme court
+1	amit shah	sad
+1	amit shah	jantar mantar
+1	burari	amit shah
+1	rajya sabha	all india
+1	opposition	all india
+1	all india	jantar mantar
+1	supreme court	all india
+1	burari	all india
+1	union	jantar mantar
+1	burari	union
+1	ambala	msp
+1	ambala	modi
+1	ambala	rajya sabha
+1	opposition	ambala
+1	ambala	sad
+1	bill	ambala
+1	ambala	jantar mantar
+1	supreme court	ambala
+1	burari	ambala
+1	nda	jantar mantar
+1	burari	nda
+1	muzaffarnagar	centre
+1	rajya sabha	muzaffarnagar
+1	muzaffarnagar	lok sabha
+1	muzaffarnagar	house
+1	muzaffarnagar	jantar mantar
+1	delhi police	muzaffarnagar
+1	burari	muzaffarnagar
+1	amit shah	muzaffarnagar
+1	muzaffarnagar	all india
+1	ambala	muzaffarnagar
+1	state	jantar mantar
+1	burari	state
+1	bku	bharat bandh
+1	singhu	bharat bandh
+1	bharat bandh	lok sabha
+1	ghazipur	bharat bandh
+1	house	bharat bandh
+1	bharat bandh	sad
+1	bharat bandh	jantar mantar
+1	delhi police	bharat bandh
+1	burari	bharat bandh
+1	bharat bandh	all india
+1	ambala	bharat bandh
+1	muzaffarnagar	bharat bandh
+1	randeep surjewala	centre
+1	surjewala	centre
+1	price assurance and farm services act	assembly
+1	price assurance and farm services act	rahul gandhi
+1	amarinder singh	hindi
+1	price assurance and farm services act	parliament
+1	price assurance and farm services act	bill
+1	amarinder singh	pakistan
+1	pakistan	singh
+1	pakistan	bill
+1	price assurance and farm services act	pakistan
+1	aap	msp
+1	aap	bill
+1	aap	price assurance and farm services act
+1	aap	pakistan
+1	amarinder	hindi
+1	amarinder	pakistan
+1	china	msp
+1	china	amarinder singh
+1	china	singh
+1	china	bill
+1	china	hindi
+1	china	price assurance and farm services act
+1	china	aap
+1	china	amarinder
+1	lucknow	ghazipur
+1	bku	telangana
+1	tikait	telangana
+1	bill	telangana
+1	telangana	all india
+1	kisan morcha	gandhi
+1	narendra modi’s	tikait
+1	bill	narendra modi’s
+1	modi	rajasthan
+1	skm	rajasthan
+1	kisan morcha	rajasthan
+1	ghazipur	rajasthan
+1	assembly	rajasthan
+1	morcha	rajasthan
+1	lakhimpur kheri	rajasthan
+1	rajasthan	nda
+1	telegraph	bjp
+1	telegraph	msp
+1	telegraph	modi
+1	telegraph	parliament
+1	telegraph	skm
+1	telegraph	farmers
+1	singhu	telegraph
+1	telegraph	kisan morcha
+1	telegraph	singh
+1	bill	telegraph
+1	morcha	telegraph
+1	telegraph	lakhimpur kheri
+1	telegraph	amit shah
+1	union	telegraph
+1	telegraph	nda
+1	lucknow	telegraph
+1	state	telegraph
+1	rajya sabha	congress
+1	congress	sad
+1	rajya sabha	cpm
+1	opposition	cpm
+1	cpm	sad
+1	bill	cpm
+1	congress	chair
+1	parliament	chair
+1	rajya sabha	chair
+1	chair	lok sabha
+1	opposition	chair
+1	house	chair
+1	sad	chair
+1	bill	chair
+1	cpm	chair
+1	gujarat	gandhi
+1	yogendra yadav	gandhi
+1	yadav	gandhi
+1	darshan pal	gandhi
+1	bihar	msp
+1	singhu	bihar
+1	bihar	tikri
+1	bihar	kisan morcha
+1	bihar	ghazipur
+1	bihar	singh
+1	morcha	bihar
+1	telangana	tikri
+1	ghazipur	telangana
+1	bihar	telangana
+1	chair	bjp
+1	tikri	chair
+1	kisan morcha	chair
+1	ghazipur	chair
+1	bihar	chair
+1	indian	chair
+1	morcha	chair
+1	telangana	chair
+1	odisha	bjp
+1	odisha	msp
+1	odisha	modi
+1	odisha	centre
+1	odisha	farmers
+1	singhu	odisha
+1	odisha	tikri
+1	odisha	kisan morcha
+1	odisha	ghazipur
+1	odisha	bihar
+1	indian	odisha
+1	odisha	singh
+1	morcha	odisha
+1	odisha	telangana
+1	odisha	chair
+1	odisha	union
+1	state	chair
+1	state	odisha
+1	narendra modi’s	centre
+1	singhu	narendra modi’s
+1	narendra modi’s	tikri
+1	narendra modi’s	ghazipur
+1	narendra modi’s	bihar
+1	narendra modi’s	singh
+1	narendra modi’s	telangana
+1	narendra modi’s	chair
+1	narendra modi’s	odisha
+1	bku	gujarat
+1	gujarat	tikri
+1	gujarat	kisan morcha
+1	assembly	all india
+1	gujarat	all india
+1	yogendra yadav	bku
+1	yogendra yadav	tikri
+1	yogendra yadav	kisan morcha
+1	yogendra yadav	all india
+1	lucknow	tikri
+1	lucknow	gujarat
+1	lucknow	all india
+1	lucknow	yogendra yadav
+1	bku	yadav
+1	yadav	tikri
+1	yadav	kisan morcha
+1	yadav	all india
+1	lucknow	yadav
+1	kisan sabha	modi
+1	assembly	kisan sabha
+1	kisan sabha	gujarat
+1	kisan sabha	yogendra yadav
+1	lucknow	kisan sabha
+1	kisan sabha	yadav
+1	lucknow	darshan pal
+1	aap	bku
+1	aap	skm
+1	aap	kisan morcha
+1	aap	morcha
+1	aap	supreme court
+1	aap	union
+1	aap	nda
+1	indian	skm
+1	parliament	telangana
+1	skm	telangana
+1	telangana	house
+1	lucknow	house
+1	lucknow	telangana
+1	lucknow	sad
+1	jjp	bjp
+1	congress	jjp
+1	jjp	centre
+1	farmers	jjp
+1	singhu	jjp
+1	jjp	tikri
+1	ghazipur	jjp
+1	assembly	jjp
+1	indian	jjp
+1	jjp	singh
+1	union	jjp
+1	jjp	nda
+1	state	jjp
+1	rajya sabha	skm
+1	tikait	rajya sabha
+1	rajya sabha	kisan morcha
+1	assembly	rajya sabha
+1	morcha	rajya sabha
+1	skm	bharat bandh
+1	tikait	bharat bandh
+1	bharat bandh	kisan morcha
+1	assembly	bharat bandh
+1	morcha	bharat bandh
+1	lakhimpur kheri	bharat bandh
+1	assembly	muzaffarnagar
+1	muzaffarnagar	lakhimpur kheri
+1	lucknow	muzaffarnagar
+1	bku	congress
+1	skm	congress
+1	skm	lok sabha
+1	tikri	lok sabha
+1	tikait	house
+1	house	tikri
+1	amarinder singh	bku
+1	amarinder singh	skm
+1	amarinder singh	singhu
+1	amarinder singh	tikri
+1	amarinder singh	ghazipur
+1	amarinder singh	house
+1	delhi police	congress
+1	delhi police	skm
+1	delhi police	kisan morcha
+1	amarinder singh	delhi police
+1	morcha	delhi police
+1	cpm	bjp
+1	bku	cpm
+1	cpm	centre
+1	skm	cpm
+1	singhu	cpm
+1	tikait	cpm
+1	cpm	tikri
+1	cpm	kisan morcha
+1	ghazipur	cpm
+1	amarinder singh	cpm
+1	delhi police	cpm
+1	morcha	cpm
+1	amarinder singh	lakhimpur kheri
+1	delhi police	lakhimpur kheri
+1	lakhimpur kheri	cpm
+1	amit shah	tikri
+1	amarinder singh	amit shah
+1	amit shah	cpm
+1	congress	all india
+1	skm	all india
+1	amarinder singh	all india
+1	cpm	all india
+1	amarinder singh	union
+1	union	cpm
+1	ambala	congress
+1	ambala	skm
+1	tikait	ambala
+1	ambala	tikri
+1	ambala	kisan morcha
+1	amarinder singh	ambala
+1	morcha	ambala
+1	ambala	cpm
+1	ambala	lakhimpur kheri
+1	amarinder	bku
+1	amarinder	skm
+1	amarinder	singhu
+1	amarinder	tikri
+1	amarinder	ghazipur
+1	amarinder	house
+1	amarinder	delhi police
+1	amarinder	cpm
+1	amarinder	lakhimpur kheri
+1	amarinder	amit shah
+1	amarinder	all india
+1	amarinder	union
+1	amarinder	ambala
+1	amarinder singh	nda
+1	amarinder	nda
+1	state	cpm
+1	kisan sabha	congress
+1	kisan sabha	skm
+1	kisan sabha	lok sabha
+1	kisan sabha	ghazipur
+1	kisan sabha	house
+1	amarinder singh	kisan sabha
+1	kisan sabha	cpm
+1	kisan sabha	amit shah
+1	kisan sabha	ambala
+1	amarinder	kisan sabha
+1	darshan pal	congress
+1	darshan pal	lok sabha
+1	darshan pal	ghazipur
+1	darshan pal	house
+1	amarinder singh	darshan pal
+1	darshan pal	cpm
+1	darshan pal	amit shah
+1	darshan pal	ambala
+1	amarinder	darshan pal
+1	bihar	parliament
+1	bku	bihar
+1	bihar	rajya sabha
+1	bihar	house
+1	bihar	sad
+1	bku	indian
+1	indian	rajya sabha
+1	indian	sad
+1	pakistan	bku
+1	pakistan	rajya sabha
+1	pakistan	house
+1	pakistan	sad
+1	pakistan	bihar
+1	bihar	lakhimpur kheri
+1	china	bku
+1	china	rajya sabha
+1	china	house
+1	china	sad
+1	china	bihar
+1	china	indian
+1	china	lakhimpur kheri
+1	china	union
+1	indian	lok sabha
+1	opposition	hindi
+1	indian	hindi
+1	supreme court	congress
+1	supreme court	indian
+1	supreme court	rahul gandhi
+1	pakistan	congress
+1	pakistan	lok sabha
+1	pakistan	opposition
+1	assembly	pakistan
+1	pakistan	rahul gandhi
+1	pakistan	supreme court
+1	randeep surjewala	lok sabha
+1	assembly	randeep surjewala
+1	randeep surjewala	hindi
+1	randeep surjewala	supreme court
+1	randeep surjewala	pakistan
+1	lakhimpur kheri	rahul gandhi
+1	randeep surjewala	lakhimpur kheri
+1	surjewala	lok sabha
+1	assembly	surjewala
+1	surjewala	hindi
+1	supreme court	surjewala
+1	pakistan	surjewala
+1	surjewala	lakhimpur kheri
+1	amit shah	hindi
+1	pakistan	amit shah
+1	supreme court	gandhi
+1	pakistan	gandhi
+1	rahul gandhi	nda
+1	pakistan	nda
+1	randeep surjewala	nda
+1	surjewala	nda
+1	lucknow	congress
+1	lucknow	rahul gandhi
+1	lucknow	pakistan
+1	lucknow	randeep surjewala
+1	lucknow	surjewala
+1	lucknow	gandhi
+1	narendra modi’s	congress
+1	narendra modi’s	opposition
+1	assembly	narendra modi’s
+1	narendra modi’s	rahul gandhi
+1	supreme court	narendra modi’s
+1	pakistan	narendra modi’s
+1	randeep surjewala	narendra modi’s
+1	narendra modi’s	surjewala
+1	narendra modi’s	amit shah
+1	lucknow	narendra modi’s
+1	skm	gujarat
+1	price assurance and farm services act	gujarat

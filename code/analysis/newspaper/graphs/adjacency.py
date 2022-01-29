@@ -68,7 +68,8 @@ def get_relevant_text(filepath):
 # load entities and their counts from path==filename
 def load_month_entities(filename):
 	f = open(filename, 'r')
-	lines = f.readlines()
+	lines = [line for line in f.readlines()]
+	lines = lines[0:70]
 	f.close()
 
 	ners = []
@@ -122,6 +123,16 @@ def get_month_relations(dir_path, ners):
 	sorted_relation_counts = {k: v for k, v in sorted_tuples}
 	return ner_counts, sorted_relation_counts
 
+# print *all* relations in a file
+def print_relations(relation_counts, filename):
+	file = open(filename + '.txt', 'w')
+	for rel in relation_counts:
+		ners = [x for x in rel]
+		count = relation_counts[rel]
+		to_write = '\t'.join([str(count), ners[0], ners[1]]) + '\n'
+		file.write(to_write)
+
+# create arrays from 50 most frequent relations
 def create_relation_df(relation_counts, limit=50):
 	node1 = []
 	node2 = []
@@ -139,7 +150,7 @@ def create_relation_df(relation_counts, limit=50):
 
 	return node1, node2, edge_labels
 
-def plot_month_relations(ners, ner_counts, relation_counts):
+def plot_month_relations(ners, ner_counts, relation_counts, filename):
 	node1, node2, edge_labels = create_relation_df(relation_counts)
 	edges = [[x, y] for x,y in zip(node1, node2)]
 
@@ -165,27 +176,60 @@ def plot_month_relations(ners, ner_counts, relation_counts):
 			node_colors.append('#5dbdfb')
 
 	pos = nx.spring_layout(G)
+	plt.rcParams["figure.figsize"] = (20,10)
 	plt.figure()
 	nx.draw(
 	    G, pos, edge_color='black', width=widths, linewidths=1,
-	    node_size=node_sizes, node_color=node_colors, alpha=1,
+	    node_size=node_sizes, node_color=node_colors, alpha=0.95,
 	    with_labels=True
 	)
 
 	nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels,font_color='red')
 	plt.axis('off')
-	plt.show()
+	plt.savefig(filename + '.png')
+	# plt.show()
+	plt.close()
 
-def main_func(dir_path, ner_path):
+def create_directory(dir_path):
+	if os.path.isdir(dir_path):
+		return
+	else:
+		os.makedirs(dir_path)
+
+def main_func(dir_path, ner_path, publication):
+	print(dir_path)
+	month = dir_path.split('/')[-1]
+
+	image_dir = 'images/cooccurrence/' + publication
+	create_directory(image_dir)
+	image_filename =  image_dir + '/' + month
+	
+	list_dir = 'relation_lists/' + publication
+	create_directory(list_dir)
+	list_filename = list_dir + '/' + month
+
 	ners, ner_counts = load_month_entities(ner_path)
 	_, relation_counts = get_month_relations(dir_path, ners)
-	plot_month_relations(ners, ner_counts, relation_counts)
+	
+	if len(relation_counts) == 0:
+		print("no relations found")
+		return
+	print_relations(relation_counts, list_filename)
+	plot_month_relations(ners, ner_counts, relation_counts, image_filename)
 
 
-ner_path = 'ner_lists/hindu-01-2021.txt'
-dir_path = '../../../../corpus/hindu/01-2021'
+dir_path = '../../../../corpus/telegraph/india/'
+publication = 'telegraph-india'
+
+for month in os.listdir(dir_path):
+	month_path = dir_path + month
+	ner_path = 'ner_lists/' + publication + '/' + month + '.txt'
+	main_func(month_path, ner_path, publication)
+
+# ner_path = 'ner_lists/hindu-01-2021.txt'
+# dir_path = '../../../../corpus/hindu/01-2021'
 
 # ner_path = 'ner_lists/toi-01-2021.txt'
 # dir_path = '../../../../corpus/timesofindia/01-2021'
 
-main_func(dir_path, ner_path)
+# main_func(dir_path, ner_path)

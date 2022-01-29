@@ -1,0 +1,1380 @@
+90	farmers	singh
+52	bku	singh
+51	bku	farmers
+50	farmers	nda
+48	nda	singh
+36	centre	singh
+35	farmers	bjp
+35	centre	farmers
+34	bjp	singh
+30	sad	singh
+30	sad	farmers
+29	bku	nda
+28	kisan morcha	singh
+27	farmers	kisan morcha
+27	congress	singh
+27	congress	farmers
+24	farmers	tribune
+24	skm	singh
+23	singh	tribune
+23	singh	amarinder singh
+23	farmers	amarinder singh
+23	capt amarinder	singh
+23	capt amarinder	farmers
+23	capt amarinder	amarinder singh
+23	amarinder	singh
+23	farmers	amarinder
+23	amarinder	amarinder singh
+23	capt amarinder	amarinder
+22	singhu	singh
+22	farmers	singhu
+22	skm	farmers
+22	assembly	singh
+22	central	farmers
+21	tikri	singh
+21	badal	singh
+21	farmers	badal
+21	nda	bjp
+21	kisan union	farmers
+21	assembly	farmers
+21	capt amarinder singh	singh
+21	farmers	capt amarinder singh
+21	capt amarinder singh	amarinder singh
+21	capt amarinder	capt amarinder singh
+21	amarinder	capt amarinder singh
+21	central	singh
+20	farmers	tikri
+20	bku	bjp
+20	cm	singh
+20	cm	farmers
+20	kisan union	singh
+19	singh	bathinda
+19	farmers	bathinda
+19	nda	bathinda
+19	sad	badal
+19	bku	centre
+19	bku	tribune
+18	sad	nda
+18	sukhbir	singh
+18	sukhbir	badal
+18	farmers	sukhbir
+18	bku	kisan morcha
+18	centre	bjp
+18	congress	bjp
+17	centre	nda
+17	bku	skm
+17	bjp	amarinder singh
+17	capt amarinder	bjp
+17	amarinder	bjp
+17	congress	nda
+16	sad	sukhbir
+16	skm	kisan morcha
+16	capt amarinder singh	bjp
+15	sad	bjp
+15	nda	badal
+15	nda	tribune
+15	tikri	singhu
+15	bku	congress
+14	house	singh
+14	house	farmers
+14	assembly	bjp
+14	congress	amarinder singh
+14	congress	capt amarinder singh
+14	capt amarinder	congress
+14	congress	amarinder
+14	bku	kisan union
+13	sad	sukhbir singh
+13	sukhbir singh	singh
+13	sukhbir singh	badal
+13	sukhbir singh	farmers
+13	sukhbir singh	sukhbir
+13	aap	singh
+13	farmers	aap
+13	bku	bathinda
+13	mansa	singh
+13	bku	singhu
+13	kisan morcha	bjp
+13	centre	kisan morcha
+13	assembly	centre
+13	bku	central
+13	sad	bku
+13	sad	congress
+13	cm	amarinder singh
+13	capt amarinder	cm
+13	cm	amarinder
+13	centre	congress
+13	assembly	sad
+12	nda	tikri
+12	modi	farmers
+12	sukhbir	nda
+12	farmers	mansa
+12	centre	tribune
+12	centre	skm
+12	central	nda
+12	cm	congress
+12	cm	capt amarinder singh
+12	kisan union	nda
+11	modi	singh
+11	sad	centre
+11	bku	mansa
+11	bku	tikri
+11	kisan morcha	singhu
+11	skm	bjp
+11	assembly	bku
+11	assembly	kisan morcha
+11	assembly	skm
+11	centre	amarinder singh
+11	capt amarinder	centre
+11	centre	amarinder
+11	assembly	congress
+11	assembly	nda
+11	cm	nda
+11	kisan union	skm
+10	house	nda
+10	mansa	nda
+10	kisan morcha	nda
+10	kisan morcha	tikri
+10	skm	tikri
+10	skm	singhu
+10	assembly	amarinder singh
+10	centre	capt amarinder singh
+10	capt amarinder	assembly
+10	assembly	amarinder
+10	nda	amarinder singh
+10	capt amarinder	nda
+10	nda	amarinder
+10	central	bjp
+10	aap	bjp
+10	cm	bjp
+10	central	congress
+10	kisan union	kisan morcha
+9	house	bathinda
+9	parliament	singh
+9	farmers	parliament
+9	modi	centre
+9	sad	aap
+9	centre	aap
+9	sukhdev singh	singh
+9	farmers	sukhdev singh
+9	singhu	bjp
+9	centre	singhu
+9	bku	amarinder singh
+9	tikri	amarinder singh
+9	singhu	amarinder singh
+9	bku	capt amarinder singh
+9	assembly	capt amarinder singh
+9	capt amarinder	bku
+9	capt amarinder	tikri
+9	capt amarinder	singhu
+9	bku	amarinder
+9	amarinder	tikri
+9	amarinder	singhu
+9	bjp	tribune
+9	nda	singhu
+9	skm	nda
+9	nda	capt amarinder singh
+9	sad	kisan morcha
+9	congress	kisan morcha
+9	sad	amarinder singh
+9	congress	aap
+9	capt amarinder	sad
+9	sad	amarinder
+9	skm	congress
+9	central	cm
+9	bku	sangrur
+9	sangrur	singh
+9	sangrur	farmers
+8	badal	bjp
+8	sukhbir singh	nda
+8	centre	bathinda
+8	nda	aap
+8	mansa	bathinda
+8	bathinda	tribune
+8	tikri	capt amarinder singh
+8	singhu	capt amarinder singh
+8	central	amarinder singh
+8	central	capt amarinder singh
+8	capt amarinder	central
+8	central	amarinder
+8	congress	tikri
+8	congress	singhu
+8	singh	ludhiana
+8	farmers	ludhiana
+8	sad	capt amarinder singh
+8	bku	house
+8	bku	cm
+8	cm	tikri
+8	farmers	amritsar
+8	centre	cm
+8	punjab government	singh
+8	punjab government	farmers
+8	assembly	badal
+8	assembly	sukhbir
+8	congress	badal
+7	sad	parliament
+7	sukhbir	bjp
+7	sad	bathinda
+7	centre	badal
+7	msp	farmers
+7	bku	sukhdev singh
+7	kirti	singh
+7	farmers	kirti
+7	kisan sabha	singh
+7	kisan sabha	farmers
+7	tikri	bjp
+7	centre	tikri
+7	kisan morcha	amarinder singh
+7	capt amarinder	kisan morcha
+7	kisan morcha	amarinder
+7	assembly	cm
+7	centre	central
+7	central	kisan morcha
+7	central	sangrur
+7	bku	joginder singh ugrahan
+7	joginder singh ugrahan	singh
+7	bku	badal
+7	bku	sukhbir
+7	sad	kisan union
+7	congress	tribune
+7	kisan union	centre
+7	nda	ludhiana
+6	modi	bjp
+6	nda	parliament
+6	modi	nda
+6	malwa	singh
+6	farmers	malwa
+6	mansa	tribune
+6	skm	amarinder singh
+6	kisan morcha	capt amarinder singh
+6	skm	capt amarinder singh
+6	capt amarinder	skm
+6	bku	lakhowal
+6	lakhowal	singh
+6	farmers	lakhowal
+6	skm	amarinder
+6	central	tikri
+6	bku	aap
+6	cm	singhu
+6	cm	kisan morcha
+6	cm	skm
+6	msp	singh
+6	punjab government	amarinder singh
+6	capt amarinder	punjab government
+6	punjab government	amarinder
+6	sad	cm
+6	cm	tribune
+6	farmers	joginder singh ugrahan
+6	cm	badal
+6	assembly	kisan union
+6	congress	parliament
+6	sad	skm
+6	gurnam singh charuni	singh
+6	gurnam singh charuni	farmers
+6	congress	sukhbir
+6	centre	sukhbir
+5	tikri	bathinda
+5	house	tikri
+5	parliament	bjp
+5	sad	modi
+5	modi	parliament
+5	modi	badal
+5	cabinet	bjp
+5	cabinet	singh
+5	farmers	cabinet
+5	house	bjp
+5	centre	parliament
+5	badal	bathinda
+5	badal	aap
+5	centre	mansa
+5	nda	sukhdev singh
+5	bku	malwa
+5	malwa	bathinda
+5	nda	malwa
+5	mansa	malwa
+5	kirti	nda
+5	bku	kisan sabha
+5	kisan sabha	nda
+5	assembly	tikri
+5	assembly	singhu
+5	tikri	tribune
+5	singhu	tribune
+5	kisan morcha	tribune
+5	skm	tribune
+5	central	singhu
+5	central	skm
+5	aap	amarinder singh
+5	bku	ludhiana
+5	tikri	ludhiana
+5	aap	capt amarinder singh
+5	capt amarinder	aap
+5	amarinder	aap
+5	house	congress
+5	house	kisan morcha
+5	amritsar	singh
+5	hoshiarpur	singh
+5	farmers	hoshiarpur
+5	nda	hoshiarpur
+5	union government	singh
+5	union government	farmers
+5	punjab government	capt amarinder singh
+5	assembly	sukhbir singh
+5	centre	house
+5	tribune news servicebathinda	singh
+5	tribune news servicebathinda	bathinda
+5	farmers	tribune news servicebathinda
+5	nda	tribune news servicebathinda
+5	sad	tribune
+5	tribune news servicebathinda	tribune
+5	kisan union	badal
+5	kisan union	mansa
+5	kisan union	sukhbir
+5	kisan union	tribune
+5	kisan sabha	tribune
+5	aap	tribune
+5	patiala	singh
+5	farmers	patiala
+5	bku	tribune news servicechandigarh
+5	tribune news servicechandigarh	singh
+5	farmers	tribune news servicechandigarh
+5	sad	sukhdev singh
+5	tribune news servicechandigarh	tribune
+5	kisan union	bjp
+5	kisan union	central
+5	bku	gurnam singh charuni
+5	badal	amarinder singh
+5	badal	capt amarinder singh
+5	capt amarinder	badal
+5	amarinder	badal
+5	sangrur	congress
+5	sangrur	nda
+5	bku	sukhbir singh
+5	kirti kisan union	singh
+5	kirti kisan union	farmers
+5	kirti kisan union	kirti
+5	kisan union	kirti kisan union
+5	kisan union	kirti
+4	parliament	badal
+4	sukhbir singh	bjp
+4	sad	bill
+4	bill	singh
+4	farmers	bill
+4	modi	sukhbir
+4	sad	cabinet
+4	nda	cabinet
+4	sad	house
+4	modi	aap
+4	kisan union	modi
+4	centre	sukhdev singh
+4	malwa	tribune
+4	kirti	kisan morcha
+4	lakhowal	singhu
+4	assembly	tribune
+4	amarinder singh	tribune
+4	capt amarinder singh	tribune
+4	capt amarinder	tribune
+4	amarinder	tribune
+4	congress	ludhiana
+4	singhu	ludhiana
+4	congress	cabinet
+4	cabinet	amarinder singh
+4	capt amarinder singh	cabinet
+4	capt amarinder	cabinet
+4	amarinder	cabinet
+4	amritsar	bjp
+4	kisan morcha	amritsar
+4	nda	amritsar
+4	congress	hoshiarpur
+4	hoshiarpur	tikri
+4	hoshiarpur	singhu
+4	cm	hoshiarpur
+4	msp	bjp
+4	msp	congress
+4	msp	amarinder singh
+4	msp	capt amarinder singh
+4	capt amarinder	msp
+4	vidhan sabha	singh
+4	vidhan sabha	farmers
+4	central government	bku
+4	central government	singh
+4	central government	farmers
+4	msp	amarinder
+4	central government	central
+4	centre	union government
+4	punjab government	bjp
+4	punjab government	cm
+4	sad	central
+4	sangrur	cm
+4	sangrur	tribune
+4	central	badal
+4	bku	barnala
+4	barnala	singh
+4	barnala	farmers
+4	centre	joginder singh ugrahan
+4	barnala	central
+4	house	mansa
+4	bku	tribune news servicebathinda
+4	sukhbir	bathinda
+4	cm	sukhbir
+4	kisan union	bathinda
+4	centre	sangrur
+4	bjp	bathinda
+4	mann	singh
+4	bku	patiala
+4	kisan morcha	parliament
+4	centre	tribune news servicechandigarh
+4	kisan morcha	sukhdev singh
+4	kisan union	congress
+4	kisan union	sukhdev singh
+4	centre	ludhiana
+4	singh	delhi police
+4	farmers	delhi police
+4	tikait	singh
+4	union government	nda
+4	kisan union	amritsar
+4	bku	punjab government
+4	punjab government	congress
+4	congress	bathinda
+4	modi	congress
+4	centre	patiala
+4	kisan union	tikri
+4	kisan union	sukhbir singh
+4	supreme court	singh
+4	supreme court	farmers
+4	sukhbir singh	centre
+4	kirti kisan union	nda
+4	punjab government	singhu
+3	sad	bills
+3	bills	singh
+3	bills	farmers
+3	sukhbir singh	modi
+3	bill	bjp
+3	bills	bill
+3	bill	parliament
+3	bill	badal
+3	sukhbir	parliament
+3	sukhbir	bill
+3	badal	cabinet
+3	house	badal
+3	sukhbir singh	house
+3	house	sukhbir
+3	aap	bathinda
+3	parliament	aap
+3	mansa	sukhdev singh
+3	sukhdev singh	tribune
+3	bku	kirti
+3	kisan morcha	lakhowal
+3	skm	lakhowal
+3	lakhowal	tribune
+3	sad	singhu
+3	kisan morcha	aap
+3	sad	ludhiana
+3	kisan morcha	ludhiana
+3	house	singhu
+3	house	ludhiana
+3	amritsar	singhu
+3	skm	amritsar
+3	cm	amritsar
+3	bku	hoshiarpur
+3	skm	hoshiarpur
+3	hoshiarpur	amarinder singh
+3	capt amarinder	hoshiarpur
+3	amarinder	hoshiarpur
+3	msp	centre
+3	vidhan sabha	bjp
+3	vidhan sabha	centre
+3	vidhan sabha	assembly
+3	vidhan sabha	amarinder singh
+3	vidhan sabha	capt amarinder
+3	vidhan sabha	amarinder
+3	msp	central
+3	assembly	central
+3	modi	amarinder singh
+3	union government	bjp
+3	modi	union government
+3	modi	cm
+3	cm	aap
+3	modi	capt amarinder singh
+3	capt amarinder	modi
+3	modi	amarinder
+3	central	tribune
+3	kisan morcha	badal
+3	sukhbir singh	kisan morcha
+3	sukhbir	kisan morcha
+3	central	sukhbir
+3	barnala	joginder singh ugrahan
+3	central	joginder singh ugrahan
+3	central	house
+3	assembly	bathinda
+3	cm	bathinda
+3	sad	mansa
+3	mansa	badal
+3	mansa	tribune news servicebathinda
+3	mansa	sukhbir
+3	malwa	tribune news servicebathinda
+3	sad	kisan sabha
+3	assembly	kisan sabha
+3	sangrur	bjp
+3	shingara singh mann	singh
+3	bku	mann
+3	mann	bathinda
+3	farmers	mann
+3	nda	mann
+3	shingara singh mann	mann
+3	bku	parliament
+3	skm	parliament
+3	skm	aap
+3	sukhdev singh	bjp
+3	centre	balbir singh rajewal
+3	balbir singh rajewal	singh
+3	kisan morcha	balbir singh rajewal
+3	skm	balbir singh rajewal
+3	farmers	balbir singh rajewal
+3	balbir singh	centre
+3	balbir singh	singh
+3	balbir singh	kisan morcha
+3	balbir singh	skm
+3	balbir singh	farmers
+3	balbir singh	balbir singh rajewal
+3	kisan union	tribune news servicechandigarh
+3	assembly	parliament
+3	assembly	aap
+3	bathinda	ludhiana
+3	centre	delhi police
+3	tikri	delhi police
+3	nda	delhi police
+3	ludhiana	delhi police
+3	bku	tikait
+3	tikait	farmers
+3	kisan union	tikait
+3	gurnam singh charuni	bjp
+3	msp	badal
+3	msp	nda
+3	punjabi	congress
+3	punjabi	singh
+3	punjabi	farmers
+3	punjabi	nda
+3	bku	modi
+3	sangrur	amarinder singh
+3	sangrur	capt amarinder singh
+3	capt amarinder	sangrur
+3	sangrur	amarinder
+3	house	skm
+3	house	cm
+3	barnala	congress
+3	barnala	sangrur
+3	congress	joginder singh ugrahan
+3	kisan union	sangrur
+3	modi	singhu
+3	modi	kisan morcha
+3	modi	skm
+3	singhu	delhi police
+3	skm	delhi police
+3	mansa	kisan morcha
+3	skm	mansa
+3	singhu	patiala
+3	kisan union	singhu
+3	central	parliament
+3	modi	central
+3	centre	mann
+3	kisan union	mann
+3	assembly	modi
+3	badal	sukhdev singh
+3	sukhbir singh	sukhdev singh
+3	sukhbir	sukhdev singh
+3	skm	badal
+3	sukhbir singh	congress
+3	sukhbir singh	bathinda
+3	skm	sukhbir
+3	bku	supreme court
+3	supreme court	kisan morcha
+3	nda	tribune news servicechandigarh
+3	ludhiana	tribune
+3	joginder singh ugrahan	nda
+3	sukhbir	amarinder singh
+3	sukhbir	aap
+3	sukhbir	capt amarinder singh
+3	capt amarinder	sukhbir
+3	sukhbir	amarinder
+3	kisan sabha	bjp
+3	joginder singh ugrahan	kisan morcha
+3	punjab government	tikri
+3	punjab government	nda
+3	union government	badal
+2	bills	bjp
+2	bills	parliament
+2	bills	badal
+2	modi	bills
+2	sukhbir singh	bills
+2	sukhbir singh	parliament
+2	modi	bill
+2	nda	bill
+2	sukhbir singh	bill
+2	bills	sukhbir
+2	sukhbir	cabinet
+2	house	parliament
+2	modi	house
+2	house	cabinet
+2	parliament	bathinda
+2	modi	bathinda
+2	sad	harsimrat kaur badal
+2	harsimrat kaur badal	singh
+2	harsimrat kaur badal	badal
+2	farmers	harsimrat kaur badal
+2	nda	harsimrat kaur badal
+2	modi	msp
+2	kisan union	msp
+2	kisan sabha	kisan morcha
+2	kisan sabha	kirti
+2	lakhowal	bjp
+2	lakhowal	tikri
+2	sad	tikri
+2	aap	singhu
+2	amarinder singh	ludhiana
+2	aap	ludhiana
+2	capt amarinder singh	ludhiana
+2	capt amarinder	ludhiana
+2	amarinder	ludhiana
+2	tikri	cabinet
+2	singhu	cabinet
+2	kisan morcha	cabinet
+2	aap	cabinet
+2	bku	amritsar
+2	congress	amritsar
+2	amritsar	tikri
+2	amritsar	amarinder singh
+2	amritsar	capt amarinder singh
+2	capt amarinder	amritsar
+2	amarinder	amritsar
+2	hoshiarpur	bjp
+2	kisan morcha	hoshiarpur
+2	assembly	hoshiarpur
+2	hoshiarpur	capt amarinder singh
+2	amritsar	hoshiarpur
+2	bku	msp
+2	msp	tikri
+2	msp	singhu
+2	msp	skm
+2	assembly	msp
+2	msp	cm
+2	vidhan sabha	congress
+2	vidhan sabha	tikri
+2	vidhan sabha	kisan morcha
+2	vidhan sabha	cm
+2	vidhan sabha	capt amarinder singh
+2	central government	bjp
+2	central government	congress
+2	central government	centre
+2	central government	kisan morcha
+2	central government	skm
+2	central government	amarinder singh
+2	central government	cm
+2	central government	capt amarinder singh
+2	central government	capt amarinder
+2	central government	amarinder
+2	vidhan sabha	central
+2	union government	amarinder singh
+2	union government	aap
+2	cm	union government
+2	union government	capt amarinder singh
+2	capt amarinder	union government
+2	centre	amritsar
+2	modi	amritsar
+2	union government	amarinder
+2	centre	punjab government
+2	punjab government	aap
+2	punjab government	union government
+2	sangrur	tikri
+2	barnala	centre
+2	barnala	mansa
+2	central	mansa
+2	central	sukhdev singh
+2	barnala	house
+2	house	joginder singh ugrahan
+2	cm	mansa
+2	sad	tribune news servicebathinda
+2	cm	tribune news servicebathinda
+2	cm	malwa
+2	badal	tribune
+2	sukhbir	tribune
+2	kisan union	cm
+2	kisan sabha	bathinda
+2	kisan sabha	badal
+2	kisan sabha	cm
+2	kisan sabha	mansa
+2	kisan sabha	tribune news servicebathinda
+2	kisan sabha	sukhbir
+2	kisan sabha	malwa
+2	kisan union	kisan sabha
+2	sangrur	skm
+2	mansa	bjp
+2	shingara singh mann	bjp
+2	shingara singh mann	bku
+2	shingara singh mann	bathinda
+2	shingara singh mann	farmers
+2	shingara singh mann	nda
+2	tribune news servicebathinda	bjp
+2	aap	tribune news servicebathinda
+2	mann	bjp
+2	mansa	mann
+2	bku	ambala
+2	ambala	singh
+2	ambala	farmers
+2	ambala	patiala
+2	sad	tribune news servicechandigarh
+2	congress	tribune news servicechandigarh
+2	kisan morcha	tribune news servicechandigarh
+2	skm	tribune news servicechandigarh
+2	tribune news servicechandigarh	aap
+2	congress	sukhdev singh
+2	parliament	sukhdev singh
+2	skm	sukhdev singh
+2	aap	sukhdev singh
+2	tribune news servicechandigarh	sukhdev singh
+2	balbir singh rajewal	bjp
+2	bku	balbir singh rajewal
+2	sad	balbir singh rajewal
+2	congress	balbir singh rajewal
+2	parliament	balbir singh rajewal
+2	aap	balbir singh rajewal
+2	tribune news servicechandigarh	balbir singh rajewal
+2	sukhdev singh	balbir singh rajewal
+2	balbir singh rajewal	tribune
+2	balbir singh	bjp
+2	balbir singh	bku
+2	balbir singh	sad
+2	balbir singh	congress
+2	balbir singh	parliament
+2	balbir singh	aap
+2	balbir singh	tribune news servicechandigarh
+2	balbir singh	sukhdev singh
+2	balbir singh	tribune
+2	kisan union	parliament
+2	kisan union	balbir singh rajewal
+2	balbir singh	kisan union
+2	bathinda	delhi police
+2	vidhan sabha	nda
+2	tikait	nda
+2	central government	kisan union
+2	central	tikait
+2	gurnam singh charuni	nda
+2	kisan union	gurnam singh charuni
+2	kirti	singhu
+2	kirti	amritsar
+2	house	amritsar
+2	sad	msp
+2	msp	aap
+2	cm	cabinet
+2	central	aap
+2	sad	punjabi
+2	punjabi	badal
+2	punjabi	aap
+2	punjabi	cm
+2	punjabi	central
+2	modi	mansa
+2	kisan union	union government
+2	vidhan sabha	sad
+2	assembly	bill
+2	bill	amarinder singh
+2	capt amarinder	bill
+2	vidhan sabha	bill
+2	amarinder	bill
+2	assembly	house
+2	sangrur	joginder singh ugrahan
+2	kisan union	barnala
+2	kisan union	joginder singh ugrahan
+2	kisan morcha	bathinda
+2	skm	bathinda
+2	modi	tikri
+2	skm	ludhiana
+2	cm	parliament
+2	cm	ludhiana
+2	kisan morcha	delhi police
+2	mansa	tikri
+2	mansa	singhu
+2	mansa	delhi police
+2	centre	tikait
+2	tikait	tikri
+2	tikait	singhu
+2	tikait	kisan morcha
+2	tikait	skm
+2	modi	tikait
+2	barnala	kisan morcha
+2	barnala	parliament
+2	barnala	nda
+2	sangrur	kisan morcha
+2	sangrur	parliament
+2	tikri	patiala
+2	kisan morcha	patiala
+2	skm	patiala
+2	kisan union	ludhiana
+2	kisan union	delhi police
+2	kisan union	patiala
+2	hoshiarpur	bathinda
+2	hoshiarpur	ludhiana
+2	kisan union	hoshiarpur
+2	central	bathinda
+2	central	ludhiana
+2	central	delhi police
+2	bku	punjabi
+2	punjabi	centre
+2	punjabi	ludhiana
+2	kisan morcha	mann
+2	skm	mann
+2	kisan union	house
+2	house	hoshiarpur
+2	gurnam singh charuni	congress
+2	sukhbir singh	skm
+2	sad	hoshiarpur
+2	badal	hoshiarpur
+2	bku	krantikari kisan union
+2	krantikari kisan union	singh
+2	krantikari kisan union	skm
+2	krantikari kisan union	farmers
+2	kisan union	krantikari kisan union
+2	sukhbir singh	mansa
+2	sad	supreme court
+2	supreme court	badal
+2	sukhbir singh	supreme court
+2	supreme court	sukhdev singh
+2	supreme court	sukhbir
+2	tribune news servicechandigarh	ludhiana
+2	joginder singh ugrahan	bathinda
+2	joginder singh ugrahan	tribune
+2	house	tribune
+2	sukhbir singh	aap
+2	bku	kirti kisan union
+2	kirti kisan union	sukhdev singh
+2	kirti	sukhdev singh
+2	assembly	punjab government
+2	punjab government	tribune
+2	centre	kisan sabha
+2	punjab government	kisan sabha
+2	shingara singh mann	centre
+2	joginder singh ugrahan	bjp
+2	skm	joginder singh ugrahan
+2	shingara singh mann	kisan union
+2	punjab government	hoshiarpur
+2	badal	ludhiana
+2	sad	union government
+2	union government	congress
+2	sad	punjab government
+2	gurnam singh charuni	singhu
+2	gurnam singh charuni	skm
+2	assembly	gurnam singh charuni
+2	kirti kisan union	kisan morcha
+2	kirti kisan union	skm
+2	skm	kirti
+2	congress	tribune news servicebathinda
+2	parliament	amarinder singh
+2	parliament	capt amarinder singh
+2	capt amarinder	parliament
+2	amarinder	parliament
+2	centre	supreme court
+2	supreme court	singhu
+2	sad	joginder singh ugrahan
+2	sad	kirti kisan union
+2	kirti kisan union	badal
+2	kirti kisan union	sukhbir singh
+2	kirti kisan union	sukhbir
+2	sad	kirti
+2	kirti	badal
+2	sukhbir singh	kirti
+2	kirti	sukhbir
+2	msp	union government
+2	msp	sukhbir
+2	union government	sukhbir
+1	bills	nda
+1	bills	cabinet
+1	parliament	cabinet
+1	modi	cabinet
+1	sukhbir singh	cabinet
+1	bill	cabinet
+1	bills	house
+1	house	bill
+1	centre	harsimrat kaur badal
+1	harsimrat kaur badal	bathinda
+1	harsimrat kaur badal	parliament
+1	modi	harsimrat kaur badal
+1	harsimrat kaur badal	aap
+1	sukhdev singh	bathinda
+1	centre	malwa
+1	malwa	sukhdev singh
+1	centre	lakhowal
+1	assembly	lakhowal
+1	lakhowal	amarinder singh
+1	lakhowal	capt amarinder singh
+1	capt amarinder	lakhowal
+1	amarinder	lakhowal
+1	aap	tikri
+1	bjp	ludhiana
+1	bku	cabinet
+1	cabinet	ludhiana
+1	house	amarinder singh
+1	house	aap
+1	house	capt amarinder singh
+1	capt amarinder	house
+1	house	amarinder
+1	assembly	amritsar
+1	rajya sabha	bjp
+1	bku	rajya sabha
+1	congress	rajya sabha
+1	rajya sabha	singh
+1	tikri	rajya sabha
+1	singhu	rajya sabha
+1	kisan morcha	rajya sabha
+1	skm	rajya sabha
+1	farmers	rajya sabha
+1	assembly	rajya sabha
+1	rajya sabha	amarinder singh
+1	nda	rajya sabha
+1	cm	rajya sabha
+1	capt amarinder singh	rajya sabha
+1	capt amarinder	rajya sabha
+1	amritsar	rajya sabha
+1	amarinder	rajya sabha
+1	hoshiarpur	rajya sabha
+1	msp	kisan morcha
+1	vidhan sabha	bku
+1	vidhan sabha	msp
+1	vidhan sabha	singhu
+1	vidhan sabha	skm
+1	central government	msp
+1	central government	tikri
+1	central government	singhu
+1	central government	assembly
+1	central government	vidhan sabha
+1	bjp	lok sabha
+1	centre	lok sabha
+1	singh	lok sabha
+1	farmers	lok sabha
+1	modi	lok sabha
+1	amarinder singh	lok sabha
+1	aap	lok sabha
+1	union government	lok sabha
+1	cm	lok sabha
+1	capt amarinder singh	lok sabha
+1	capt amarinder	lok sabha
+1	amritsar	aap
+1	union government	amritsar
+1	amritsar	lok sabha
+1	amarinder	lok sabha
+1	modi	punjab government
+1	punjab government	lok sabha
+1	punjab government	amritsar
+1	fazilka	bjp
+1	bku	fazilka
+1	farmers	fazilka
+1	fazilka	nda
+1	central	fazilka
+1	sukhbir singh	central
+1	barnala	sukhdev singh
+1	mansa	joginder singh ugrahan
+1	joginder singh ugrahan	sukhdev singh
+1	house	sukhdev singh
+1	assembly	mansa
+1	badal	tribune news servicebathinda
+1	assembly	tribune news servicebathinda
+1	sukhbir	tribune news servicebathinda
+1	sad	malwa
+1	malwa	badal
+1	assembly	malwa
+1	sukhbir	malwa
+1	kisan union	tribune news servicebathinda
+1	kisan union	malwa
+1	mansa	aap
+1	shingara singh mann	aap
+1	shingara singh mann	mansa
+1	shingara singh mann	tribune news servicebathinda
+1	malwa	bjp
+1	malwa	aap
+1	shingara singh mann	malwa
+1	shingara singh mann	tribune
+1	mann	aap
+1	mann	tribune news servicebathinda
+1	malwa	mann
+1	mann	tribune
+1	tribune news servicechandigarh	bjp
+1	tribune news servicechandigarh	parliament
+1	parliament	tribune
+1	kisan union	aap
+1	assembly	sukhdev singh
+1	assembly	balbir singh rajewal
+1	nda	balbir singh rajewal
+1	balbir singh	assembly
+1	balbir singh	nda
+1	vidhan sabha	bathinda
+1	vidhan sabha	ludhiana
+1	vidhan sabha	delhi police
+1	tikait	bjp
+1	tikait	sukhdev singh
+1	central government	nda
+1	central government	tikait
+1	central government	sukhdev singh
+1	gurnam singh charuni	tikait
+1	gurnam singh charuni	sukhdev singh
+1	central government	gurnam singh charuni
+1	central	gurnam singh charuni
+1	kirti	bjp
+1	house	kirti
+1	msp	cabinet
+1	central	cabinet
+1	punjabi	bjp
+1	punjabi	msp
+1	punjabi	amarinder singh
+1	punjabi	capt amarinder singh
+1	capt amarinder	punjabi
+1	punjabi	amarinder
+1	punjabi	cabinet
+1	bku	union government
+1	union government	mansa
+1	central government	sangrur
+1	bills	centre
+1	bills	kisan morcha
+1	assembly	bills
+1	bills	amarinder singh
+1	capt amarinder	bills
+1	vidhan sabha	bills
+1	centre	bill
+1	kisan morcha	bill
+1	bills	amarinder
+1	barnala	amarinder singh
+1	barnala	capt amarinder singh
+1	capt amarinder	barnala
+1	barnala	amarinder
+1	barnala	punjab government
+1	punjab government	sangrur
+1	joginder singh ugrahan	amarinder singh
+1	joginder singh ugrahan	capt amarinder singh
+1	capt amarinder	joginder singh ugrahan
+1	joginder singh ugrahan	amarinder
+1	punjab government	joginder singh ugrahan
+1	kisan union	amarinder singh
+1	kisan union	capt amarinder singh
+1	capt amarinder	kisan union
+1	kisan union	amarinder
+1	kisan union	punjab government
+1	punjab government	central
+1	singhu	bathinda
+1	parliament	tikri
+1	parliament	singhu
+1	parliament	ludhiana
+1	modi	ludhiana
+1	bku	delhi police
+1	congress	delhi police
+1	parliament	delhi police
+1	modi	delhi police
+1	cm	delhi police
+1	congress	mansa
+1	mansa	parliament
+1	mansa	ludhiana
+1	tikait	congress
+1	tikait	bathinda
+1	tikait	parliament
+1	tikait	ludhiana
+1	tikait	cm
+1	tikait	delhi police
+1	tikait	mansa
+1	barnala	tikri
+1	barnala	bathinda
+1	barnala	singhu
+1	barnala	skm
+1	barnala	modi
+1	barnala	ludhiana
+1	barnala	cm
+1	barnala	delhi police
+1	barnala	tikait
+1	amritsar	bathinda
+1	parliament	amritsar
+1	amritsar	ludhiana
+1	amritsar	delhi police
+1	mansa	amritsar
+1	tikait	amritsar
+1	barnala	amritsar
+1	sangrur	bathinda
+1	sangrur	singhu
+1	modi	sangrur
+1	sangrur	ludhiana
+1	sangrur	delhi police
+1	sangrur	mansa
+1	sangrur	tikait
+1	sangrur	amritsar
+1	congress	patiala
+1	patiala	bathinda
+1	parliament	patiala
+1	modi	patiala
+1	nda	patiala
+1	patiala	ludhiana
+1	cm	patiala
+1	patiala	delhi police
+1	mansa	patiala
+1	tikait	patiala
+1	barnala	patiala
+1	amritsar	patiala
+1	sangrur	patiala
+1	centre	hoshiarpur
+1	parliament	hoshiarpur
+1	modi	hoshiarpur
+1	hoshiarpur	delhi police
+1	mansa	hoshiarpur
+1	tikait	hoshiarpur
+1	barnala	hoshiarpur
+1	sangrur	hoshiarpur
+1	hoshiarpur	patiala
+1	central	amritsar
+1	central	patiala
+1	central	hoshiarpur
+1	ambala	congress
+1	centre	ambala
+1	ambala	tikri
+1	ambala	bathinda
+1	ambala	singhu
+1	ambala	kisan morcha
+1	ambala	parliament
+1	ambala	skm
+1	modi	ambala
+1	ambala	nda
+1	ambala	ludhiana
+1	ambala	cm
+1	ambala	delhi police
+1	ambala	mansa
+1	ambala	tikait
+1	barnala	ambala
+1	ambala	amritsar
+1	ambala	sangrur
+1	kisan union	ambala
+1	ambala	hoshiarpur
+1	central	ambala
+1	punjabi	tikri
+1	punjabi	bathinda
+1	punjabi	singhu
+1	punjabi	kisan morcha
+1	punjabi	parliament
+1	punjabi	skm
+1	punjabi	modi
+1	punjabi	delhi police
+1	punjabi	mansa
+1	punjabi	tikait
+1	punjabi	barnala
+1	punjabi	amritsar
+1	punjabi	sangrur
+1	punjabi	patiala
+1	punjabi	kisan union
+1	punjabi	hoshiarpur
+1	punjabi	ambala
+1	congress	mann
+1	mann	tikri
+1	mann	singhu
+1	parliament	mann
+1	modi	mann
+1	mann	ludhiana
+1	cm	mann
+1	mann	delhi police
+1	tikait	mann
+1	barnala	mann
+1	amritsar	mann
+1	sangrur	mann
+1	mann	patiala
+1	mann	hoshiarpur
+1	central	mann
+1	ambala	mann
+1	punjabi	mann
+1	house	delhi police
+1	house	tikait
+1	house	sangrur
+1	house	patiala
+1	house	ambala
+1	punjabi	house
+1	house	mann
+1	assembly	tikait
+1	bku	ghazipur
+1	centre	ghazipur
+1	ghazipur	singh
+1	ghazipur	tikri
+1	ghazipur	singhu
+1	kisan morcha	ghazipur
+1	skm	ghazipur
+1	farmers	ghazipur
+1	modi	ghazipur
+1	assembly	ghazipur
+1	tikait	ghazipur
+1	kisan union	ghazipur
+1	sukhbir singh	hoshiarpur
+1	sukhbir	hoshiarpur
+1	krantikari kisan union	bjp
+1	sad	krantikari kisan union
+1	krantikari kisan union	congress
+1	krantikari kisan union	bathinda
+1	krantikari kisan union	badal
+1	assembly	krantikari kisan union
+1	krantikari kisan union	nda
+1	sukhbir singh	krantikari kisan union
+1	krantikari kisan union	sukhbir
+1	krantikari kisan union	hoshiarpur
+1	krantikari kisan union	house
+1	tribune news servicechandigarh	bathinda
+1	joginder singh ugrahan	ludhiana
+1	joginder singh ugrahan	tribune news servicechandigarh
+1	house	tribune news servicechandigarh
+1	sukhbir singh	amarinder singh
+1	sukhbir singh	cm
+1	sukhbir singh	capt amarinder singh
+1	capt amarinder	sukhbir singh
+1	sukhbir singh	amarinder
+1	sangrur	tribune news servicechandigarh
+1	sangrur	sukhdev singh
+1	kirti kisan union	tribune news servicechandigarh
+1	kirti kisan union	sangrur
+1	kirti kisan union	tribune
+1	kirti	tribune news servicechandigarh
+1	sangrur	kirti
+1	kirti	tribune
+1	kisan sabha	tribune news servicechandigarh
+1	kisan sabha	sangrur
+1	kisan sabha	sukhdev singh
+1	kirti kisan union	kisan sabha
+1	punjab government	kisan morcha
+1	kisan sabha	amarinder singh
+1	kisan sabha	capt amarinder singh
+1	capt amarinder	kisan sabha
+1	kisan sabha	amarinder
+1	shingara singh mann	kisan morcha
+1	shingara singh mann	skm
+1	shingara singh mann	assembly
+1	assembly	joginder singh ugrahan
+1	shingara singh mann	joginder singh ugrahan
+1	assembly	mann
+1	joginder singh ugrahan	mann
+1	badal	tikri
+1	badal	singhu
+1	union government	tikri
+1	union government	singhu
+1	union government	ludhiana
+1	congress	harsimrat kaur badal
+1	harsimrat kaur badal	tikri
+1	harsimrat kaur badal	singhu
+1	harsimrat kaur badal	amarinder singh
+1	harsimrat kaur badal	ludhiana
+1	union government	harsimrat kaur badal
+1	cm	harsimrat kaur badal
+1	harsimrat kaur badal	capt amarinder singh
+1	capt amarinder	harsimrat kaur badal
+1	harsimrat kaur badal	amarinder
+1	punjab government	badal
+1	punjab government	ludhiana
+1	punjab government	harsimrat kaur badal
+1	union government	hoshiarpur
+1	harsimrat kaur badal	hoshiarpur
+1	delhi police	tribune
+1	msp	punjab government
+1	punjab government	skm
+1	msp	gurnam singh charuni
+1	gurnam singh charuni	tikri
+1	gurnam singh charuni	amarinder singh
+1	gurnam singh charuni	capt amarinder singh
+1	capt amarinder	gurnam singh charuni
+1	gurnam singh charuni	amarinder
+1	punjab government	gurnam singh charuni
+1	gurnam singh charuni	badal
+1	gurnam singh charuni	cm
+1	gurnam singh charuni	sukhbir
+1	kirti kisan union	tikri
+1	kirti kisan union	singhu
+1	kirti kisan union	ludhiana
+1	kirti kisan union	delhi police
+1	kirti	tikri
+1	kirti	ludhiana
+1	kirti	delhi police
+1	kirti kisan union	central
+1	central	kirti
+1	nda	lakhowal
+1	lakhowal	ludhiana
+1	amritsar	tribune
+1	kirti kisan union	amritsar
+1	tikri	tribune news servicebathinda
+1	central	tribune news servicebathinda
+1	house	tribune news servicebathinda
+1	joginder singh ugrahan	parliament
+1	cabinet	tribune
+1	tribune news servicechandigarh	patiala
+1	balbir singh rajewal	patiala
+1	patiala	tribune
+1	balbir singh	patiala
+1	centre	krantikari kisan union
+1	krantikari kisan union	kisan morcha
+1	krantikari kisan union	tribune news servicechandigarh
+1	krantikari kisan union	balbir singh rajewal
+1	krantikari kisan union	tribune
+1	krantikari kisan union	patiala
+1	balbir singh	krantikari kisan union
+1	vidhan sabha	parliament
+1	vidhan sabha	badal
+1	congress	bill
+1	cm	bill
+1	bill	capt amarinder singh
+1	vidhan sabha	sukhbir
+1	central	bill
+1	modi	supreme court
+1	supreme court	central
+1	centre	cabinet
+1	assembly	cabinet
+1	centre	tribune news servicebathinda
+1	joginder singh ugrahan	aap
+1	joginder singh ugrahan	tribune news servicebathinda
+1	supreme court	nda
+1	supreme court	mansa
+1	kirti kisan union	mansa
+1	kirti kisan union	supreme court
+1	mansa	kirti
+1	supreme court	kirti
+1	kisan union	supreme court
+1	sukhbir singh	kisan sabha
+1	central	union government
+1	sad	lakhowal
+1	congress	lakhowal
+1	lakhowal	aap
+1	punjab government	lakhowal
+1	kisan sabha	congress
+1	kisan sabha	singhu
+1	kisan sabha	aap
+1	kisan sabha	lakhowal
+1	msp	bathinda
+1	union government	bathinda
+1	sukhbir singh	msp
+1	sukhbir singh	union government
+1	shingara singh mann	sad
+1	shingara singh mann	msp
+1	shingara singh mann	badal
+1	shingara singh mann	union government
+1	shingara singh mann	sukhbir singh
+1	shingara singh mann	sukhbir
+1	sad	mann
+1	msp	mann
+1	badal	mann
+1	union government	mann
+1	sukhbir singh	mann
+1	sukhbir	mann
+1	punjab government	bathinda
+1	punjab government	mansa
+1	punjab government	malwa
+1	house	malwa
+1	punjab government	house
+1	central government	lakhowal
+1	kisan union	lakhowal
+1	central	lakhowal
+1	assembly	ludhiana
+1	sukhbir singh	ludhiana
+1	tribune news servicechandigarh	badal
+1	assembly	tribune news servicechandigarh
+1	sukhbir singh	tribune news servicechandigarh
+1	sukhbir	ludhiana
+1	sukhbir	tribune news servicechandigarh
+1	sukhbir singh	tribune
+1	assembly	punjabi
+1	punjabi	sukhbir singh
+1	punjabi	tribune news servicechandigarh
+1	punjabi	sukhbir
+1	punjabi	tribune
+1	supreme court	patiala
+1	centre	gurnam singh charuni
+1	supreme court	gurnam singh charuni
+1	gurnam singh charuni	patiala

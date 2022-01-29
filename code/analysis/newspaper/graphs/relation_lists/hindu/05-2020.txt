@@ -1,0 +1,215 @@
+11	farmers	state
+9	state	centre
+8	farmers	centre
+7	bjp	state
+7	bjp	farmers
+6	singh	state
+6	farmers	opposition
+6	nda	state
+6	apmc	farmers
+6	states	state
+6	covid-19	state
+6	covid-19	farmers
+5	farmers	singh
+5	state	opposition
+5	bjp	opposition
+5	apmc	opposition
+5	congress	state
+5	bjp	congress
+5	bjp	centre
+5	farmers	congress
+5	covid-19	centre
+5	covid-19	states
+5	apmc	state
+5	apmc	centre
+5	apmc	covid-19
+4	congress	centre
+4	states	centre
+4	farmers	states
+4	centre	opposition
+4	bjp	covid-19
+4	covid-19	opposition
+4	bjp	apmc
+4	apmc	states
+3	bjp	singh
+3	singh	nda
+3	farmers	nda
+3	farmers	cabinet
+3	opposition	cabinet
+3	apmc	cabinet
+3	bjp	states
+3	farmers	modi
+3	congress	opposition
+3	states	opposition
+3	covid-19	congress
+3	apmc	congress
+3	state	madhya pradesh
+3	bjp	madhya pradesh
+3	centre	madhya pradesh
+3	farmers	madhya pradesh
+3	opposition	madhya pradesh
+3	covid-19	madhya pradesh
+3	apmc	madhya pradesh
+2	bjp	nda
+2	tikri	state
+2	nda	centre
+2	tikri	nda
+2	kisan sabha	farmers
+2	kisan sabha	all india
+2	farmers	all india
+2	modi	state
+2	bjp	modi
+2	modi	congress
+2	modi	centre
+2	states	congress
+2	covid-19	modi
+2	kumar	state
+2	kumar	bjp
+2	kumar	congress
+2	kumar	centre
+2	kumar	farmers
+2	kumar	opposition
+2	kumar	covid-19
+2	kumar	apmc
+2	congress	madhya pradesh
+2	states	madhya pradesh
+2	kumar	madhya pradesh
+2	state	cabinet
+2	bjp	cabinet
+2	centre	cabinet
+2	states	cabinet
+2	covid-19	cabinet
+2	madhya pradesh	cabinet
+2	singh	congress
+2	modi	singh
+2	covid-19	singh
+2	states	singh
+2	china	state
+2	singh	china
+2	states	china
+2	state	fir
+1	singh	opposition
+1	nda	opposition
+1	tikri	centre
+1	kisan sabha	aiks
+1	farmers	aiks
+1	aiks	all india
+1	kisan sabha	communist party of india
+1	communist party of india	farmers
+1	communist party of india	aiks
+1	communist party of india	all india
+1	parliament	state
+1	bjp	parliament
+1	parliament	congress
+1	parliament	centre
+1	parliament	modi
+1	parliament	states
+1	modi	states
+1	parliament	farmers
+1	parliament	opposition
+1	modi	opposition
+1	covid-19	parliament
+1	apmc	parliament
+1	apmc	modi
+1	kumar	parliament
+1	kumar	modi
+1	kumar	states
+1	parliament	madhya pradesh
+1	modi	madhya pradesh
+1	congress	cabinet
+1	parliament	cabinet
+1	modi	cabinet
+1	kumar	cabinet
+1	singh	centre
+1	state	central
+1	bjp	central
+1	congress	central
+1	centre	central
+1	modi	central
+1	singh	central
+1	farmers	central
+1	cm	state
+1	cm	nda
+1	k. chandrasekhar rao	state
+1	k. chandrasekhar rao	nda
+1	k. chandrasekhar rao	cm
+1	tikri	fir
+1	tikait	bku
+1	bku	modi
+1	tikait	modi
+1	bku	singh
+1	tikait	singh
+1	bku	farmers
+1	tikait	farmers
+1	covid-19	bku
+1	covid-19	tikait
+1	tomar	bku
+1	tomar	tikait
+1	tomar	modi
+1	tomar	singh
+1	tomar	farmers
+1	tomar	covid-19
+1	bku	narendra singh
+1	tikait	narendra singh
+1	modi	narendra singh
+1	singh	narendra singh
+1	farmers	narendra singh
+1	covid-19	narendra singh
+1	tomar	narendra singh
+1	state	ludhiana
+1	singh	ludhiana
+1	farmers	ludhiana
+1	state	assembly
+1	bjp	assembly
+1	congress	assembly
+1	centre	assembly
+1	states	assembly
+1	farmers	assembly
+1	assembly	opposition
+1	covid-19	assembly
+1	apmc	assembly
+1	state	singhu
+1	singh	singhu
+1	states	singhu
+1	covid-19	singhu
+1	china	singhu
+1	covid-19	china
+1	singhu	fir
+1	singh	fir
+1	states	fir
+1	covid-19	fir
+1	china	fir
+1	congress	nda
+1	bengaluru	state
+1	bjp	bengaluru
+1	bengaluru	centre
+1	bengaluru	states
+1	bengaluru	farmers
+1	bengaluru	opposition
+1	covid-19	bengaluru
+1	apmc	bengaluru
+1	bengaluru	madhya pradesh
+1	bengaluru	cabinet
+1	tikri	singh
+1	tikri	states
+1	states	nda
+1	tikri	china
+1	china	nda
+1	kisan sabha	state
+1	kisan sabha	centre
+1	telangana	state
+1	telangana	centre
+1	telangana	kisan sabha
+1	telangana	farmers
+1	state	all india
+1	centre	all india
+1	telangana	all india
+1	kisan sabha	nda
+1	telangana	nda
+1	nda	all india
+1	centre	fir
+1	kisan sabha	fir
+1	farmers	fir
+1	telangana	fir
+1	fir	all india
+1	nda	fir

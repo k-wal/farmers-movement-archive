@@ -1,0 +1,358 @@
+11	up	sp
+10	farmers	sp
+9	up	farmers
+7	congress	sp
+7	centre	sp
+7	modi	sp
+6	farmers	union
+6	up	union
+6	union	sp
+6	modi	centre
+6	farmers	congress
+6	farmers	centre
+6	up	bjp
+6	up	congress
+6	up	centre
+6	up	modi
+6	bjp	sp
+5	up	nda
+5	nda	sp
+5	congress	bjp
+5	modi	congress
+5	farmers	bjp
+5	modi	farmers
+5	congress	opposition
+5	farmers	opposition
+5	centre	union
+5	opposition	sp
+5	agriculture	farmers
+5	agriculture	sp
+4	congress	centre
+4	modi	bjp
+4	modi	opposition
+4	nda	modi
+4	up	opposition
+4	modi	union
+4	congress	singh
+4	singh	sp
+4	up	agriculture
+3	nda	farmers
+3	nda	union
+3	centre	bjp
+3	bjp	opposition
+3	centre	opposition
+3	nda	bjp
+3	nda	congress
+3	nda	centre
+3	assembly	bjp
+3	assembly	congress
+3	up	assembly
+3	bjp	union
+3	assembly	sp
+3	modi	singh
+3	farmers	singh
+3	singh	opposition
+3	agriculture	congress
+3	agriculture	centre
+3	agriculture	modi
+3	agriculture	singh
+3	centre	bill
+3	up	bill
+3	bill	sp
+3	singh	bjp
+3	agriculture	bjp
+3	up	singh
+2	farmers	msp
+2	up	msp
+2	msp	union
+2	msp	sp
+2	nda	opposition
+2	modi	assembly
+2	assembly	farmers
+2	assembly	opposition
+2	nda	assembly
+2	bjp	cm
+2	congress	cm
+2	modi	cm
+2	opposition	cm
+2	nda	cm
+2	assembly	cm
+2	up	cm
+2	congress	union
+2	union	opposition
+2	cm	sp
+2	centre	singh
+2	amarinder singh	congress
+2	amarinder singh	centre
+2	amarinder singh	modi
+2	amarinder singh	farmers
+2	amarinder singh	singh
+2	agriculture	amarinder singh
+2	agriculture	opposition
+2	ram nath kovind	centre
+2	modi	ram nath kovind
+2	farmers	ram nath kovind
+2	agriculture	ram nath kovind
+2	amarinder singh	sp
+2	ram nath kovind	sp
+2	farmers	indian
+2	agriculture	indian
+2	up	indian
+2	indian	sp
+2	modi	bill
+2	farmers	bill
+2	centre	house
+2	modi	house
+2	farmers	house
+2	up	house
+2	union	bill
+2	union	house
+2	house	sp
+2	up	gujarat
+2	gujarat	sp
+2	agriculture	union
+1	nda	msp
+1	amit shah	bjp
+1	congress	amit shah
+1	centre	amit shah
+1	modi	amit shah
+1	farmers	amit shah
+1	amit shah	opposition
+1	nda	amit shah
+1	assembly	centre
+1	assembly	amit shah
+1	up	amit shah
+1	bihar	bjp
+1	bihar	congress
+1	bihar	centre
+1	bihar	modi
+1	bihar	farmers
+1	bihar	amit shah
+1	bihar	opposition
+1	bihar	nda
+1	bihar	assembly
+1	bihar	up
+1	centre	cm
+1	farmers	cm
+1	amit shah	cm
+1	bihar	cm
+1	amit shah	union
+1	assembly	union
+1	bihar	union
+1	union	cm
+1	amit shah	sp
+1	bihar	sp
+1	amarinder singh	opposition
+1	congress	apmc
+1	centre	apmc
+1	modi	apmc
+1	farmers	apmc
+1	singh	apmc
+1	amarinder singh	apmc
+1	opposition	apmc
+1	agriculture	apmc
+1	congress	ram nath kovind
+1	ram nath kovind	singh
+1	amarinder singh	ram nath kovind
+1	ram nath kovind	opposition
+1	ram nath kovind	apmc
+1	apmc	sp
+1	congress	bill
+1	nda	bill
+1	congress	mamata banerjee
+1	centre	mamata banerjee
+1	modi	mamata banerjee
+1	mamata banerjee	bill
+1	nda	mamata banerjee
+1	up	mamata banerjee
+1	mamata banerjee	sp
+1	centre	supreme court
+1	modi	supreme court
+1	farmers	supreme court
+1	supreme court	bill
+1	bill	opposition
+1	supreme court	opposition
+1	bill	house
+1	supreme court	house
+1	opposition	house
+1	up	supreme court
+1	supreme court	union
+1	supreme court	sp
+1	bjp	manohar lal khattar
+1	congress	manohar lal khattar
+1	farmers	manohar lal khattar
+1	singh	manohar lal khattar
+1	opposition	manohar lal khattar
+1	agriculture	manohar lal khattar
+1	up	manohar lal khattar
+1	manohar lal khattar	sp
+1	karnal	bjp
+1	congress	karnal
+1	farmers	karnal
+1	karnal	singh
+1	karnal	opposition
+1	agriculture	karnal
+1	up	karnal
+1	karnal	manohar lal khattar
+1	karnal	sp
+1	lok sabha	bjp
+1	congress	lok sabha
+1	modi	lok sabha
+1	lok sabha	singh
+1	bjp	rajya sabha
+1	congress	rajya sabha
+1	modi	rajya sabha
+1	singh	rajya sabha
+1	lok sabha	rajya sabha
+1	rahul gandhi	bjp
+1	congress	rahul gandhi
+1	modi	rahul gandhi
+1	rahul gandhi	singh
+1	lok sabha	rahul gandhi
+1	rahul gandhi	rajya sabha
+1	lok sabha	opposition
+1	rajya sabha	opposition
+1	rahul gandhi	opposition
+1	nda	singh
+1	nda	lok sabha
+1	nda	rajya sabha
+1	nda	rahul gandhi
+1	assembly	singh
+1	assembly	lok sabha
+1	assembly	rajya sabha
+1	assembly	rahul gandhi
+1	up	lok sabha
+1	up	rajya sabha
+1	up	rahul gandhi
+1	bjp	gandhi
+1	congress	gandhi
+1	modi	gandhi
+1	singh	gandhi
+1	lok sabha	gandhi
+1	gandhi	rajya sabha
+1	rahul gandhi	gandhi
+1	gandhi	opposition
+1	nda	gandhi
+1	assembly	gandhi
+1	up	gandhi
+1	singh	cm
+1	lok sabha	cm
+1	rajya sabha	cm
+1	rahul gandhi	cm
+1	gandhi	cm
+1	madhya pradesh	bjp
+1	congress	madhya pradesh
+1	modi	madhya pradesh
+1	madhya pradesh	singh
+1	lok sabha	madhya pradesh
+1	madhya pradesh	rajya sabha
+1	madhya pradesh	rahul gandhi
+1	madhya pradesh	opposition
+1	nda	madhya pradesh
+1	assembly	madhya pradesh
+1	up	madhya pradesh
+1	madhya pradesh	gandhi
+1	madhya pradesh	cm
+1	gujarat	bjp
+1	congress	gujarat
+1	modi	gujarat
+1	gujarat	singh
+1	lok sabha	gujarat
+1	gujarat	rajya sabha
+1	gujarat	rahul gandhi
+1	gujarat	opposition
+1	nda	gujarat
+1	assembly	gujarat
+1	gujarat	gandhi
+1	gujarat	cm
+1	madhya pradesh	gujarat
+1	lok sabha	sp
+1	rajya sabha	sp
+1	rahul gandhi	sp
+1	gandhi	sp
+1	madhya pradesh	sp
+1	bjp	msp
+1	congress	msp
+1	centre	msp
+1	modi	msp
+1	singh	msp
+1	tomar	bjp
+1	congress	tomar
+1	centre	tomar
+1	tomar	msp
+1	modi	tomar
+1	farmers	tomar
+1	tomar	singh
+1	bjp	sad
+1	congress	sad
+1	centre	sad
+1	msp	sad
+1	modi	sad
+1	farmers	sad
+1	singh	sad
+1	tomar	sad
+1	narendra singh	bjp
+1	congress	narendra singh
+1	narendra singh	centre
+1	narendra singh	msp
+1	modi	narendra singh
+1	farmers	narendra singh
+1	narendra singh	singh
+1	narendra singh	tomar
+1	narendra singh	sad
+1	amarinder singh	bjp
+1	amarinder singh	msp
+1	amarinder singh	tomar
+1	amarinder singh	sad
+1	amarinder singh	narendra singh
+1	bjp	house
+1	congress	house
+1	msp	house
+1	singh	house
+1	tomar	house
+1	sad	house
+1	narendra singh	house
+1	amarinder singh	house
+1	agriculture	msp
+1	agriculture	tomar
+1	agriculture	sad
+1	agriculture	narendra singh
+1	agriculture	house
+1	up	tomar
+1	up	sad
+1	up	narendra singh
+1	up	amarinder singh
+1	singh	union
+1	tomar	union
+1	sad	union
+1	narendra singh	union
+1	amarinder singh	union
+1	tomar	sp
+1	sad	sp
+1	narendra singh	sp
+1	gujarat	centre
+1	farmers	gujarat
+1	gujarat	bill
+1	gujarat	union
+1	bjp	indian
+1	centre	indian
+1	modi	indian
+1	nda	indian
+1	agriculture	nda
+1	kisan sabha	bjp
+1	centre	kisan sabha
+1	modi	kisan sabha
+1	farmers	kisan sabha
+1	kisan sabha	indian
+1	nda	kisan sabha
+1	agriculture	kisan sabha
+1	up	kisan sabha
+1	union	indian
+1	kisan sabha	union
+1	ram nath kovind	bjp
+1	ram nath kovind	indian
+1	nda	ram nath kovind
+1	up	ram nath kovind
+1	ram nath kovind	kisan sabha
+1	ram nath kovind	union
+1	kisan sabha	sp

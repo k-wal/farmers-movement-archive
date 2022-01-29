@@ -2,3 +2,5 @@ corpus/tweets
 corpus/temp
 */images.png
 */images.jpg
+*.png
+*.jpg

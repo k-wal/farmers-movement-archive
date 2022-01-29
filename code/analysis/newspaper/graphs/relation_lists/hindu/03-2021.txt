@@ -1,0 +1,1022 @@
+31	bjp	state
+30	bharat	state
+30	state	centre
+28	singh	state
+24	kisan morcha	state
+24	bharat	kisan morcha
+22	singh	singhu
+22	tikait	bharat
+20	singh	kisan morcha
+20	tikait	state
+20	bjp	bharat
+20	bjp	centre
+19	state	assembly
+19	congress	state
+19	bjp	congress
+18	bharat	centre
+17	bku	tikait
+17	bku	bharat
+16	bjp	assembly
+16	singh	bharat
+16	states	state
+16	singh	centre
+15	bjp	kisan morcha
+15	bjp	singh
+15	bharat bandh	bharat
+15	modi	state
+14	tikri	singh
+14	tikait	singh
+14	tikait	kisan morcha
+13	kisan morcha	skm
+13	bku	singh
+13	bjp	modi
+12	singh	ghazipur
+12	tikri	singhu
+12	bku	state
+12	bku	kisan morcha
+12	congress	assembly
+12	bharat bandh	state
+11	tikri	state
+11	singh	skm
+11	kisan morcha	centre
+11	bharat bandh	kisan morcha
+10	state	skm
+10	tikri	ghazipur
+10	state	singhu
+10	ghazipur	singhu
+10	congress	bharat
+10	bjp	tikait
+10	shivamogga	tikait
+10	bharat bandh	centre
+10	state	dalit
+10	centre	dalit
+10	centre	assembly
+10	congress	centre
+9	state	ghazipur
+9	tikait	ghazipur
+9	bjp	bku
+9	congress	kisan morcha
+9	singh	assembly
+9	states	centre
+9	indian	state
+9	bills	state
+9	shivamogga	state
+9	modi	centre
+9	bharat	ghazipur
+9	shivamogga	bharat
+9	bengaluru	state
+8	kisan morcha	singhu
+8	kisan sabha	state
+8	bharat	assembly
+8	shivamogga	raitha sangha
+8	tikait	centre
+8	tikait	bengaluru
+8	bengaluru	bharat
+8	bharat	dalit
+8	tikri	centre
+8	states	singh
+8	modi	singh
+8	bjp	lok sabha
+7	singhu	skm
+7	bku	ghazipur
+7	bjp	skm
+7	kisan morcha	assembly
+7	kisan sabha	singh
+7	bharat	skm
+7	parliament	state
+7	bills	centre
+7	centre	singhu
+7	modi	assembly
+7	modi	bharat
+7	bhagat singh	singh
+7	singh	bhagat
+7	bhagat singh	bhagat
+7	bjp	bharat bandh
+7	modi	kisan morcha
+7	modi	congress
+7	state	lok sabha
+7	congress	lok sabha
+6	kisan morcha	ghazipur
+6	holi	state
+6	kisan sabha	kisan morcha
+6	indian	bjp
+6	shivamogga	centre
+6	raitha sangha	centre
+6	bharat	bills
+6	tikait	raitha sangha
+6	indian	tikri
+6	shivamogga	bengaluru
+6	tikait	darshan pal
+6	tikait	dalit
+6	bengaluru	dalit
+6	bjp	shivamogga
+6	bengaluru	singh
+6	bjp	dalit
+6	bhagat singh	state
+6	state	bhagat
+6	congress	bharat bandh
+6	states	modi
+6	rajasthan	state
+6	parliament	bharat
+6	bjp’s	state
+6	bjp	bjp’s
+6	state	andhra pradesh
+5	tikri	kisan morcha
+5	assembly	skm
+5	congress	skm
+5	singh	congress
+5	msp	kisan morcha
+5	indian	assembly
+5	parliament	kisan morcha
+5	parliament	singh
+5	bjp	states
+5	parliament	centre
+5	dmk	state
+5	aiadmk	dmk
+5	raitha sangha	state
+5	haveri	tikait
+5	karnataka rajya raitha sangha	raitha sangha
+5	bharat	raitha sangha
+5	tikait	states
+5	bengaluru	centre
+5	darshan pal	state
+5	bengaluru	darshan pal
+5	darshan pal	bharat
+5	kisan morcha	dalit
+5	shivamogga	dalit
+5	darshan pal	dalit
+5	samyukta horata	state
+5	bjp	bengaluru
+5	yudhvir singh	tikait
+5	yudhvir singh	singh
+5	singh	dalit
+5	tikait	raitha mahapanchayat
+5	bharat	raitha mahapanchayat
+5	raitha sangha	dalit
+5	singh	inderjit singh
+5	kisan sabha	inderjit singh
+5	bjp	jjp
+5	singh	jjp
+5	bjp	tikri
+5	bku	centre
+5	tikri	bharat
+5	communist party of india	state
+5	bjp	communist party of india
+5	tikri	states
+5	states	singhu
+5	singh	bharat bandh
+5	bhagat singh	kisan morcha
+5	kisan morcha	bhagat
+5	yogendra yadav	state
+5	yogendra yadav	kisan morcha
+5	yogendra yadav	singh
+5	congress	bjp’s
+5	visakhapatnam steel plant	bharat bandh
+5	visakhapatnam steel plant	bharat
+4	holi	kisan morcha
+4	holi	singh
+4	dharmendra malik	ghazipur
+4	kisan sabha	bjp
+4	kisan sabha	assembly
+4	msp	state
+4	msp	singh
+4	kisan sabha	bharat
+4	bills	kisan morcha
+4	parliament	bills
+4	bjp	parliament
+4	bjp	dmk
+4	aiadmk	state
+4	indian	centre
+4	bjp	bills
+4	states	bills
+4	holi	bharat
+4	tikait	bills
+4	shivamogga	kisan morcha
+4	karnataka rajya raitha sangha	tikait
+4	karnataka rajya raitha sangha	shivamogga
+4	haveri	state
+4	haveri	shivamogga
+4	haveri	bharat
+4	shivamogga	darshan pal
+4	bharat bandh	dalit
+4	bharat	samyukta horata
+4	samyukta horata	dalit
+4	shivamogga	bku
+4	shivamogga	singh
+4	singh	darshan pal
+4	yudhvir singh	bku
+4	yudhvir singh	shivamogga
+4	yudhvir singh	bengaluru
+4	yudhvir singh	bharat
+4	shivamogga	raitha mahapanchayat
+4	bengaluru	raitha mahapanchayat
+4	centre	skm
+4	kisan sabha	centre
+4	state	inderjit singh
+4	kisan morcha	inderjit singh
+4	state	jjp
+4	assembly	jjp
+4	congress	jjp
+4	bjp	ghazipur
+4	centre	ghazipur
+4	tikri	assembly
+4	bjp	singhu
+4	tikri	international women’s day
+4	bharat	singhu
+4	dmk	assembly
+4	communist party of india	modi
+4	modi	dalit
+4	marxist	state
+4	bjp	marxist
+4	marxist	centre
+4	bhagat singh	tikait
+4	tikait	bhagat
+4	bharat bandh	skm
+4	modi	skm
+4	modi	bharat bandh
+4	holi	bjp
+4	holi	congress
+4	bhagat singh	bku
+4	bhagat singh	bharat
+4	bku	bhagat
+4	bharat	bhagat
+4	b.s. yediyurappa	state
+4	indian	congress
+4	state	ldf
+4	states	assembly
+4	yogendra yadav	bharat
+4	parliament	tikait
+4	parliament	bku
+4	rajasthan	kisan morcha
+4	rajasthan	singh
+4	rajasthan	yogendra yadav
+4	bjp’s	assembly
+4	communist party of india	centre
+4	centre	lok sabha
+4	bharat	lok sabha
+4	bjp	ysr congress party
+4	ysr congress party	centre
+4	ysr congress party	congress
+4	ysr congress party	bharat bandh
+4	ysr congress party	bharat
+4	visakhapatnam steel plant	state
+4	bjp	visakhapatnam steel plant
+4	visakhapatnam steel plant	kisan morcha
+4	visakhapatnam steel plant	centre
+4	visakhapatnam steel plant	congress
+4	visakhapatnam steel plant	ysr congress party
+4	assembly	lok sabha
+4	rajasthan	assembly
+4	kisan morcha	andhra pradesh
+4	modi	andhra pradesh
+3	tikri	skm
+3	ghazipur	skm
+3	holi	ghazipur
+3	holi	bku
+3	dharmendra malik	bku
+3	bku	skm
+3	bku	assembly
+3	bku	congress
+3	kisan sabha	bku
+3	kisan sabha	skm
+3	bjp	msp
+3	msp	assembly
+3	msp	congress
+3	msp	bharat
+3	parliament	states
+3	dmk	centre
+3	bjp	aiadmk
+3	aiadmk	centre
+3	sitaram yechury	state
+3	bjp	sitaram yechury
+3	states	sitaram yechury
+3	secular progressive alliance	state
+3	bjp	secular progressive alliance
+3	dmk	secular progressive alliance
+3	aiadmk	secular progressive alliance
+3	bku	bills
+3	karnataka rajya raitha sangha	state
+3	karnataka rajya raitha sangha	kisan morcha
+3	haveri	kisan morcha
+3	karnataka rajya raitha sangha	bharat
+3	raitha sangha	kisan morcha
+3	chukki nanjundaswamy	tikait
+3	chukki nanjundaswamy	bharat
+3	indian	singh
+3	states	kisan morcha
+3	bengaluru	kisan morcha
+3	bengaluru	states
+3	tikait	bharat bandh
+3	darshan pal	kisan morcha
+3	darshan pal	centre
+3	states	bharat
+3	states	dalit
+3	bills	dalit
+3	tikait	samyukta horata
+3	kisan morcha	samyukta horata
+3	samyukta horata	centre
+3	bengaluru	samyukta horata
+3	bharat bandh	samyukta horata
+3	darshan pal	samyukta horata
+3	bku	bengaluru
+3	bjp	darshan pal
+3	bjp	karnataka rajya raitha sangha
+3	yudhvir singh	darshan pal
+3	karnataka rajya raitha sangha	dalit
+3	bku	raitha mahapanchayat
+3	singh	raitha mahapanchayat
+3	darshan pal	raitha mahapanchayat
+3	yudhvir singh	raitha mahapanchayat
+3	bjp	raitha sangha
+3	bku	raitha sangha
+3	singh	raitha sangha
+3	yudhvir singh	raitha sangha
+3	k.l. ashok	shivamogga
+3	msp	centre
+3	bjp	inderjit singh
+3	centre	inderjit singh
+3	assembly	inderjit singh
+3	state assembly	state
+3	bjp	state assembly
+3	state assembly	centre
+3	state assembly	assembly
+3	kisan morcha	jjp
+3	skm	jjp
+3	centre	jjp
+3	tikri	tikait
+3	ghazipur	assembly
+3	tikait	singhu
+3	kisan sabha	tikri
+3	tikri	inderjit singh
+3	hisar	tikri
+3	bengaluru	modi
+3	indian	bharat
+3	modi	marxist
+3	bharat	marxist
+3	states	ghazipur
+3	bhagat singh	tikri
+3	tikri	bhagat
+3	bku	modi
+3	holi	bharat bandh
+3	kolkata	state
+3	bjp	kolkata
+3	kisan morcha	kolkata
+3	bharat	kolkata
+3	tikait	modi
+3	shivamogga	modi
+3	yudhvir singh	state
+3	holi	centre
+3	state	badagalpura nagendra
+3	dalit	badagalpura nagendra
+3	samyukta horata	badagalpura nagendra
+3	bjp	b.s. yediyurappa
+3	modi	lok sabha
+3	assembly	ldf
+3	congress	ldf
+3	indian	ldf
+3	national democratic alliance	assembly
+3	national democratic alliance	congress
+3	left democratic front	state
+3	left democratic front	assembly
+3	left democratic front	congress
+3	indian	left democratic front
+3	left democratic front	ldf
+3	state	united democratic front
+3	assembly	united democratic front
+3	congress	united democratic front
+3	indian	united democratic front
+3	ldf	united democratic front
+3	left democratic front	united democratic front
+3	udf	state
+3	udf	assembly
+3	congress	udf
+3	indian	udf
+3	udf	ldf
+3	left democratic front	udf
+3	udf	united democratic front
+3	tikri	modi
+3	modi	singhu
+3	rajasthan	tikait
+3	rajasthan	bku
+3	rajasthan	centre
+3	rajasthan	parliament
+3	tikait	yogendra yadav
+3	bku	yogendra yadav
+3	parliament	yogendra yadav
+3	rajasthan	bharat
+3	bhagat singh	parliament
+3	rajasthan	bhagat singh
+3	bhagat singh	yogendra yadav
+3	parliament	bhagat
+3	rajasthan	bhagat
+3	yogendra yadav	bhagat
+3	vidyadhar nagar stadium	state
+3	vidyadhar nagar stadium	tikait
+3	vidyadhar nagar stadium	kisan morcha
+3	vidyadhar nagar stadium	bku
+3	vidyadhar nagar stadium	singh
+3	vidyadhar nagar stadium	parliament
+3	rajasthan	vidyadhar nagar stadium
+3	vidyadhar nagar stadium	yogendra yadav
+3	vidyadhar nagar stadium	bharat
+3	vidyadhar nagar stadium	bhagat singh
+3	vidyadhar nagar stadium	bhagat
+3	state assemblies	state
+3	tikait	state assemblies
+3	state assemblies	kisan morcha
+3	bku	state assemblies
+3	singh	state assemblies
+3	parliament	state assemblies
+3	rajasthan	state assemblies
+3	yogendra yadav	state assemblies
+3	bharat	state assemblies
+3	bhagat singh	state assemblies
+3	state assemblies	bhagat
+3	vidyadhar nagar stadium	state assemblies
+3	swaraj abhiyan’s	state
+3	swaraj abhiyan’s	tikait
+3	swaraj abhiyan’s	kisan morcha
+3	swaraj abhiyan’s	bku
+3	swaraj abhiyan’s	singh
+3	swaraj abhiyan’s	parliament
+3	rajasthan	swaraj abhiyan’s
+3	swaraj abhiyan’s	yogendra yadav
+3	swaraj abhiyan’s	bharat
+3	swaraj abhiyan’s	bhagat singh
+3	swaraj abhiyan’s	bhagat
+3	swaraj abhiyan’s	vidyadhar nagar stadium
+3	swaraj abhiyan’s	state assemblies
+3	bhim army’s	state
+3	tikait	bhim army’s
+3	kisan morcha	bhim army’s
+3	bku	bhim army’s
+3	singh	bhim army’s
+3	parliament	bhim army’s
+3	rajasthan	bhim army’s
+3	yogendra yadav	bhim army’s
+3	bharat	bhim army’s
+3	bhagat singh	bhim army’s
+3	bhim army’s	bhagat
+3	vidyadhar nagar stadium	bhim army’s
+3	state assemblies	bhim army’s
+3	swaraj abhiyan’s	bhim army’s
+3	chandrashekhar azad	state
+3	tikait	chandrashekhar azad
+3	chandrashekhar azad	kisan morcha
+3	bku	chandrashekhar azad
+3	chandrashekhar azad	singh
+3	parliament	chandrashekhar azad
+3	rajasthan	chandrashekhar azad
+3	yogendra yadav	chandrashekhar azad
+3	chandrashekhar azad	bharat
+3	bhagat singh	chandrashekhar azad
+3	chandrashekhar azad	bhagat
+3	vidyadhar nagar stadium	chandrashekhar azad
+3	chandrashekhar azad	state assemblies
+3	swaraj abhiyan’s	chandrashekhar azad
+3	chandrashekhar azad	bhim army’s
+3	rajasthan jat mahasabha	state
+3	tikait	rajasthan jat mahasabha
+3	rajasthan jat mahasabha	kisan morcha
+3	bku	rajasthan jat mahasabha
+3	rajasthan jat mahasabha	singh
+3	parliament	rajasthan jat mahasabha
+3	rajasthan	rajasthan jat mahasabha
+3	yogendra yadav	rajasthan jat mahasabha
+3	rajasthan jat mahasabha	bharat
+3	bhagat singh	rajasthan jat mahasabha
+3	rajasthan jat mahasabha	bhagat
+3	vidyadhar nagar stadium	rajasthan jat mahasabha
+3	rajasthan jat mahasabha	state assemblies
+3	swaraj abhiyan’s	rajasthan jat mahasabha
+3	rajasthan jat mahasabha	bhim army’s
+3	chandrashekhar azad	rajasthan jat mahasabha
+3	bjp’s	centre
+3	bjp	ldf
+3	communist party of india	marxist
+3	bjp’s	lok sabha
+3	bharat	bjp’s
+3	ysr congress party	state
+3	ysr congress party	kisan morcha
+3	communist party of india	kisan morcha
+3	communist party of india	congress
+3	communist party of india	bharat bandh
+3	communist party of india	bharat
+3	communist party of india	ysr congress party
+3	visakhapatnam steel plant	communist party of india
+3	rajasthan	congress
+3	haveri	bjp
+3	states	andhra pradesh
+3	aiadmk	assembly
+3	hisar	singh
+3	centre	andhra pradesh
+3	congress	andhra pradesh
+3	bharat bandh	andhra pradesh
+3	bharat	andhra pradesh
+3	visakhapatnam steel plant	andhra pradesh
+2	holi	skm
+2	holi	singhu
+2	holi	tikait
+2	dharmendra malik	tikait
+2	dharmendra malik	singh
+2	holi	dharmendra malik
+2	kisan sabha	congress
+2	msp	bku
+2	msp	skm
+2	kisan sabha	msp
+2	parliament	skm
+2	parliament	singhu
+2	states	dmk
+2	parliament	dmk
+2	states	aiadmk
+2	parliament	aiadmk
+2	indian	states
+2	dmk	bills
+2	aiadmk	bills
+2	indian	bills
+2	sitaram yechury	centre
+2	parliament	sitaram yechury
+2	dmk	sitaram yechury
+2	aiadmk	sitaram yechury
+2	bills	sitaram yechury
+2	secular progressive alliance	centre
+2	states	secular progressive alliance
+2	parliament	secular progressive alliance
+2	bills	secular progressive alliance
+2	secular progressive alliance	sitaram yechury
+2	shivamogga	bills
+2	raitha sangha	bills
+2	national democratic alliance	centre
+2	holi	msp
+2	bills	ghazipur
+2	haveri	karnataka rajya raitha sangha
+2	haveri	raitha sangha
+2	chukki nanjundaswamy	kisan morcha
+2	chukki nanjundaswamy	shivamogga
+2	haveri	chukki nanjundaswamy
+2	chukki nanjundaswamy	raitha sangha
+2	shivamogga	states
+2	shivamogga	bharat bandh
+2	bengaluru	bharat bandh
+2	states	darshan pal
+2	bharat bandh	darshan pal
+2	bengaluru	bills
+2	bharat bandh	bills
+2	bku	darshan pal
+2	karnataka rajya raitha sangha	bku
+2	bjp	yudhvir singh
+2	bku	dalit
+2	yudhvir singh	dalit
+2	bjp	raitha mahapanchayat
+2	kisan morcha	raitha mahapanchayat
+2	raitha mahapanchayat	dalit
+2	bengaluru	raitha sangha
+2	darshan pal	raitha sangha
+2	raitha sangha	raitha mahapanchayat
+2	k.l. ashok	bjp
+2	k.l. ashok	tikait
+2	k.l. ashok	bku
+2	k.l. ashok	singh
+2	k.l. ashok	bengaluru
+2	k.l. ashok	darshan pal
+2	k.l. ashok	yudhvir singh
+2	k.l. ashok	bharat
+2	k.l. ashok	dalit
+2	k.l. ashok	raitha mahapanchayat
+2	k.l. ashok	raitha sangha
+2	inderjit singh	skm
+2	state assembly	kisan morcha
+2	state assembly	skm
+2	state assembly	congress
+2	state assembly	singh
+2	kisan sabha	state assembly
+2	state assembly	inderjit singh
+2	kisan sabha	jjp
+2	inderjit singh	jjp
+2	state assembly	jjp
+2	tikri	bku
+2	tikait	assembly
+2	bku	singhu
+2	assembly	singhu
+2	kisan sabha	tikait
+2	international women’s day	state
+2	international women’s day	centre
+2	international women’s day	assembly
+2	bharat	inderjit singh
+2	bku	jjp
+2	bharat	jjp
+2	yudhvir singh	centre
+2	chukki nanjundaswamy	bku
+2	indian	modi
+2	modi	bills
+2	bhagat singh	states
+2	bhagat singh	singhu
+2	states	bhagat
+2	singhu	bhagat
+2	bku	bharat bandh
+2	holi	modi
+2	bjp	bhagat singh
+2	bhagat singh	assembly
+2	bhagat singh	modi
+2	bku	kolkata
+2	kolkata	skm
+2	kolkata	assembly
+2	congress	kolkata
+2	singh	kolkata
+2	modi	kolkata
+2	bjp	bhagat
+2	assembly	bhagat
+2	modi	bhagat
+2	yudhvir singh	states
+2	yudhvir singh	modi
+2	raitha mahapanchayat	state
+2	modi	raitha sangha
+2	tikait	badagalpura nagendra
+2	kisan morcha	badagalpura nagendra
+2	bharat bandh	badagalpura nagendra
+2	darshan pal	badagalpura nagendra
+2	bharat	badagalpura nagendra
+2	bjp	samyukta horata
+2	singh	samyukta horata
+2	b.s. yediyurappa	centre
+2	b.s. yediyurappa	dalit
+2	singh	badagalpura nagendra
+2	bengaluru	badagalpura nagendra
+2	b.s. yediyurappa	congress
+2	modi	b.s. yediyurappa
+2	haveri	bku
+2	haveri	raitha mahapanchayat
+2	national democratic alliance	state
+2	modi	ghazipur
+2	yogendra yadav	assembly
+2	yogendra yadav	states
+2	yogendra yadav	modi
+2	bhagat singh	centre
+2	centre	bhagat
+2	kisan morcha	lok sabha
+2	bharat bandh	lok sabha
+2	marxist	kisan morcha
+2	congress	marxist
+2	bharat bandh	marxist
+2	bjp’s	kisan morcha
+2	modi	bjp’s
+2	ysr congress party	modi
+2	ysr congress party	lok sabha
+2	ysr congress party	marxist
+2	visakhapatnam steel plant	modi
+2	visakhapatnam steel plant	lok sabha
+2	visakhapatnam steel plant	marxist
+2	communist party of india	lok sabha
+2	rajasthan	bjp
+2	rajasthan	lok sabha
+2	national democratic alliance	bjp
+2	national democratic alliance	lok sabha
+2	national democratic alliance	rajasthan
+2	bharat	ldf
+2	bjp	left democratic front
+2	left democratic front	bharat
+2	bjp	united democratic front
+2	bharat	united democratic front
+2	bjp	udf
+2	bharat	udf
+2	singh	lok sabha
+2	haveri	bengaluru
+2	parliament	ghazipur
+2	rajasthan	states
+2	rajasthan	modi
+2	assembly	andhra pradesh
+2	singh	andhra pradesh
+2	rajasthan	andhra pradesh
+2	msp	andhra pradesh
+2	assembly	dalit
+2	karnataka rajya raitha sangha	centre
+2	hisar	modi
+2	dalit	skm
+2	tikait	congress
+2	congress	bills
+2	kisan sabha	bharat bandh
+2	kisan sabha	andhra pradesh
+2	indian	kisan sabha
+2	indian	inderjit singh
+2	shivamogga	congress
+2	kisan sabha	modi
+2	indian	kisan morcha
+2	hisar	state
+2	hisar	kisan sabha
+2	holi	ysr congress party
+2	holi	visakhapatnam steel plant
+2	bjp	andhra pradesh
+2	ysr congress party	andhra pradesh
+2	communist party of india	andhra pradesh
+2	parliament	bharat bandh
+2	tikri	bharat bandh
+2	bharat bandh	ghazipur
+2	bharat bandh	singhu
+1	holi	tikri
+1	dharmendra malik	state
+1	bills	skm
+1	singh	bills
+1	bills	singhu
+1	indian	parliament
+1	indian	dmk
+1	indian	aiadmk
+1	indian	sitaram yechury
+1	indian	secular progressive alliance
+1	national democratic alliance	modi
+1	msp	tikait
+1	msp	ghazipur
+1	dharmendra malik	kisan morcha
+1	dharmendra malik	msp
+1	dharmendra malik	bharat
+1	msp	bills
+1	holi	bills
+1	dharmendra malik	bills
+1	chukki nanjundaswamy	state
+1	chukki nanjundaswamy	karnataka rajya raitha sangha
+1	indian	ghazipur
+1	indian	singhu
+1	states	bharat bandh
+1	darshan pal	bills
+1	states	samyukta horata
+1	shivamogga	samyukta horata
+1	bills	samyukta horata
+1	karnataka rajya raitha sangha	singh
+1	karnataka rajya raitha sangha	bengaluru
+1	karnataka rajya raitha sangha	darshan pal
+1	yudhvir singh	kisan morcha
+1	yudhvir singh	karnataka rajya raitha sangha
+1	karnataka rajya raitha sangha	raitha mahapanchayat
+1	k.l. ashok	kisan morcha
+1	k.l. ashok	karnataka rajya raitha sangha
+1	congress	inderjit singh
+1	msp	inderjit singh
+1	state assembly	msp
+1	msp	jjp
+1	tikait	skm
+1	kisan sabha	ghazipur
+1	kisan sabha	singhu
+1	tikait	inderjit singh
+1	bku	inderjit singh
+1	ghazipur	inderjit singh
+1	singhu	inderjit singh
+1	bjp	international women’s day
+1	tikait	international women’s day
+1	kisan morcha	international women’s day
+1	bku	international women’s day
+1	international women’s day	skm
+1	international women’s day	ghazipur
+1	singh	international women’s day
+1	international women’s day	singhu
+1	kisan sabha	international women’s day
+1	international women’s day	inderjit singh
+1	bharat	international women’s day
+1	state assembly	tikait
+1	state assembly	bku
+1	state assembly	tikri
+1	state assembly	ghazipur
+1	state assembly	singhu
+1	state assembly	international women’s day
+1	state assembly	bharat
+1	tikait	jjp
+1	tikri	jjp
+1	ghazipur	jjp
+1	singhu	jjp
+1	international women’s day	jjp
+1	modi	dmk
+1	communist party of india	assembly
+1	communist party of india	dmk
+1	hisar	centre
+1	chukki nanjundaswamy	centre
+1	chukki nanjundaswamy	singh
+1	chukki nanjundaswamy	yudhvir singh
+1	indian	bengaluru
+1	indian	dalit
+1	bengaluru	marxist
+1	indian	marxist
+1	marxist	bills
+1	marxist	dalit
+1	bhagat singh	ghazipur
+1	ghazipur	bhagat
+1	bharat bandh	assembly
+1	holi	assembly
+1	bhagat singh	skm
+1	bhagat singh	congress
+1	bhagat singh	bharat bandh
+1	holi	bhagat singh
+1	bharat bandh	jjp
+1	modi	jjp
+1	holi	jjp
+1	bhagat singh	jjp
+1	bharat bandh	kolkata
+1	holi	kolkata
+1	bhagat singh	kolkata
+1	kolkata	jjp
+1	bhagat	skm
+1	congress	bhagat
+1	bharat bandh	bhagat
+1	holi	bhagat
+1	bhagat	jjp
+1	kolkata	bhagat
+1	modi	darshan pal
+1	raitha mahapanchayat	centre
+1	states	raitha mahapanchayat
+1	modi	raitha mahapanchayat
+1	states	raitha sangha
+1	tikait	b.s. yediyurappa
+1	b.s. yediyurappa	singh
+1	bengaluru	b.s. yediyurappa
+1	b.s. yediyurappa	darshan pal
+1	b.s. yediyurappa	samyukta horata
+1	bjp	badagalpura nagendra
+1	centre	badagalpura nagendra
+1	b.s. yediyurappa	badagalpura nagendra
+1	holi	lok sabha
+1	b.s. yediyurappa	lok sabha
+1	holi	b.s. yediyurappa
+1	chukki nanjundaswamy	raitha mahapanchayat
+1	national democratic alliance	indian
+1	national democratic alliance	ldf
+1	national democratic alliance	left democratic front
+1	national democratic alliance	united democratic front
+1	national democratic alliance	udf
+1	states	skm
+1	bjp	yogendra yadav
+1	yogendra yadav	skm
+1	tikri	yogendra yadav
+1	yogendra yadav	ghazipur
+1	yogendra yadav	singhu
+1	tikri	kolkata
+1	kolkata	ghazipur
+1	states	kolkata
+1	kolkata	singhu
+1	yogendra yadav	kolkata
+1	tikri	bengaluru
+1	yogendra yadav	centre
+1	vidyadhar nagar stadium	centre
+1	state assemblies	centre
+1	swaraj abhiyan’s	centre
+1	bhim army’s	centre
+1	chandrashekhar azad	centre
+1	rajasthan jat mahasabha	centre
+1	singh	bjp’s
+1	states	marxist
+1	centre	ldf
+1	states	ldf
+1	modi	ldf
+1	marxist	ldf
+1	modi	sitaram yechury
+1	marxist	sitaram yechury
+1	sitaram yechury	ldf
+1	communist party of india	states
+1	communist party of india	ldf
+1	communist party of india	sitaram yechury
+1	marxist	lok sabha
+1	bharat bandh	bjp’s
+1	marxist	bjp’s
+1	ysr congress party	bjp’s
+1	visakhapatnam steel plant	bjp’s
+1	communist party of india	bjp’s
+1	tikri	congress
+1	tikri	lok sabha
+1	indian	lok sabha
+1	tikri	ldf
+1	ldf	lok sabha
+1	tikri	bjp’s
+1	indian	bjp’s
+1	bjp’s	ldf
+1	left democratic front	tikri
+1	left democratic front	lok sabha
+1	left democratic front	bjp’s
+1	tikri	united democratic front
+1	united democratic front	lok sabha
+1	bjp’s	united democratic front
+1	tikri	udf
+1	udf	lok sabha
+1	bjp’s	udf
+1	state assembly	lok sabha
+1	rajasthan	state assembly
+1	national democratic alliance	state assembly
+1	tikait	lok sabha
+1	bku	lok sabha
+1	shivamogga	lok sabha
+1	bengaluru	lok sabha
+1	darshan pal	lok sabha
+1	haveri	singh
+1	haveri	lok sabha
+1	haveri	darshan pal
+1	yudhvir singh	lok sabha
+1	haveri	yudhvir singh
+1	raitha mahapanchayat	lok sabha
+1	k.l. ashok	state
+1	k.l. ashok	lok sabha
+1	k.l. ashok	haveri
+1	samyukta horata	assembly
+1	msp	states
+1	msp	modi
+1	rajasthan	msp
+1	msp	yogendra yadav
+1	yogendra yadav	andhra pradesh
+1	k.l. ashok	centre
+1	indian	international women’s day
+1	hisar	international women’s day
+1	hisar	indian
+1	dmk	congress
+1	dmk	lok sabha
+1	aiadmk	congress
+1	aiadmk	lok sabha
+1	congress	dalit
+1	dalit	lok sabha
+1	dmk	dalit
+1	aiadmk	dalit
+1	dmk	bjp’s
+1	aiadmk	bjp’s
+1	bjp’s	dalit
+1	secular progressive alliance	assembly
+1	congress	secular progressive alliance
+1	secular progressive alliance	lok sabha
+1	secular progressive alliance	dalit
+1	bjp’s	secular progressive alliance
+1	karnataka rajya raitha sangha	bills
+1	hisar	ghazipur
+1	hisar	singhu
+1	states	international women’s day
+1	international women’s day	dalit
+1	b.s. yediyurappa	assembly
+1	states	b.s. yediyurappa
+1	b.s. yediyurappa	international women’s day
+1	dharmendra malik	tikri
+1	dharmendra malik	singhu
+1	singhu	dalit
+1	tikait	bjp’s
+1	bku	bjp’s
+1	bjp’s	bills
+1	tikait	kolkata
+1	bills	kolkata
+1	bjp’s	kolkata
+1	states	congress
+1	bills	assembly
+1	rajasthan	bills
+1	bills	andhra pradesh
+1	kisan sabha	visakhapatnam steel plant
+1	msp	tikri
+1	msp	singhu
+1	shivamogga	assembly
+1	shivamogga	bjp’s
+1	modi	inderjit singh
+1	kisan sabha	bhagat singh
+1	bhagat singh	inderjit singh
+1	indian	bhagat singh
+1	kisan sabha	bhagat
+1	inderjit singh	bhagat
+1	indian	bhagat
+1	singhu	lok sabha
+1	bku	states
+1	kisan sabha	states
+1	kisan sabha	bengaluru
+1	kisan sabha	yudhvir singh
+1	tikait	andhra pradesh
+1	bku	andhra pradesh
+1	bengaluru	andhra pradesh
+1	yudhvir singh	andhra pradesh
+1	hisar	tikait
+1	hisar	bku
+1	hisar	states
+1	hisar	bengaluru
+1	hisar	yudhvir singh
+1	hisar	andhra pradesh
+1	bengaluru	skm
+1	samyukta horata	skm
+1	badagalpura nagendra	skm
+1	karnataka rajya raitha sangha	bharat bandh
+1	karnataka rajya raitha sangha	modi
+1	bharat bandh	raitha sangha
+1	msp	bharat bandh
+1	msp	marxist
+1	holi	marxist
+1	msp	ysr congress party
+1	visakhapatnam steel plant	msp
+1	holi	andhra pradesh
+1	marxist	andhra pradesh
+1	msp	communist party of india
+1	holi	communist party of india
+1	skm	lok sabha
+1	ysr congress party	skm
+1	visakhapatnam steel plant	skm
+1	andhra pradesh	skm
+1	andhra pradesh	lok sabha
+1	communist party of india	skm
+1	parliament	congress
+1	parliament	tikri
+1	bharat bandh	inderjit singh
+1	hisar	kisan morcha
+1	hisar	bharat bandh
+1	hisar	inderjit singh
+1	hisar	bharat
+1	karnataka rajya raitha sangha	congress
+1	haveri	congress
+1	indian	tikait
+1	indian	shivamogga
+1	indian	karnataka rajya raitha sangha
+1	indian	haveri
+1	congress	raitha sangha
+1	indian	raitha sangha

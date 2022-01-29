@@ -1,0 +1,1324 @@
+128	farmers	singh
+112	farmers	state
+96	singh	singhu
+86	farmers	centre
+85	farmers	singhu
+80	farmers	nda
+73	farmers	fir
+61	bjp	farmers
+60	singh	state
+58	state	centre
+51	singh	nda
+51	singh	fir
+51	nda	state
+47	farmers	central
+45	state	fir
+44	singh	centre
+43	farmers	ghazipur
+40	nda	centre
+40	singh	ghazipur
+40	farmers	congress
+39	singhu	fir
+39	bjp	state
+36	farmers	modi
+35	bjp	centre
+35	bjp	singh
+35	nda	singhu
+35	centre	fir
+35	state	singhu
+35	farmers	all india
+32	tikri	farmers
+32	congress	state
+32	tikait	farmers
+30	tikri	singh
+30	bjp	nda
+30	nda	fir
+30	ghazipur	singhu
+30	delhi police	farmers
+30	states	state
+30	farmers	states
+30	bku	farmers
+29	delhi police	singh
+28	farmers	supreme court
+28	kisan sabha	farmers
+27	state	central
+26	centre	singhu
+26	tikri	singhu
+26	congress	centre
+25	kisan sabha	all india
+25	farmers	bill
+24	state	all india
+24	bills	bill
+23	indian	farmers
+23	delhi police	singhu
+23	congress	nda
+23	bjp	congress
+23	singh	central
+22	kisan sabha	state
+22	parliament	farmers
+22	centre	central
+22	bku	singh
+22	farmers	bills
+21	bjp	fir
+21	tikri	ghazipur
+21	msp	farmers
+21	modi	state
+21	modi	nda
+21	nda	central
+21	supreme court	state
+21	tikait	ghazipur
+21	tikait	singh
+20	states	singh
+20	bjp	central
+20	state	assembly
+20	farmers	assembly
+20	tikait	bku
+19	bjp	singhu
+19	singh	supreme court
+19	nda	all india
+19	kumar	farmers
+19	farmers	opposition
+19	centre	all india
+18	indian	singh
+18	supreme court	centre
+17	delhi police	ghazipur
+17	modi	singh
+17	modi	fir
+17	central	fir
+17	kisan sabha	centre
+17	state	bill
+17	bku	ghazipur
+16	indian	state
+16	bjp	ghazipur
+16	bjp	modi
+16	modi	centre
+16	kumar	state
+16	bills	state
+16	farmers	kisan morcha
+16	state	opposition
+15	indian	nda
+15	kisan sabha	nda
+15	singh	all india
+15	singh	congress
+15	congress	central
+15	congress	opposition
+15	delhi police	state
+15	delhi police	fir
+15	singh	punjab’s
+15	farmers	punjab’s
+14	supreme court	nda
+14	indian	fir
+14	msp	state
+14	bjp	all india
+14	parliament	centre
+14	modi	congress
+14	congress	fir
+14	congress	bill
+14	kumar	singh
+14	centre	assembly
+14	centre	bill
+14	singh	kisan morcha
+14	bjp	opposition
+14	state	ghazipur
+14	ghazipur	fir
+13	indian	centre
+13	kisan sabha	singh
+13	states	singhu
+13	modi	singhu
+13	farmers	sad
+13	parliament	nda
+13	bku	centre
+13	congress	bills
+13	parliament	state
+13	parliament	fir
+13	bills	centre
+13	congress	all india
+13	fir	all india
+12	bjp	tikri
+12	indian	singhu
+12	tikri	fir
+12	parliament	central
+12	msp	centre
+12	tikri	state
+12	tikait	state
+12	kisan morcha	state
+12	bku	state
+12	singhu	central
+12	states	centre
+12	ghaziabad	ghazipur
+12	farmers	ghaziabad
+12	tikait	centre
+12	singhu	punjab’s
+11	indian	bjp
+11	tikri	nda
+11	supreme court	fir
+11	amritsar	singh
+11	farmers	amritsar
+11	singh	ludhiana
+11	farmers	ludhiana
+11	states	nda
+11	modi	all india
+11	centre	ghazipur
+11	nda	ghazipur
+11	kisan sabha	aiks
+11	farmers	aiks
+11	bku	nda
+11	central	bill
+11	assembly	fir
+11	parliament	singh
+11	congress	assembly
+11	centre	opposition
+11	nda	opposition
+11	farmers	house
+11	singh	ghaziabad
+11	fir	punjab’s
+10	bjp	supreme court
+10	farmers	lok sabha
+10	singhu	ludhiana
+10	msp	singh
+10	delhi police	nda
+10	sad	singh
+10	modi	central
+10	bills	opposition
+10	opposition	bill
+10	bills	central
+10	tikait	fir
+10	aiks	all india
+10	nda	assembly
+10	house	state
+10	singh	house
+10	tikait	ghaziabad
+10	bjp	assembly
+10	states	fir
+10	parliament	bills
+10	parliament	bill
+10	assembly	opposition
+9	supreme court	singhu
+9	amritsar	singhu
+9	delhi police	tikri
+9	kisan sabha	bjp
+9	bjp	states
+9	msp	nda
+9	msp	all india
+9	bku	fir
+9	supreme court	central
+9	kumar	nda
+9	bills	fir
+9	kisan sabha	fir
+9	fir	bill
+9	bjp	parliament
+9	farmers	aap
+9	farmers	skm
+9	apmc	farmers
+9	delhi police	tikait
+9	bjp	tikait
+9	bku	ghaziabad
+9	centre	punjab’s
+9	nda	bill
+8	tomar	farmers
+8	states	all india
+8	parliament	congress
+8	indian	congress
+8	kumar	centre
+8	kisan sabha	congress
+8	aiks	state
+8	aiks	nda
+8	congress	supreme court
+8	supreme court	bill
+8	opposition	central
+8	kisan sabha	central
+8	singh	aap
+8	state	skm
+8	tikait	nda
+8	bjp	bku
+8	tikri	central
+8	kumar	singhu
+8	telangana	farmers
+8	opposition	fir
+8	kisan morcha	centre
+8	house	singhu
+8	telangana	centre
+8	farmers	amit shah
+8	bills	nda
+7	tikri	centre
+7	tomar	singh
+7	kisan sabha	msp
+7	kisan sabha	states
+7	kisan sabha	modi
+7	delhi police	bjp
+7	sad	singhu
+7	sad	nda
+7	indian	modi
+7	aiks	centre
+7	bku	singhu
+7	modi	supreme court
+7	supreme court	all india
+7	supreme court	bills
+7	central	all india
+7	parliament	supreme court
+7	bjp	aap
+7	singh	bill
+7	kisan morcha	singhu
+7	delhi police	central
+7	kumar	ghazipur
+7	tikait	singhu
+7	kumar	bjp
+7	parliament	modi
+7	congress	house
+7	states	central
+7	assembly	bill
+7	modi	ghazipur
+7	parliament	opposition
+6	bjp	lok sabha
+6	centre	lok sabha
+6	singh	lok sabha
+6	indian	supreme court
+6	tomar	centre
+6	tomar	supreme court
+6	singh	narendra singh
+6	farmers	narendra singh
+6	tomar	narendra singh
+6	amritsar	centre
+6	amritsar	fir
+6	nda	ludhiana
+6	bengaluru	farmers
+6	indian	all india
+6	rajasthan	singh
+6	rajasthan	farmers
+6	farmers	andhra pradesh
+6	delhi police	centre
+6	dharmendra malik	ghazipur
+6	dharmendra malik	farmers
+6	rahul gandhi	congress
+6	rahul gandhi	farmers
+6	kisan sabha	supreme court
+6	modi	bills
+6	modi	bill
+6	modi	opposition
+6	parliament	assembly
+6	bjp	bills
+6	bjp	bill
+6	farmers	rajya sabha
+6	aap	state
+6	kisan morcha	fir
+6	singh	skm
+6	delhi police	bku
+6	delhi police	skm
+6	ghazipur	central
+6	singh	assembly
+6	kumar	tikri
+6	ghaziabad	state
+6	ghaziabad	singhu
+6	tikait	muzaffarnagar
+6	muzaffarnagar	ghazipur
+6	farmers	muzaffarnagar
+6	amritsar	state
+6	telangana	state
+6	kumar	fir
+6	modi	states
+6	house	bills
+6	house	bill
+6	singh	bills
+6	singh	amarinder singh
+6	farmers	amarinder singh
+6	indian	assembly
+5	indian	tikri
+5	supreme court	lok sabha
+5	nda	lok sabha
+5	supreme court	narendra singh
+5	amritsar	nda
+5	bengaluru	state
+5	kisan sabha	singhu
+5	indian	kisan sabha
+5	singhu	all india
+5	rajasthan	state
+5	rajasthan	singhu
+5	state	andhra pradesh
+5	nda	andhra pradesh
+5	congress	singhu
+5	covid-19	farmers
+5	covid-19	fir
+5	farmers	b.s. yediyurappa
+5	rajya sabha	state
+5	congress	aap
+5	aap	centre
+5	aap	supreme court
+5	msp	congress
+5	fir	skm
+5	tikait	modi
+5	kisan morcha	nda
+5	kisan sabha	kisan morcha
+5	tikri	bku
+5	singhu	skm
+5	kumar	delhi police
+5	communist party of india	farmers
+5	states	aiks
+5	tikri	tikait
+5	tikri	ghaziabad
+5	bku	supreme court
+5	bku	muzaffarnagar
+5	dharmendra malik	bku
+5	dharmendra malik	tikait
+5	dharmendra malik	singh
+5	bjp	ghaziabad
+5	house	nda
+5	communist party of india	centre
+5	telangana	bjp
+5	telangana	nda
+5	supreme court	kisan morcha
+5	singh	darshan pal
+5	farmers	darshan pal
+5	modi	amit shah
+5	msp	bills
+5	msp	tikait
+5	bku	lok sabha
+5	msp	bill
+5	apmc	state
+5	house	fir
+5	parliament	singhu
+5	msp	central
+5	bjp	aiks
+5	singh	amit shah
+5	state	amarinder singh
+5	indian	delhi police
+5	tikri	modi
+5	aap	singhu
+5	assembly	central
+5	kisan morcha	ghazipur
+5	delhi police	modi
+5	bills	assembly
+5	sad	central
+5	tikait	kisan morcha
+5	bku	assembly
+4	centre	narendra singh
+4	fir	lok sabha
+4	bjp	amritsar
+4	amritsar	supreme court
+4	ludhiana	fir
+4	bjp	msp
+4	msp	singhu
+4	indian	msp
+4	indian	states
+4	rajasthan	nda
+4	kisan sabha	andhra pradesh
+4	andhra pradesh	all india
+4	delhi police	dharmendra malik
+4	covid-19	congress
+4	covid-19	centre
+4	rahul gandhi	centre
+4	rahul gandhi	central
+4	farmers	dmk
+4	indian	central
+4	aiks	congress
+4	indian	bku
+4	state	ludhiana
+4	supreme court	opposition
+4	bills	all india
+4	bill	all india
+4	state	lok sabha
+4	rajya sabha	central
+4	assembly	all india
+4	msp	fir
+4	delhi police	kisan morcha
+4	kisan morcha	all india
+4	apmc	congress
+4	ghazipur	skm
+4	yogendra yadav	farmers
+4	farmers	bihar
+4	kisan sabha	communist party of india
+4	communist party of india	all india
+4	apmc	centre
+4	states	congress
+4	sad	state
+4	tikri	sad
+4	tikait	house
+4	tikri	house
+4	kumar	tikait
+4	kumar	ghaziabad
+4	ghaziabad	centre
+4	bjp	muzaffarnagar
+4	singh	muzaffarnagar
+4	dharmendra malik	ghaziabad
+4	bku	kisan morcha
+4	tomar	kisan morcha
+4	kisan morcha	narendra singh
+4	communist party of india	state
+4	communist party of india	nda
+4	centre	andhra pradesh
+4	tikri	states
+4	modi	assembly
+4	telangana	fir
+4	rohtak	farmers
+4	yogendra yadav	singh
+4	tomar	state
+4	darshan pal	state
+4	darshan pal	centre
+4	state	narendra singh
+4	msp	bku
+4	tikait	lok sabha
+4	bill	lok sabha
+4	states	supreme court
+4	telangana	congress
+4	kumar	congress
+4	kumar	central
+4	k. chandrasekhar rao	congress
+4	k. chandrasekhar rao	farmers
+4	apmc	nda
+4	rajasthan	fir
+4	delhi police	parliament
+4	delhi police	supreme court
+4	delhi police	darshan pal
+4	darshan pal	fir
+4	state	amit shah
+4	supreme court	amit shah
+4	indian	bills
+4	indian	bill
+4	fir	amit shah
+4	state	punjab’s
+4	sad	centre
+4	singh	opposition
+4	cm	farmers
+4	parliament	house
+4	kisan morcha	skm
+4	tikait	parliament
+4	tikait	central
+4	indian	opposition
+4	tikait	all india
+4	indian	ghazipur
+4	ghaziabad	fir
+4	tikait	assembly
+4	msp	parliament
+4	parliament	all india
+3	singhu	lok sabha
+3	indian	tomar
+3	indian	narendra singh
+3	tomar	fir
+3	fir	narendra singh
+3	msp	states
+3	msp	bengaluru
+3	rajasthan	bjp
+3	rajasthan	states
+3	bjp	andhra pradesh
+3	states	andhra pradesh
+3	bjp	dharmendra malik
+3	covid-19	nda
+3	covid-19	central
+3	rahul gandhi	nda
+3	covid-19	rahul gandhi
+3	farmers	china
+3	china	nda
+3	dmk	state
+3	bjp	dmk
+3	dmk	congress
+3	dmk	nda
+3	covid-19	state
+3	covid-19	modi
+3	indian	covid-19
+3	dmk	fir
+3	rahul gandhi	state
+3	kumar	msp
+3	b.s. yediyurappa	state
+3	rohtak	state
+3	rohtak	singhu
+3	rohtak	singh
+3	rohtak	tikri
+3	bku	amritsar
+3	modi	ludhiana
+3	rahul gandhi	bill
+3	congress	lok sabha
+3	parliament	lok sabha
+3	parliament	rajya sabha
+3	singh	rajya sabha
+3	supreme court	rajya sabha
+3	central	lok sabha
+3	aap	central
+3	kisan sabha	assembly
+3	centre	skm
+3	singhu	bill
+3	apmc	opposition
+3	b.s. yediyurappa	opposition
+3	tikri	skm
+3	bku	central
+3	tikait	skm
+3	yogendra yadav	ghazipur
+3	communist party of india	aiks
+3	communist party of india	central
+3	bills	rajya sabha
+3	rajya sabha	bill
+3	opposition	all india
+3	b.s. yediyurappa	congress
+3	apmc	modi
+3	apmc	fir
+3	states	assembly
+3	aiks	singh
+3	tikait	sad
+3	sad	ghazipur
+3	house	ghazipur
+3	delhi police	ghaziabad
+3	tikait	supreme court
+3	ghaziabad	muzaffarnagar
+3	congress	andhra pradesh
+3	nda	punjab’s
+3	telangana	assembly
+3	rohtak	nda
+3	yogendra yadav	state
+3	yogendra yadav	kisan morcha
+3	kisan sabha	tomar
+3	darshan pal	kisan morcha
+3	darshan pal	supreme court
+3	bjp	amit shah
+3	congress	amit shah
+3	nda	amit shah
+3	bills	lok sabha
+3	bku	bill
+3	tikait	bill
+3	kumar	modi
+3	kumar	telangana
+3	k. chandrasekhar rao	centre
+3	telangana	k. chandrasekhar rao
+3	k. chandrasekhar rao	central
+3	communist party of india	modi
+3	communist party of india	fir
+3	bjp	apmc
+3	apmc	central
+3	kumar	rajasthan
+3	modi	aiks
+3	bjp	house
+3	house	centre
+3	house	all india
+3	states	ludhiana
+3	msp	ghazipur
+3	centre	amit shah
+3	singhu	amit shah
+3	kisan morcha	amit shah
+3	congress	amarinder singh
+3	modi	aap
+3	aap	bill
+3	aap	fir
+3	singhu	assembly
+3	states	punjab’s
+3	cm	singh
+3	indian	parliament
+3	nda	rajya sabha
+3	bku	sad
+3	bku	all india
+3	aap	nda
+3	cm	state
+3	k. chandrasekhar rao	state
+3	house	central
+3	parliament	ghazipur
+3	modi	kisan morcha
+3	supreme court	skm
+3	parliament	amit shah
+3	delhi police	amit shah
+3	rajasthan	central
+3	house	assembly
+3	house	opposition
+3	tikait	darshan pal
+3	central	punjab’s
+3	bjp	sad
+3	bjp	amarinder singh
+3	yogendra yadav	singhu
+3	ghazipur	all india
+3	singh	bihar
+3	indian	tikait
+3	msp	kisan morcha
+3	bku	house
+3	rajasthan	tikri
+3	states	ghazipur
+3	tikri	assembly
+3	bku	modi
+3	dharmendra malik	fir
+2	tikri	lok sabha
+2	tomar	singhu
+2	tomar	nda
+2	singhu	narendra singh
+2	nda	narendra singh
+2	amritsar	lok sabha
+2	indian	amritsar
+2	tikri	ludhiana
+2	indian	ludhiana
+2	supreme court	ludhiana
+2	amritsar	ludhiana
+2	bengaluru	nda
+2	rajasthan	all india
+2	dharmendra malik	centre
+2	dharmendra malik	nda
+2	sad	ludhiana
+2	parliament	rahul gandhi
+2	congress	china
+2	china	centre
+2	covid-19	china
+2	china	central
+2	rahul gandhi	china
+2	dmk	centre
+2	modi	dmk
+2	indian	dmk
+2	farmers	aiadmk
+2	aiadmk	dmk
+2	dmk	central
+2	aiadmk	central
+2	rahul gandhi	modi
+2	indian	rahul gandhi
+2	rahul gandhi	fir
+2	china	state
+2	bjp	china
+2	indian	china
+2	bengaluru	centre
+2	bengaluru	b.s. yediyurappa
+2	indian	aiks
+2	kisan sabha	ludhiana
+2	ludhiana	all india
+2	rahul gandhi	bills
+2	rahul gandhi	supreme court
+2	kumar	all india
+2	kisan sabha	bills
+2	kisan sabha	bill
+2	bjp	rajya sabha
+2	rajya sabha	centre
+2	rajya sabha	lok sabha
+2	aap	lok sabha
+2	bjp	b.s. yediyurappa
+2	bjp	skm
+2	bku	skm
+2	nda	skm
+2	kumar	bku
+2	tikait	yogendra yadav
+2	yogendra yadav	skm
+2	delhi police	yogendra yadav
+2	bihar	ghazipur
+2	aiks	central
+2	dmk	bills
+2	dmk	bill
+2	dmk	opposition
+2	dmk	all india
+2	indian	apmc
+2	apmc	all india
+2	congress	kisan morcha
+2	states	kisan morcha
+2	delhi police	sad
+2	sad	house
+2	kumar	skm
+2	kumar	sad
+2	kumar	house
+2	house	ghaziabad
+2	supreme court	ghazipur
+2	muzaffarnagar	centre
+2	kumar	supreme court
+2	tomar	bku
+2	communist party of india	congress
+2	communist party of india	states
+2	aiks	andhra pradesh
+2	communist party of india	andhra pradesh
+2	supreme court	punjab’s
+2	telangana	modi
+2	delhi police	states
+2	rohtak	ghazipur
+2	rohtak	fir
+2	darshan pal	nda
+2	tomar	darshan pal
+2	darshan pal	narendra singh
+2	singh	swaraj india
+2	kisan morcha	swaraj india
+2	yogendra yadav	swaraj india
+2	modi	b.s. yediyurappa
+2	b.s. yediyurappa	nda
+2	bku	bills
+2	tikait	bills
+2	msp	lok sabha
+2	bku	opposition
+2	opposition	lok sabha
+2	bku	states
+2	states	amritsar
+2	telangana	central
+2	bjp	k. chandrasekhar rao
+2	k. chandrasekhar rao	nda
+2	kumar	k. chandrasekhar rao
+2	house	ludhiana
+2	tikri	msp
+2	apmc	singh
+2	apmc	tikri
+2	kumar	states
+2	rohtak	states
+2	telangana	bill
+2	telangana	all india
+2	kumar	bills
+2	kumar	bill
+2	darshan pal	singhu
+2	kisan morcha	central
+2	tomar	central
+2	central	amit shah
+2	tomar	amit shah
+2	narendra singh	amit shah
+2	bills	amarinder singh
+2	modi	amarinder singh
+2	amarinder singh	bill
+2	indian	amarinder singh
+2	aap	bills
+2	aap	amarinder singh
+2	covid-19	singh
+2	amarinder singh	fir
+2	bills	amit shah
+2	bill	amit shah
+2	tikait	states
+2	indian	house
+2	cm	singhu
+2	china	singhu
+2	singh	china
+2	indian	rajya sabha
+2	kisan sabha	sad
+2	sad	all india
+2	tomar	sad
+2	tomar	all india
+2	singhu	opposition
+2	aap	opposition
+2	amritsar	aap
+2	rajya sabha	fir
+2	aiks	fir
+2	supreme court	assembly
+2	cm	centre
+2	cm	assembly
+2	k. chandrasekhar rao	bill
+2	house	lok sabha
+2	house	supreme court
+2	modi	skm
+2	skm	amit shah
+2	rajasthan	congress
+2	parliament	punjab’s
+2	states	amarinder singh
+2	delhi police	amarinder singh
+2	tikri	punjab’s
+2	bihar	state
+2	bjp	bihar
+2	bihar	centre
+2	modi	bihar
+2	bihar	nda
+2	darshan pal	skm
+2	rohtak	sad
+2	msp	house
+2	house	kisan morcha
+2	tikri	bihar
+2	bihar	central
+2	bihar	fir
+2	k. chandrasekhar rao	msp
+2	apmc	bills
+2	apmc	bill
+2	bills	singhu
+2	parliament	states
+2	tikri	opposition
+2	states	opposition
+2	apmc	states
+2	national democratic alliance	parliament
+2	national democratic alliance	singh
+2	national democratic alliance	farmers
+2	national democratic alliance	nda
+2	national democratic alliance	central
+2	tikri	congress
+2	centre	amarinder singh
+2	singhu	amarinder singh
+2	sad	amarinder singh
+2	nda	amarinder singh
+2	rajasthan	centre
+2	amarinder singh	central
+2	bku	congress
+2	tikait	congress
+2	congress	ghazipur
+2	lok sabha	all india
+2	rajasthan	ghazipur
+2	muzaffarnagar	all india
+2	ghazipur	assembly
+2	delhi police	assembly
+2	dharmendra malik	modi
+2	dharmendra malik	singhu
+2	dharmendra malik	tikri
+2	dharmendra malik	assembly
+2	indian	dharmendra malik
+2	modi	ghaziabad
+2	ghaziabad	assembly
+2	indian	ghaziabad
+2	bku	parliament
+2	parliament	badal
+2	bku	badal
+2	tikait	badal
+2	singh	badal
+2	farmers	badal
+2	house	badal
+2	rahul gandhi	singh
+2	kisan sabha	parliament
+2	parliament	andhra pradesh
+2	bills	andhra pradesh
+2	assembly	andhra pradesh
+2	andhra pradesh	bill
+2	opposition	andhra pradesh
+2	msp	modi
+2	bjp	cm
+2	tikait	cm
+2	cm	ghazipur
+2	parliament	sad
+2	modi	muzaffarnagar
+2	aap	ghazipur
+2	aiks	supreme court
+1	indian	lok sabha
+1	tikri	supreme court
+1	bjp	tomar
+1	tomar	tikri
+1	tomar	lok sabha
+1	bjp	narendra singh
+1	tikri	narendra singh
+1	lok sabha	narendra singh
+1	tikri	amritsar
+1	tomar	amritsar
+1	amritsar	narendra singh
+1	bjp	ludhiana
+1	centre	ludhiana
+1	ludhiana	lok sabha
+1	tomar	ludhiana
+1	ludhiana	narendra singh
+1	bjp	bengaluru
+1	kisan sabha	bengaluru
+1	bengaluru	singhu
+1	bengaluru	singh
+1	bengaluru	states
+1	indian	bengaluru
+1	bengaluru	all india
+1	rajasthan	msp
+1	rajasthan	kisan sabha
+1	rajasthan	indian
+1	rajasthan	bengaluru
+1	msp	andhra pradesh
+1	singhu	andhra pradesh
+1	singh	andhra pradesh
+1	indian	andhra pradesh
+1	bengaluru	andhra pradesh
+1	rajasthan	andhra pradesh
+1	sad	congress
+1	congress	ludhiana
+1	covid-19	parliament
+1	parliament	china
+1	bjp	covid-19
+1	covid-19	dmk
+1	aiadmk	state
+1	bjp	aiadmk
+1	aiadmk	congress
+1	aiadmk	centre
+1	modi	aiadmk
+1	indian	aiadmk
+1	aiadmk	nda
+1	covid-19	aiadmk
+1	aiadmk	fir
+1	bjp	rahul gandhi
+1	rahul gandhi	dmk
+1	rahul gandhi	aiadmk
+1	modi	china
+1	dmk	china
+1	aiadmk	china
+1	china	fir
+1	kumar	bengaluru
+1	b.s. yediyurappa	centre
+1	msp	b.s. yediyurappa
+1	kumar	b.s. yediyurappa
+1	kisan sabha	tikri
+1	state	inderjit singh
+1	kisan sabha	inderjit singh
+1	singhu	inderjit singh
+1	singh	inderjit singh
+1	tikri	inderjit singh
+1	kisan sabha	rohtak
+1	rohtak	inderjit singh
+1	rahul gandhi	opposition
+1	kumar	indian
+1	congress	rajya sabha
+1	parliament	aap
+1	aap	rajya sabha
+1	msp	assembly
+1	congress	skm
+1	msp	skm
+1	kisan sabha	skm
+1	assembly	skm
+1	skm	all india
+1	central	skm
+1	telangana	bku
+1	telangana	tikait
+1	telangana	ghazipur
+1	telangana	skm
+1	telangana	delhi police
+1	bku	yogendra yadav
+1	telangana	yogendra yadav
+1	bku	bihar
+1	tikait	bihar
+1	bihar	skm
+1	delhi police	bihar
+1	telangana	bihar
+1	yogendra yadav	bihar
+1	bku	andhra pradesh
+1	tikait	andhra pradesh
+1	ghazipur	andhra pradesh
+1	andhra pradesh	skm
+1	delhi police	andhra pradesh
+1	telangana	andhra pradesh
+1	yogendra yadav	andhra pradesh
+1	bihar	andhra pradesh
+1	dmk	rajya sabha
+1	aiadmk	bills
+1	aiadmk	bill
+1	aiadmk	rajya sabha
+1	bengaluru	congress
+1	bengaluru	opposition
+1	kisan morcha	assembly
+1	aiks	kisan morcha
+1	aiks	assembly
+1	sad	skm
+1	house	skm
+1	delhi police	house
+1	ghaziabad	skm
+1	sad	ghaziabad
+1	muzaffarnagar	state
+1	supreme court	muzaffarnagar
+1	dharmendra malik	state
+1	dharmendra malik	supreme court
+1	dharmendra malik	muzaffarnagar
+1	kumar	muzaffarnagar
+1	kumar	dharmendra malik
+1	ghaziabad	supreme court
+1	bku	narendra singh
+1	kumar	amritsar
+1	states	skm
+1	telangana	parliament
+1	yogendra yadav	centre
+1	kisan sabha	yogendra yadav
+1	yogendra yadav	supreme court
+1	yogendra yadav	nda
+1	tomar	yogendra yadav
+1	kisan sabha	darshan pal
+1	yogendra yadav	darshan pal
+1	kisan sabha	narendra singh
+1	yogendra yadav	narendra singh
+1	swaraj india	state
+1	swaraj india	centre
+1	kisan sabha	swaraj india
+1	supreme court	swaraj india
+1	farmers	swaraj india
+1	nda	swaraj india
+1	tomar	swaraj india
+1	darshan pal	swaraj india
+1	swaraj india	narendra singh
+1	opposition	amit shah
+1	b.s. yediyurappa	amit shah
+1	tikait	opposition
+1	msp	opposition
+1	k. chandrasekhar rao	modi
+1	house	punjab’s
+1	ludhiana	punjab’s
+1	parliament	communist party of india
+1	communist party of india	singhu
+1	communist party of india	singh
+1	apmc	bku
+1	apmc	msp
+1	rajasthan	rohtak
+1	kumar	rohtak
+1	kumar	parliament
+1	bjp	communist party of india
+1	modi	andhra pradesh
+1	telangana	bills
+1	telangana	house
+1	delhi police	msp
+1	apmc	bengaluru
+1	bengaluru	bills
+1	bengaluru	bill
+1	tomar	states
+1	states	narendra singh
+1	central	narendra singh
+1	states	amit shah
+1	supreme court	amarinder singh
+1	indian	aap
+1	covid-19	bills
+1	covid-19	bill
+1	covid-19	supreme court
+1	covid-19	amarinder singh
+1	covid-19	aap
+1	tomar	congress
+1	tomar	bills
+1	tomar	modi
+1	tomar	bill
+1	tomar	amarinder singh
+1	tomar	aap
+1	tomar	covid-19
+1	congress	narendra singh
+1	bills	narendra singh
+1	modi	narendra singh
+1	bill	narendra singh
+1	amarinder singh	narendra singh
+1	aap	narendra singh
+1	covid-19	narendra singh
+1	indian	amit shah
+1	amarinder singh	amit shah
+1	aap	amit shah
+1	covid-19	amit shah
+1	sad	assembly
+1	assembly	punjab’s
+1	indian	cm
+1	cm	house
+1	house	china
+1	cm	china
+1	delhi police	bills
+1	delhi police	bill
+1	delhi police	rajya sabha
+1	kisan sabha	bku
+1	sad	supreme court
+1	bku	aap
+1	amritsar	opposition
+1	msp	rajya sabha
+1	kisan sabha	rajya sabha
+1	rajya sabha	all india
+1	msp	aiks
+1	aiks	rajya sabha
+1	telangana	supreme court
+1	aap	assembly
+1	telangana	aap
+1	rahul gandhi	assembly
+1	telangana	rahul gandhi
+1	rahul gandhi	aap
+1	cm	congress
+1	cm	bill
+1	cm	supreme court
+1	telangana	cm
+1	cm	aap
+1	cm	central
+1	cm	rahul gandhi
+1	k. chandrasekhar rao	assembly
+1	k. chandrasekhar rao	supreme court
+1	k. chandrasekhar rao	aap
+1	k. chandrasekhar rao	rahul gandhi
+1	k. chandrasekhar rao	cm
+1	communist party of india	assembly
+1	telangana	communist party of india
+1	house	rajya sabha
+1	bjp	kisan morcha
+1	parliament	kisan morcha
+1	parliament	skm
+1	ghazipur	amit shah
+1	rajasthan	bills
+1	rajasthan	assembly
+1	rajasthan	bill
+1	rajasthan	opposition
+1	rajasthan	house
+1	bjp	darshan pal
+1	parliament	darshan pal
+1	darshan pal	central
+1	bjp	punjab’s
+1	tikait	punjab’s
+1	delhi police	punjab’s
+1	darshan pal	punjab’s
+1	tikait	amit shah
+1	darshan pal	amit shah
+1	punjab’s	amit shah
+1	modi	amritsar
+1	delhi police	amritsar
+1	sad	lok sabha
+1	delhi police	congress
+1	darshan pal	ghazipur
+1	yogendra yadav	modi
+1	kumar	kisan morcha
+1	kumar	yogendra yadav
+1	yogendra yadav	fir
+1	yogendra yadav	amit shah
+1	kumar	amit shah
+1	delhi police	all india
+1	bku	aiks
+1	tikait	aiks
+1	aiks	ghazipur
+1	delhi police	aiks
+1	dharmendra malik	all india
+1	dharmendra malik	aiks
+1	congress	bihar
+1	kisan sabha	bihar
+1	aiks	bihar
+1	indian	kisan morcha
+1	indian	skm
+1	tomar	tikait
+1	tomar	skm
+1	delhi police	tomar
+1	indian	darshan pal
+1	tikait	narendra singh
+1	skm	narendra singh
+1	delhi police	narendra singh
+1	states	sad
+1	msp	ghaziabad
+1	ghaziabad	kisan morcha
+1	rajasthan	bihar
+1	kumar	bihar
+1	rajasthan	punjab’s
+1	bihar	punjab’s
+1	kumar	punjab’s
+1	k. chandrasekhar rao	bills
+1	bills	ghazipur
+1	tikri	parliament
+1	tikri	bills
+1	states	bills
+1	ghazipur	bill
+1	tikri	bill
+1	states	bill
+1	ghazipur	opposition
+1	apmc	parliament
+1	apmc	ghazipur
+1	apmc	singhu
+1	parliament	bihar
+1	bihar	bills
+1	bihar	singhu
+1	states	bihar
+1	bihar	bill
+1	indian	bihar
+1	bihar	opposition
+1	apmc	bihar
+1	national democratic alliance	state
+1	national democratic alliance	bjp
+1	national democratic alliance	centre
+1	national democratic alliance	bills
+1	national democratic alliance	ghazipur
+1	national democratic alliance	modi
+1	national democratic alliance	singhu
+1	national democratic alliance	tikri
+1	national democratic alliance	states
+1	national democratic alliance	bill
+1	national democratic alliance	indian
+1	national democratic alliance	opposition
+1	national democratic alliance	apmc
+1	national democratic alliance	bihar
+1	national democratic alliance	fir
+1	cm	nda
+1	kumar	assembly
+1	kumar	opposition
+1	rajasthan	sad
+1	rajasthan	delhi police
+1	rajasthan	amarinder singh
+1	ghazipur	lok sabha
+1	tikri	all india
+1	rajasthan	bku
+1	rajasthan	tikait
+1	rajasthan	lok sabha
+1	congress	muzaffarnagar
+1	muzaffarnagar	singhu
+1	tikri	muzaffarnagar
+1	muzaffarnagar	lok sabha
+1	rajasthan	muzaffarnagar
+1	muzaffarnagar	fir
+1	congress	ghaziabad
+1	ghaziabad	lok sabha
+1	ghaziabad	all india
+1	rajasthan	ghaziabad
+1	congress	badal
+1	badal	bills
+1	msp	badal
+1	badal	lok sabha
+1	badal	bill
+1	bku	rahul gandhi
+1	tikait	rahul gandhi
+1	msp	rahul gandhi
+1	rahul gandhi	lok sabha
+1	rahul gandhi	house
+1	rahul gandhi	badal
+1	kisan sabha	opposition
+1	covid-19	msp
+1	kisan sabha	covid-19
+1	covid-19	all india
+1	msp	communist party of india
+1	covid-19	communist party of india
+1	assembly	lok sabha
+1	covid-19	singhu
+1	rahul gandhi	singhu
+1	tikri	aap
+1	delhi police	aap
+1	bku	cm
+1	dharmendra malik	cm
+1	cm	fir
+1	cm	ghaziabad
+1	tikait	rajya sabha
+1	rajya sabha	ghazipur
+1	rajya sabha	singhu
+1	states	rajya sabha
+1	bjp	yogendra yadav
+1	yogendra yadav	states
+1	yogendra yadav	rajya sabha
+1	cm	states
+1	cm	rajya sabha
+1	cm	yogendra yadav
+1	sad	badal
+1	badal	nda
+1	badal	central
+1	national democratic alliance	bku
+1	national democratic alliance	tikait
+1	national democratic alliance	sad
+1	national democratic alliance	house
+1	national democratic alliance	badal
+1	modi	sad
+1	sad	kisan morcha
+1	kisan morcha	muzaffarnagar
+1	sad	muzaffarnagar
+1	rohtak	bku
+1	rohtak	tikait
+1	rohtak	modi
+1	rohtak	kisan morcha
+1	rohtak	muzaffarnagar
+1	indian	sad
+1	sad	fir
+1	tikait	aap
+1	parliament	dmk
+1	dmk	assembly
+1	dmk	supreme court
+1	dmk	house
+1	ghazipur	punjab’s
+1	msp	sad
+1	tomar	parliament
+1	tomar	msp
+1	andhra pradesh	fir
+1	telangana	kisan sabha
+1	telangana	aiks
+1	tikri	andhra pradesh
+1	sad	andhra pradesh
+1	kumar	andhra pradesh
+1	amarinder singh	ludhiana
+1	apmc	supreme court
+1	ghaziabad	nda
+1	aap	china
+1	amritsar	china
+1	tikri	kisan morcha
+1	tikri	yogendra yadav
+1	yogendra yadav	house
+1	swaraj india	ghazipur
+1	swaraj india	singhu
+1	tikri	swaraj india
+1	house	swaraj india
+1	modi	house
+1	states	house
+1	apmc	house
+1	states	b.s. yediyurappa
+1	b.s. yediyurappa	all india
+1	apmc	b.s. yediyurappa
+1	b.s. yediyurappa	house
+1	amarinder singh	opposition
+1	parliament	muzaffarnagar
+1	msp	muzaffarnagar
+1	nda	muzaffarnagar
+1	kisan sabha	tikait
+1	bills	punjab’s
+1	msp	punjab’s
+1	bill	punjab’s
+1	jagmohan singh	state
+1	jagmohan singh	centre
+1	jagmohan singh	singhu
+1	singh	jagmohan singh
+1	kisan morcha	jagmohan singh
+1	jagmohan singh	skm
+1	supreme court	jagmohan singh
+1	farmers	jagmohan singh
+1	nda	jagmohan singh
+1	darshan pal	jagmohan singh
+1	telangana	msp
+1	amritsar	punjab’s
+1	rajasthan	modi
+1	ghazipur	ludhiana
+1	rajasthan	ludhiana
+1	kumar	ludhiana
+1	kisan sabha	lok sabha
+1	states	lok sabha
+1	aiks	lok sabha

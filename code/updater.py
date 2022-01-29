@@ -109,7 +109,7 @@ def update_dh_interval(start_string, end_string):
 	end_date = datetime.datetime.strptime(end_string, "%d-%m-%Y")
 	date = start_date
 	while date <= end_date:
-		scraper.write_date_range_articles(start_date, end_date, dir_path)
+		scraper.write_date_range_articles(date, date, dir_path)
 		date += datetime.timedelta(days=1)
 
 filename = 'update_stats'
@@ -130,14 +130,14 @@ filename = 'update_stats'
 
 
 # FOR Times of India
-start_string = "21-12-2021"
-end_string = "31-12-2021"
-update_toi_interval(start_string, end_string)
+# start_string = "21-12-2021"
+# end_string = "31-12-2021"
+# update_toi_interval(start_string, end_string)
 
 
 # FOR HINDU
-# start_string = "11-12-2021"
-# end_string = "20-12-2021"
+# start_string = "21-12-2021"
+# end_string = "31-12-2021"
 # update_hindu_interval(start_string, end_string)
 
 
@@ -161,6 +161,10 @@ update_toi_interval(start_string, end_string)
 
 # start_string = "01-12-2021"
 # end_string = "31-12-2021"
-
 # temp_sections = ['patiala', 'himachalpradesh', 'jammukashmir']
 # update_tribune_interval(start_string, end_string, temp_sections)
+
+# FOR DECCAN HERALD
+start_string = "01-12-2021"
+end_string = "31-12-2021"
+update_dh_interval(start_string, end_string)

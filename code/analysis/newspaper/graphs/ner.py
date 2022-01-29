@@ -14,6 +14,9 @@ fixed_ents = [
 'samyukt kisan morcha',
 'sanyukt kisan morcha',
 'samyukta kisan morcha',
+'ranga rao',
+'narasinga rao',
+'red fort'
 ]
 
 # fixed_ents = [
@@ -125,22 +128,37 @@ def get_ner(lines):
 		doc = nlp(line)
 		# doc.ents = [X for X in doc.ents if X.label_ in labels]		# filtering to get only certain labels
 		ners.append(doc)
+		# for x in doc.ents:
+		# 	x = x.text.lower()
+		# 	if x == "rs" or x == "ch":
+		# 		print('----------'+ x +'---------------')
+		# 		print(line)
+		# 		print('\n')
 	return ners
 
 # edit NER to either remove some or to replace with synonyms/abbreviations
 def get_correct_ner(text):
-	exluding_list = ['toi',
+	exluding_list = ['rs',
+	'ch',
+	'toi',
+	 'hindu',
 	 # 'msp',
 	 # 'fir',
 	 'punjab',
 	 'haryana',
 	 'uttar pradesh',
 	 'u.p.',
-	 # 'maharashtra',
+	 'maharashtra',
+	 'bengal',
+	 'west bengal',
+	 'karnataka',
+	 'kerala',
+	 'tamil nadu',
+	 'uttarakhand',
+	 'himachal pradesh',
 	 'delhi',
 	 'new delhi',
 	 'india',
-	 'hindu',
 
 	 # 'ghazipur',
 	 # 'tikri',
@@ -151,6 +169,9 @@ def get_correct_ner(text):
 	 # 'ambala',
 	 # 'bathinda',
 	 ]
+	if len(text) > 2 and text[-2] == "\'":
+		text = text.split("\'")[0]
+
 	if text in exluding_list:
 		return -1
 
@@ -182,7 +203,8 @@ def get_correct_ner(text):
 		return 'aikscc'
 	if text == 'samyukt kisan morcha' or text == 'sanyukt kisan morcha' or text == 'samyukta kisan morcha':
 		return 'skm'
-
+	if text == 'farmer':
+		return 'farmers'
 	# if text == 'all india':
 	# 	return -1
 
@@ -190,8 +212,6 @@ def get_correct_ner(text):
 		return 'sad'
 	if 'trinamool' in text:
 		return 'tmc'
-	# text[-2] == "\'":
-	# 	return text.split("\'")[0]
 
 	return text
 
@@ -215,6 +235,8 @@ def update_ner_counts(ners, counts, label_map, place_labels=True):
 			if ner_text not in counts.keys():
 				counts[ner_text] = 0
 				label_map[ner_text] = ner_label
+			if ner_text == 'ch':
+				print("DOES NOT WORK")
 			counts[ner_text] += 1
 			current_ners.append(ner_text)
 	return counts, label_map
@@ -241,7 +263,7 @@ def get_all_ners(dir_path):
 	label_map = {}
 
 	for index, month in enumerate(os.listdir(dir_path)):
-		print(index)
+		print(month)
 		if 'hindustantimes' in dir_path:
 			ner_counts, label_map = get_month_ners(dir_path + '/' + month + '/combined', ner_counts, label_map)
 		else:
@@ -255,7 +277,7 @@ def get_all_ners(dir_path):
 def print_counts(counts, label_map,filename, limit):
 	if len(counts.keys()) < limit:
 		limit = len(counts.keys())	
-	file = open('ner_lists/'+filename+'.txt','w')
+	file = open(filename+'.txt','w')
 
 	i = 0
 	for entity in counts.keys():
@@ -266,23 +288,57 @@ def print_counts(counts, label_map,filename, limit):
 	file.close()
 
 # plot the wordcloud with given counts
-def plot_wordcloud(counts):
+def plot_wordcloud(counts, filename):
 	wordcloud = WordCloud(stopwords=stop_words, background_color="black", collocations=True)
 	wordcloud.generate_from_frequencies(frequencies=counts)
 	plt.figure(figsize=(8, 8))
 	plt.imshow(wordcloud, interpolation="bilinear")
 	plt.axis("off")
-	plt.show()
+	plt.savefig(filename + '.png')
+	# plt.show()
+	plt.close()
 
-def main_func(dir_path):
-	filename = dir_path.split('/')[-2] + '-' + dir_path.split('/')[-1]
-	limit = 50
+def create_directory(dir_path):
+	if os.path.isdir(dir_path):
+		return
+	else:
+		os.makedirs(dir_path)
+
+def main_func_month(dir_path, publication):
+	list_dir = 'ner_lists/' + publication
+	create_directory(list_dir)
+	filename = list_dir + '/' + dir_path.split('/')[-1]
+	
+	img_dir = 'images/ner/' + publication
+	create_directory(img_dir)
+	img_filename =  img_dir + '/' + dir_path.split('/')[-1]
+	
+	limit = -1
 	counts, label_map = get_month_ners(dir_path)
 	print_counts(counts, label_map, filename, limit)
-	plot_wordcloud(counts)
+	plot_wordcloud(counts, img_filename)
 
-dir_path = '../../../../corpus/hindu/01-2021'
+def main_func_publication(dir_path, publication):
+	list_dir = 'ner_lists/' + publication
+	create_directory(list_dir)
+	filename = list_dir + '/all'
+	
+	img_dir = 'images/ner/' + publication
+	create_directory(img_dir)
+	img_filename =  img_dir + '/all'
+	
+	limit = -1
+	counts, label_map = get_all_ners(dir_path)
+	print_counts(counts, label_map, filename, limit)
+	plot_wordcloud(counts, img_filename)
 
-# dir_path = '../../../../corpus/timesofindia/01-2021'
 
-main_func(dir_path)
+dir_path = '../../../../corpus/deccanherald/'
+publication = 'deccanherald'
+main_func_publication(dir_path, publication)
+
+# dir_path = '../../../../corpus/telegraph/india/'
+# publication = 'telegraph-india'
+# for month in os.listdir(dir_path):
+# 	month_path = dir_path + month
+# 	main_func_month(month_path, publication)

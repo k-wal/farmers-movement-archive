@@ -1,0 +1,107 @@
+2	parliament	modi
+2	singhu	modi
+2	singhu	parliament
+2	modi	kisan morcha
+2	parliament	kisan morcha
+2	singhu	kisan morcha
+2	farmers	modi
+2	parliament	farmers
+2	singhu	farmers
+2	farmers	kisan morcha
+2	modi	singh
+2	parliament	singh
+2	singhu	singh
+2	kisan morcha	singh
+2	farmers	singh
+2	morcha	modi
+2	morcha	parliament
+2	morcha	singhu
+2	morcha	kisan morcha
+2	morcha	farmers
+2	morcha	singh
+2	farmers	bjp
+1	modi	tikri
+1	parliament	tikri
+1	singhu	tikri
+1	tikri	kisan morcha
+1	farmers	tikri
+1	tikri	singh
+1	morcha	tikri
+1	yogendra yadav	modi
+1	yogendra yadav	parliament
+1	yogendra yadav	singhu
+1	yogendra yadav	tikri
+1	yogendra yadav	kisan morcha
+1	yogendra yadav	farmers
+1	yogendra yadav	singh
+1	yogendra yadav	morcha
+1	aap	modi
+1	aap	parliament
+1	aap	singhu
+1	aap	tikri
+1	aap	kisan morcha
+1	aap	farmers
+1	aap	singh
+1	aap	morcha
+1	aap	yogendra yadav
+1	modi	all india
+1	parliament	all india
+1	singhu	all india
+1	tikri	all india
+1	kisan morcha	all india
+1	farmers	all india
+1	singh	all india
+1	morcha	all india
+1	yogendra yadav	all india
+1	aap	all india
+1	bill	modi
+1	bill	parliament
+1	singhu	bill
+1	bill	tikri
+1	bill	kisan morcha
+1	bill	farmers
+1	bill	singh
+1	morcha	bill
+1	yogendra yadav	bill
+1	aap	bill
+1	bill	all india
+1	modi	jai kisan andolan
+1	parliament	jai kisan andolan
+1	singhu	jai kisan andolan
+1	tikri	jai kisan andolan
+1	kisan morcha	jai kisan andolan
+1	farmers	jai kisan andolan
+1	singh	jai kisan andolan
+1	morcha	jai kisan andolan
+1	yogendra yadav	jai kisan andolan
+1	aap	jai kisan andolan
+1	all india	jai kisan andolan
+1	bill	jai kisan andolan
+1	modi	bjp
+1	parliament	bjp
+1	singhu	bjp
+1	kisan morcha	bjp
+1	singh	bjp
+1	morcha	bjp
+1	gurnam singh	bjp
+1	gurnam singh	modi
+1	gurnam singh	parliament
+1	singhu	gurnam singh
+1	gurnam singh	kisan morcha
+1	gurnam singh	farmers
+1	gurnam singh	singh
+1	morcha	gurnam singh
+1	centre	bjp
+1	bku	bjp
+1	bku	centre
+1	tikait	bjp
+1	tikait	centre
+1	bku	tikait
+1	farmers	centre
+1	bku	farmers
+1	tikait	farmers
+1	rajasthan	bjp
+1	centre	rajasthan
+1	bku	rajasthan
+1	tikait	rajasthan
+1	farmers	rajasthan

@@ -1,0 +1,471 @@
+23	farmers	singh
+16	farmers	state
+15	singh	singhu
+15	farmers	singhu
+14	farmers	centre
+13	singh	state
+12	state	centre
+11	singh	centre
+10	covid-19	singh
+10	covid-19	farmers
+10	farmers	kisan morcha
+9	covid-19	state
+9	farmers	nda
+9	farmers	modi
+8	kisan morcha	state
+8	singh	kisan morcha
+8	nda	state
+8	singh	nda
+8	farmers	fir
+8	bjp	farmers
+7	congress	state
+7	covid-19	centre
+7	centre	central
+7	centre	singhu
+7	kisan morcha	centre
+7	singh	fir
+7	modi	singh
+7	bjp	singh
+6	state	central
+6	congress	centre
+6	bku	state
+6	bku	singh
+6	farmers	congress
+6	bku	farmers
+6	state	singhu
+6	kisan morcha	singhu
+6	kisan morcha	skm
+6	farmers	skm
+6	nda	centre
+6	modi	singhu
+6	bjp	centre
+6	farmers	central
+6	tikri	farmers
+5	singh	congress
+5	covid-19	congress
+5	bku	centre
+5	state	skm
+5	singhu	skm
+5	singh	skm
+5	kisan morcha	nda
+5	state	fir
+5	centre	fir
+5	modi	centre
+5	bjp	kisan morcha
+5	covid-19	kisan morcha
+5	congress	nda
+5	singhu	ghazipur
+5	singh	ghazipur
+5	farmers	ghazipur
+5	covid-19	singhu
+5	singhu	fir
+5	covid-19	fir
+5	tikri	singhu
+5	tikri	singh
+5	covid-19	nda
+5	bjp	singhu
+5	bjp	state
+4	covid-19	bku
+4	state	all india
+4	nda	singhu
+4	kisan sabha	state
+4	kisan sabha	singh
+4	kisan sabha	farmers
+4	indian	state
+4	indian	centre
+4	bjp	modi
+4	bjp	central
+4	bjp	congress
+4	tikri	ghazipur
+4	singh	central
+3	congress	amarinder singh
+3	singh	amarinder singh
+3	covid-19	amarinder singh
+3	bku	congress
+3	centre	all india
+3	centre	skm
+3	nda	skm
+3	indian	singh
+3	indian	farmers
+3	bku	nda
+3	kisan sabha	nda
+3	indian	nda
+3	kumar	nda
+3	bku	fir
+3	indian	fir
+3	nda	fir
+3	modi	state
+3	modi	kisan morcha
+3	bjp	assembly
+3	centre	assembly
+3	bjp	covid-19
+3	covid-19	modi
+3	house	centre
+3	farmers	house
+3	msp	state
+3	congress	kisan morcha
+3	msp	farmers
+3	nda	all india
+3	tikait	state
+3	tikait	singh
+3	centre	ghazipur
+3	modi	ghazipur
+3	tikait	farmers
+3	delhi police	singhu
+3	delhi police	singh
+3	delhi police	farmers
+3	covid-19	tikait
+3	modi	fir
+3	ghazipur	fir
+3	congress	rajya sabha
+3	tikri	centre
+3	tikri	modi
+3	state	assembly
+3	bjp	skm
+3	bjp	nda
+3	bjp	ludhiana
+3	singhu	ludhiana
+3	singh	ludhiana
+3	farmers	ludhiana
+2	state	amarinder singh
+2	bku	amarinder singh
+2	farmers	amarinder singh
+2	covid-19	all india
+2	central	all india
+2	covid-19	central
+2	indian	bku
+2	kumar	state
+2	kumar	centre
+2	kumar	bku
+2	kumar	singh
+2	kumar	farmers
+2	kumar	indian
+2	kumar	fir
+2	kisan sabha	kisan morcha
+2	state	opposition
+2	kisan morcha	opposition
+2	opposition	skm
+2	farmers	opposition
+2	modi	nda
+2	nda	opposition
+2	kisan morcha	assembly
+2	farmers	assembly
+2	covid-19	assembly
+2	modi	central
+2	kisan morcha	central
+2	assembly	central
+2	modi	house
+2	house	kisan morcha
+2	house	central
+2	msp	centre
+2	congress	all india
+2	kisan morcha	all india
+2	farmers	all india
+2	tikait	centre
+2	tikait	singhu
+2	tikait	modi
+2	states	state
+2	states	centre
+2	state	ghazipur
+2	tikait	ghazipur
+2	delhi police	ghazipur
+2	covid-19	ghazipur
+2	delhi police	fir
+2	modi	congress
+2	bjp	rajya sabha
+2	singh	rajya sabha
+2	farmers	rajya sabha
+2	house	singhu
+2	singh	house
+2	dmk	state
+2	dmk	assembly
+2	aiadmk	state
+2	aiadmk	assembly
+2	aiadmk	dmk
+2	singhu	central
+2	bjp	tikait
+2	bjp	tikri
+2	indian	congress
+2	rajya sabha	state
+2	rajya sabha	centre
+2	kisan morcha	rajya sabha
+2	indian	covid-19
+2	covid-19	rajya sabha
+2	kumar	covid-19
+2	congress	fir
+2	tikri	nda
+2	msp	singh
+2	covid-19	tikri
+2	tikri	fir
+2	state	ludhiana
+2	kisan morcha	ludhiana
+2	ludhiana	skm
+2	aiks	state
+2	kisan sabha	aiks
+2	aiks	singh
+2	farmers	aiks
+2	cm	state
+2	kisan sabha	cm
+2	cm	singh
+2	cm	farmers
+2	cm	aiks
+2	tikait	kisan morcha
+2	congress	assembly
+2	congress	central
+1	parliament	state
+1	parliament	central
+1	centre	amarinder singh
+1	kisan sabha	centre
+1	kisan sabha	bku
+1	indian	kisan sabha
+1	kumar	kisan sabha
+1	kisan sabha	fir
+1	kisan sabha	singhu
+1	kisan sabha	modi
+1	kisan sabha	skm
+1	modi	skm
+1	kisan sabha	opposition
+1	singhu	opposition
+1	modi	opposition
+1	singh	opposition
+1	rajasthan	state
+1	rajasthan	kisan sabha
+1	rajasthan	singhu
+1	rajasthan	modi
+1	rajasthan	singh
+1	rajasthan	kisan morcha
+1	rajasthan	skm
+1	rajasthan	farmers
+1	rajasthan	opposition
+1	rajasthan	nda
+1	state	andhra pradesh
+1	kisan sabha	andhra pradesh
+1	singhu	andhra pradesh
+1	modi	andhra pradesh
+1	singh	andhra pradesh
+1	kisan morcha	andhra pradesh
+1	andhra pradesh	skm
+1	farmers	andhra pradesh
+1	opposition	andhra pradesh
+1	nda	andhra pradesh
+1	rajasthan	andhra pradesh
+1	bihar	state
+1	kisan sabha	bihar
+1	bihar	singhu
+1	modi	bihar
+1	singh	bihar
+1	bihar	kisan morcha
+1	bihar	skm
+1	farmers	bihar
+1	bihar	opposition
+1	bihar	nda
+1	rajasthan	bihar
+1	bihar	andhra pradesh
+1	modi	assembly
+1	bjp	house
+1	house	assembly
+1	covid-19	house
+1	msp	congress
+1	msp	kisan morcha
+1	congress	skm
+1	msp	skm
+1	congress	opposition
+1	centre	opposition
+1	msp	opposition
+1	msp	all india
+1	skm	all india
+1	opposition	all india
+1	msp	nda
+1	tikait	bku
+1	bku	singhu
+1	bku	modi
+1	bku	states
+1	tikait	states
+1	states	singhu
+1	modi	states
+1	states	singh
+1	bku	ghazipur
+1	states	ghazipur
+1	farmers	states
+1	delhi police	state
+1	delhi police	centre
+1	delhi police	bku
+1	delhi police	tikait
+1	delhi police	modi
+1	delhi police	states
+1	covid-19	states
+1	delhi police	covid-19
+1	tikait	fir
+1	states	fir
+1	modi	rajya sabha
+1	kisan morcha	ghazipur
+1	tikri	kisan morcha
+1	house	ghazipur
+1	tikri	house
+1	farmers	dmk
+1	farmers	aiadmk
+1	central	skm
+1	bjp	ghazipur
+1	tikri	tikait
+1	bku	kisan morcha
+1	indian	kisan morcha
+1	aap	state
+1	congress	aap
+1	aap	centre
+1	bku	aap
+1	singh	aap
+1	aap	kisan morcha
+1	farmers	aap
+1	indian	aap
+1	bku	rajya sabha
+1	indian	rajya sabha
+1	aap	rajya sabha
+1	covid-19	aap
+1	aap	nda
+1	nda	rajya sabha
+1	kumar	congress
+1	kumar	kisan morcha
+1	kumar	aap
+1	kumar	rajya sabha
+1	kisan morcha	fir
+1	aap	fir
+1	rajya sabha	fir
+1	centre	ludhiana
+1	modi	ludhiana
+1	tikri	ludhiana
+1	nda	ludhiana
+1	msp	singhu
+1	msp	ghazipur
+1	tikri	state
+1	tikri	msp
+1	indian	msp
+1	indian	singhu
+1	indian	ghazipur
+1	indian	tikri
+1	covid-19	msp
+1	msp	fir
+1	kumar	tikri
+1	covid-19	skm
+1	covid-19	ludhiana
+1	kisan sabha	msp
+1	msp	aiks
+1	msp	central
+1	kisan sabha	central
+1	aiks	central
+1	msp	cm
+1	cm	central
+1	tikait	congress
+1	tikait	assembly
+1	state	lok sabha
+1	bjp	lok sabha
+1	congress	lok sabha
+1	centre	lok sabha
+1	tikait	lok sabha
+1	kisan morcha	lok sabha
+1	assembly	lok sabha
+1	tikait	rajya sabha
+1	rajya sabha	assembly
+1	rajya sabha	lok sabha
+1	covid-19	lok sabha
+1	bjp	bku
+1	bku	central
+1	central	fir
+1	bills	state
+1	bjp	bills
+1	congress	bills
+1	bills	centre
+1	bjp	states
+1	states	congress
+1	states	bills
+1	bills	assembly
+1	states	assembly
+1	state	bill
+1	bjp	bill
+1	congress	bill
+1	centre	bill
+1	bills	bill
+1	states	bill
+1	assembly	bill
+1	indian	bjp
+1	indian	bills
+1	indian	states
+1	indian	assembly
+1	indian	bill
+1	bjp	all india
+1	bills	all india
+1	states	all india
+1	assembly	all india
+1	bill	all india
+1	indian	all india
+1	bjp	dmk
+1	dmk	congress
+1	dmk	centre
+1	dmk	bills
+1	states	dmk
+1	dmk	bill
+1	indian	dmk
+1	dmk	all india
+1	bills	nda
+1	states	nda
+1	nda	assembly
+1	nda	bill
+1	dmk	nda
+1	bills	central
+1	states	central
+1	central	bill
+1	indian	central
+1	dmk	central
+1	nda	central
+1	bjp	aiadmk
+1	aiadmk	congress
+1	aiadmk	centre
+1	aiadmk	bills
+1	states	aiadmk
+1	aiadmk	bill
+1	indian	aiadmk
+1	aiadmk	all india
+1	aiadmk	nda
+1	aiadmk	central
+1	tmc	state
+1	tmc	bjp
+1	tmc	congress
+1	tmc	centre
+1	tmc	bills
+1	tmc	states
+1	tmc	assembly
+1	tmc	bill
+1	tmc	indian
+1	tmc	all india
+1	tmc	dmk
+1	tmc	nda
+1	tmc	central
+1	tmc	aiadmk
+1	kisan sabha	tikait
+1	tikait	aiks
+1	aiks	kisan morcha
+1	tikait	all india
+1	kisan sabha	all india
+1	singh	all india
+1	aiks	all india
+1	kisan sabha	covid-19
+1	covid-19	aiks
+1	tikait	nda
+1	aiks	nda
+1	tikait	cm
+1	cm	kisan morcha
+1	cm	all india
+1	covid-19	cm
+1	cm	nda
+1	state	inderjit singh
+1	tikait	inderjit singh
+1	kisan sabha	inderjit singh
+1	singh	inderjit singh
+1	kisan morcha	inderjit singh
+1	farmers	inderjit singh
+1	aiks	inderjit singh
+1	inderjit singh	all india
+1	covid-19	inderjit singh
+1	nda	inderjit singh
+1	cm	inderjit singh
+1	nda	amarinder singh
+1	delhi police	tikri

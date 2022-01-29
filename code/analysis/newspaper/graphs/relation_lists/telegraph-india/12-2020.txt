@@ -1,0 +1,1709 @@
+131	farmers	us
+112	farmers	singh
+112	singh	us
+84	farmers	centre
+84	centre	us
+73	centre	singh
+71	farmers	modi
+71	modi	us
+68	singhu	farmers
+68	singhu	singh
+67	singhu	us
+58	modi	singh
+52	farmers	bjp
+51	us	bjp
+48	farmers	msp
+48	us	msp
+44	singhu	centre
+43	all india	us
+42	farmers	all india
+42	singh	msp
+41	centre	modi
+41	singh	bjp
+39	bill	farmers
+38	bill	us
+38	congress	farmers
+38	opposition	farmers
+38	opposition	us
+37	centre	msp
+37	congress	us
+36	singh	all india
+35	singhu	modi
+34	tomar	farmers
+34	tomar	singh
+34	tomar	us
+34	centre	bjp
+33	narendra singh	farmers
+33	narendra singh	tomar
+33	narendra singh	singh
+33	narendra singh	us
+33	farmers	tikri
+33	modi	msp
+32	tikri	singh
+32	tikri	us
+31	house	us
+30	farmers	house
+30	singhu	tikri
+30	modi	bjp
+30	opposition	singh
+28	indian	farmers
+28	indian	us
+27	bku	singh
+27	bku	us
+27	singhu	msp
+26	bku	farmers
+26	farmers	rajasthan
+26	modi	all india
+26	kisan sabha	us
+26	rajasthan	us
+26	parliament	us
+26	opposition	modi
+25	indian	singh
+25	kisan sabha	farmers
+25	parliament	farmers
+25	opposition	bjp
+24	kisan sabha	singh
+24	singh	rajasthan
+24	bill	modi
+24	congress	singh
+24	bill	singh
+23	tomar	centre
+23	house	singh
+23	kisan sabha	all india
+23	bill	centre
+23	amit shah	farmers
+23	amit shah	us
+23	singhu	bjp
+22	narendra singh	centre
+22	morcha	farmers
+22	morcha	us
+22	bill	msp
+22	centre	all india
+22	congress	modi
+22	opposition	centre
+21	morcha	singh
+21	tomar	modi
+21	amit shah	singh
+20	bku	centre
+20	narendra singh	modi
+20	centre	tikri
+20	all india	bjp
+20	bill	bjp
+20	congress	centre
+20	singhu	all india
+20	tomar	all india
+20	narendra singh	all india
+20	bjp	msp
+20	farmers	bharat bandh
+20	bharat bandh	us
+19	house	modi
+19	tikait	farmers
+19	singhu	tomar
+19	singhu	narendra singh
+19	tikait	singh
+19	tikait	us
+19	ghazipur	farmers
+19	ghazipur	singh
+19	amit shah	centre
+19	congress	bjp
+19	opposition	congress
+18	farmers	kisan morcha
+18	kisan morcha	singh
+18	morcha	kisan morcha
+18	kisan morcha	us
+18	modi	tikri
+18	tomar	msp
+18	piyush goyal	farmers
+18	piyush goyal	us
+18	ghazipur	us
+18	all india	msp
+18	bill	congress
+18	singhu	opposition
+17	narendra singh	msp
+17	parliament	singh
+17	piyush goyal	singh
+16	indian	modi
+16	modi	rajasthan
+16	singhu	ghazipur
+16	delhi police	farmers
+16	delhi police	singh
+16	delhi police	us
+16	parliament	congress
+16	piyush goyal	tomar
+16	piyush goyal	narendra singh
+16	farmers	arvind kejriwal
+16	singh	arvind kejriwal
+16	tomar	bjp
+16	opposition	msp
+16	bharat bandh	singh
+15	morcha	centre
+15	noida	farmers
+15	noida	singh
+15	noida	us
+15	morcha	modi
+15	parliament	modi
+15	ghazipur	tikri
+15	amit shah	tomar
+15	narendra singh	amit shah
+15	centre	rajasthan
+15	us	arvind kejriwal
+15	house	bjp
+15	congress	gandhi
+15	farmers	gandhi
+15	gandhi	us
+15	farmers	sikh
+15	singh	sikh
+15	sikh	us
+15	narendra singh	bjp
+15	amit shah	modi
+14	modi	kisan morcha
+14	morcha	all india
+14	bku	tikait
+14	singhu	rajasthan
+14	bill	all india
+14	house	centre
+14	congress	msp
+14	tikri	msp
+14	morcha	singhu
+14	singhu	amit shah
+14	aap	farmers
+14	aap	singh
+14	centre	arvind kejriwal
+14	singhu	arvind kejriwal
+14	bharat bandh	centre
+14	singhu	house
+13	kisan sabha	modi
+13	hannan mollah	singh
+13	hannan mollah	all india
+13	hannan mollah	us
+13	parliament	centre
+13	delhi police	centre
+13	singhu	delhi police
+13	bill	parliament
+13	supreme court	farmers
+13	indian	centre
+13	supreme court	us
+13	telegraph	us
+13	singhu	congress
+13	aap	us
+13	farmers	sad
+13	kisan sabha	tomar
+13	kisan sabha	narendra singh
+13	madhya pradesh	farmers
+13	farmers	aikscc
+13	aikscc	all india
+13	madhya pradesh	us
+13	aikscc	us
+13	opposition	parliament
+13	singhu	bharat bandh
+13	bill	opposition
+12	hannan mollah	farmers
+12	hannan mollah	kisan sabha
+12	indian	all india
+12	piyush goyal	msp
+12	piyush goyal	centre
+12	ghazipur	centre
+12	parliament	bjp
+12	khalistani	farmers
+12	khalistani	us
+12	supreme court	singh
+12	telegraph	farmers
+12	morcha	msp
+12	piyush goyal	singhu
+12	aap	centre
+12	aap	singhu
+12	congress	all india
+12	piyush goyal	all india
+12	aap	arvind kejriwal
+12	congress	house
+12	indian	congress
+12	sad	singh
+12	punjabi	farmers
+12	punjabi	singh
+12	sad	us
+12	punjabi	us
+12	kisan sabha	bjp
+12	rajasthan	bjp
+12	aikscc	singh
+12	singhu	indian
+12	yogendra yadav	farmers
+12	yogendra yadav	singh
+12	yogendra yadav	us
+12	kisan sabha	centre
+12	opposition	house
+11	centre	kisan morcha
+11	darshan pal	farmers
+11	darshan pal	us
+11	kisan morcha	all india
+11	house	all india
+11	bku	modi
+11	parliament	msp
+11	parliament	all india
+11	tikri	all india
+11	bku	indian
+11	singhu	parliament
+11	tikait	centre
+11	morcha	tikri
+11	amit shah	msp
+11	amit shah	all india
+11	bjp	arvind kejriwal
+11	congress	rahul gandhi
+11	rahul gandhi	farmers
+11	rahul gandhi	gandhi
+11	rahul gandhi	us
+11	bill	house
+11	amit shah	bjp
+11	madhya pradesh	singh
+11	yogendra yadav	centre
+11	singhu	bill
+11	singhu	kisan morcha
+11	indian	bjp
+10	morcha	tomar
+10	morcha	narendra singh
+10	darshan pal	singh
+10	farmers	hindi
+10	hindi	us
+10	rajasthan	all india
+10	bku	singhu
+10	singhu	tikait
+10	tikait	tomar
+10	narendra singh	tikait
+10	piyush goyal	modi
+10	khalistani	modi
+10	congress	rajasthan
+10	gurnam singh	farmers
+10	gurnam singh	singh
+10	gurnam singh	us
+10	modi	sikh
+10	madhya pradesh	modi
+10	khalistani	singh
+10	tomar	aikscc
+10	narendra singh	aikscc
+10	kisan sabha	singhu
+10	morcha	bjp
+10	bharat bandh	bjp
+10	opposition	bharat bandh
+9	bku	tomar
+9	bku	narendra singh
+9	singh	hindi
+9	noida	centre
+9	farmers	gujarat
+9	singhu	noida
+9	gujarat	us
+9	kisan sabha	indian
+9	house	rajasthan
+9	rajya sabha	farmers
+9	pakistan	farmers
+9	rajya sabha	us
+9	pakistan	us
+9	price assurance and farm services act	modi
+9	price assurance and farm services act	farmers
+9	price assurance and farm services act	singh
+9	price assurance and farm services act	us
+9	amarinder singh	farmers
+9	amarinder singh	singh
+9	tikait	all india
+9	ghazipur	modi
+9	rahul gandhi	modi
+9	modi	gandhi
+9	telegraph	singh
+9	madhya pradesh	rajasthan
+9	aikscc	modi
+9	bku	all india
+9	yogendra yadav	singhu
+9	bku	gurnam singh
+9	kisan sabha	msp
+9	opposition	gandhi
+9	kisan morcha	bjp
+9	kisan morcha	msp
+9	opposition	all india
+9	bihar	farmers
+9	bihar	us
+9	bku	bjp
+9	congress	bharat bandh
+9	tikri	kisan morcha
+8	gujarat	singh
+8	indian	house
+8	tomar	tikri
+8	narendra singh	tikri
+8	tomar	rajasthan
+8	bku	msp
+8	parliament	tomar
+8	supreme court	centre
+8	price assurance and farm services act	centre
+8	odisha	farmers
+8	odisha	us
+8	ghazipur	msp
+8	tikait	amit shah
+8	piyush goyal	amit shah
+8	amarinder singh	us
+8	aap	bjp
+8	house	msp
+8	singh	gandhi
+8	indian	sad
+8	centre	sikh
+8	kisan sabha	congress
+8	madhya pradesh	bjp
+8	punjabi	singhu
+8	aikscc	centre
+8	opposition	tomar
+8	opposition	amit shah
+8	singhu	karnal
+8	farmers	karnal
+8	singh	karnal
+8	singhu	sikh
+8	karnal	us
+8	kisan sabha	bku
+8	bharat bandh	all india
+8	kisan sabha	tikait
+8	singhu	aikscc
+8	bharat bandh	msp
+8	bill	gandhi
+8	opposition	rajasthan
+8	bill	rajasthan
+8	assembly	farmers
+8	hannan mollah	singhu
+8	cpm	us
+8	parliament	house
+8	kisan sabha	opposition
+8	tikait	bjp
+8	indian	opposition
+7	tomar	kisan morcha
+7	narendra singh	kisan morcha
+7	darshan pal	centre
+7	morcha	darshan pal
+7	bku	noida
+7	morcha	noida
+7	noida	modi
+7	morcha	rajasthan
+7	tikait	modi
+7	tikri	rajasthan
+7	narendra singh	rajasthan
+7	narendra singh	parliament
+7	noida	tikri
+7	ghazipur	noida
+7	tikri	bjp
+7	darshan pal	all india
+7	khalistani	bjp
+7	farmers	dmk
+7	dmk	us
+7	odisha	centre
+7	tikait	msp
+7	congress	tomar
+7	amit shah	congress
+7	gurnam singh	centre
+7	aap	delhi police
+7	delhi police	arvind kejriwal
+7	singhu	hindi
+7	centre	gandhi
+7	pakistan	singh
+7	singhu	telegraph
+7	kisan sabha	amit shah
+7	piyush goyal	kisan sabha
+7	madhya pradesh	all india
+7	aikscc	bjp
+7	kisan sabha	aikscc
+7	narendra singh	opposition
+7	yogendra yadav	modi
+7	sad	modi
+7	singhu	madhya pradesh
+7	yogendra yadav	all india
+7	indian	gurnam singh
+7	indian	msp
+7	hannan mollah	tomar
+7	hannan mollah	narendra singh
+7	opposition	rahul gandhi
+7	parliament	gandhi
+7	assembly	us
+7	farmers	cpm
+7	kisan sabha	bill
+7	madhya pradesh	opposition
+7	madhya pradesh	house
+7	yogendra yadav	bjp
+7	bill	tomar
+7	assembly	bjp
+7	bill	bharat bandh
+7	bihar	congress
+7	bihar	singh
+7	amit shah	house
+7	house	bharat bandh
+7	hannan mollah	bjp
+7	gurnam singh	bjp
+6	darshan pal	kisan morcha
+6	darshan pal	tomar
+6	narendra singh	darshan pal
+6	centre	hindi
+6	noida	kisan morcha
+6	gujarat	modi
+6	singhu	gujarat
+6	morcha	kisan sabha
+6	kisan sabha	house
+6	morcha	house
+6	kisan sabha	rajasthan
+6	hannan mollah	modi
+6	tikait	tikri
+6	bku	rajasthan
+6	piyush goyal	bill
+6	rajya sabha	modi
+6	darshan pal	bjp
+6	pakistan	modi
+6	khalistani	all india
+6	bill	tikri
+6	pakistan	bill
+6	supreme court	modi
+6	rajya sabha	centre
+6	rajya sabha	singh
+6	telegraph	modi
+6	telegraph	all india
+6	bill	telegraph
+6	odisha	bjp
+6	congress	tikri
+6	narendra singh	congress
+6	amarinder singh	centre
+6	amarinder singh	congress
+6	singhu	darshan pal
+6	darshan pal	tikait
+6	rajasthan	msp
+6	parliament	rajasthan
+6	singhu	gurnam singh
+6	gurnam singh	rajasthan
+6	gurnam singh	all india
+6	amit shah	arvind kejriwal
+6	delhi police	bjp
+6	amarinder singh	bjp
+6	amarinder singh	bill
+6	singhu	gandhi
+6	congress	sad
+6	telegraph	tikri
+6	punjabi	tikri
+6	punjabi	indian
+6	punjabi	all india
+6	indian	sikh
+6	madhya pradesh	congress
+6	kisan sabha	madhya pradesh
+6	piyush goyal	bjp
+6	piyush goyal	aikscc
+6	aikscc	msp
+6	opposition	tikri
+6	sikh	bjp
+6	sad	centre
+6	singhu	sad
+6	yogendra yadav	rajasthan
+6	indian	bharat bandh
+6	hannan mollah	msp
+6	farmers	lok sabha
+6	randeep surjewala	modi
+6	randeep surjewala	congress
+6	randeep surjewala	farmers
+6	randeep surjewala	opposition
+6	us	lok sabha
+6	randeep surjewala	us
+6	morcha	aikscc
+6	bharat bandh	modi
+6	bill	rahul gandhi
+6	yogendra yadav	kisan sabha
+6	hannan mollah	centre
+6	parliament	cpm
+6	cpm	singh
+6	bill	cpm
+6	skm	kisan morcha
+6	skm	farmers
+6	supreme court	tomar
+6	supreme court	narendra singh
+6	skm	singh
+6	morcha	skm
+6	skm	us
+6	narendra singh	bill
+6	assembly	congress
+6	assembly	bill
+6	morcha	bill
+6	bihar	centre
+6	bihar	opposition
+6	price assurance and farm services act	msp
+6	delhi police	house
+6	aap	house
+6	aap	bharat bandh
+6	house	arvind kejriwal
+6	bharat bandh	arvind kejriwal
+6	bihar	bjp
+6	bihar	modi
+6	congress	dmk
+6	aap	opposition
+6	opposition	arvind kejriwal
+6	sad	bjp
+6	price assurance and farm services act	singhu
+5	kisan sabha	kisan morcha
+5	house	kisan morcha
+5	kisan morcha	rajasthan
+5	indian	rajasthan
+5	hannan mollah	indian
+5	gujarat	all india
+5	indian	noida
+5	bku	tikri
+5	parliament	tikri
+5	rajya sabha	bjp
+5	darshan pal	modi
+5	pakistan	khalistani
+5	bill	rajya sabha
+5	bill	darshan pal
+5	dmk	centre
+5	dmk	modi
+5	dmk	singh
+5	telegraph	bjp
+5	odisha	all india
+5	morcha	tikait
+5	morcha	ghazipur
+5	amit shah	parliament
+5	amarinder singh	parliament
+5	amit shah	rajasthan
+5	amarinder singh	rajasthan
+5	piyush goyal	tikait
+5	piyush goyal	morcha
+5	aap	congress
+5	aap	rajasthan
+5	ghazipur	all india
+5	amarinder singh	all india
+5	gurnam singh	tikait
+5	noida	msp
+5	rajasthan	arvind kejriwal
+5	rahul gandhi	singh
+5	modi	hindi
+5	telegraph	congress
+5	indian	bill
+5	bill	sad
+5	house	sikh
+5	all india	sikh
+5	punjabi	sikh
+5	bku	ghazipur
+5	khalistani	rajasthan
+5	joginder singh ugrahan	farmers
+5	joginder singh ugrahan	singh
+5	joginder singh ugrahan	us
+5	punjabi	hindi
+5	centre	karnal
+5	modi	karnal
+5	opposition	sikh
+5	karnal	sikh
+5	madhya pradesh	centre
+5	bku	madhya pradesh
+5	punjabi	modi
+5	punjabi	rajasthan
+5	kisan sabha	bharat bandh
+5	indian	tikait
+5	indian	tomar
+5	narendra singh	indian
+5	hannan mollah	tikait
+5	hannan mollah	piyush goyal
+5	centre	lok sabha
+5	rajya sabha	congress
+5	parliament	rahul gandhi
+5	indian	amit shah
+5	sad	msp
+5	amit shah	bharat bandh
+5	indian	gandhi
+5	amarinder singh	modi
+5	assembly	centre
+5	kisan sabha	parliament
+5	delhi police	all india
+5	kisan sabha	cpm
+5	cpm	all india
+5	hannan mollah	bill
+5	supreme court	singhu
+5	pakistan	opposition
+5	opposition	khalistani
+5	china	farmers
+5	china	pakistan
+5	china	us
+5	skm	bjp
+5	skm	modi
+5	yogendra yadav	tomar
+5	yogendra yadav	narendra singh
+5	bill	tikait
+5	assembly	parliament
+5	bill	kisan morcha
+5	gujarat	bjp
+5	bku	amit shah
+5	bill	amit shah
+5	delhi police	bharat bandh
+5	rajya sabha	msp
+5	bharat bandh	rajasthan
+5	opposition	dmk
+5	yogendra yadav	opposition
+5	opposition	hindi
+4	bku	kisan morcha
+4	morcha	bku
+4	bku	darshan pal
+4	noida	tomar
+4	narendra singh	noida
+4	morcha	indian
+4	hannan mollah	kisan morcha
+4	hannan mollah	morcha
+4	hannan mollah	house
+4	hannan mollah	rajasthan
+4	kisan sabha	gujarat
+4	gujarat	rajasthan
+4	tikait	rajasthan
+4	delhi police	tikri
+4	delhi police	ghazipur
+4	rajya sabha	parliament
+4	darshan pal	parliament
+4	darshan pal	tikri
+4	supreme court	bku
+4	bku	house
+4	supreme court	house
+4	telegraph	centre
+4	odisha	modi
+4	tikait	congress
+4	tikait	ghazipur
+4	morcha	parliament
+4	morcha	amit shah
+4	amarinder singh	msp
+4	amarinder singh	tomar
+4	amarinder singh	morcha
+4	darshan pal	msp
+4	darshan pal	amit shah
+4	piyush goyal	tikri
+4	aap	amit shah
+4	tikait	noida
+4	congress	arvind kejriwal
+4	parliament	arvind kejriwal
+4	farmers	manohar lal khattar
+4	khattar	farmers
+4	khattar	manohar lal khattar
+4	us	manohar lal khattar
+4	khattar	us
+4	rahul gandhi	centre
+4	singhu	rahul gandhi
+4	indian	tikri
+4	house	tikri
+4	sad	tikri
+4	indian	telegraph
+4	pakistan	congress
+4	pakistan	house
+4	punjabi	telegraph
+4	punjabi	pakistan
+4	bku	delhi police
+4	madhya pradesh	tomar
+4	narendra singh	madhya pradesh
+4	tomar	khalistani
+4	madhya pradesh	khalistani
+4	piyush goyal	khalistani
+4	tomar	joginder singh ugrahan
+4	narendra singh	joginder singh ugrahan
+4	piyush goyal	joginder singh ugrahan
+4	joginder singh ugrahan	all india
+4	punjabi	centre
+4	piyush goyal	bku
+4	opposition	ghazipur
+4	delhi police	modi
+4	ghazipur	bjp
+4	tomar	sikh
+4	narendra singh	sikh
+4	yogendra yadav	indian
+4	all india	karnal
+4	khalistani	centre
+4	indian	khalistani
+4	bku	sikh
+4	khalistani	sikh
+4	kisan sabha	gurnam singh
+4	bku	bharat bandh
+4	gurnam singh	bharat bandh
+4	piyush goyal	indian
+4	delhi police	congress
+4	delhi police	parliament
+4	opposition	delhi police
+4	parliament	lok sabha
+4	opposition	rajya sabha
+4	randeep surjewala	parliament
+4	indian	rahul gandhi
+4	randeep surjewala	house
+4	randeep surjewala	bill
+4	kisan sabha	delhi police
+4	yogendra yadav	congress
+4	delhi police	rajasthan
+4	congress	cpm
+4	delhi police	cpm
+4	supreme court	tikait
+4	kisan sabha	supreme court
+4	khalistani	house
+4	china	modi
+4	china	singh
+4	odisha	singh
+4	odisha	opposition
+4	madhya pradesh	odisha
+4	skm	centre
+4	skm	tomar
+4	narendra singh	skm
+4	supreme court	bjp
+4	skm	all india
+4	aikscc	kisan morcha
+4	madhya pradesh	msp
+4	hannan mollah	bku
+4	bku	bill
+4	madhya pradesh	bill
+4	house	gandhi
+4	opposition	kisan morcha
+4	morcha	opposition
+4	bihar	msp
+4	bjp	lok sabha
+4	opposition	gujarat
+4	hannan mollah	aikscc
+4	cpm	bjp
+4	house	cpm
+4	odisha	congress
+4	odisha	bharat bandh
+4	bill	bihar
+4	cpm	modi
+4	pakistan	msp
+4	parliament	bharat bandh
+4	dmk	msp
+4	bill	dmk
+4	bharat bandh	dmk
+4	yogendra yadav	msp
+4	rahul gandhi	bharat bandh
+4	bharat bandh	gandhi
+4	bku	opposition
+4	yogendra yadav	amit shah
+4	tikait	house
+4	pakistan	singhu
+4	aikscc	tikri
+4	tikait	kisan morcha
+4	hindi	bjp
+4	parliament	hindi
+4	modi	arvind kejriwal
+4	ghazipur	kisan morcha
+3	darshan pal	noida
+3	indian	kisan morcha
+3	indian	gujarat
+3	morcha	gujarat
+3	noida	rajasthan
+3	noida	all india
+3	bku	parliament
+3	rajya sabha	all india
+3	pakistan	bjp
+3	pakistan	parliament
+3	pakistan	tikri
+3	pakistan	all india
+3	parliament	khalistani
+3	bill	khalistani
+3	rajya sabha	house
+3	indian	dmk
+3	rajya sabha	dmk
+3	price assurance and farm services act	bku
+3	bill	odisha
+3	tikait	parliament
+3	ghazipur	congress
+3	ghazipur	parliament
+3	ghazipur	tomar
+3	narendra singh	ghazipur
+3	morcha	congress
+3	amit shah	tikri
+3	amarinder singh	singhu
+3	amarinder singh	tikri
+3	amarinder singh	tikait
+3	amarinder singh	narendra singh
+3	amarinder singh	darshan pal
+3	ghazipur	rajasthan
+3	piyush goyal	parliament
+3	piyush goyal	ghazipur
+3	piyush goyal	rajasthan
+3	aap	parliament
+3	aap	amarinder singh
+3	gurnam singh	congress
+3	gurnam singh	parliament
+3	gurnam singh	tomar
+3	narendra singh	gurnam singh
+3	gurnam singh	amit shah
+3	piyush goyal	gurnam singh
+3	aap	gurnam singh
+3	gurnam singh	noida
+3	msp	arvind kejriwal
+3	tikait	arvind kejriwal
+3	tomar	arvind kejriwal
+3	narendra singh	arvind kejriwal
+3	amarinder singh	arvind kejriwal
+3	all india	arvind kejriwal
+3	gurnam singh	arvind kejriwal
+3	bill	delhi police
+3	congress	hindi
+3	tikri	hindi
+3	house	sad
+3	telegraph	house
+3	sad	all india
+3	pakistan	indian
+3	punjabi	house
+3	punjabi	sad
+3	tikri	sikh
+3	pakistan	sikh
+3	bill	sikh
+3	delhi police	tikait
+3	ghazipur	telegraph
+3	madhya pradesh	amit shah
+3	congress	khalistani
+3	narendra singh	khalistani
+3	kisan sabha	khalistani
+3	amit shah	khalistani
+3	congress	aikscc
+3	amit shah	aikscc
+3	madhya pradesh	aikscc
+3	aikscc	rajasthan
+3	joginder singh ugrahan	bjp
+3	kisan sabha	joginder singh ugrahan
+3	joginder singh ugrahan	aikscc
+3	bku	aikscc
+3	bku	joginder singh ugrahan
+3	karnal	bjp
+3	tikri	karnal
+3	tomar	karnal
+3	narendra singh	karnal
+3	sikh	msp
+3	indian	parliament
+3	yogendra yadav	bku
+3	yogendra yadav	parliament
+3	madhya pradesh	parliament
+3	madhya pradesh	tikri
+3	indian	madhya pradesh
+3	sad	rajasthan
+3	yogendra yadav	karnal
+3	rajasthan	karnal
+3	yogendra yadav	gurnam singh
+3	madhya pradesh	gurnam singh
+3	singhu	khalistani
+3	punjabi	madhya pradesh
+3	punjabi	karnal
+3	punjabi	khalistani
+3	yogendra yadav	sikh
+3	gurnam singh	sikh
+3	punjabi	msp
+3	punjabi	tomar
+3	punjabi	narendra singh
+3	punjabi	kisan sabha
+3	modi	lok sabha
+3	congress	lok sabha
+3	delhi police	lok sabha
+3	opposition	lok sabha
+3	randeep surjewala	centre
+3	randeep surjewala	rahul gandhi
+3	randeep surjewala	gandhi
+3	morcha	sad
+3	indian	aikscc
+3	tomar	bharat bandh
+3	morcha	bharat bandh
+3	amarinder singh	opposition
+3	randeep surjewala	msp
+3	randeep surjewala	singh
+3	assembly	all india
+3	singh	lok sabha
+3	rajasthan	lok sabha
+3	hannan mollah	congress
+3	hannan mollah	delhi police
+3	hannan mollah	yogendra yadav
+3	cpm	centre
+3	singhu	cpm
+3	cpm	rajasthan
+3	kisan sabha	karnal
+3	bill	lok sabha
+3	yogendra yadav	bill
+3	pakistan	rajasthan
+3	china	opposition
+3	china	house
+3	punjabi	opposition
+3	odisha	house
+3	odisha	rajasthan
+3	singhu	skm
+3	supreme court	kisan morcha
+3	supreme court	skm
+3	morcha	supreme court
+3	kisan sabha	darshan pal
+3	supreme court	all india
+3	madhya pradesh	tikait
+3	hannan mollah	madhya pradesh
+3	gandhi	msp
+3	gujarat	centre
+3	price assurance and farm services act	amit shah
+3	price assurance and farm services act	bill
+3	delhi police	amit shah
+3	hannan mollah	amit shah
+3	tomar	gujarat
+3	narendra singh	gujarat
+3	gujarat	aikscc
+3	hannan mollah	bharat bandh
+3	gujarat	bharat bandh
+3	gurnam singh	delhi police
+3	bill	ghazipur
+3	rajya sabha	bharat bandh
+3	odisha	msp
+3	bihar	parliament
+3	bihar	rajasthan
+3	cpm	msp
+3	opposition	cpm
+3	khalistani	msp
+3	bihar	bharat bandh
+3	randeep surjewala	pakistan
+3	parliament	dmk
+3	cpm	dmk
+3	singhu	rajya sabha
+3	congress	gujarat
+3	parliament	gujarat
+3	telegraph	parliament
+3	rahul gandhi	dmk
+3	dmk	gandhi
+3	bku	congress
+3	opposition	tikait
+3	singhu	bihar
+3	bihar	amit shah
+3	bihar	house
+3	madhya pradesh	bihar
+3	hannan mollah	opposition
+3	aap	indian
+3	gurnam singh	opposition
+3	madhya pradesh	bharat bandh
+3	odisha	bihar
+3	yogendra yadav	arvind kejriwal
+3	telegraph	bharat bandh
+3	rahul gandhi	house
+3	opposition	sad
+3	rahul gandhi	sad
+3	china	msp
+3	china	singhu
+3	china	bill
+3	sad	gandhi
+3	tomar	house
+3	narendra singh	house
+3	amarinder singh	kisan morcha
+3	darshan pal	house
+3	supreme court	bill
+3	house	hindi
+3	skm	msp
+3	supreme court	msp
+3	balbir singh rajewal	msp
+3	singhu	balbir singh rajewal
+3	balbir singh rajewal	farmers
+3	balbir singh rajewal	singh
+3	bill	balbir singh rajewal
+3	balbir singh rajewal	us
+3	singh	manohar lal khattar
+3	khattar	singh
+3	indian	hindi
+3	hindi	msp
+3	telegraph	msp
+3	telegraph	rajasthan
+2	kisan morcha	hindi
+2	tomar	hindi
+2	narendra singh	hindi
+2	morcha	hindi
+2	noida	gujarat
+2	gujarat	kisan morcha
+2	house	gujarat
+2	hannan mollah	gujarat
+2	noida	house
+2	delhi police	noida
+2	pakistan	rajya sabha
+2	pakistan	darshan pal
+2	khalistani	tikri
+2	supreme court	indian
+2	supreme court	rajya sabha
+2	indian	rajya sabha
+2	supreme court	dmk
+2	house	dmk
+2	price assurance and farm services act	supreme court
+2	price assurance and farm services act	rajya sabha
+2	price assurance and farm services act	house
+2	price assurance and farm services act	dmk
+2	odisha	telegraph
+2	ghazipur	amit shah
+2	amarinder singh	ghazipur
+2	amarinder singh	amit shah
+2	darshan pal	congress
+2	darshan pal	ghazipur
+2	piyush goyal	congress
+2	piyush goyal	darshan pal
+2	aap	msp
+2	aap	tikait
+2	aap	all india
+2	gurnam singh	msp
+2	gurnam singh	tikri
+2	gurnam singh	ghazipur
+2	morcha	gurnam singh
+2	amarinder singh	gurnam singh
+2	gurnam singh	darshan pal
+2	noida	congress
+2	noida	parliament
+2	noida	amit shah
+2	amarinder singh	noida
+2	piyush goyal	noida
+2	morcha	arvind kejriwal
+2	darshan pal	arvind kejriwal
+2	amarinder singh	delhi police
+2	aap	bill
+2	bill	arvind kejriwal
+2	bjp	manohar lal khattar
+2	centre	manohar lal khattar
+2	congress	manohar lal khattar
+2	khattar	bjp
+2	khattar	centre
+2	khattar	congress
+2	rahul gandhi	hindi
+2	hindi	gandhi
+2	telegraph	sad
+2	pakistan	sad
+2	pakistan	telegraph
+2	punjabi	congress
+2	punjabi	bill
+2	congress	sikh
+2	sad	sikh
+2	delhi police	telegraph
+2	piyush goyal	madhya pradesh
+2	khalistani	aikscc
+2	joginder singh ugrahan	modi
+2	amit shah	joginder singh ugrahan
+2	joginder singh ugrahan	centre
+2	piyush goyal	opposition
+2	singhu	joginder singh ugrahan
+2	ghazipur	joginder singh ugrahan
+2	ghazipur	karnal
+2	opposition	karnal
+2	amit shah	karnal
+2	ghazipur	sikh
+2	amit shah	sikh
+2	karnal	msp
+2	bku	sad
+2	parliament	sad
+2	yogendra yadav	madhya pradesh
+2	parliament	karnal
+2	gurnam singh	modi
+2	gurnam singh	sad
+2	bku	khalistani
+2	yogendra yadav	khalistani
+2	khalistani	sad
+2	gurnam singh	khalistani
+2	punjabi	parliament
+2	parliament	sikh
+2	madhya pradesh	sikh
+2	rajasthan	sikh
+2	punjabi	piyush goyal
+2	delhi police	rajya sabha
+2	rajya sabha	rahul gandhi
+2	randeep surjewala	rajya sabha
+2	delhi police	gandhi
+2	gandhi	lok sabha
+2	rajya sabha	gandhi
+2	tomar	sad
+2	narendra singh	sad
+2	piyush goyal	sad
+2	narendra singh	bharat bandh
+2	bharat bandh	sad
+2	piyush goyal	bharat bandh
+2	bharat bandh	aikscc
+2	punjabi	morcha
+2	punjabi	aikscc
+2	telegraph	rahul gandhi
+2	telegraph	gandhi
+2	amarinder singh	house
+2	randeep surjewala	bjp
+2	amarinder singh	randeep surjewala
+2	randeep surjewala	rajasthan
+2	assembly	modi
+2	assembly	odisha
+2	kisan sabha	lok sabha
+2	yogendra yadav	delhi police
+2	hannan mollah	parliament
+2	all india	lok sabha
+2	cpm	lok sabha
+2	yogendra yadav	cpm
+2	hannan mollah	cpm
+2	hannan mollah	karnal
+2	bill	karnal
+2	kisan sabha	gandhi
+2	yogendra yadav	gandhi
+2	rajasthan	gandhi
+2	cpm	gandhi
+2	china	rajasthan
+2	china	khalistani
+2	china	punjabi
+2	odisha	khalistani
+2	kisan sabha	skm
+2	yogendra yadav	kisan morcha
+2	yogendra yadav	skm
+2	yogendra yadav	supreme court
+2	yogendra yadav	morcha
+2	darshan pal	skm
+2	supreme court	darshan pal
+2	kisan morcha	karnal
+2	morcha	karnal
+2	darshan pal	karnal
+2	skm	aikscc
+2	supreme court	sikh
+2	kisan sabha	sikh
+2	darshan pal	sikh
+2	assembly	opposition
+2	assembly	house
+2	gandhi	bjp
+2	bharat bandh	kisan morcha
+2	kisan sabha	bihar
+2	bihar	gandhi
+2	piyush goyal	gujarat
+2	hannan mollah	gurnam singh
+2	tikait	aikscc
+2	tikait	bharat bandh
+2	tikait	joginder singh ugrahan
+2	gurnam singh	joginder singh ugrahan
+2	kisan sabha	ghazipur
+2	assembly	singh
+2	amarinder singh	kisan sabha
+2	amarinder singh	assembly
+2	ghazipur	cpm
+2	amarinder singh	cpm
+2	opposition	noida
+2	bihar	tomar
+2	amarinder singh	bihar
+2	pakistan	centre
+2	pakistan	tomar
+2	bihar	khalistani
+2	cpm	bharat bandh
+2	pakistan	bharat bandh
+2	randeep surjewala	khalistani
+2	randeep surjewala	bharat bandh
+2	dmk	bjp
+2	dmk	rajasthan
+2	telangana	bjp
+2	telangana	msp
+2	telangana	modi
+2	congress	telangana
+2	parliament	telangana
+2	telangana	farmers
+2	telangana	singh
+2	opposition	telangana
+2	telangana	cpm
+2	bill	telangana
+2	telangana	dmk
+2	telangana	us
+2	indian	ghazipur
+2	gujarat	msp
+2	yogendra yadav	gujarat
+2	indian	cpm
+2	singhu	dmk
+2	yogendra yadav	dmk
+2	gujarat	dmk
+2	kisan sabha	telegraph
+2	hannan mollah	telegraph
+2	indian	delhi police
+2	yogendra yadav	tikait
+2	madhya pradesh	delhi police
+2	bku	bihar
+2	bihar	tikait
+2	indian	bihar
+2	bihar	delhi police
+2	aap	bku
+2	aap	yogendra yadav
+2	aap	madhya pradesh
+2	aap	bihar
+2	bihar	all india
+2	gurnam singh	house
+2	gurnam singh	bihar
+2	yogendra yadav	bharat bandh
+2	bku	odisha
+2	singhu	odisha
+2	indian	odisha
+2	odisha	delhi police
+2	odisha	amit shah
+2	aap	odisha
+2	gurnam singh	odisha
+2	bku	arvind kejriwal
+2	indian	arvind kejriwal
+2	kisan sabha	arvind kejriwal
+2	madhya pradesh	arvind kejriwal
+2	bihar	arvind kejriwal
+2	hannan mollah	arvind kejriwal
+2	odisha	arvind kejriwal
+2	darshan pal	opposition
+2	telegraph	karnal
+2	rahul gandhi	msp
+2	rajya sabha	sad
+2	china	congress
+2	china	randeep surjewala
+2	parliament	aikscc
+2	congress	kisan morcha
+2	parliament	kisan morcha
+2	amit shah	kisan morcha
+2	supreme court	congress
+2	supreme court	opposition
+2	hindi	sikh
+2	noida	bjp
+2	noida	sikh
+2	skm	tikri
+2	skm	house
+2	madhya pradesh	kisan morcha
+2	morcha	madhya pradesh
+2	skm	rajasthan
+2	supreme court	rajasthan
+2	bill	skm
+2	supreme court	balbir singh rajewal
+2	tomar	manohar lal khattar
+2	narendra singh	manohar lal khattar
+2	khattar	tomar
+2	khattar	narendra singh
+2	aap	hindi
+2	punjabi	bjp
+2	aap	modi
+2	hindi	arvind kejriwal
+2	balbir singh rajewal	centre
+2	balbir singh rajewal	tomar
+2	narendra singh	balbir singh rajewal
+2	piyush goyal	balbir singh rajewal
+2	piyush goyal	house
+2	price assurance and farm services act	bjp
+2	price assurance and farm services act	tomar
+2	price assurance and farm services act	narendra singh
+2	price assurance and farm services act	piyush goyal
+2	price assurance and farm services act	all india
+2	noida	sad
+2	piyush goyal	supreme court
+2	piyush goyal	kisan morcha
+2	piyush goyal	skm
+2	khalistani	kisan morcha
+2	skm	khalistani
+2	morcha	khalistani
+2	price assurance and farm services act	delhi police
+2	price assurance and farm services act	rajasthan
+2	price assurance and farm services act	arvind kejriwal
+2	bku	skm
+2	tikait	skm
+2	indian	skm
+2	punjabi	ghazipur
+2	assembly	msp
+2	madhya pradesh	gujarat
+2	hannan mollah	tikri
+2	opposition	aikscc
+2	price assurance and farm services act	tikri
+2	price assurance and farm services act	ghazipur
+2	amarinder singh	aikscc
+1	bku	hindi
+1	darshan pal	hindi
+1	noida	hindi
+1	kisan sabha	noida
+1	hannan mollah	noida
+1	rajya sabha	tikri
+1	darshan pal	rajya sabha
+1	rajya sabha	khalistani
+1	darshan pal	khalistani
+1	bku	rajya sabha
+1	bku	dmk
+1	price assurance and farm services act	indian
+1	darshan pal	rajasthan
+1	amarinder singh	piyush goyal
+1	aap	tikri
+1	aap	ghazipur
+1	aap	tomar
+1	aap	narendra singh
+1	aap	morcha
+1	aap	darshan pal
+1	aap	piyush goyal
+1	aap	noida
+1	tikri	arvind kejriwal
+1	ghazipur	arvind kejriwal
+1	piyush goyal	arvind kejriwal
+1	noida	arvind kejriwal
+1	msp	manohar lal khattar
+1	house	manohar lal khattar
+1	khattar	msp
+1	khattar	house
+1	rahul gandhi	tikri
+1	ghazipur	rahul gandhi
+1	ghazipur	hindi
+1	tikri	gandhi
+1	ghazipur	gandhi
+1	telegraph	sikh
+1	bku	telegraph
+1	tikait	telegraph
+1	congress	joginder singh ugrahan
+1	madhya pradesh	joginder singh ugrahan
+1	joginder singh ugrahan	rajasthan
+1	joginder singh ugrahan	khalistani
+1	joginder singh ugrahan	msp
+1	joginder singh ugrahan	tikri
+1	opposition	joginder singh ugrahan
+1	piyush goyal	karnal
+1	piyush goyal	sikh
+1	yogendra yadav	tikri
+1	yogendra yadav	sad
+1	madhya pradesh	sad
+1	bku	karnal
+1	indian	karnal
+1	sad	karnal
+1	madhya pradesh	karnal
+1	gurnam singh	karnal
+1	khalistani	karnal
+1	punjabi	bku
+1	punjabi	yogendra yadav
+1	punjabi	gurnam singh
+1	punjabi	tikait
+1	hannan mollah	punjabi
+1	rajya sabha	lok sabha
+1	delhi police	rahul gandhi
+1	rahul gandhi	lok sabha
+1	randeep surjewala	delhi police
+1	randeep surjewala	lok sabha
+1	kisan sabha	sad
+1	amit shah	sad
+1	aikscc	sad
+1	punjabi	amit shah
+1	punjabi	bharat bandh
+1	assembly	aikscc
+1	odisha	aikscc
+1	singhu	lok sabha
+1	yogendra yadav	lok sabha
+1	hannan mollah	lok sabha
+1	congress	karnal
+1	delhi police	karnal
+1	karnal	lok sabha
+1	cpm	karnal
+1	hannan mollah	gandhi
+1	all india	gandhi
+1	karnal	gandhi
+1	pakistan	madhya pradesh
+1	china	madhya pradesh
+1	pakistan	odisha
+1	china	odisha
+1	punjabi	odisha
+1	china	sikh
+1	odisha	sikh
+1	yogendra yadav	darshan pal
+1	skm	karnal
+1	supreme court	karnal
+1	supreme court	aikscc
+1	yogendra yadav	aikscc
+1	darshan pal	aikscc
+1	aikscc	karnal
+1	kisan morcha	sikh
+1	skm	sikh
+1	morcha	sikh
+1	aikscc	sikh
+1	assembly	madhya pradesh
+1	assembly	gandhi
+1	madhya pradesh	gandhi
+1	gujarat	lok sabha
+1	price assurance and farm services act	tikait
+1	bku	gujarat
+1	tikait	gujarat
+1	amit shah	gujarat
+1	gurnam singh	gujarat
+1	gurnam singh	aikscc
+1	indian	joginder singh ugrahan
+1	hannan mollah	joginder singh ugrahan
+1	joginder singh ugrahan	gujarat
+1	joginder singh ugrahan	bharat bandh
+1	aap	cpm
+1	cpm	arvind kejriwal
+1	assembly	bku
+1	assembly	tikait
+1	assembly	ghazipur
+1	assembly	kisan sabha
+1	assembly	delhi police
+1	bku	lok sabha
+1	tikait	lok sabha
+1	ghazipur	lok sabha
+1	assembly	lok sabha
+1	amarinder singh	bku
+1	amarinder singh	lok sabha
+1	darshan pal	delhi police
+1	assembly	darshan pal
+1	darshan pal	lok sabha
+1	bku	cpm
+1	tikait	cpm
+1	assembly	cpm
+1	darshan pal	cpm
+1	assembly	gurnam singh
+1	gurnam singh	lok sabha
+1	gurnam singh	cpm
+1	gurnam singh	bill
+1	tikait	sikh
+1	delhi police	sikh
+1	assembly	sikh
+1	sikh	lok sabha
+1	amarinder singh	sikh
+1	cpm	sikh
+1	parliament	joginder singh ugrahan
+1	delhi police	joginder singh ugrahan
+1	assembly	joginder singh ugrahan
+1	joginder singh ugrahan	lok sabha
+1	amarinder singh	joginder singh ugrahan
+1	darshan pal	joginder singh ugrahan
+1	joginder singh ugrahan	cpm
+1	bill	joginder singh ugrahan
+1	joginder singh ugrahan	sikh
+1	odisha	rajya sabha
+1	bharat bandh	tikri
+1	noida	bharat bandh
+1	tomar	cpm
+1	bihar	cpm
+1	amarinder singh	pakistan
+1	pakistan	bihar
+1	pakistan	cpm
+1	amarinder singh	khalistani
+1	khalistani	cpm
+1	amarinder singh	bharat bandh
+1	khalistani	bharat bandh
+1	randeep surjewala	tomar
+1	randeep surjewala	bihar
+1	randeep surjewala	cpm
+1	tomar	dmk
+1	amarinder singh	dmk
+1	bihar	dmk
+1	pakistan	dmk
+1	khalistani	dmk
+1	randeep surjewala	dmk
+1	telangana	centre
+1	tomar	telangana
+1	amarinder singh	telangana
+1	telangana	rajasthan
+1	bihar	telangana
+1	pakistan	telangana
+1	telangana	khalistani
+1	telangana	bharat bandh
+1	randeep surjewala	telangana
+1	ghazipur	rajya sabha
+1	kisan sabha	rajya sabha
+1	yogendra yadav	ghazipur
+1	yogendra yadav	rajya sabha
+1	ghazipur	gujarat
+1	rajya sabha	gujarat
+1	rajya sabha	cpm
+1	gujarat	cpm
+1	bill	gujarat
+1	ghazipur	dmk
+1	kisan sabha	dmk
+1	dmk	all india
+1	singhu	telangana
+1	ghazipur	telangana
+1	indian	telangana
+1	kisan sabha	telangana
+1	rajya sabha	telangana
+1	yogendra yadav	telangana
+1	telangana	gujarat
+1	telangana	all india
+1	telegraph	cpm
+1	parliament	jantar mantar
+1	singh	jantar mantar
+1	kisan sabha	jantar mantar
+1	delhi police	jantar mantar
+1	house	jantar mantar
+1	telegraph	jantar mantar
+1	hannan mollah	jantar mantar
+1	all india	jantar mantar
+1	cpm	jantar mantar
+1	us	jantar mantar
+1	amit shah	rahul gandhi
+1	amit shah	dmk
+1	amit shah	gandhi
+1	yogendra yadav	house
+1	yogendra yadav	bihar
+1	hannan mollah	bihar
+1	aap	kisan sabha
+1	aap	hannan mollah
+1	odisha	tikait
+1	kisan sabha	odisha
+1	yogendra yadav	odisha
+1	hannan mollah	odisha
+1	aap	rajya sabha
+1	rajya sabha	arvind kejriwal
+1	telegraph	kisan morcha
+1	opposition	telegraph
+1	morcha	telegraph
+1	darshan pal	telegraph
+1	hannan mollah	darshan pal
+1	darshan pal	bharat bandh
+1	bharat bandh	karnal
+1	kisan morcha	arvind kejriwal
+1	telegraph	arvind kejriwal
+1	karnal	arvind kejriwal
+1	pakistan	rahul gandhi
+1	china	parliament
+1	china	rajya sabha
+1	china	rahul gandhi
+1	china	sad
+1	china	bharat bandh
+1	randeep surjewala	singhu
+1	randeep surjewala	sad
+1	pakistan	gandhi
+1	china	gandhi
+1	gujarat	tikri
+1	bihar	tikri
+1	bihar	kisan morcha
+1	narendra singh	bihar
+1	morcha	bihar
+1	bihar	darshan pal
+1	bihar	noida
+1	rahul gandhi	bjp
+1	supreme court	parliament
+1	supreme court	rahul gandhi
+1	randeep surjewala	supreme court
+1	supreme court	gandhi
+1	bku	muzaffarnagar
+1	ghazipur	muzaffarnagar
+1	muzaffarnagar	farmers
+1	indian	muzaffarnagar
+1	muzaffarnagar	singh
+1	noida	muzaffarnagar
+1	muzaffarnagar	us
+1	assembly	sad
+1	amarinder singh	sad
+1	aap	assembly
+1	aap	sad
+1	assembly	arvind kejriwal
+1	sad	arvind kejriwal
+1	house	karnal
+1	hindi	karnal
+1	yogendra yadav	noida
+1	supreme court	tikri
+1	madhya pradesh	skm
+1	supreme court	madhya pradesh
+1	balbir singh rajewal	modi
+1	balbir singh rajewal	tikri
+1	balbir singh rajewal	kisan morcha
+1	balbir singh rajewal	skm
+1	morcha	balbir singh rajewal
+1	balbir singh rajewal	house
+1	madhya pradesh	balbir singh rajewal
+1	balbir singh rajewal	rajasthan
+1	tomar	lok sabha
+1	narendra singh	lok sabha
+1	amit shah	lok sabha
+1	modi	manohar lal khattar
+1	parliament	manohar lal khattar
+1	opposition	manohar lal khattar
+1	lok sabha	manohar lal khattar
+1	amit shah	manohar lal khattar
+1	rajasthan	manohar lal khattar
+1	khattar	modi
+1	khattar	parliament
+1	khattar	opposition
+1	khattar	lok sabha
+1	khattar	amit shah
+1	khattar	rajasthan
+1	yogendra yadav	rahul gandhi
+1	rahul gandhi	rajasthan
+1	rahul gandhi	gujarat
+1	aap	rahul gandhi
+1	aap	gujarat
+1	aap	dmk
+1	gujarat	gandhi
+1	aap	gandhi
+1	tikri	manohar lal khattar
+1	khattar	tikri
+1	pakistan	hindi
+1	aap	pakistan
+1	khalistani	hindi
+1	aap	khalistani
+1	aap	punjabi
+1	aap	sikh
+1	morcha	lok sabha
+1	house	lok sabha
+1	sad	lok sabha
+1	amit shah	hindi
+1	telegraph	hindi
+1	balbir singh rajewal	parliament
+1	balbir singh rajewal	amit shah
+1	price assurance and farm services act	kisan sabha
+1	price assurance and farm services act	hannan mollah
+1	rahul gandhi	cpm
+1	cpm	hindi
+1	bill	hindi
+1	bharat bandh	hindi
+1	dmk	hindi
+1	price assurance and farm services act	congress
+1	ghazipur	sad
+1	pakistan	narendra singh
+1	pakistan	supreme court
+1	pakistan	piyush goyal
+1	china	centre
+1	china	tomar
+1	china	narendra singh
+1	china	supreme court
+1	china	darshan pal
+1	china	piyush goyal
+1	darshan pal	balbir singh rajewal
+1	pakistan	balbir singh rajewal
+1	china	balbir singh rajewal
+1	piyush goyal	yogendra yadav
+1	hannan mollah	skm
+1	hannan mollah	khalistani
+1	house	aikscc
+1	madhya pradesh	cpm
+1	delhi police	msp
+1	delhi police	tomar
+1	narendra singh	delhi police
+1	piyush goyal	delhi police
+1	price assurance and farm services act	aap
+1	sad	kisan morcha
+1	tikait	sad
+1	skm	sad
+1	supreme court	sad
+1	gurnam singh	kisan morcha
+1	gurnam singh	skm
+1	supreme court	gurnam singh
+1	tikait	khalistani
+1	supreme court	khalistani
+1	noida	skm
+1	supreme court	noida
+1	noida	khalistani
+1	price assurance and farm services act	parliament
+1	price assurance and farm services act	opposition
+1	price assurance and farm services act	hindi
+1	assembly	bihar
+1	madhya pradesh	telegraph
+1	telegraph	gujarat
+1	assembly	telegraph
+1	assembly	bharat bandh
+1	odisha	parliament
+1	supreme court	manohar lal khattar
+1	kisan sabha	manohar lal khattar
+1	all india	manohar lal khattar
+1	khattar	supreme court
+1	khattar	kisan sabha
+1	khattar	all india
+1	kisan sabha	tikri
+1	price assurance and farm services act	kisan morcha
+1	price assurance and farm services act	morcha
+1	price assurance and farm services act	noida
+1	hannan mollah	amarinder singh
+1	bill	aikscc
+1	pakistan	ghazipur
+1	pakistan	karnal
+1	china	tikri
+1	china	ghazipur
+1	china	telegraph
+1	china	karnal
+1	price assurance and farm services act	telegraph
+1	price assurance and farm services act	pakistan
+1	price assurance and farm services act	karnal
+1	price assurance and farm services act	china
+1	price assurance and farm services act	punjabi
+1	bihar	rahul gandhi
+1	bihar	telegraph
+1	amit shah	skm
+1	indian	darshan pal
+1	pakistan	kisan sabha
+1	pakistan	amit shah
+1	china	indian
+1	china	kisan sabha
+1	china	amit shah
+1	china	all india
+1	randeep surjewala	indian
+1	randeep surjewala	kisan sabha
+1	randeep surjewala	amit shah
+1	randeep surjewala	all india
+1	supreme court	amit shah
+1	supreme court	arvind kejriwal
+1	amarinder singh	madhya pradesh
+1	kisan sabha	hindi
+1	amarinder singh	hindi
+1	madhya pradesh	hindi
+1	rajasthan	hindi
+1	amarinder singh	gujarat
+1	gujarat	hindi
+1	hindi	all india
+1	aikscc	hindi
+1	punjabi	kisan morcha
+1	amarinder singh	punjabi
+1	punjabi	gujarat

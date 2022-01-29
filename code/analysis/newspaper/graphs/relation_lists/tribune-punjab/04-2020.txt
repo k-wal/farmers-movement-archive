@@ -1,0 +1,195 @@
+9	bku	singh
+8	bku	farmers
+8	farmers	singh
+7	bku	nda
+7	nda	singh
+6	farmers	nda
+4	kisan union	singh
+4	kisan union	nda
+4	sukhdev singh	singh
+4	farmers	sukhdev singh
+4	bku	tribune
+4	singh	tribune
+4	farmers	tribune
+3	bku	kisan union
+3	kisan union	farmers
+3	bku	tribune news servicechandigarh
+3	tribune news servicechandigarh	singh
+3	farmers	tribune news servicechandigarh
+3	bku	sukhdev singh
+3	tribune news servicechandigarh	sukhdev singh
+3	tribune news servicechandigarh	tribune
+3	sukhdev singh	tribune
+3	nda	sukhdev singh
+3	nda	tribune
+3	bku	house
+3	house	nda
+3	singh	bathinda
+3	nda	bathinda
+3	farmers	bathinda
+2	bku	ludhiana
+2	singh	ludhiana
+2	nda	ludhiana
+2	bku	mann
+2	mann	singh
+2	nda	mann
+2	farmers	mann
+2	bku	punjab government
+2	punjab government	farmers
+2	bku	centre
+2	centre	singh
+2	centre	farmers
+2	centre	tribune news servicechandigarh
+2	centre	sukhdev singh
+2	bku	central
+2	centre	central
+2	central	singh
+2	central	farmers
+2	central	tribune news servicechandigarh
+2	central	sukhdev singh
+2	centre	tribune
+2	central	tribune
+2	bku	msp
+2	msp	singh
+2	msp	nda
+2	msp	farmers
+2	msp	tribune news servicechandigarh
+2	nda	tribune news servicechandigarh
+2	msp	sukhdev singh
+2	bku	patiala
+2	patiala	singh
+2	msp	patiala
+2	nda	patiala
+2	farmers	patiala
+2	tribune news servicechandigarh	patiala
+2	sukhdev singh	patiala
+2	msp	tribune
+2	patiala	tribune
+2	house	farmers
+2	house	singh
+2	bku	bathinda
+2	bathinda	tribune
+2	sukhdev singh	bathinda
+2	kisan union	bathinda
+2	kisan union	sukhdev singh
+1	farmers	ludhiana
+1	mann	ludhiana
+1	kisan union	ludhiana
+1	kisan union	mann
+1	punjab government	singh
+1	bku	lakhowal
+1	lakhowal	singh
+1	farmers	lakhowal
+1	bku	amarinder singh
+1	centre	amarinder singh
+1	singh	amarinder singh
+1	farmers	amarinder singh
+1	tribune news servicechandigarh	amarinder singh
+1	sukhdev singh	amarinder singh
+1	central	amarinder singh
+1	bku	amarinder
+1	centre	amarinder
+1	amarinder	singh
+1	farmers	amarinder
+1	amarinder	amarinder singh
+1	amarinder	tribune news servicechandigarh
+1	amarinder	sukhdev singh
+1	central	amarinder
+1	amarinder singh	tribune
+1	amarinder	tribune
+1	congress	singh
+1	kisan sabha	congress
+1	kisan sabha	singh
+1	msp	centre
+1	centre	nda
+1	msp	central
+1	central	nda
+1	centre	patiala
+1	central	patiala
+1	punjab government	nda
+1	punjab government	house
+1	bku	amritsar
+1	amritsar	singh
+1	nda	amritsar
+1	amritsar	ludhiana
+1	house	ludhiana
+1	house	amritsar
+1	shingara singh mann	bku
+1	shingara singh mann	singh
+1	shingara singh mann	bathinda
+1	shingara singh mann	nda
+1	shingara singh mann	farmers
+1	bku	tribune news servicebathinda
+1	tribune news servicebathinda	singh
+1	tribune news servicebathinda	bathinda
+1	nda	tribune news servicebathinda
+1	farmers	tribune news servicebathinda
+1	shingara singh mann	tribune news servicebathinda
+1	house	bathinda
+1	shingara singh mann	house
+1	house	tribune news servicebathinda
+1	mann	bathinda
+1	shingara singh mann	mann
+1	mann	tribune news servicebathinda
+1	house	mann
+1	shingara singh mann	tribune
+1	tribune news servicebathinda	tribune
+1	house	tribune
+1	mann	tribune
+1	sad	bku
+1	sad	singh
+1	sad	msp
+1	sad	bathinda
+1	msp	bathinda
+1	sad	nda
+1	sad	farmers
+1	bku	barnala
+1	sad	barnala
+1	barnala	singh
+1	barnala	msp
+1	barnala	bathinda
+1	barnala	nda
+1	barnala	farmers
+1	bku	mansa
+1	sad	mansa
+1	mansa	singh
+1	msp	mansa
+1	mansa	bathinda
+1	mansa	nda
+1	farmers	mansa
+1	barnala	mansa
+1	sad	tribune news servicechandigarh
+1	tribune news servicechandigarh	bathinda
+1	barnala	tribune news servicechandigarh
+1	mansa	tribune news servicechandigarh
+1	sad	sukhdev singh
+1	barnala	sukhdev singh
+1	mansa	sukhdev singh
+1	bku	malwa
+1	sad	malwa
+1	malwa	singh
+1	msp	malwa
+1	malwa	bathinda
+1	nda	malwa
+1	farmers	malwa
+1	barnala	malwa
+1	mansa	malwa
+1	malwa	tribune news servicechandigarh
+1	malwa	sukhdev singh
+1	sad	patiala
+1	patiala	bathinda
+1	barnala	patiala
+1	mansa	patiala
+1	malwa	patiala
+1	sad	kisan union
+1	kisan union	msp
+1	kisan union	barnala
+1	kisan union	mansa
+1	kisan union	tribune news servicechandigarh
+1	kisan union	malwa
+1	kisan union	patiala
+1	sad	tribune
+1	barnala	tribune
+1	mansa	tribune
+1	malwa	tribune
+1	kisan union	tribune

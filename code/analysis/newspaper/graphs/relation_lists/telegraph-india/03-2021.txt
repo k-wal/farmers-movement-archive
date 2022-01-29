@@ -1,0 +1,1086 @@
+30	farmers	us
+19	singhu	us
+19	singhu	farmers
+18	state	farmers
+17	state	us
+17	farmers	centre
+16	centre	us
+15	morcha	kisan morcha
+15	kisan morcha	us
+15	morcha	us
+15	farmers	kisan morcha
+15	morcha	farmers
+13	us	bjp
+13	farmers	bjp
+11	singhu	centre
+10	skm	kisan morcha
+10	morcha	skm
+10	state	kisan morcha
+10	state	centre
+10	morcha	state
+10	skm	us
+10	modi	us
+10	skm	farmers
+10	farmers	modi
+10	state	bjp
+9	singhu	kisan morcha
+9	singhu	tikri
+9	tikri	centre
+9	morcha	singhu
+9	singhu	state
+9	tikri	us
+9	kundli	us
+9	farmers	tikri
+9	kundli	farmers
+8	singhu	skm
+8	singhu	ghazipur
+8	ghazipur	tikri
+8	kisan morcha	centre
+8	ghazipur	centre
+8	morcha	centre
+8	singhu	kundli
+8	ghazipur	us
+8	ghazipur	farmers
+8	house	us
+8	house	farmers
+7	skm	centre
+7	centre	modi
+7	state	skm
+7	tikait	farmers
+7	kisan morcha	bjp
+7	morcha	bjp
+6	singhu	modi
+6	singhu	sikh
+6	state	kundli
+6	tikait	us
+6	sikh	us
+6	farmers	sikh
+6	assembly	bjp
+6	house	bjp
+6	state	house
+6	assembly	us
+6	assembly	farmers
+6	farmers	msp
+6	bharat bandh	us
+6	bharat bandh	farmers
+5	skm	tikri
+5	kisan morcha	tikri
+5	ghazipur	skm
+5	ghazipur	kisan morcha
+5	bku	tikait
+5	morcha	tikri
+5	morcha	ghazipur
+5	kundli	kisan morcha
+5	morcha	kundli
+5	state	tikait
+5	state	modi
+5	bku	farmers
+5	singhu	kumar
+5	singhu	kaur
+5	us	kumar
+5	us	kaur
+5	farmers	kumar
+5	farmers	kaur
+5	sonipat	kundli
+5	sonipat	us
+5	sonipat	farmers
+5	singhu	house
+5	state	congress
+5	congress	us
+5	telegraph	us
+5	congress	farmers
+5	telegraph	farmers
+5	centre	msp
+5	us	msp
+5	singhu	bharat bandh
+5	bharat bandh	kisan morcha
+5	morcha	bharat bandh
+5	modi	bjp
+4	tikait	kisan morcha
+4	tikri	modi
+4	morcha	tikait
+4	state	sikh
+4	bku	us
+4	madhya pradesh	us
+4	madhya pradesh	farmers
+4	nodeep kaur	singhu
+4	singhu	shiv kumar
+4	nodeep kaur	shiv kumar
+4	singhu	rajbir
+4	haryana high court	singhu
+4	haryana high court	nodeep kaur
+4	haryana high court	shiv kumar
+4	singhu	dalit
+4	nodeep kaur	dalit
+4	shiv kumar	dalit
+4	haryana high court	dalit
+4	nodeep kaur	kumar
+4	shiv kumar	kumar
+4	rajbir	kumar
+4	haryana high court	kumar
+4	dalit	kumar
+4	nodeep kaur	kundli
+4	kundli	shiv kumar
+4	haryana high court	kundli
+4	kundli	dalit
+4	kundli	kumar
+4	nodeep kaur	kaur
+4	shiv kumar	kaur
+4	haryana high court	kaur
+4	dalit	kaur
+4	kumar	kaur
+4	kundli	kaur
+4	kumar’s	singhu
+4	kumar’s	nodeep kaur
+4	kumar’s	shiv kumar
+4	kumar’s	haryana high court
+4	kumar’s	dalit
+4	kumar’s	kumar
+4	kumar’s	kundli
+4	kumar’s	kaur
+4	nodeep kaur	us
+4	us	shiv kumar
+4	rajbir	us
+4	haryana high court	us
+4	us	dalit
+4	kumar’s	us
+4	nodeep kaur	farmers
+4	farmers	shiv kumar
+4	rajbir	farmers
+4	haryana high court	farmers
+4	farmers	dalit
+4	kumar’s	farmers
+4	singhu	sonipat
+4	house	modi
+4	indian	us
+4	covid-19	us
+4	indian	farmers
+4	farmers	covid-19
+4	state	rajasthan
+4	rajasthan	us
+4	opposition	us
+4	farmers	rajasthan
+4	opposition	farmers
+4	centre	bjp
+4	congress	bjp
+4	assembly	state
+4	singhu	bjp
+4	skm	bharat bandh
+4	bharat bandh	centre
+4	state	bharat bandh
+4	singhu	telegraph
+4	tikait	bjp
+4	state	msp
+3	bku	centre
+3	tikait	centre
+3	kisan morcha	modi
+3	ghazipur	modi
+3	morcha	modi
+3	kisan morcha	sikh
+3	tikri	sikh
+3	centre	sikh
+3	morcha	sikh
+3	kundli	skm
+3	kundli	centre
+3	kundli	modi
+3	kundli	sikh
+3	singhu	madhya pradesh
+3	madhya pradesh	centre
+3	bku	state
+3	state	tikri
+3	state	ghazipur
+3	madhya pradesh	state
+3	skm	balbir singh
+3	singhu	balbir singh
+3	kisan morcha	balbir singh
+3	morcha	balbir singh
+3	state	balbir singh
+3	us	balbir singh
+3	farmers	balbir singh
+3	nodeep kaur	rajbir
+3	rajbir	shiv kumar
+3	haryana high court	rajbir
+3	rajbir	dalit
+3	sikh	kumar
+3	kundli	rajbir
+3	rajbir	kaur
+3	sikh	kaur
+3	state	kaur
+3	kumar’s	rajbir
+3	nodeep kaur	sonipat
+3	sonipat	shiv kumar
+3	haryana high court	sonipat
+3	sonipat	dalit
+3	sonipat	kumar
+3	sonipat	kaur
+3	kumar’s	sonipat
+3	singhu	indian
+3	indian	modi
+3	singhu	independence
+3	centre	independence
+3	modi	independence
+3	mann ki baat	singhu
+3	janata	centre
+3	singhu	covid-19
+3	gujarat	covid-19
+3	mann ki baat	covid-19
+3	house	centre
+3	indian	house
+3	gujarat	house
+3	house	covid-19
+3	gujarat	us
+3	us	independence
+3	mann ki baat	us
+3	janata	us
+3	gujarat	farmers
+3	farmers	independence
+3	mann ki baat	farmers
+3	janata	farmers
+3	opposition	centre
+3	opposition	state
+3	assembly	centre
+3	congress	centre
+3	state	telegraph
+3	telegraph	house
+3	opposition	bjp
+3	assembly	opposition
+3	singhu	msp
+3	skm	bjp
+3	skm	congress
+3	congress	kisan morcha
+3	morcha	congress
+3	jjp	bjp
+3	jjp	kisan morcha
+3	morcha	jjp
+3	jjp	us
+3	jjp	farmers
+3	assembly	modi
+3	indian	bjp
+3	sonipat	telegraph
+3	kundli	bjp
+3	telegraph	kundli
+3	state	sonipat
+3	ludhiana	singhu
+3	ludhiana	us
+3	ludhiana	farmers
+3	kisan morcha	msp
+3	morcha	msp
+3	house	kisan morcha
+3	morcha	house
+3	assam	bjp
+3	assam	us
+3	assam	farmers
+3	bharat bandh	tikri
+3	ghazipur	bharat bandh
+3	bhagat singh	us
+3	bhagat singh	farmers
+3	bihar	bjp
+3	bihar	us
+3	bihar	farmers
+2	bku	kisan morcha
+2	tikait	skm
+2	singhu	tikait
+2	skm	modi
+2	bku	modi
+2	tikait	modi
+2	morcha	bku
+2	skm	sikh
+2	ghazipur	sikh
+2	modi	sikh
+2	kundli	tikri
+2	ghazipur	kundli
+2	tikait	kundli
+2	skm	kundli-manesar-palwal expressway
+2	singhu	kundli-manesar-palwal expressway
+2	kundli-manesar-palwal expressway	kisan morcha
+2	tikait	kundli-manesar-palwal expressway
+2	morcha	kundli-manesar-palwal expressway
+2	kundli	kundli-manesar-palwal expressway
+2	madhya pradesh	skm
+2	madhya pradesh	kisan morcha
+2	madhya pradesh	modi
+2	morcha	madhya pradesh
+2	madhya pradesh	sikh
+2	singhu	telangana
+2	telangana	sikh
+2	madhya pradesh	telangana
+2	odisha	centre
+2	state	kundli-manesar-palwal expressway
+2	state	telangana
+2	state	odisha
+2	tikri	balbir singh
+2	ghazipur	balbir singh
+2	centre	balbir singh
+2	tikait	balbir singh
+2	kundli	balbir singh
+2	kundli-manesar-palwal expressway	balbir singh
+2	kundli-manesar-palwal expressway	us
+2	telangana	us
+2	odisha	us
+2	kundli-manesar-palwal expressway	farmers
+2	telangana	farmers
+2	odisha	farmers
+2	sangathan	singhu
+2	sangathan	sikh
+2	sangathan	kundli
+2	sangathan	us
+2	sangathan	farmers
+2	udham	bku
+2	udham	centre
+2	udham	tikait
+2	udham	state
+2	udham	farmers
+2	nodeep kaur	sikh
+2	sikh	shiv kumar
+2	rajbir	sikh
+2	haryana high court	sikh
+2	sikh	dalit
+2	nodeep kaur	state
+2	state	shiv kumar
+2	state	rajbir
+2	haryana high court	state
+2	state	dalit
+2	state	kumar
+2	kisan morcha	kaur
+2	morcha	kaur
+2	kumar’s	sikh
+2	kumar’s	state
+2	government medical college and hospital, chandigarh	singhu
+2	government medical college and hospital, chandigarh	nodeep kaur
+2	government medical college and hospital, chandigarh	shiv kumar
+2	government medical college and hospital, chandigarh	haryana high court
+2	government medical college and hospital, chandigarh	sonipat
+2	government medical college and hospital, chandigarh	dalit
+2	government medical college and hospital, chandigarh	kumar
+2	government medical college and hospital, chandigarh	kundli
+2	government medical college and hospital, chandigarh	kaur
+2	government medical college and hospital, chandigarh	kumar’s
+2	government medical college and hospital, chandigarh	us
+2	government medical college and hospital, chandigarh	farmers
+2	singhu	gujarat
+2	indian	gujarat
+2	tikri	independence
+2	ghazipur	independence
+2	mann ki baat	tikri
+2	mann ki baat	ghazipur
+2	mann ki baat	centre
+2	mann ki baat	modi
+2	mann ki baat	indian
+2	mann ki baat	gujarat
+2	mann ki baat	independence
+2	singhu	janata
+2	janata	tikri
+2	ghazipur	janata
+2	janata	modi
+2	janata	independence
+2	mann ki baat	janata
+2	covid-19	tikri
+2	ghazipur	covid-19
+2	covid-19	centre
+2	covid-19	modi
+2	indian	covid-19
+2	covid-19	independence
+2	janata	covid-19
+2	mithali raj	singhu
+2	mithali raj	tikri
+2	mithali raj	ghazipur
+2	mithali raj	centre
+2	mithali raj	modi
+2	mithali raj	independence
+2	mithali raj	mann ki baat
+2	mithali raj	janata
+2	mithali raj	covid-19
+2	singhu	p v sindhu
+2	p v sindhu	tikri
+2	p v sindhu	ghazipur
+2	p v sindhu	centre
+2	p v sindhu	modi
+2	p v sindhu	independence
+2	mann ki baat	p v sindhu
+2	p v sindhu	janata
+2	p v sindhu	covid-19
+2	mithali raj	p v sindhu
+2	singhu	mahatma gandhi
+2	mahatma gandhi	tikri
+2	mahatma gandhi	ghazipur
+2	mahatma gandhi	centre
+2	mahatma gandhi	modi
+2	mahatma gandhi	independence
+2	mann ki baat	mahatma gandhi
+2	mahatma gandhi	janata
+2	mahatma gandhi	covid-19
+2	mithali raj	mahatma gandhi
+2	p v sindhu	mahatma gandhi
+2	house	independence
+2	mann ki baat	house
+2	janata	house
+2	mithali raj	us
+2	p v sindhu	us
+2	mahatma gandhi	us
+2	mithali raj	farmers
+2	p v sindhu	farmers
+2	mahatma gandhi	farmers
+2	centre	rajasthan
+2	tikait	rajasthan
+2	bku	opposition
+2	opposition	tikait
+2	assembly	congress
+2	telegraph	bjp
+2	telegraph	centre
+2	assembly	telegraph
+2	assembly	house
+2	congress	house
+2	opposition	congress
+2	tikri	msp
+2	modi	msp
+2	farmers (empowerment and protection) agreement on price assurance and farm services act	centre
+2	farmers (empowerment and protection) agreement on price assurance and farm services act	modi
+2	farmers (empowerment and protection) agreement on price assurance and farm services act	us
+2	farmers	farmers (empowerment and protection) agreement on price assurance and farm services act
+2	assembly	singhu
+2	assembly	kisan morcha
+2	singhu	congress
+2	assembly	morcha
+2	bharat bandh	bjp
+2	congress	bharat bandh
+2	opposition	kisan morcha
+2	morcha	opposition
+2	skm	jjp
+2	assembly	jjp
+2	congress	jjp
+2	state	jjp
+2	opposition	jjp
+2	independents	bjp
+2	kisan morcha	independents
+2	assembly	independents
+2	morcha	independents
+2	opposition	independents
+2	jjp	independents
+2	independents	us
+2	farmers	independents
+2	sonipat	bjp
+2	sonipat	modi
+2	assembly	indian
+2	telegraph	modi
+2	indian	state
+2	kundli	house
+2	ludhiana	modi
+2	ludhiana	telegraph
+2	ludhiana	state
+2	ludhiana	house
+2	bjp	msp
+2	skm	msp
+2	tikait	msp
+2	kundli	msp
+2	skm	house
+2	tikait	house
+2	yogendra yadav	skm
+2	yogendra yadav	kisan morcha
+2	yogendra yadav	msp
+2	yogendra yadav	morcha
+2	yogendra yadav	state
+2	puducherry	bjp
+2	tikait	puducherry
+2	yadav	skm
+2	yadav	kisan morcha
+2	yadav	msp
+2	morcha	yadav
+2	yadav	state
+2	yogendra yadav	yadav
+2	yogendra yadav	us
+2	puducherry	us
+2	yadav	us
+2	yogendra yadav	farmers
+2	puducherry	farmers
+2	yadav	farmers
+2	assam	tikait
+2	assam	state
+2	assam	puducherry
+2	andhra pradesh	kisan morcha
+2	morcha	andhra pradesh
+2	andhra pradesh	bharat bandh
+2	andhra pradesh	state
+2	randeep surjewala	skm
+2	randeep surjewala	kisan morcha
+2	randeep surjewala	congress
+2	randeep surjewala	morcha
+2	randeep surjewala	state
+2	andhra pradesh	us
+2	randeep surjewala	us
+2	andhra pradesh	farmers
+2	randeep surjewala	farmers
+2	sonipat	rajbir
+2	nodeep kaur	telegraph
+2	telegraph	shiv kumar
+2	telegraph	rajbir
+2	haryana high court	telegraph
+2	telegraph	dalit
+2	telegraph	kumar
+2	telegraph	kaur
+2	kumar’s	telegraph
+2	bhagat singh	singhu
+2	bhagat singh	centre
+2	bhagat singh	modi
+2	bhagat singh	house
+2	madhya pradesh	house
+2	ludhiana	centre
+2	gujarat	bjp
+2	rajasthan	bjp
+2	gujarat	rajasthan
+2	madhya pradesh	rajasthan
+2	state	gujarat
+2	covid-19	bjp
+2	covid-19	rajasthan
+2	state	covid-19
+2	house	rajasthan
+2	parliament	bjp
+2	state	parliament
+2	parliament	house
+2	parliament	us
+2	parliament	farmers
+2	indian	bihar
+2	bihar	gujarat
+2	bihar	rajasthan
+2	bihar	state
+2	bihar	covid-19
+2	bihar	house
+2	dakaunda	kisan morcha
+2	dakaunda	centre
+2	dakaunda	morcha
+2	dakaunda	us
+2	jagmohan singh	kisan morcha
+2	jagmohan singh	centre
+2	morcha	jagmohan singh
+2	jagmohan singh	us
+2	dakaunda	jagmohan singh
+2	dakaunda	farmers
+2	jagmohan singh	farmers
+2	state	baghpat
+2	baghpat	us
+2	baghpat	farmers
+2	skm	food corporation of india
+2	food corporation of india	kisan morcha
+2	morcha	food corporation of india
+2	food corporation of india	us
+2	food corporation of india	farmers
+2	bku	bjp
+2	assembly	bku
+2	assembly	tikait
+2	assam	modi
+2	assembly	assam
+2	bihar	tikait
+2	kisan morcha	rajasthan
+2	morcha	rajasthan
+1	bku	skm
+1	bku	singhu
+1	bku	tikri
+1	bku	ghazipur
+1	tikait	tikri
+1	ghazipur	tikait
+1	bku	sikh
+1	tikait	sikh
+1	bku	kundli
+1	bku	kundli-manesar-palwal expressway
+1	kundli-manesar-palwal expressway	tikri
+1	ghazipur	kundli-manesar-palwal expressway
+1	kundli-manesar-palwal expressway	centre
+1	kundli-manesar-palwal expressway	modi
+1	kundli-manesar-palwal expressway	sikh
+1	bku	madhya pradesh
+1	madhya pradesh	tikri
+1	madhya pradesh	ghazipur
+1	madhya pradesh	tikait
+1	madhya pradesh	kundli
+1	madhya pradesh	kundli-manesar-palwal expressway
+1	skm	telangana
+1	telangana	kisan morcha
+1	bku	telangana
+1	telangana	tikri
+1	ghazipur	telangana
+1	telangana	centre
+1	tikait	telangana
+1	telangana	modi
+1	morcha	telangana
+1	kundli	telangana
+1	telangana	kundli-manesar-palwal expressway
+1	odisha	skm
+1	singhu	odisha
+1	odisha	kisan morcha
+1	bku	odisha
+1	odisha	tikri
+1	odisha	ghazipur
+1	odisha	tikait
+1	odisha	modi
+1	morcha	odisha
+1	odisha	sikh
+1	odisha	kundli
+1	odisha	kundli-manesar-palwal expressway
+1	madhya pradesh	odisha
+1	odisha	telangana
+1	bku	balbir singh
+1	modi	balbir singh
+1	sikh	balbir singh
+1	madhya pradesh	balbir singh
+1	telangana	balbir singh
+1	odisha	balbir singh
+1	skm	kisan sangathan
+1	singhu	kisan sangathan
+1	kisan morcha	kisan sangathan
+1	bku	kisan sangathan
+1	tikri	kisan sangathan
+1	ghazipur	kisan sangathan
+1	centre	kisan sangathan
+1	tikait	kisan sangathan
+1	modi	kisan sangathan
+1	morcha	kisan sangathan
+1	sikh	kisan sangathan
+1	kundli	kisan sangathan
+1	kundli-manesar-palwal expressway	kisan sangathan
+1	madhya pradesh	kisan sangathan
+1	telangana	kisan sangathan
+1	odisha	kisan sangathan
+1	state	kisan sangathan
+1	balbir singh	kisan sangathan
+1	us	kisan sangathan
+1	farmers	kisan sangathan
+1	uttar pradesh and uttarakhand	skm
+1	uttar pradesh and uttarakhand	singhu
+1	uttar pradesh and uttarakhand	kisan morcha
+1	uttar pradesh and uttarakhand	bku
+1	uttar pradesh and uttarakhand	tikri
+1	uttar pradesh and uttarakhand	ghazipur
+1	uttar pradesh and uttarakhand	centre
+1	uttar pradesh and uttarakhand	tikait
+1	uttar pradesh and uttarakhand	modi
+1	uttar pradesh and uttarakhand	morcha
+1	uttar pradesh and uttarakhand	sikh
+1	uttar pradesh and uttarakhand	kundli
+1	uttar pradesh and uttarakhand	kundli-manesar-palwal expressway
+1	uttar pradesh and uttarakhand	madhya pradesh
+1	uttar pradesh and uttarakhand	telangana
+1	uttar pradesh and uttarakhand	odisha
+1	uttar pradesh and uttarakhand	state
+1	uttar pradesh and uttarakhand	balbir singh
+1	uttar pradesh and uttarakhand	us
+1	uttar pradesh and uttarakhand	farmers
+1	uttar pradesh and uttarakhand	kisan sangathan
+1	tajinder singh virk	skm
+1	singhu	tajinder singh virk
+1	tajinder singh virk	kisan morcha
+1	bku	tajinder singh virk
+1	tajinder singh virk	tikri
+1	tajinder singh virk	ghazipur
+1	tajinder singh virk	centre
+1	tajinder singh virk	tikait
+1	tajinder singh virk	modi
+1	morcha	tajinder singh virk
+1	tajinder singh virk	sikh
+1	tajinder singh virk	kundli
+1	tajinder singh virk	kundli-manesar-palwal expressway
+1	madhya pradesh	tajinder singh virk
+1	tajinder singh virk	telangana
+1	tajinder singh virk	odisha
+1	tajinder singh virk	state
+1	tajinder singh virk	balbir singh
+1	tajinder singh virk	us
+1	tajinder singh virk	farmers
+1	tajinder singh virk	kisan sangathan
+1	uttar pradesh and uttarakhand	tajinder singh virk
+1	sangathan	skm
+1	sangathan	kisan morcha
+1	sangathan	bku
+1	sangathan	tikri
+1	sangathan	ghazipur
+1	sangathan	centre
+1	sangathan	tikait
+1	sangathan	modi
+1	sangathan	morcha
+1	sangathan	kundli-manesar-palwal expressway
+1	sangathan	madhya pradesh
+1	sangathan	telangana
+1	sangathan	odisha
+1	sangathan	state
+1	sangathan	balbir singh
+1	sangathan	kisan sangathan
+1	sangathan	uttar pradesh and uttarakhand
+1	sangathan	tajinder singh virk
+1	udham	skm
+1	udham	singhu
+1	udham	kisan morcha
+1	udham	tikri
+1	udham	ghazipur
+1	udham	modi
+1	udham	morcha
+1	udham	sikh
+1	udham	kundli
+1	udham	kundli-manesar-palwal expressway
+1	udham	madhya pradesh
+1	udham	telangana
+1	udham	odisha
+1	udham	balbir singh
+1	udham	us
+1	udham	kisan sangathan
+1	udham	uttar pradesh and uttarakhand
+1	udham	tajinder singh virk
+1	udham	sangathan
+1	nodeep kaur	kisan morcha
+1	nodeep kaur	morcha
+1	kisan morcha	shiv kumar
+1	morcha	shiv kumar
+1	rajbir	kisan morcha
+1	morcha	rajbir
+1	haryana high court	kisan morcha
+1	haryana high court	morcha
+1	kisan morcha	dalit
+1	morcha	dalit
+1	kisan morcha	kumar
+1	morcha	kumar
+1	kumar’s	kisan morcha
+1	kumar’s	morcha
+1	sonipat	sikh
+1	government medical college and hospital, chandigarh	sikh
+1	sangathan	nodeep kaur
+1	sangathan	shiv kumar
+1	sangathan	haryana high court
+1	sangathan	sonipat
+1	sangathan	dalit
+1	sangathan	kumar
+1	sangathan	government medical college and hospital, chandigarh
+1	sangathan	kaur
+1	sangathan	kumar’s
+1	indian	tikri
+1	indian	ghazipur
+1	indian	centre
+1	gujarat	tikri
+1	ghazipur	gujarat
+1	gujarat	centre
+1	gujarat	modi
+1	indian	independence
+1	gujarat	independence
+1	indian	janata
+1	janata	gujarat
+1	mithali raj	indian
+1	mithali raj	gujarat
+1	indian	p v sindhu
+1	p v sindhu	gujarat
+1	indian	mahatma gandhi
+1	mahatma gandhi	gujarat
+1	house	tikri
+1	ghazipur	house
+1	mithali raj	house
+1	p v sindhu	house
+1	mahatma gandhi	house
+1	bku	rajasthan
+1	opposition	rajasthan
+1	telegraph	congress
+1	odisha	bjp
+1	assembly	odisha
+1	odisha	congress
+1	odisha	telegraph
+1	janata	bjp
+1	assembly	janata
+1	janata	congress
+1	telegraph	janata
+1	odisha	janata
+1	state	janata
+1	odisha	house
+1	opposition	telegraph
+1	opposition	odisha
+1	opposition	janata
+1	opposition	house
+1	rajbir	tikri
+1	rajbir	centre
+1	rajbir	msp
+1	rajbir	modi
+1	sikh	msp
+1	tikri	kumar
+1	centre	kumar
+1	msp	kumar
+1	modi	kumar
+1	singhu	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	farmers (empowerment and protection) agreement on price assurance and farm services act	tikri
+1	farmers (empowerment and protection) agreement on price assurance and farm services act	msp
+1	rajbir	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	farmers (empowerment and protection) agreement on price assurance and farm services act	sikh
+1	farmers (empowerment and protection) agreement on price assurance and farm services act	kumar
+1	assembly	skm
+1	assembly	bharat bandh
+1	opposition	skm
+1	singhu	opposition
+1	opposition	bharat bandh
+1	singhu	jjp
+1	jjp	centre
+1	bharat bandh	jjp
+1	skm	independents
+1	singhu	independents
+1	centre	independents
+1	congress	independents
+1	bharat bandh	independents
+1	state	independents
+1	assembly	sonipat
+1	indian	sonipat
+1	indian	telegraph
+1	assembly	kundli
+1	indian	kundli
+1	sonipat	house
+1	ludhiana	bjp
+1	assembly	ludhiana
+1	ludhiana	sonipat
+1	ludhiana	indian
+1	ludhiana	kundli
+1	kundli-manesar-palwal expressway	bjp
+1	kundli-manesar-palwal expressway	msp
+1	house	msp
+1	kundli-manesar-palwal expressway	house
+1	yogendra yadav	bjp
+1	yogendra yadav	singhu
+1	yogendra yadav	tikait
+1	yogendra yadav	kundli
+1	yogendra yadav	kundli-manesar-palwal expressway
+1	yogendra yadav	house
+1	puducherry	skm
+1	singhu	puducherry
+1	puducherry	kisan morcha
+1	puducherry	msp
+1	morcha	puducherry
+1	kundli	puducherry
+1	puducherry	kundli-manesar-palwal expressway
+1	state	puducherry
+1	puducherry	house
+1	yogendra yadav	puducherry
+1	bjp	balbir singh
+1	msp	balbir singh
+1	house	balbir singh
+1	yogendra yadav	balbir singh
+1	puducherry	balbir singh
+1	yadav	bjp
+1	singhu	yadav
+1	yadav	tikait
+1	yadav	kundli
+1	yadav	kundli-manesar-palwal expressway
+1	yadav	house
+1	yadav	puducherry
+1	yadav	balbir singh
+1	assam	skm
+1	assam	singhu
+1	assam	kisan morcha
+1	assam	msp
+1	assam	morcha
+1	assam	kundli
+1	assam	kundli-manesar-palwal expressway
+1	assam	house
+1	assam	yogendra yadav
+1	assam	balbir singh
+1	assam	yadav
+1	congress	tikri
+1	ghazipur	congress
+1	congress	balbir singh
+1	bharat bandh	balbir singh
+1	andhra pradesh	skm
+1	singhu	andhra pradesh
+1	andhra pradesh	tikri
+1	andhra pradesh	ghazipur
+1	andhra pradesh	centre
+1	andhra pradesh	congress
+1	andhra pradesh	balbir singh
+1	randeep surjewala	singhu
+1	randeep surjewala	tikri
+1	randeep surjewala	ghazipur
+1	randeep surjewala	centre
+1	randeep surjewala	bharat bandh
+1	randeep surjewala	balbir singh
+1	randeep surjewala	andhra pradesh
+1	government medical college and hospital, chandigarh	rajbir
+1	government medical college and hospital, chandigarh	telegraph
+1	telegraph	independence
+1	bhagat singh	independence
+1	bhagat singh	telegraph
+1	madhya pradesh	independence
+1	madhya pradesh	telegraph
+1	bhagat singh	madhya pradesh
+1	ludhiana	independence
+1	ludhiana	bhagat singh
+1	ludhiana	madhya pradesh
+1	bku	msp
+1	udham	msp
+1	sikh	bjp
+1	indian	sikh
+1	gujarat	sikh
+1	singhu	rajasthan
+1	indian	rajasthan
+1	sikh	rajasthan
+1	madhya pradesh	bjp
+1	indian	madhya pradesh
+1	madhya pradesh	gujarat
+1	telangana	bjp
+1	indian	telangana
+1	telangana	gujarat
+1	telangana	rajasthan
+1	mann ki baat	bjp
+1	mann ki baat	sikh
+1	mann ki baat	rajasthan
+1	mann ki baat	madhya pradesh
+1	mann ki baat	telangana
+1	mann ki baat	state
+1	covid-19	sikh
+1	madhya pradesh	covid-19
+1	telangana	covid-19
+1	house	sikh
+1	telangana	house
+1	singhu	parliament
+1	indian	parliament
+1	parliament	sikh
+1	parliament	gujarat
+1	parliament	rajasthan
+1	madhya pradesh	parliament
+1	parliament	telangana
+1	mann ki baat	parliament
+1	parliament	covid-19
+1	singhu	bihar
+1	bihar	sikh
+1	madhya pradesh	bihar
+1	bihar	telangana
+1	mann ki baat	bihar
+1	bihar	parliament
+1	sonipat	kisan morcha
+1	sonipat	centre
+1	sonipat	msp
+1	morcha	sonipat
+1	dakaunda	bjp
+1	dakaunda	msp
+1	dakaunda	modi
+1	dakaunda	sonipat
+1	dakaunda	kundli
+1	dakaunda	state
+1	jagmohan singh	bjp
+1	jagmohan singh	msp
+1	jagmohan singh	modi
+1	jagmohan singh	sonipat
+1	jagmohan singh	kundli
+1	jagmohan singh	state
+1	singhu	baghpat
+1	nodeep kaur	baghpat
+1	baghpat	shiv kumar
+1	baghpat	rajbir
+1	haryana high court	baghpat
+1	sonipat	baghpat
+1	baghpat	dalit
+1	baghpat	kumar
+1	telegraph	baghpat
+1	kundli	baghpat
+1	baghpat	kaur
+1	kumar’s	baghpat
+1	dakaunda	skm
+1	dakaunda	singhu
+1	dakaunda	tikri
+1	dakaunda	ghazipur
+1	jagmohan singh	skm
+1	singhu	jagmohan singh
+1	jagmohan singh	tikri
+1	jagmohan singh	ghazipur
+1	congress	modi
+1	bhagat singh	bjp
+1	bhagat singh	skm
+1	bhagat singh	kisan morcha
+1	bhagat singh	congress
+1	bhagat singh	morcha
+1	bhagat singh	state
+1	jjp	modi
+1	bhagat singh	jjp
+1	house	jjp
+1	randeep surjewala	bjp
+1	randeep surjewala	modi
+1	randeep surjewala	bhagat singh
+1	randeep surjewala	house
+1	randeep surjewala	jjp
+1	parliament	skm
+1	parliament	kisan morcha
+1	parliament	modi
+1	parliament	congress
+1	morcha	parliament
+1	bhagat singh	parliament
+1	parliament	jjp
+1	randeep surjewala	parliament
+1	baghpat	bjp
+1	baghpat	congress
+1	singhu	food corporation of india
+1	food corporation of india	bharat bandh
+1	bku	indian
+1	indian	tikait
+1	bku	puducherry
+1	puducherry	modi
+1	assembly	puducherry
+1	indian	puducherry
+1	assam	bku
+1	assam	indian
+1	bku	bihar
+1	bihar	modi
+1	assembly	bihar
+1	bihar	puducherry
+1	assam	bihar
+1	ghazipur	msp
+1	bharat bandh	msp
+1	bhagat singh	tikri
+1	bhagat singh	ghazipur
+1	bhagat singh	msp
+1	bhagat singh	bharat bandh
+1	bku	jjp
+1	tikait	jjp
+1	bku	independents
+1	tikait	independents
+1	skm	rajasthan
+1	rajasthan	msp
+1	madhya pradesh	msp
+1	yogendra yadav	centre
+1	yogendra yadav	rajasthan
+1	yogendra yadav	madhya pradesh
+1	yadav	centre
+1	yadav	rajasthan
+1	madhya pradesh	yadav
+1	food corporation of india	centre
+1	food corporation of india	msp
+1	food corporation of india	rajasthan
+1	madhya pradesh	food corporation of india
+1	state	food corporation of india
+1	yogendra yadav	food corporation of india
+1	yadav	food corporation of india
+1	farmers (empowerment and protection) agreement on price assurance and farm services act	bjp
+1	assembly	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	state	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	assam	centre
+1	assam	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	tikait	bharat bandh
+1	gujarat	kisan morcha
+1	tikait	gujarat
+1	morcha	gujarat
+1	bharat bandh	gujarat
+1	bharat bandh	rajasthan
+1	covid-19	kisan morcha
+1	tikait	covid-19
+1	morcha	covid-19
+1	bharat bandh	covid-19
+1	bharat bandh	house
+1	andhra pradesh	bjp
+1	andhra pradesh	tikait
+1	andhra pradesh	gujarat
+1	andhra pradesh	rajasthan
+1	andhra pradesh	covid-19
+1	andhra pradesh	house
+1	bihar	kisan morcha
+1	morcha	bihar
+1	bihar	bharat bandh
+1	bihar	andhra pradesh
+1	bharat bandh	sikh
+1	skm	kaur
+1	tikri	kaur
+1	ghazipur	kaur
+1	centre	kaur
+1	bharat bandh	kaur
+1	ludhiana	skm
+1	ludhiana	kisan morcha
+1	ludhiana	tikri
+1	ludhiana	ghazipur
+1	ludhiana	morcha
+1	ludhiana	bharat bandh
+1	ludhiana	sikh
+1	ludhiana	kaur

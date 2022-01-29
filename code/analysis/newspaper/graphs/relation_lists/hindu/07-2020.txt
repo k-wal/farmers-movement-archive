@@ -1,0 +1,198 @@
+7	farmers	centre
+6	farmers	state
+6	state	centre
+5	singh	centre
+4	bjp	centre
+4	bjp	farmers
+4	singh	state
+4	nda	centre
+4	farmers	singh
+4	farmers	nda
+3	singh	singhu
+3	kisan sabha	state
+3	aiks	state
+3	aiks	centre
+3	farmers	aiks
+3	indian	state
+3	cm	centre
+3	cm	singh
+3	centre	central
+3	singh	central
+3	cm	central
+3	bjp	singh
+3	bjp	nda
+3	singh	nda
+3	centre’s	centre
+3	centre’s	farmers
+3	modi	state
+3	nda	state
+2	congress	state
+2	bjp	state
+2	kisan sabha	centre
+2	kisan sabha	farmers
+2	bjp	aiks
+2	kisan sabha	aiks
+2	bharat	state
+2	states	state
+2	states	centre
+2	state	singhu
+2	states	singh
+2	indian	centre
+2	indian	singhu
+2	indian	singh
+2	cm	state
+2	cm	states
+2	state	central
+2	states	central
+2	chinese	state
+2	chinese	singhu
+2	singh	chinese
+2	indian	chinese
+2	china	state
+2	china	singhu
+2	singh	china
+2	indian	china
+2	china	chinese
+2	tsinghua university	state
+2	tsinghua university	singhu
+2	tsinghua university	singh
+2	indian	tsinghua university
+2	tsinghua university	chinese
+2	tsinghua university	china
+2	bjp	congress
+2	congress	centre
+2	singh	congress
+2	congress	nda
+2	farmers	congress
+2	centre’s	bjp
+2	centre’s	congress
+2	centre’s	singh
+2	centre’s	nda
+2	farmers	cm
+2	centre	amarinder singh
+2	singh	amarinder singh
+2	cm	amarinder singh
+2	farmers	amarinder singh
+2	farmers	central
+2	amarinder singh	central
+2	amarinder	centre
+2	amarinder	singh
+2	amarinder	cm
+2	amarinder	farmers
+2	amarinder	amarinder singh
+2	amarinder	central
+2	modi	centre
+2	farmers	modi
+2	centre’s	state
+2	centre’s	aiks
+2	covid-19	state
+2	covid-19	centre
+2	covid-19	farmers
+2	covid-19	aiks
+2	centre’s	covid-19
+2	indian	modi
+2	state	all india
+2	kisan sabha	all india
+1	state	assembly
+1	congress	assembly
+1	bengaluru	state
+1	bengaluru	congress
+1	bengaluru	assembly
+1	kisan sabha	bjp
+1	bjp	bharat
+1	bharat	centre
+1	kisan sabha	bharat
+1	farmers	bharat
+1	aiks	bharat
+1	centre	singhu
+1	states	singhu
+1	indian	states
+1	cm	singhu
+1	indian	cm
+1	singhu	central
+1	indian	central
+1	chinese	centre
+1	states	chinese
+1	cm	chinese
+1	chinese	central
+1	china	centre
+1	states	china
+1	cm	china
+1	china	central
+1	tsinghua university	centre
+1	tsinghua university	states
+1	tsinghua university	cm
+1	tsinghua university	central
+1	bjp	fatehabad
+1	fatehabad	centre
+1	fatehabad	congress
+1	fatehabad	singh
+1	fatehabad	nda
+1	fatehabad	farmers
+1	centre’s	fatehabad
+1	bjp	msp
+1	msp	centre
+1	msp	singh
+1	bjp	cm
+1	msp	cm
+1	msp	nda
+1	cm	nda
+1	msp	farmers
+1	bjp	amarinder singh
+1	msp	amarinder singh
+1	nda	amarinder singh
+1	bjp	central
+1	msp	central
+1	nda	central
+1	amarinder	bjp
+1	amarinder	msp
+1	amarinder	nda
+1	bills	state
+1	bills	centre
+1	modi	bills
+1	modi	nda
+1	bills	nda
+1	farmers	bills
+1	state	bill
+1	centre	bill
+1	modi	bill
+1	bills	bill
+1	nda	bill
+1	farmers	bill
+1	aiks	congress
+1	aiks	singh
+1	aiks	nda
+1	bjp	covid-19
+1	covid-19	congress
+1	covid-19	singh
+1	covid-19	nda
+1	farmers	states
+1	state	amarinder singh
+1	states	amarinder singh
+1	amarinder	state
+1	amarinder	states
+1	modi	singhu
+1	modi	singh
+1	modi	chinese
+1	modi	china
+1	tsinghua university	modi
+1	kisan sabha	modi
+1	indian	kisan sabha
+1	indian	farmers
+1	modi	aiks
+1	indian	aiks
+1	centre	all india
+1	modi	all india
+1	indian	all india
+1	farmers	all india
+1	aiks	all india
+1	centre’s	kisan sabha
+1	centre’s	modi
+1	centre’s	indian
+1	centre’s	all india
+1	kisan sabha	covid-19
+1	covid-19	modi
+1	indian	covid-19
+1	covid-19	all india
+1	kisan sabha	nda
+1	nda	all india

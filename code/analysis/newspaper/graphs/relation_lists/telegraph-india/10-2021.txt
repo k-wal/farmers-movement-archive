@@ -1,0 +1,860 @@
+28	union	farmers
+26	lakhimpur kheri	farmers
+25	farmers	bjp
+25	farmers	singh
+23	union	lakhimpur kheri
+22	lakhimpur kheri	bjp
+20	union	bjp
+20	union	singh
+19	tikait	farmers
+19	morcha	farmers
+18	farmers	kisan morcha
+18	morcha	kisan morcha
+18	tikait	union
+18	morcha	union
+17	lakhimpur kheri	singh
+17	union	kisan morcha
+16	tikait	singh
+16	tikait	lakhimpur kheri
+15	kisan morcha	singh
+15	morcha	singh
+15	singh	bjp
+14	morcha	lakhimpur kheri
+14	tikait	bjp
+13	farmers	modi
+13	congress	farmers
+13	lakhimpur kheri	kisan morcha
+13	farmers	centre
+12	modi	bjp
+12	skm	kisan morcha
+12	skm	farmers
+12	morcha	skm
+12	congress	bjp
+11	sad	bjp
+11	farmers	sad
+11	lakhimpur kheri	modi
+11	lakhimpur kheri	sad
+11	union	modi
+11	union	sad
+11	tikait	kisan morcha
+11	morcha	tikait
+11	congress	lakhimpur kheri
+11	morcha	bjp
+11	union	skm
+10	congress	gandhi
+10	farmers	gandhi
+10	kisan morcha	bjp
+10	centre	kisan morcha
+10	morcha	centre
+10	union	centre
+9	union	congress
+9	lakhimpur kheri	gandhi
+9	skm	singh
+9	singhu	farmers
+9	singhu	singh
+9	gandhi	bjp
+9	tikait	sad
+9	sad	singh
+9	supreme court	farmers
+8	skm	centre
+8	centre	singh
+8	skm	lakhimpur kheri
+7	congress	singh
+7	singh	gandhi
+7	centre	bjp
+7	congress	modi
+7	modi	singh
+7	opposition	bjp
+7	opposition	farmers
+7	supreme court	singh
+7	supreme court	centre
+7	supreme court	kisan morcha
+7	morcha	supreme court
+7	supreme court	union
+7	bku	farmers
+7	bku	union
+6	parliament	farmers
+6	tikait	congress
+6	tikait	gandhi
+6	union	gandhi
+6	skm	bjp
+6	lakhimpur kheri	centre
+6	singhu	kisan morcha
+6	centre	tikri
+6	farmers	tikri
+6	morcha	singhu
+6	farmers	sikh
+6	singh	sikh
+6	farmers	manohar lal khattar
+6	singh	manohar lal khattar
+6	farmers	house
+6	house	singh
+6	tikait	skm
+6	tikait	modi
+6	opposition	congress
+6	opposition	lakhimpur kheri
+6	bku	kisan morcha
+6	bku	tikait
+6	bku	singh
+6	morcha	bku
+6	sad	kisan morcha
+6	morcha	sad
+5	bjp	lok sabha
+5	farmers	lok sabha
+5	sad	modi
+5	lakhimpur kheri	lok sabha
+5	union	parliament
+5	modi	kisan morcha
+5	morcha	modi
+5	singhu	centre
+5	singhu	tikri
+5	kisan morcha	tikri
+5	singhu	skm
+5	tikri	singh
+5	morcha	tikri
+5	singhu	union
+5	rahul gandhi	bjp
+5	congress	rahul gandhi
+5	rahul gandhi	farmers
+5	rahul gandhi	gandhi
+5	tikait	house
+5	union	house
+5	lakhimpur kheri	manohar lal khattar
+5	opposition	union
+5	union	manohar lal khattar
+5	modi	gandhi
+5	opposition	gandhi
+5	supreme court	lakhimpur kheri
+5	supreme court	skm
+5	bku	lakhimpur kheri
+5	tikait	centre
+4	parliament	modi
+4	sad	lok sabha
+4	parliament	lakhimpur kheri
+4	union	lok sabha
+4	morcha	congress
+4	amit shah	bjp
+4	amit shah	farmers
+4	amit shah	lakhimpur kheri
+4	skm	tikri
+4	ghazipur	kisan morcha
+4	ghazipur	farmers
+4	ghazipur	singh
+4	morcha	ghazipur
+4	singhu	sikh
+4	punjabi	farmers
+4	punjabi	singh
+4	union	tikri
+4	ghazipur	union
+4	hindi	bjp
+4	farmers	hindi
+4	yogendra yadav	bjp
+4	yogendra yadav	kisan morcha
+4	yogendra yadav	tikait
+4	yogendra yadav	farmers
+4	yogendra yadav	morcha
+4	yogendra yadav	lakhimpur kheri
+4	yogendra yadav	union
+4	house	bjp
+4	house	sad
+4	lakhimpur kheri	house
+4	opposition	modi
+4	opposition	tikait
+4	opposition	singh
+4	lakhimpur kheri	rahul gandhi
+4	bjp	manohar lal khattar
+4	tikait	manohar lal khattar
+4	singh	lok sabha
+4	supreme court	bjp
+4	supreme court	congress
+4	supreme court	modi
+4	gujarat	bjp
+4	gujarat	modi
+4	farmers	gujarat
+4	lakhimpur kheri	gujarat
+4	parliament	kisan morcha
+4	delhi police	centre
+4	delhi police	kisan morcha
+4	delhi police	skm
+4	delhi police	farmers
+4	supreme court	delhi police
+4	morcha	parliament
+4	morcha	delhi police
+4	noida	centre
+4	noida	kisan morcha
+4	noida	farmers
+4	supreme court	noida
+4	morcha	noida
+4	noida	union
+4	bku	bjp
+4	telegraph	farmers
+4	telegraph	lakhimpur kheri
+4	telegraph	union
+4	kisan morcha	manohar lal khattar
+4	morcha	manohar lal khattar
+4	supreme court	singhu
+4	supreme court	tikait
+4	supreme court	tikri
+3	parliament	bjp
+3	modi	lok sabha
+3	rajya sabha	bjp
+3	rajya sabha	farmers
+3	rajya sabha	lakhimpur kheri
+3	union	rajya sabha
+3	congress	kisan morcha
+3	darshan pal	kisan morcha
+3	darshan pal	tikait
+3	darshan pal	farmers
+3	darshan pal	singh
+3	morcha	darshan pal
+3	darshan pal	union
+3	kisan morcha	gandhi
+3	morcha	gandhi
+3	centre	modi
+3	amit shah	modi
+3	amit shah	kisan morcha
+3	morcha	amit shah
+3	union	amit shah
+3	ghazipur	centre
+3	singhu	ghazipur
+3	ghazipur	tikri
+3	ghazipur	skm
+3	punjabi	union
+3	congress	centre
+3	congress	hindi
+3	hindi	gandhi
+3	singhu	tikait
+3	yogendra yadav	skm
+3	yogendra yadav	singh
+3	jai kisan andolan	bjp
+3	kisan morcha	jai kisan andolan
+3	tikait	jai kisan andolan
+3	farmers	jai kisan andolan
+3	singh	jai kisan andolan
+3	morcha	jai kisan andolan
+3	yogendra yadav	jai kisan andolan
+3	lakhimpur kheri	jai kisan andolan
+3	union	jai kisan andolan
+3	congress	sad
+3	sad	gandhi
+3	tikait	rahul gandhi
+3	rahul gandhi	singh
+3	opposition	rahul gandhi
+3	modi	manohar lal khattar
+3	union	rahul gandhi
+3	assembly	bjp
+3	assembly	farmers
+3	assembly	singh
+3	assembly	lok sabha
+3	assembly	sad
+3	opposition	sad
+3	assembly	lakhimpur kheri
+3	assembly	union
+3	congress	gujarat
+3	khalistani	bjp
+3	khalistani	farmers
+3	khalistani	singh
+3	khalistani	lakhimpur kheri
+3	supreme court	gandhi
+3	parliament	centre
+3	supreme court	parliament
+3	noida	parliament
+3	noida	skm
+3	delhi police	noida
+3	delhi police	union
+3	bku	sad
+3	house	kisan morcha
+3	morcha	house
+3	telegraph	bjp
+3	tikait	telegraph
+3	telegraph	singh
+3	bku	skm
+3	parliament	singh
+3	kisan morcha	hindi
+3	singh	hindi
+3	morcha	hindi
+3	sad	hindi
+3	lakhimpur kheri	hindi
+3	union	hindi
+3	house	modi
+3	singhu	noida
+3	noida	tikri
+3	noida	singh
+3	bku	ghazipur
+3	supreme court	bku
+3	supreme court	ghazipur
+3	bku	centre
+3	singhu	delhi police
+3	delhi police	tikri
+3	delhi police	singh
+2	parliament	lok sabha
+2	parliament	sad
+2	rajya sabha	sad
+2	darshan pal	congress
+2	darshan pal	lakhimpur kheri
+2	darshan pal	gandhi
+2	joginder singh ugrahan	kisan morcha
+2	tikait	joginder singh ugrahan
+2	joginder singh ugrahan	farmers
+2	joginder singh ugrahan	singh
+2	morcha	joginder singh ugrahan
+2	joginder singh ugrahan	lakhimpur kheri
+2	union	joginder singh ugrahan
+2	karnal	bjp
+2	kisan morcha	karnal
+2	skm	karnal
+2	farmers	karnal
+2	singh	karnal
+2	morcha	karnal
+2	lakhimpur kheri	karnal
+2	union	karnal
+2	skm	modi
+2	kisan sabha	kisan morcha
+2	kisan sabha	skm
+2	kisan sabha	farmers
+2	morcha	kisan sabha
+2	amit shah	centre
+2	amit shah	skm
+2	kisan sabha	lakhimpur kheri
+2	kisan sabha	union
+2	centre	sikh
+2	kisan morcha	sikh
+2	morcha	sikh
+2	punjabi	singhu
+2	punjabi	sikh
+2	union	sikh
+2	rahul gandhi	centre
+2	centre	hindi
+2	rahul gandhi	hindi
+2	centre	gandhi
+2	sikhs	singhu
+2	sikhs	farmers
+2	sikhs	singh
+2	sikhs	sikh
+2	singhu	house
+2	skm	jai kisan andolan
+2	congress	house
+2	punjabi	bjp
+2	punjabi	tikait
+2	punjabi	sad
+2	punjabi	lakhimpur kheri
+2	house	gandhi
+2	rahul gandhi	modi
+2	congress	manohar lal khattar
+2	opposition	manohar lal khattar
+2	gandhi	manohar lal khattar
+2	indian	bjp
+2	indian	farmers
+2	tikait	lok sabha
+2	assembly	tikait
+2	indian	opposition
+2	opposition	lok sabha
+2	assembly	opposition
+2	indian	lakhimpur kheri
+2	tomar	bjp
+2	tomar	farmers
+2	tomar	singh
+2	congress	lok sabha
+2	supreme court	lok sabha
+2	amit shah	singh
+2	tomar	lakhimpur kheri
+2	supreme court	gujarat
+2	gujarat	singh
+2	pakistan	bjp
+2	pakistan	farmers
+2	pakistan	singh
+2	pakistan	lakhimpur kheri
+2	sikh	bjp
+2	amit shah	sikh
+2	lakhimpur kheri	sikh
+2	tomar	khalistani
+2	pakistan	khalistani
+2	gandhi	lok sabha
+2	gujarat	gandhi
+2	skm	parliament
+2	delhi police	parliament
+2	farmers	rajasthan
+2	lakhimpur kheri	rajasthan
+2	morcha	rajya sabha
+2	bku	house
+2	telegraph	kisan morcha
+2	morcha	telegraph
+2	telegraph	sad
+2	telegraph	house
+2	bku	khalistani
+2	khalistani	kisan morcha
+2	tikait	khalistani
+2	morcha	khalistani
+2	union	khalistani
+2	yogendra yadav	bku
+2	bku	manohar lal khattar
+2	skm	manohar lal khattar
+2	yogendra yadav	manohar lal khattar
+2	bku	jai kisan andolan
+2	jai kisan andolan	manohar lal khattar
+2	kisan morcha	lok sabha
+2	assembly	kisan morcha
+2	morcha	lok sabha
+2	assembly	morcha
+2	modi	hindi
+2	hindi	lok sabha
+2	assembly	hindi
+2	sad	manohar lal khattar
+2	hindi	manohar lal khattar
+2	singhu	parliament
+2	tikait	parliament
+2	parliament	tikri
+2	tikait	tikri
+2	supreme court	house
+2	darshan pal	modi
+2	supreme court	darshan pal
+2	darshan pal	house
+2	gurnam singh	kisan morcha
+2	gurnam singh	tikait
+2	gurnam singh	farmers
+2	gurnam singh	singh
+2	morcha	gurnam singh
+2	tikait	noida
+2	gurnam singh	union
+2	opposition	kisan morcha
+2	supreme court	opposition
+2	morcha	opposition
+2	sad	centre
+2	skm	sad
+2	supreme court	sad
+2	tikait	hindi
+2	supreme court	hindi
+2	opposition	hindi
+2	tikait	ghazipur
+2	yogendra yadav	modi
+2	yogendra yadav	sad
+2	bku	singhu
+2	bku	tikri
+2	bku	delhi police
+2	delhi police	ghazipur
+2	bku	noida
+2	ghazipur	noida
+2	tikait	amit shah
+2	amit shah	sad
+2	telegraph	modi
+2	telegraph	gujarat
+2	farmers	all india
+2	lakhimpur kheri	all india
+2	telegraph	all india
+2	union	gujarat
+2	union	all india
+1	bjp	msp
+1	modi	msp
+1	parliament	msp
+1	farmers	msp
+1	msp	lok sabha
+1	rajya sabha	msp
+1	rajya sabha	modi
+1	rajya sabha	parliament
+1	rajya sabha	lok sabha
+1	sad	msp
+1	lakhimpur kheri	msp
+1	union	msp
+1	madhya pradesh	congress
+1	madhya pradesh	kisan morcha
+1	madhya pradesh	tikait
+1	madhya pradesh	farmers
+1	madhya pradesh	singh
+1	morcha	madhya pradesh
+1	madhya pradesh	lakhimpur kheri
+1	madhya pradesh	darshan pal
+1	madhya pradesh	union
+1	madhya pradesh	gandhi
+1	congress	joginder singh ugrahan
+1	madhya pradesh	joginder singh ugrahan
+1	darshan pal	joginder singh ugrahan
+1	joginder singh ugrahan	gandhi
+1	centre	karnal
+1	kisan sabha	bjp
+1	kisan sabha	centre
+1	kisan sabha	modi
+1	kisan sabha	amit shah
+1	tikri	sikh
+1	skm	sikh
+1	ghazipur	sikh
+1	punjabi	centre
+1	punjabi	kisan morcha
+1	punjabi	tikri
+1	punjabi	skm
+1	punjabi	ghazipur
+1	punjabi	morcha
+1	tikri	bjp
+1	congress	tikri
+1	rahul gandhi	tikri
+1	tikri	hindi
+1	tikri	gandhi
+1	singhu	manohar lal khattar
+1	sikh	manohar lal khattar
+1	punjabi	manohar lal khattar
+1	sikhs	manohar lal khattar
+1	sikhs	punjabi
+1	house	sikh
+1	sikhs	house
+1	singhu	bjp
+1	yogendra yadav	singhu
+1	singhu	lakhimpur kheri
+1	singhu	jai kisan andolan
+1	punjabi	congress
+1	punjabi	house
+1	punjabi	gandhi
+1	rahul gandhi	manohar lal khattar
+1	randeep surjewala	bjp
+1	randeep surjewala	congress
+1	randeep surjewala	modi
+1	randeep surjewala	tikait
+1	randeep surjewala	farmers
+1	randeep surjewala	singh
+1	randeep surjewala	opposition
+1	randeep surjewala	rahul gandhi
+1	randeep surjewala	lakhimpur kheri
+1	randeep surjewala	manohar lal khattar
+1	randeep surjewala	union
+1	randeep surjewala	gandhi
+1	indian	tikait
+1	indian	singh
+1	indian	lok sabha
+1	assembly	indian
+1	indian	sad
+1	muzaffarnagar	bjp
+1	tikait	muzaffarnagar
+1	muzaffarnagar	farmers
+1	muzaffarnagar	singh
+1	indian	muzaffarnagar
+1	muzaffarnagar	lok sabha
+1	assembly	muzaffarnagar
+1	opposition	muzaffarnagar
+1	muzaffarnagar	sad
+1	muzaffarnagar	lakhimpur kheri
+1	indian	union
+1	union	muzaffarnagar
+1	congress	tomar
+1	tomar	modi
+1	supreme court	tomar
+1	narendra singh	bjp
+1	narendra singh	congress
+1	narendra singh	modi
+1	narendra singh	farmers
+1	supreme court	narendra singh
+1	narendra singh	tomar
+1	narendra singh	singh
+1	tomar	lok sabha
+1	narendra singh	lok sabha
+1	amit shah	congress
+1	supreme court	amit shah
+1	amit shah	tomar
+1	narendra singh	amit shah
+1	amit shah	lok sabha
+1	narendra singh	lakhimpur kheri
+1	tomar	gujarat
+1	narendra singh	gujarat
+1	gujarat	lok sabha
+1	amit shah	gujarat
+1	pakistan	congress
+1	pakistan	modi
+1	pakistan	supreme court
+1	pakistan	tomar
+1	pakistan	narendra singh
+1	pakistan	lok sabha
+1	pakistan	amit shah
+1	pakistan	gujarat
+1	congress	sikh
+1	modi	sikh
+1	supreme court	sikh
+1	tomar	sikh
+1	narendra singh	sikh
+1	sikh	lok sabha
+1	gujarat	sikh
+1	pakistan	sikh
+1	congress	khalistani
+1	khalistani	modi
+1	supreme court	khalistani
+1	narendra singh	khalistani
+1	khalistani	lok sabha
+1	amit shah	khalistani
+1	khalistani	gujarat
+1	khalistani	sikh
+1	tomar	gandhi
+1	narendra singh	gandhi
+1	amit shah	gandhi
+1	pakistan	gandhi
+1	sikh	gandhi
+1	khalistani	gandhi
+1	delhi police	lakhimpur kheri
+1	centre	rajasthan
+1	parliament	rajasthan
+1	kisan morcha	rajasthan
+1	skm	rajasthan
+1	supreme court	rajasthan
+1	delhi police	rajasthan
+1	morcha	rajasthan
+1	noida	lakhimpur kheri
+1	noida	rajasthan
+1	union	rajasthan
+1	centre	jantar mantar
+1	parliament	jantar mantar
+1	kisan morcha	jantar mantar
+1	skm	jantar mantar
+1	farmers	jantar mantar
+1	supreme court	jantar mantar
+1	delhi police	jantar mantar
+1	morcha	jantar mantar
+1	lakhimpur kheri	jantar mantar
+1	rajasthan	jantar mantar
+1	noida	jantar mantar
+1	union	jantar mantar
+1	bku	tomar
+1	tomar	kisan morcha
+1	tikait	tomar
+1	morcha	tomar
+1	bku	rajya sabha
+1	rajya sabha	kisan morcha
+1	tikait	rajya sabha
+1	rajya sabha	tomar
+1	rajya sabha	singh
+1	tomar	sad
+1	tomar	house
+1	rajya sabha	house
+1	bku	telegraph
+1	telegraph	tomar
+1	telegraph	rajya sabha
+1	rajya sabha	khalistani
+1	khalistani	sad
+1	khalistani	house
+1	telegraph	khalistani
+1	union	tomar
+1	pakistan	bku
+1	pakistan	kisan morcha
+1	pakistan	tikait
+1	pakistan	skm
+1	pakistan	morcha
+1	pakistan	yogendra yadav
+1	bku	karnal
+1	tikait	karnal
+1	yogendra yadav	karnal
+1	pakistan	karnal
+1	skm	khalistani
+1	yogendra yadav	khalistani
+1	khalistani	karnal
+1	pakistan	manohar lal khattar
+1	karnal	manohar lal khattar
+1	khalistani	manohar lal khattar
+1	pakistan	union
+1	pakistan	jai kisan andolan
+1	karnal	jai kisan andolan
+1	khalistani	jai kisan andolan
+1	joginder singh ugrahan	bjp
+1	bku	joginder singh ugrahan
+1	skm	joginder singh ugrahan
+1	yogendra yadav	joginder singh ugrahan
+1	pakistan	joginder singh ugrahan
+1	joginder singh ugrahan	karnal
+1	joginder singh ugrahan	khalistani
+1	joginder singh ugrahan	manohar lal khattar
+1	joginder singh ugrahan	jai kisan andolan
+1	assembly	modi
+1	assembly	parliament
+1	parliament	hindi
+1	parliament	manohar lal khattar
+1	lok sabha	manohar lal khattar
+1	assembly	manohar lal khattar
+1	singhu	modi
+1	modi	tikri
+1	house	centre
+1	parliament	house
+1	house	tikri
+1	darshan pal	centre
+1	darshan pal	parliament
+1	singhu	darshan pal
+1	darshan pal	tikri
+1	gurnam singh	centre
+1	gurnam singh	modi
+1	gurnam singh	parliament
+1	singhu	gurnam singh
+1	gurnam singh	tikri
+1	supreme court	gurnam singh
+1	gurnam singh	house
+1	gurnam singh	darshan pal
+1	noida	modi
+1	noida	house
+1	darshan pal	noida
+1	gurnam singh	noida
+1	price assurance and farm services act	centre
+1	price assurance and farm services act	modi
+1	price assurance and farm services act	parliament
+1	price assurance and farm services act	singhu
+1	price assurance and farm services act	kisan morcha
+1	price assurance and farm services act	tikait
+1	price assurance and farm services act	tikri
+1	price assurance and farm services act	farmers
+1	price assurance and farm services act	supreme court
+1	price assurance and farm services act	singh
+1	price assurance and farm services act	morcha
+1	price assurance and farm services act	house
+1	price assurance and farm services act	darshan pal
+1	price assurance and farm services act	gurnam singh
+1	price assurance and farm services act	noida
+1	price assurance and farm services act	union
+1	skm	congress
+1	centre	lok sabha
+1	skm	lok sabha
+1	assembly	centre
+1	assembly	congress
+1	assembly	skm
+1	assembly	supreme court
+1	opposition	centre
+1	opposition	skm
+1	rahul gandhi	kisan morcha
+1	skm	rahul gandhi
+1	supreme court	rahul gandhi
+1	rahul gandhi	lok sabha
+1	assembly	rahul gandhi
+1	morcha	rahul gandhi
+1	rahul gandhi	sad
+1	skm	hindi
+1	aap	bjp
+1	aap	centre
+1	aap	congress
+1	aap	kisan morcha
+1	aap	tikait
+1	aap	skm
+1	aap	farmers
+1	aap	supreme court
+1	aap	singh
+1	aap	lok sabha
+1	aap	assembly
+1	aap	opposition
+1	aap	morcha
+1	aap	rahul gandhi
+1	aap	sad
+1	aap	lakhimpur kheri
+1	aap	hindi
+1	aap	union
+1	skm	gandhi
+1	assembly	gandhi
+1	aap	gandhi
+1	bku	congress
+1	bku	modi
+1	ghazipur	bjp
+1	ghazipur	congress
+1	ghazipur	modi
+1	bku	opposition
+1	opposition	ghazipur
+1	yogendra yadav	congress
+1	yogendra yadav	ghazipur
+1	yogendra yadav	supreme court
+1	yogendra yadav	opposition
+1	ghazipur	sad
+1	ghazipur	house
+1	opposition	house
+1	yogendra yadav	house
+1	ghazipur	lakhimpur kheri
+1	darshan pal	bjp
+1	bku	darshan pal
+1	darshan pal	ghazipur
+1	darshan pal	opposition
+1	yogendra yadav	darshan pal
+1	darshan pal	sad
+1	bku	hindi
+1	ghazipur	hindi
+1	yogendra yadav	hindi
+1	house	hindi
+1	darshan pal	hindi
+1	ghazipur	manohar lal khattar
+1	supreme court	manohar lal khattar
+1	house	manohar lal khattar
+1	darshan pal	manohar lal khattar
+1	bku	gandhi
+1	ghazipur	gandhi
+1	yogendra yadav	gandhi
+1	congress	jai kisan andolan
+1	modi	jai kisan andolan
+1	ghazipur	jai kisan andolan
+1	supreme court	jai kisan andolan
+1	opposition	jai kisan andolan
+1	sad	jai kisan andolan
+1	house	jai kisan andolan
+1	darshan pal	jai kisan andolan
+1	hindi	jai kisan andolan
+1	gandhi	jai kisan andolan
+1	bku	parliament
+1	ghazipur	parliament
+1	delhi police	tikait
+1	parliament	congress
+1	indian	congress
+1	indian	modi
+1	indian	parliament
+1	opposition	parliament
+1	parliament	gujarat
+1	indian	gujarat
+1	opposition	gujarat
+1	china	bjp
+1	china	congress
+1	china	modi
+1	china	parliament
+1	china	farmers
+1	china	indian
+1	china	opposition
+1	china	lakhimpur kheri
+1	china	gujarat
+1	parliament	gandhi
+1	indian	gandhi
+1	china	gandhi
+1	yogendra yadav	amit shah
+1	telegraph	centre
+1	telegraph	congress
+1	supreme court	telegraph
+1	gujarat	centre
+1	all india	bjp
+1	centre	all india
+1	congress	all india
+1	modi	all india
+1	supreme court	all india
+1	gujarat	all india
+1	odisha	bjp
+1	odisha	centre
+1	odisha	congress
+1	odisha	modi
+1	odisha	farmers
+1	supreme court	odisha
+1	odisha	lakhimpur kheri
+1	odisha	telegraph
+1	odisha	gujarat
+1	odisha	all india
+1	odisha	union
+1	rajya sabha	congress
+1	tikait	gujarat
+1	gujarat	sad
+1	house	gujarat
+1	bku	amit shah
+1	bku	sikh
+1	tikait	sikh
+1	sad	sikh
+1	rajasthan	bjp
+1	congress	rajasthan
+1	opposition	rajasthan
+1	rahul gandhi	rajasthan
+1	rajasthan	gandhi
+1	kisan sabha	tikait
+1	kisan sabha	singh
+1	telegraph	skm
+1	kisan sabha	telegraph
+1	kisan morcha	all india
+1	tikait	all india
+1	skm	all india
+1	singh	all india
+1	kisan sabha	all india
+1	morcha	all india
+1	gurnam singh	skm
+1	kisan sabha	gurnam singh
+1	gurnam singh	lakhimpur kheri
+1	gurnam singh	telegraph
+1	gurnam singh	all india
+1	kisan sabha	manohar lal khattar
+1	telegraph	manohar lal khattar
+1	all india	manohar lal khattar
+1	gurnam singh	manohar lal khattar

@@ -1,0 +1,176 @@
+9	sp	up
+9	singh	sp
+7	singh	up
+7	sp	bku
+7	nda	sp
+7	fir	sp
+6	centre	sp
+6	farmers	sp
+6	union	sp
+5	centre	farmers
+5	farmers	up
+5	up	bku
+5	nda	bku
+5	nda	up
+5	singh	fir
+5	singh	farmers
+4	centre	up
+4	cm	up
+4	cm	sp
+4	singh	bku
+4	singh	nda
+4	fir	up
+4	fir	nda
+4	singh	centre
+4	union	bku
+4	union	centre
+4	union	farmers
+3	nda	cm
+3	jind	bku
+3	singh	jind
+3	jind	up
+3	jind	sp
+3	fir	bku
+3	farmers	bku
+3	nda	centre
+3	nda	farmers
+3	singh	union
+3	union	up
+3	union	nda
+3	kisan sabha	centre
+3	singh	singhu
+3	sp	singhu
+3	fir	singhu
+2	msp	centre
+2	cm	centre
+2	msp	farmers
+2	cm	farmers
+2	msp	up
+2	msp	sp
+2	cm	bku
+2	singh	cm
+2	ludhiana	bku
+2	ludhiana	singh
+2	ludhiana	up
+2	ludhiana	sp
+2	ludhiana	jind
+2	fir	cm
+2	centre	bku
+2	bku	modi
+2	singh	modi
+2	farmers	modi
+2	up	modi
+2	sp	modi
+2	union	modi
+2	singh	kisan sabha
+2	kisan sabha	farmers
+2	kisan sabha	sp
+2	fir	centre
+2	union	kisan sabha
+2	union	fir
+2	singhu	sad
+2	singh	sad
+2	sp	sad
+2	fir	sad
+2	bharat	bku
+2	bharat	sp
+2	union	bharat
+1	cm	msp
+1	ludhiana	cm
+1	ludhiana	nda
+1	bathinda	bku
+1	singh	bathinda
+1	bathinda	cm
+1	bathinda	up
+1	bathinda	nda
+1	ludhiana	bathinda
+1	bathinda	sp
+1	cm	jind
+1	nda	jind
+1	bathinda	jind
+1	ludhiana	fir
+1	fir	bathinda
+1	fir	jind
+1	msp	bku
+1	centre	modi
+1	msp	modi
+1	singh	msp
+1	nda	msp
+1	nda	modi
+1	union	msp
+1	centre	bjp
+1	singh	bjp
+1	cm	bjp
+1	farmers	bjp
+1	up	bjp
+1	nda	bjp
+1	bjp’s	bjp
+1	centre	bjp’s
+1	singh	bjp’s
+1	cm	bjp’s
+1	farmers	bjp’s
+1	bjp’s	up
+1	nda	bjp’s
+1	sp	bjp
+1	sp	bjp’s
+1	kisan sabha	up
+1	fir	farmers
+1	fir	kisan sabha
+1	centre	congress
+1	kisan sabha	congress
+1	sp	congress
+1	indian	congress
+1	centre	indian
+1	kisan sabha	indian
+1	sp	indian
+1	union	congress
+1	union	indian
+1	jind	modi
+1	jind	farmers
+1	barnala	bku
+1	barnala	modi
+1	singh	barnala
+1	barnala	farmers
+1	barnala	up
+1	barnala	sp
+1	jind	barnala
+1	union	jind
+1	union	barnala
+1	bharat	modi
+1	singh	bharat
+1	farmers	bharat
+1	bharat	up
+1	jind	bharat
+1	barnala	bharat
+1	up	singhu
+1	delhi police	singhu
+1	delhi police	singh
+1	delhi police	up
+1	nda	singhu
+1	delhi police	nda
+1	karnal	singhu
+1	karnal	singh
+1	karnal	up
+1	karnal	delhi police
+1	karnal	nda
+1	delhi police	sp
+1	karnal	sp
+1	delhi police	fir
+1	karnal	fir
+1	mumbai	singhu
+1	singh	mumbai
+1	mumbai	up
+1	delhi police	mumbai
+1	nda	mumbai
+1	karnal	mumbai
+1	mumbai	sp
+1	fir	mumbai
+1	apmc	farmers
+1	centre	bharat
+1	nda	bharat
+1	fir	bharat
+1	tikait	bku
+1	farmers	tikait
+1	nda	tikait
+1	tikait	sp
+1	union	tikait

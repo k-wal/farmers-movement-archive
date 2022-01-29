@@ -1,0 +1,255 @@
+11	farmers	state
+9	kumar	state
+8	state	centre
+7	nda	state
+7	farmers	nda
+7	state	central
+7	kumar	farmers
+6	farmers	centre
+6	farmers	central
+6	kumar	centre
+6	congress	state
+6	singh	state
+6	singh	centre
+6	farmers	singh
+6	singh	nda
+5	nda	centre
+5	centre	central
+5	nda	central
+5	kumar	nda
+5	bjp	state
+5	singh	central
+5	kumar	congress
+5	modi	singh
+5	modi	nda
+4	sad	nda
+4	kumar	central
+4	bjp	congress
+4	bjp	centre
+4	congress	centre
+4	bjp	farmers
+4	farmers	congress
+4	kumar	bjp
+4	state	opposition
+4	farmers	opposition
+4	modi	state
+4	modi	centre
+4	farmers	modi
+4	state	amarinder singh
+4	singh	amarinder singh
+4	modi	fir
+4	nda	fir
+3	states	state
+3	farmers	states
+3	sad	state
+3	sad	centre
+3	farmers	sad
+3	states	central
+3	kumar	sad
+3	msp	state
+3	msp	centre
+3	bjp	singh
+3	singh	congress
+3	msp	singh
+3	msp	farmers
+3	congress	central
+3	msp	central
+3	kumar	singh
+3	opposition	central
+3	singh	opposition
+3	centre	amarinder singh
+3	farmers	amarinder singh
+3	modi	central
+3	amarinder singh	central
+3	singh	fir
+3	modi	congress
+3	congress	nda
+3	state	fir
+3	congress	fir
+2	states	centre
+2	state	bill
+2	farmers	bill
+2	states	nda
+2	sad	central
+2	kumar	bill
+2	covid-19	state
+2	covid-19	farmers
+2	covid-19	central
+2	kumar	msp
+2	singh	singhu
+2	nda	singhu
+2	china	singhu
+2	singh	china
+2	china	nda
+2	nda	opposition
+2	states	singh
+2	modi	states
+2	centre	opposition
+2	modi	opposition
+2	msp	amarinder singh
+2	modi	amarinder singh
+2	states	amarinder singh
+2	house	centre
+2	singh	house
+2	modi	house
+2	farmers	house
+2	bengaluru	state
+2	kumar	bengaluru
+2	state	assembly
+2	congress	assembly
+2	bjp	opposition
+2	congress	opposition
+2	assembly	opposition
+2	kumar	assembly
+2	kumar	opposition
+2	sad	singh
+2	modi	sad
+2	sad	fir
+2	kumar	modi
+2	centre	fir
+2	farmers	fir
+2	kumar	fir
+2	nda	amarinder singh
+2	central	fir
+1	bills	state
+1	bills	centre
+1	states	bills
+1	farmers	bills
+1	centre	bill
+1	bills	bill
+1	states	bill
+1	sad	bills
+1	states	sad
+1	sad	bill
+1	telangana	state
+1	telangana	centre
+1	telangana	bills
+1	telangana	states
+1	telangana	farmers
+1	telangana	bill
+1	telangana	sad
+1	bills	nda
+1	nda	bill
+1	telangana	nda
+1	bills	central
+1	central	bill
+1	telangana	central
+1	kumar	bills
+1	kumar	states
+1	kumar	telangana
+1	bjp	msp
+1	msp	congress
+1	state	all india
+1	bjp	all india
+1	congress	all india
+1	centre	all india
+1	msp	all india
+1	singh	all india
+1	farmers	all india
+1	bjp	covid-19
+1	covid-19	congress
+1	covid-19	centre
+1	covid-19	msp
+1	covid-19	singh
+1	covid-19	all india
+1	bjp	central
+1	central	all india
+1	kumar	all india
+1	kumar	covid-19
+1	supreme court	state
+1	farmers	supreme court
+1	supreme court	opposition
+1	covid-19	supreme court
+1	covid-19	opposition
+1	supreme court	nda
+1	covid-19	nda
+1	supreme court	central
+1	msp	modi
+1	msp	states
+1	msp	opposition
+1	states	opposition
+1	opposition	amarinder singh
+1	house	state
+1	msp	house
+1	states	house
+1	house	opposition
+1	house	amarinder singh
+1	house	central
+1	bengaluru	farmers
+1	bjp	assembly
+1	farmers	assembly
+1	bjp	bill
+1	congress	bill
+1	assembly	bill
+1	opposition	bill
+1	modi	singhu
+1	sad	singhu
+1	singhu	fir
+1	cm	singhu
+1	cm	singh
+1	cm	modi
+1	cm	sad
+1	cm	nda
+1	cm	fir
+1	modi	china
+1	sad	china
+1	china	fir
+1	cm	china
+1	house	nda
+1	bjp	modi
+1	bjp	sad
+1	sad	congress
+1	bjp	nda
+1	bjp	fir
+1	bjp	bengaluru
+1	bengaluru	congress
+1	bengaluru	centre
+1	msp	sad
+1	sad	amarinder singh
+1	msp	nda
+1	kumar	amarinder singh
+1	states	congress
+1	congress	amarinder singh
+1	apmc	state
+1	apmc	congress
+1	apmc	singh
+1	apmc	modi
+1	apmc	states
+1	apmc	farmers
+1	apmc	amarinder singh
+1	apmc	nda
+1	apmc	central
+1	states	fir
+1	amarinder singh	fir
+1	apmc	fir
+1	bjp	amarinder singh
+1	centre	assembly
+1	singh	assembly
+1	modi	assembly
+1	indian	state
+1	indian	congress
+1	indian	centre
+1	indian	singh
+1	indian	modi
+1	indian	assembly
+1	indian	opposition
+1	rajya sabha	state
+1	congress	rajya sabha
+1	rajya sabha	centre
+1	singh	rajya sabha
+1	modi	rajya sabha
+1	rajya sabha	assembly
+1	indian	rajya sabha
+1	rajya sabha	opposition
+1	nda	assembly
+1	indian	nda
+1	nda	rajya sabha
+1	assembly	central
+1	indian	central
+1	rajya sabha	central
+1	kumar	indian
+1	kumar	rajya sabha
+1	assembly	fir
+1	indian	fir
+1	opposition	fir
+1	rajya sabha	fir

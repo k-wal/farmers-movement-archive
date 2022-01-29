@@ -1,0 +1,315 @@
+ORG||bjp||12
+ORG||skm||11
+ORG||singhu||11
+PERSON||kisan morcha||10
+ORG||bku||9
+GPE||tikri||9
+ORG||ghazipur||8
+GPE||centre||6
+PERSON||tikait||6
+ORG||msp||6
+PERSON||modi||5
+ORG||assembly||5
+ORG||congress||5
+ORG||morcha||4
+PERSON||nodeep kaur||4
+PERSON||shiv kumar||4
+ORG||rajbir||4
+ORG||haryana high court||4
+ORG||sonipat||4
+NORP||indian||4
+ORG||bharat bandh||4
+PERSON||dalit||3
+PERSON||sikh||3
+PERSON||kumar||3
+GPE||gujarat||3
+ORG||independence||3
+GPE||rajasthan||3
+PERSON||telegraph||3
+GPE||kundli||3
+PERSON||bhagat singh||3
+ORG||kundli-manesar-palwal expressway||2
+ORG||madhya pradesh||2
+GPE||telangana||2
+PERSON||odisha||2
+ORG||state||2
+ORG||government medical college and hospital, chandigarh||2
+PERSON||kaur||2
+PERSON||mann ki baat||2
+ORG||janata||2
+PERSON||covid-19||2
+PERSON||mithali raj||2
+ORG||p v sindhu||2
+PERSON||mahatma gandhi||2
+ORG||house||2
+ORG||opposition||2
+ORG||farmers (empowerment and protection) agreement on price assurance and farm services act||2
+ORG||jjp||2
+NORP||independents||2
+PERSON||yogendra yadav||2
+PERSON||puducherry||2
+PERSON||balbir singh||2
+ORG||yadav||2
+ORG||andhra pradesh||2
+PERSON||randeep surjewala||2
+ORG||kumar’s||2
+GPE||ludhiana||2
+GPE||us||2
+ORG||parliament||2
+ORG||dakaunda||2
+PERSON||jagmohan singh||2
+ORG||farmers||2
+GPE||baghpat||2
+ORG||food corporation of india||2
+GPE||assam||2
+GPE||bihar||2
+PERSON||kisan sangathan||1
+ORG||uttar pradesh and uttarakhand||1
+PERSON||tajinder singh virk||1
+NORP||sangathan||1
+GPE||udham||1
+PERSON||singh nagar||1
+GPE||muzaffarnagar||1
+GPE||ghaziabad district||1
+PERSON||bharatiya sikh sangathan||1
+PERSON||shramik samyukta morcha||1
+PERSON||jagrat singh bajwa||1
+PERSON||balbir singh rajewal||1
+ORG||nodeep||1
+ORG||mazdoor adhikar sanghathan||1
+GPE||kundli industrial area||1
+NORP||muslim||1
+ORG||press club of india||1
+ORG||shiv kumar’s||1
+NORP||chhatra ekta manch||1
+NORP||dalits||1
+PERSON||delhi sikh gurdwara management committee||1
+PERSON||manjinder singh||1
+PERSON||yashvir singh||1
+NORP||sundarbans||1
+GPE||banaskantha||1
+ORG||yamuna nagar||1
+GPE||jaunpur up||1
+PERSON||ram dulaiya||1
+ORG||kewal krishna||1
+PERSON||jai chaudhary||1
+GPE||hyderabad||1
+PERSON||anandan nair||1
+PERSON||vaccine||1
+ORG||sindhu||1
+NORP||swiss||1
+ORG||international shooting sport federation||1
+GPE||tsunami||1
+ORG||bjp mla||1
+PERSON||abohar mla||1
+PERSON||arun narang||1
+ORG||mla||1
+PERSON||rewa||1
+GPE||jabalpur||1
+ORG||odisha assembly||1
+PERSON||chandra panigrahi||1
+PERSON||ranedra pratap swain||1
+PERSON||biju janata dal||1
+ORG||bjd||1
+PERSON||panigrahi||1
+PERSON||mla panigrahi||1
+ORG||pramila mallick||1
+PERSON||congress mla tara prasad bahinipati||1
+ORG||bjd  ||1
+ORG||aikscc||1
+PERSON||kishan adhikar||1
+PERSON||suresh panigrahi||1
+ORG||hisar||1
+PERSON||vijay kumar||1
+PERSON||jind||1
+PERSON||sant ram singh||1
+ORG||opposition’s||1
+ORG||opposition bhupinder singh hooda||1
+ORG||haryana lokhit party||1
+PERSON||devender babli||1
+GPE||pakistan||1
+GPE||china||1
+PERSON||rahul gandhi’s||1
+ORG||khattar||1
+ORG||vikas sisar||1
+ORG||bharatiya kisan sangharsh samiti||1
+PERSON||buta singh burjgill||1
+ORG||a bharat bandh||1
+PERSON||holika dahan||1
+PERSON||sukhwinder singh||1
+PERSON||sonu singh||1
+PERSON||lucky singh||1
+ORG||punjab’s nawanshahr||1
+ORG||haryana’s sonipat||1
+PERSON||sonu||1
+GPE||haryanvi||1
+PERSON||harmandeep singh||1
+ORG||ludhiana’s lalton||1
+ORG||national highway 44||1
+ORG||harmandeep||1
+PERSON||kake||1
+ORG||nh44||1
+GPE||narela||1
+ORG||dharmendar||1
+ORG||rai assembly||1
+PERSON||ashok kaushik||1
+ORG||kaushik||1
+ORG||aap||1
+ORG||calcutta||1
+ORG||gulbarga||1
+PERSON||kisan sabha||1
+PERSON||hannan mollah||1
+PERSON||dharmendra malik||1
+ORG||ysrc||1
+ORG||gandhian bharat bandh||1
+PERSON||praveen khandelwal||1
+PERSON||jagan mohan reddy||1
+ORG||rtc||1
+PERSON||avneesh jhingan||1
+ORG||mlr||1
+PERSON||jhingan||1
+ORG||sit||1
+GPE||faridabad||1
+PERSON||kashmir singh||1
+ORG||punjab’s ludhiana district||1
+GPE||singh||1
+PERSON||singh akkar||1
+PERSON||akkar||1
+PERSON||narendra||1
+NORP||british||1
+ORG||bhagat||1
+PERSON||ajit singh||1
+PERSON||kartar singh sarabha||1
+ORG||urmila rawat||1
+ORG||cpiml-red star||1
+ORG||madhya pradesh’s sidhi||1
+GPE||rawat||1
+PERSON||kuldeep singh||1
+PERSON||udham singh nagar||1
+ORG||bijnor's afzalgarh||1
+NORP||oxfam||1
+PERSON||mukesh ambani||1
+ORG||reliance industries ltd||1
+ORG||forbes||1
+PERSON||gautam adani||1
+ORG||world bank||1
+ORG||ambani’s||1
+ORG||adani’s||1
+ORG||ubs||1
+GPE||switzerland||1
+ORG||pricewaterhousecoopers||1
+NORP||khalistanis||1
+ORG||naxals||1
+ORG||fdi||1
+ORG||washington post||1
+PERSON||richard nixon||1
+PERSON||donald trump||1
+PERSON||andolan jeevi||1
+GPE||rajasthan, bihar||1
+GPE||andhra||1
+ORG||bjp’s||1
+ORG||amit bhaduri||1
+ORG||bhaduri||1
+ORG||jnu||1
+ORG||kundli manesar palwal||1
+ORG||kundli-manesar-palwal||1
+ORG||union||1
+PERSON||nitin gadkari||1
+ORG||kundli-manesar||1
+ORG||kmp||1
+GPE||palwal||1
+ORG||price assurance and farm services act||1
+ORG||post graduate institute of medical education and research, chandigarh||1
+ORG||criminal investigation agency-1||1
+ORG||sonipat’s||1
+PERSON||gur mandi||1
+NORP||american||1
+PERSON||meena harris||1
+PERSON||kamala harris||1
+ORG||kaur’s||1
+ORG||c.l||1
+ORG||pgimer||1
+ORG||sonipat civil hospital||1
+GPE||panipat||1
+ORG||uttar pradesh’s||1
+PERSON||j.s. randhawa||1
+ORG||industrial training institute||1
+ORG||international women's day||1
+PERSON||kavita kurugranthy||1
+PERSON||kulwant singh||1
+ORG||sandhu||1
+ORG||krantikari kisan union||1
+ORG||mehma||1
+PERSON||rahul gandhi||1
+PERSON||priyanka gandhi||1
+PERSON||gandhi||1
+PERSON||sardar patel||1
+PERSON||nehru||1
+PERSON||shastri||1
+ORG||surjewala||1
+PERSON||pawan khera||1
+PERSON||rajiv gandhi’s||1
+ORG||boat club||1
+ORG||m.l. khattar||1
+PERSON||sanjeev balyan||1
+PERSON||baraut||1
+PERSON||charan singh||1
+GPE||ramala||1
+ORG||jat||1
+ORG||lok dal||1
+ORG||rld||1
+ORG||gurjar||1
+PERSON||gurjars||1
+NORP||balyan||1
+PERSON||jaiveer singh||1
+ORG||jaiveer||1
+PERSON||darshan pal||1
+GPE||kolkata||1
+ORG||west bengal assembly||1
+PERSON||kisan mahapanchayat'||1
+PERSON||mamata banerjee||1
+GPE||rasda||1
+GPE||sikandarpur||1
+PERSON||kisan panchayats||1
+NORP||bharat||1
+PERSON||buta singh||1
+PERSON||burjgill||1
+PERSON||mandi bachao-kheti bachao||1
+ORG||shaheedi diwas||1
+GPE||rajguru||1
+GPE||sukhdev||1
+PERSON||gurnam singh||1
+ORG||chaduni||1
+ORG||jai kisan andolan||1
+ORG||fci||1
+PERSON||narendra singh||1
+PERSON||tomar||1
+GPE||ahmedabad||1
+PERSON||yudhvir singh||1
+ORG||yudhvir||1
+PERSON||vijay patel||1
+PERSON||kavita kurunganti||1
+PERSON||kisan adhikar manch||1
+ORG||delhi police||1
+ORG||national||1
+ORG||delhi traffic police||1
+ORG||ghazipur border nh-24||1
+GPE||ghaziabad||1
+GPE||bathinda||1
+GPE||rohtak||1
+GPE||jhajjar||1
+PERSON||bhiwani||1
+ORG||kharar||1
+PERSON||chandigarh||1
+GPE||ambala||1
+PERSON||ambala cantt||1
+GPE||shahpur village||1
+GPE||saharanpur||1
+ORG||ambala-rajpura highway||1
+ORG||shambhu||1
+GPE||ambala city||1
+GPE||naraingarh||1
+GPE||mullana||1
+ORG||gurdwara parbandhak committee||1
+NORP||sikhs||1
+PERSON||jagir kaur||1

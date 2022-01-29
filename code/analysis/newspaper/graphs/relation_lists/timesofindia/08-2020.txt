@@ -1,0 +1,295 @@
+11	sp	up
+9	singh	sp
+9	farmers	sp
+8	singh	up
+8	singh	union
+8	union	sp
+7	farmers	up
+7	union	farmers
+7	union	up
+7	singh	nda
+7	nda	sp
+7	nda	farmers
+6	singh	farmers
+6	nda	up
+6	union	nda
+5	msp	up
+5	msp	sp
+5	house	sp
+5	singh	house
+4	msp	farmers
+4	sp	bku
+4	nda	cm
+4	cm	sp
+4	house	farmers
+4	bathinda	nda
+4	union	bathinda
+3	singh	msp
+3	up	bku
+3	union	bku
+3	union	msp
+3	singh	congress
+3	nda	bjp
+3	cm	up
+3	sp	bjp
+3	sp	congress
+3	cm	farmers
+3	nda	house
+3	house	up
+3	centre	farmers
+3	centre	sp
+3	kisan sabha	farmers
+3	singh	bathinda
+3	bathinda	farmers
+3	union	house
+3	farmers	bjp
+2	msp	bku
+2	singh	bku
+2	farmers	bku
+2	charuni	bku
+2	charuni	msp
+2	charuni	farmers
+2	charuni	up
+2	kurukshetra	bku
+2	kurukshetra	msp
+2	kurukshetra	farmers
+2	charuni	kurukshetra
+2	kurukshetra	up
+2	charuni	union
+2	union	kurukshetra
+2	charuni	sp
+2	kurukshetra	sp
+2	singh	bjp
+2	cm	bjp
+2	singh	cm
+2	up	bjp
+2	up	congress
+2	manohar lal khattar	up
+2	manohar lal khattar	sp
+2	nda	modi
+2	farmers	modi
+2	singh	centre
+2	singh	bill
+2	farmers	bill
+2	house	bill
+2	kisan sabha	up
+2	kisan sabha	sp
+2	bathinda	up
+2	singh	apmc
+2	nda	apmc
+2	apmc	farmers
+2	apmc	up
+2	centre	up
+2	bathinda	sp
+2	kisan sabha	bjp
+2	union	bjp
+2	union	kisan sabha
+2	union	congress
+1	bku	ambala
+1	msp	ambala
+1	singh	ambala
+1	farmers	ambala
+1	charuni	singh
+1	charuni	ambala
+1	gurnam singh charuni	bku
+1	msp	gurnam singh charuni
+1	singh	gurnam singh charuni
+1	gurnam singh charuni	farmers
+1	gurnam singh charuni	ambala
+1	charuni	gurnam singh charuni
+1	up	ambala
+1	gurnam singh charuni	up
+1	singh	kurukshetra
+1	kurukshetra	ambala
+1	kurukshetra	gurnam singh charuni
+1	union	ambala
+1	union	gurnam singh charuni
+1	sp	ambala
+1	gurnam singh charuni	sp
+1	bjp	congress
+1	cm	congress
+1	lok sabha	bjp
+1	lok sabha	congress
+1	singh	lok sabha
+1	cm	lok sabha
+1	nda	congress
+1	nda	lok sabha
+1	bihar	bjp
+1	bihar	congress
+1	singh	bihar
+1	cm	bihar
+1	lok sabha	bihar
+1	nda	bihar
+1	lok sabha	up
+1	up	bihar
+1	lok sabha	sp
+1	sp	bihar
+1	supreme court	bjp
+1	supreme court	congress
+1	supreme court	singh
+1	supreme court	cm
+1	supreme court	lok sabha
+1	supreme court	nda
+1	supreme court	bihar
+1	supreme court	up
+1	supreme court	sp
+1	manohar lal khattar	bjp
+1	manohar lal khattar	congress
+1	manohar lal khattar	singh
+1	manohar lal khattar	cm
+1	manohar lal khattar	lok sabha
+1	manohar lal khattar	nda
+1	manohar lal khattar	bihar
+1	manohar lal khattar	supreme court
+1	gujarat	bjp
+1	gujarat	congress
+1	singh	gujarat
+1	cm	gujarat
+1	lok sabha	gujarat
+1	nda	gujarat
+1	gujarat	bihar
+1	up	gujarat
+1	sp	gujarat
+1	supreme court	gujarat
+1	manohar lal khattar	gujarat
+1	cm	modi
+1	house	modi
+1	cm	house
+1	up	modi
+1	sp	modi
+1	ghazipur	modi
+1	cm	ghazipur
+1	nda	ghazipur
+1	farmers	ghazipur
+1	house	ghazipur
+1	up	ghazipur
+1	sp	ghazipur
+1	centre	bill
+1	centre	aap
+1	singh	aap
+1	farmers	aap
+1	bill	aap
+1	house	centre
+1	house	aap
+1	sp	bill
+1	sp	aap
+1	kisan sabha	msp
+1	nda	bill
+1	bathinda	bill
+1	bathinda	house
+1	up	bill
+1	union	bill
+1	apmc	bill
+1	house	apmc
+1	bathinda	apmc
+1	union	apmc
+1	singh	darshan pal
+1	nda	darshan pal
+1	darshan pal	farmers
+1	darshan pal	bill
+1	darshan pal	house
+1	bathinda	darshan pal
+1	darshan pal	up
+1	union	darshan pal
+1	darshan pal	apmc
+1	singh	lakhowal
+1	lakhowal	nda
+1	lakhowal	farmers
+1	lakhowal	bill
+1	lakhowal	house
+1	lakhowal	bathinda
+1	lakhowal	up
+1	lakhowal	union
+1	lakhowal	apmc
+1	lakhowal	darshan pal
+1	msp	centre
+1	cm	msp
+1	cm	centre
+1	nda	msp
+1	nda	centre
+1	msp	apmc
+1	centre	apmc
+1	cm	apmc
+1	apmc	sp
+1	msp	fci
+1	fci	centre
+1	singh	fci
+1	cm	fci
+1	nda	fci
+1	fci	farmers
+1	fci	up
+1	fci	apmc
+1	fci	sp
+1	nda	bku
+1	bathinda	bku
+1	badal	bku
+1	badal	singh
+1	badal	nda
+1	badal	bathinda
+1	badal	up
+1	badal	union
+1	badal	sp
+1	bku ekta ugrahan	bku
+1	singh	bku ekta ugrahan
+1	nda	bku ekta ugrahan
+1	bathinda	bku ekta ugrahan
+1	bku ekta ugrahan	up
+1	union	bku ekta ugrahan
+1	badal	bku ekta ugrahan
+1	bku ekta ugrahan	sp
+1	singh	kisan sabha
+1	kisan sabha	nda
+1	house	bjp
+1	kisan sabha	house
+1	singh	modi
+1	bathinda	modi
+1	union	modi
+1	manohar lal khattar	bku
+1	manohar lal khattar	msp
+1	manohar lal khattar	farmers
+1	manohar lal khattar	charuni
+1	manohar lal khattar	kurukshetra
+1	manohar lal khattar	union
+1	msp	congress
+1	centre	bjp
+1	sad	bjp
+1	centre	sad
+1	farmers	sad
+1	kisan sabha	centre
+1	kisan sabha	sad
+1	bjp’s	bjp
+1	centre	bjp’s
+1	bjp’s	sad
+1	farmers	bjp’s
+1	kisan sabha	bjp’s
+1	up	sad
+1	up	bjp’s
+1	union	centre
+1	union	sad
+1	union	bjp’s
+1	sp	sad
+1	sp	bjp’s
+1	house	bku
+1	singh	singhu
+1	house	singhu
+1	up	singhu
+1	sp	singhu
+1	rajya sabha	congress
+1	singh	rajya sabha
+1	amarinder singh	congress
+1	singh	amarinder singh
+1	amarinder singh	rajya sabha
+1	house	congress
+1	house	rajya sabha
+1	house	amarinder singh
+1	amarinder	congress
+1	singh	amarinder
+1	rajya sabha	amarinder
+1	amarinder singh	amarinder
+1	house	amarinder
+1	union	rajya sabha
+1	union	amarinder singh
+1	union	amarinder
+1	sp	rajya sabha
+1	amarinder singh	sp
+1	sp	amarinder

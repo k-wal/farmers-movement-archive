@@ -1,0 +1,1613 @@
+194	up	farmers
+170	farmers	singh
+155	up	singh
+150	farmers	union
+139	up	union
+125	singh	union
+121	farmers	centre
+116	up	centre
+112	singhu	singh
+111	singhu	farmers
+106	nda	farmers
+99	up	singhu
+98	agriculture	farmers
+98	centre	singh
+97	up	nda
+91	up	agriculture
+88	centre	union
+86	nda	singh
+83	agriculture	singh
+75	nda	union
+75	singhu	union
+75	ghazipur	farmers
+73	agriculture	union
+69	up	ghazipur
+68	modi	farmers
+66	ghazipur	singh
+65	agriculture	centre
+65	tikri	singh
+64	farmers	tikri
+64	ghazipur	union
+62	farmers	msp
+62	singhu	tikri
+61	delhi police	farmers
+61	up	modi
+60	up	msp
+60	up	tikri
+58	ghazipur	singhu
+56	delhi police	singh
+56	up	delhi police
+56	nda	centre
+55	nda	singhu
+53	ghazipur	tikri
+51	singh	msp
+51	msp	union
+51	singhu	centre
+50	modi	singh
+50	morcha	farmers
+50	tikri	union
+50	farmers	bjp
+49	centre	msp
+48	agriculture	singhu
+47	up	supreme court
+47	delhi police	union
+46	morcha	up
+46	singhu	delhi police
+46	up	bjp
+45	farmers	supreme court
+45	agriculture	msp
+45	kisan morcha	farmers
+45	morcha	kisan morcha
+45	modi	centre
+44	modi	union
+44	morcha	singh
+44	farmers	red fort
+43	supreme court	union
+43	agriculture	nda
+43	morcha	union
+42	farmers	tikait
+42	kisan morcha	singh
+42	agriculture	modi
+41	farmers	bku
+41	up	tikait
+41	bku	union
+41	kisan morcha	up
+41	kisan morcha	union
+41	singh	red fort
+40	supreme court	singh
+40	farmers	congress
+38	up	bku
+38	tikait	union
+38	up	red fort
+37	centre	bjp
+37	union	red fort
+36	farmers	opposition
+36	nda	ghazipur
+36	up	congress
+35	ghazipur	centre
+35	nda	tikri
+35	ghazipur	delhi police
+33	nda	modi
+33	centre	supreme court
+33	up	opposition
+33	singh	bjp
+33	singhu	red fort
+32	morcha	singhu
+32	delhi police	tikri
+32	bjp	union
+32	tikait	singh
+31	nda	delhi police
+31	farmers	parliament
+31	nda	bjp
+31	ghazipur	tikait
+30	farmers	tomar
+30	tomar	singh
+30	kisan morcha	singhu
+30	morcha	centre
+30	singh	bku
+29	agriculture	supreme court
+29	farmers	narendra singh
+29	narendra singh	singh
+29	narendra singh	tomar
+29	agriculture	narendra singh
+29	agriculture	tomar
+29	up	tomar
+29	agriculture	ghazipur
+28	nda	msp
+28	centre	bku
+28	tikait	centre
+28	up	narendra singh
+28	morcha	nda
+28	agriculture	tikri
+28	up	parliament
+27	up	bill
+26	modi	msp
+26	supreme court	msp
+26	tomar	union
+26	centre	tikri
+26	kisan morcha	centre
+26	delhi police	centre
+26	delhi police	red fort
+25	modi	price assurance and farm services act
+25	farmers	price assurance and farm services act
+25	up	price assurance and farm services act
+25	tikait	bku
+25	farmers	bill
+25	bills	bill
+25	narendra singh	union
+25	morcha	ghazipur
+25	morcha	tikri
+25	congress	singh
+25	parliament	union
+24	kisan morcha	nda
+24	congress	bjp
+24	congress	centre
+23	modi	supreme court
+23	up	bills
+23	singhu	msp
+23	kisan morcha	ghazipur
+23	kisan morcha	tikri
+23	ghazipur	red fort
+23	farmers	ghaziabad
+23	union	ghaziabad
+22	nda	supreme court
+22	agriculture	bku
+22	morcha	agriculture
+22	farmers	gandhi
+22	modi	bjp
+22	tikri	red fort
+22	ghazipur	bku
+21	price assurance and farm services act	singh
+21	bills	farmers
+21	agriculture	opposition
+21	union	opposition
+21	modi	singhu
+21	farmers	indian
+21	up	indian
+21	nda	congress
+21	congress	union
+21	centre	red fort
+21	nda	red fort
+21	up	ghaziabad
+20	price assurance and farm services act	union
+20	nda	bku
+20	kisan morcha	agriculture
+20	parliament	singh
+20	agriculture	delhi police
+20	ghazipur	ghaziabad
+20	narendra singh	centre
+20	centre	tomar
+19	union	bill
+19	farmers	darshan pal
+19	singh	darshan pal
+19	up	darshan pal
+19	centre	price assurance and farm services act
+19	agriculture	price assurance and farm services act
+18	price assurance and farm services act	msp
+18	centre	bill
+18	centre	opposition
+18	agriculture	tikait
+18	farm bills	bill
+18	bills	farm bills
+18	union	darshan pal
+18	modi	congress
+18	singh	opposition
+18	farmers	sad
+18	delhi police	tikait
+17	nda	tikait
+17	up	farm bills
+17	tomar	supreme court
+17	up	gandhi
+17	union	indian
+17	up	sad
+17	narendra singh	msp
+17	tomar	msp
+16	modi	farmers (empowerment and protection) agreement on price assurance and farm services act
+16	farmers	farmers (empowerment and protection) agreement on price assurance and farm services act
+16	up	farmers (empowerment and protection) agreement on price assurance and farm services act
+16	modi	farmers (empowerment and protection) agreement on price assurance and farm services
+16	farmers	farmers (empowerment and protection) agreement on price assurance and farm services
+16	farmers (empowerment and protection) agreement on price assurance and farm services act	farmers (empowerment and protection) agreement on price assurance and farm services
+16	up	farmers (empowerment and protection) agreement on price assurance and farm services
+16	farmers (empowerment and protection) agreement on price assurance and farm services act	price assurance and farm services act
+16	price assurance and farm services act	farmers (empowerment and protection) agreement on price assurance and farm services
+16	bills	union
+16	yogendra yadav	farmers
+16	narendra singh	supreme court
+16	morcha	delhi police
+16	nda	parliament
+16	congress	opposition
+16	agriculture	bjp
+16	agriculture	parliament
+16	aap	farmers
+16	aap	up
+16	kisan morcha	red fort
+16	morcha	red fort
+16	tikait	ghaziabad
+15	farmers	amit shah
+15	bills	centre
+15	agriculture	bill
+15	farmers	farm bills
+15	yogendra yadav	singh
+15	up	yogendra yadav
+15	yogendra yadav	union
+15	singh	gandhi
+15	kisan morcha	delhi police
+15	singh	indian
+15	parliament	centre
+15	modi	parliament
+15	modi	opposition
+15	assembly	farmers
+15	up	assembly
+15	singh	sad
+15	tikait	red fort
+15	farmers	gurnam singh
+15	gurnam singh	singh
+15	singhu	tikait
+15	nda	indian
+15	ghazipur	msp
+15	singh	ghaziabad
+14	bku	msp
+14	farmers	rajasthan
+14	up	rajasthan
+14	bjp	bill
+14	modi	bill
+14	modi	ghazipur
+14	centre	indian
+14	up	gurnam singh
+14	gurnam singh	union
+14	singhu	bjp
+14	bku	ghaziabad
+13	amit shah	union
+13	farmers (empowerment and protection) agreement on price assurance and farm services act	msp
+13	farmers (empowerment and protection) agreement on price assurance and farm services act	singh
+13	farmers (empowerment and protection) agreement on price assurance and farm services act	union
+13	msp	farmers (empowerment and protection) agreement on price assurance and farm services
+13	singh	farmers (empowerment and protection) agreement on price assurance and farm services
+13	union	farmers (empowerment and protection) agreement on price assurance and farm services
+13	nda	price assurance and farm services act
+13	nda	bill
+13	nda	tomar
+13	bjp	opposition
+13	parliament	bill
+13	singh	bill
+13	bills	bjp
+13	bills	parliament
+13	agriculture	congress
+13	singhu	tomar
+13	agriculture	red fort
+13	singhu	sad
+13	farmers	house
+12	up	amit shah
+12	modi	delhi police
+12	supreme court	price assurance and farm services act
+12	bill	opposition
+12	centre	farm bills
+12	nda	narendra singh
+12	singhu	gandhi
+12	union	gandhi
+12	singh	rajasthan
+12	parliament	opposition
+12	farmers	kisan sabha
+12	singhu	parliament
+12	modi	tikri
+12	singhu	narendra singh
+12	modi	tomar
+12	delhi police	bku
+12	aap	union
+12	centre	farmers (empowerment and protection) agreement on price assurance and farm services act
+12	centre	farmers (empowerment and protection) agreement on price assurance and farm services
+12	farmers	muzaffarnagar
+12	modi	red fort
+12	tikait	bjp
+12	amit shah	singh
+12	tikait	tikri
+12	sad	union
+12	centre	sad
+12	centre	ghaziabad
+12	up	house
+11	tikait	msp
+11	nda	bills
+11	bills	opposition
+11	agriculture	bills
+11	farm bills	union
+11	nda	darshan pal
+11	kisan morcha	supreme court
+11	morcha	supreme court
+11	farmers	skm
+11	kisan morcha	skm
+11	centre	gandhi
+11	nda	gandhi
+11	morcha	skm
+11	union	rajasthan
+11	ghazipur	bjp
+11	parliament	bjp
+11	congress	bill
+11	bills	modi
+11	up	kisan sabha
+11	modi	narendra singh
+11	kisan morcha	darshan pal
+11	morcha	darshan pal
+11	amarinder singh	farmers
+11	amarinder singh	singh
+11	assembly	centre
+11	morcha	bjp
+11	aap	singh
+11	ghazipur	muzaffarnagar
+11	up	muzaffarnagar
+11	muzaffarnagar	union
+11	modi	tikait
+11	supreme court	bjp
+11	bjp	red fort
+11	morcha	tikait
+11	centre	darshan pal
+11	modi	bku
+11	agriculture	farmers (empowerment and protection) agreement on price assurance and farm services act
+11	agriculture	farmers (empowerment and protection) agreement on price assurance and farm services
+11	nda	ghaziabad
+11	bjp	msp
+11	singhu	congress
+11	tikri	msp
+10	nda	farmers (empowerment and protection) agreement on price assurance and farm services act
+10	nda	farmers (empowerment and protection) agreement on price assurance and farm services
+10	supreme court	bku
+10	tikait	supreme court
+10	msp	opposition
+10	bku	opposition
+10	supreme court	opposition
+10	nda	opposition
+10	nda	farm bills
+10	supreme court	darshan pal
+10	singhu	yogendra yadav
+10	up	skm
+10	skm	union
+10	singhu	indian
+10	bills	congress
+10	bills	singh
+10	centre	rajasthan
+10	farmers	pakistan
+10	up	pakistan
+10	pakistan	union
+10	up	amarinder singh
+10	kisan morcha	msp
+10	morcha	msp
+10	assembly	bill
+10	aap	centre
+10	nda	sad
+10	kisan morcha	tikait
+10	tikait	darshan pal
+10	centre	amit shah
+10	bjp	gandhi
+10	centre	gurnam singh
+10	tikait	muzaffarnagar
+10	agriculture	ghaziabad
+10	singhu	ghaziabad
+10	congress	gandhi
+10	modi	gandhi
+9	nda	amit shah
+9	delhi police	msp
+9	farmers	lok sabha
+9	singhu	supreme court
+9	singhu	darshan pal
+9	singh	skm
+9	ghazipur	gandhi
+9	tikri	gandhi
+9	congress	parliament
+9	centre	pakistan
+9	pakistan	singh
+9	nda	pakistan
+9	parliament	tikri
+9	farmers	delhi traffic police
+9	union	delhi traffic police
+9	bills	assembly
+9	delhi police	bjp
+9	amit shah	bjp
+9	modi	amit shah
+9	parliament	red fort
+9	tikait	gurnam singh
+9	nda	gurnam singh
+9	tikri	bjp
+9	singhu	opposition
+9	muzaffarnagar	bku
+9	ghazipur	price assurance and farm services act
+9	singh	house
+9	singhu	bku
+9	bku	bjp
+8	delhi police	supreme court
+8	msp	bill
+8	tikait	opposition
+8	farm bills	opposition
+8	up	lok sabha
+8	modi	darshan pal
+8	yogendra yadav	darshan pal
+8	kisan morcha	narendra singh
+8	kisan morcha	tomar
+8	morcha	narendra singh
+8	morcha	tomar
+8	kisan sabha	singh
+8	nda	kisan sabha
+8	agriculture	kisan sabha
+8	kisan sabha	union
+8	kisan morcha	modi
+8	tomar	tikri
+8	agriculture	darshan pal
+8	morcha	modi
+8	amarinder singh	centre
+8	ghazipur	delhi traffic police
+8	singh	delhi traffic police
+8	assembly	bjp
+8	assembly	congress
+8	bjp	farm bills
+8	aap	modi
+8	assembly	singh
+8	delhi police	congress
+8	delhi police	parliament
+8	kisan morcha	bjp
+8	yogendra yadav	tikait
+8	red fort	darshan pal
+8	yogendra yadav	red fort
+8	gurnam singh	bjp
+8	gurnam singh	darshan pal
+8	delhi police	indian
+8	parliament	gandhi
+8	bku	red fort
+8	morcha	bku
+8	ghazipur	farmers (empowerment and protection) agreement on price assurance and farm services act
+8	ghazipur	farmers (empowerment and protection) agreement on price assurance and farm services
+8	price assurance and farm services act	bku
+8	farmers	hindi
+8	up	hindi
+8	tikri	bku
+8	agriculture	gurnam singh
+8	congress	rahul gandhi
+8	farmers	rahul gandhi
+8	rahul gandhi	gandhi
+8	parliament	farm bills
+8	farmers	cm
+8	agriculture	assembly
+7	supreme court	farmers (empowerment and protection) agreement on price assurance and farm services act
+7	supreme court	farmers (empowerment and protection) agreement on price assurance and farm services
+7	bills	msp
+7	lok sabha	union
+7	nda	yogendra yadav
+7	singhu	price assurance and farm services act
+7	centre	skm
+7	agriculture	gandhi
+7	ghazipur	opposition
+7	farmers	rajya sabha
+7	agriculture	rajasthan
+7	centre	kisan sabha
+7	ghazipur	parliament
+7	narendra singh	tikri
+7	ghazipur	darshan pal
+7	amarinder singh	union
+7	singhu	delhi traffic police
+7	red fort	gandhi
+7	nda	assembly
+7	assembly	opposition
+7	congress	farm bills
+7	morcha	congress
+7	lok sabha	singh
+7	assembly	union
+7	parliament	supreme court
+7	aap	bjp
+7	aap	tikait
+7	kisan morcha	yogendra yadav
+7	delhi police	gurnam singh
+7	morcha	yogendra yadav
+7	agriculture	amit shah
+7	kisan morcha	bku
+7	yogendra yadav	centre
+7	gurnam singh	bku
+7	bjp	indian
+7	bjp	sad
+7	msp	ghaziabad
+7	modi	ghaziabad
+7	muzaffarnagar	ghaziabad
+7	tikait	price assurance and farm services act
+7	congress	bku
+7	centre	house
+7	tikri	ghaziabad
+7	parliament	msp
+7	modi	rahul gandhi
+7	modi	farm bills
+7	up	delhi traffic police
+7	ghaziabad	delhi traffic police
+7	nda	house
+7	up	cm
+7	tomar	bjp
+7	tomar	opposition
+7	bill	house
+6	delhi police	farmers (empowerment and protection) agreement on price assurance and farm services act
+6	delhi police	farmers (empowerment and protection) agreement on price assurance and farm services
+6	delhi police	price assurance and farm services act
+6	supreme court	bill
+6	bills	supreme court
+6	nda	lok sabha
+6	agriculture	farm bills
+6	msp	darshan pal
+6	singhu	skm
+6	agriculture	skm
+6	singhu	rajasthan
+6	samajwadi party	farmers
+6	up	samajwadi party
+6	bjp	rajasthan
+6	nda	rajasthan
+6	up	rajya sabha
+6	ghazipur	narendra singh
+6	ghazipur	tomar
+6	narendra singh	darshan pal
+6	tomar	darshan pal
+6	kisan morcha	kisan sabha
+6	morcha	kisan sabha
+6	tikri	delhi traffic police
+6	singhu	pakistan
+6	kisan sabha	msp
+6	assembly	farm bills
+6	aap	supreme court
+6	bill	indian
+6	farmers	madhya pradesh
+6	madhya pradesh	singh
+6	muzaffarnagar	singh
+6	congress	tikait
+6	aap	congress
+6	aap	nda
+6	bjp	darshan pal
+6	yogendra yadav	bjp
+6	yogendra yadav	delhi police
+6	congress	red fort
+6	amit shah	red fort
+6	yogendra yadav	gurnam singh
+6	gurnam singh	red fort
+6	singhu	bill
+6	singhu	amit shah
+6	tikait	gandhi
+6	ghazipur	yogendra yadav
+6	singhu	gurnam singh
+6	ghazipur	gurnam singh
+6	sad	opposition
+6	farmers (empowerment and protection) agreement on price assurance and farm services act	bku
+6	tikait	farmers (empowerment and protection) agreement on price assurance and farm services act
+6	centre	muzaffarnagar
+6	bku	farmers (empowerment and protection) agreement on price assurance and farm services
+6	tikait	farmers (empowerment and protection) agreement on price assurance and farm services
+6	singhu	house
+6	hindi	union
+6	congress	house
+6	house	opposition
+6	up	ram nath kovind
+6	union	house
+6	farmers	arvind kejriwal
+6	rahul gandhi	bjp
+6	gandhi	bill
+6	up	rahul gandhi
+6	nda	muzaffarnagar
+6	congress	tikri
+6	congress	lok sabha
+6	gandhi	opposition
+6	narendra singh	bjp
+6	agriculture	yogendra yadav
+6	assembly	msp
+6	narendra singh	opposition
+6	bills	house
+6	modi	assembly
+6	singh	farm bills
+6	ghazipur	rajasthan
+5	supreme court	farm bills
+5	yogendra yadav	supreme court
+5	singhu	farmers (empowerment and protection) agreement on price assurance and farm services act
+5	singhu	farmers (empowerment and protection) agreement on price assurance and farm services
+5	nda	skm
+5	kisan morcha	gandhi
+5	morcha	gandhi
+5	samajwadi party	opposition
+5	rajya sabha	opposition
+5	congress	rajasthan
+5	modi	rajasthan
+5	union	rajya sabha
+5	pakistan	bjp
+5	agriculture	pakistan
+5	modi	kisan sabha
+5	kisan morcha	parliament
+5	parliament	darshan pal
+5	tikri	darshan pal
+5	morcha	parliament
+5	agriculture	amarinder singh
+5	delhi police	pakistan
+5	nda	delhi traffic police
+5	delhi police	gandhi
+5	ghazipur	pakistan
+5	amarinder singh	modi
+5	modi	lok sabha
+5	parliament	indian
+5	modi	indian
+5	bills	indian
+5	up	madhya pradesh
+5	madhya pradesh	union
+5	red fort	indian
+5	tikait	parliament
+5	kisan morcha	congress
+5	congress	supreme court
+5	congress	amit shah
+5	supreme court	amit shah
+5	delhi police	darshan pal
+5	aap	red fort
+5	congress	gurnam singh
+5	gurnam singh	supreme court
+5	morcha	gurnam singh
+5	parliament	bku
+5	parliament	sad
+5	delhi police	opposition
+5	agriculture	sad
+5	lok sabha	bjp
+5	kisan morcha	sad
+5	morcha	sad
+5	congress	indian
+5	farmers	ram nath kovind
+5	ram nath kovind	opposition
+5	ram nath kovind	union
+5	aap	ghazipur
+5	up	arvind kejriwal
+5	tikri	farmers (empowerment and protection) agreement on price assurance and farm services act
+5	delhi police	ghaziabad
+5	ghaziabad	red fort
+5	tikri	farmers (empowerment and protection) agreement on price assurance and farm services
+5	tikri	price assurance and farm services act
+5	ghazipur	congress
+5	tikri	opposition
+5	price assurance and farm services act	bjp
+5	amit shah	msp
+5	bills	gandhi
+5	farm bills	gandhi
+5	agriculture	delhi traffic police
+5	centre	cm
+5	nda	cm
+5	kisan morcha	rajasthan
+5	morcha	rajasthan
+5	assembly	house
+5	msp	delhi traffic police
+5	nda	rahul gandhi
+5	msp	rajasthan
+5	tikri	supreme court
+5	msp	farmers (empowerment and protection) agreement of price assurance and farm services
+5	modi	farmers (empowerment and protection) agreement of price assurance and farm services
+5	farmers	farmers (empowerment and protection) agreement of price assurance and farm services
+5	narendra singh	amit shah
+5	tomar	amit shah
+5	agriculture	farmers (empowerment and protection) agreement of price assurance and farm services
+5	up	farmers (empowerment and protection) agreement of price assurance and farm services
+5	price assurance and farm services act	farmers (empowerment and protection) agreement of price assurance and farm services
+5	singh	cm
+5	assembly	parliament
+5	modi	house
+5	farmers	badal
+5	up	badal
+5	tikait	rajasthan
+4	lok sabha	centre
+4	lok sabha	bill
+4	agriculture	lok sabha
+4	msp	farm bills
+4	yogendra yadav	msp
+4	modi	yogendra yadav
+4	ghazipur	skm
+4	samajwadi party	bjp
+4	ghazipur	samajwadi party
+4	rajya sabha	bill
+4	singh	rajya sabha
+4	bills	rajya sabha
+4	nda	rajya sabha
+4	narendra singh	parliament
+4	parliament	tomar
+4	narendra singh	kisan sabha
+4	kisan sabha	tomar
+4	nda	amarinder singh
+4	pakistan	tikri
+4	pakistan	red fort
+4	amarinder singh	msp
+4	aap	msp
+4	aap	agriculture
+4	amarinder singh	bill
+4	amarinder singh	bills
+4	agriculture	indian
+4	agriculture	madhya pradesh
+4	modi	muzaffarnagar
+4	delhi police	muzaffarnagar
+4	msp	red fort
+4	supreme court	red fort
+4	ghazipur	assembly
+4	assembly	tikri
+4	delhi police	amit shah
+4	aap	darshan pal
+4	amit shah	darshan pal
+4	yogendra yadav	congress
+4	parliament	gurnam singh
+4	modi	gurnam singh
+4	kisan morcha	gurnam singh
+4	amit shah	bill
+4	amit shah	indian
+4	yogendra yadav	tikri
+4	gurnam singh	tikri
+4	delhi police	skm
+4	skm	red fort
+4	supreme court	indian
+4	indian	darshan pal
+4	gurnam singh	indian
+4	ghazipur	indian
+4	ghazipur	sad
+4	tikait	sad
+4	ghazipur	supreme court
+4	muzaffarnagar	msp
+4	farmers (empowerment and protection) agreement on price assurance and farm services act	ghaziabad
+4	ghaziabad	farmers (empowerment and protection) agreement on price assurance and farm services
+4	price assurance and farm services act	ghaziabad
+4	centre	hindi
+4	hindi	singh
+4	nda	hindi
+4	hindi	ghaziabad
+4	congress	sad
+4	parliament	house
+4	tmc	congress
+4	tmc	farmers
+4	ram nath kovind	centre
+4	ram nath kovind	parliament
+4	farmers	dmk
+4	tmc	up
+4	up	dmk
+4	samajwadi party	bku
+4	samajwadi party	union
+4	union	arvind kejriwal
+4	bjp	ghaziabad
+4	ghaziabad	opposition
+4	price assurance and farm services act	opposition
+4	amarinder singh	bjp
+4	amarinder singh	singhu
+4	centre	rahul gandhi
+4	rahul gandhi	bill
+4	farm bills	indian
+4	ghazipur	house
+4	aap	singhu
+4	aap	tikri
+4	tikri	bill
+4	rahul gandhi	singh
+4	congress	madhya pradesh
+4	madhya pradesh	centre
+4	nda	madhya pradesh
+4	narendra singh	tikait
+4	tikait	tomar
+4	centre	delhi traffic police
+4	modi	apmc
+4	farmers	apmc
+4	centre	farmers (empowerment and protection) agreement of price assurance and farm services
+4	singh	farmers (empowerment and protection) agreement of price assurance and farm services
+4	union	farmers (empowerment and protection) agreement of price assurance and farm services
+4	farm bills	house
+4	bihar	centre
+4	bihar	farmers
+4	agriculture	house
+4	sad	bill
+4	bills	sad
+4	badal	sad
+4	badal	singh
+4	sukhbir singh	farmers
+4	sukhbir singh	singh
+4	sukhbir singh	badal
+4	sukhbir singh	up
+4	tomar	ghaziabad
+4	modi	sad
+4	modi	badal
+4	price assurance and farm services act	bill
+4	bills	price assurance and farm services act
+4	tikri	rajasthan
+3	bku	bill
+3	bills	bku
+3	bills	lok sabha
+3	bku	farm bills
+3	price assurance and farm services act	darshan pal
+3	tikri	skm
+3	bjp	rajya sabha
+3	centre	rajya sabha
+3	parliament	rajya sabha
+3	modi	rajya sabha
+3	agriculture	rajya sabha
+3	modi	pakistan
+3	pakistan	bill
+3	bills	pakistan
+3	congress	kisan sabha
+3	parliament	kisan sabha
+3	kisan sabha	opposition
+3	morcha	opposition
+3	morcha	assembly
+3	aap	amarinder singh
+3	singhu	muzaffarnagar
+3	muzaffarnagar	tikri
+3	muzaffarnagar	red fort
+3	morcha	indian
+3	aap	parliament
+3	aap	delhi police
+3	kisan morcha	aap
+3	parliament	amit shah
+3	tikait	amit shah
+3	congress	darshan pal
+3	yogendra yadav	parliament
+3	yogendra yadav	amit shah
+3	gurnam singh	amit shah
+3	morcha	aap
+3	delhi police	bill
+3	skm	darshan pal
+3	yogendra yadav	skm
+3	sad	red fort
+3	red fort	opposition
+3	tikait	indian
+3	lok sabha	amit shah
+3	lok sabha	red fort
+3	tikri	indian
+3	gandhi	indian
+3	sad	indian
+3	agriculture	muzaffarnagar
+3	muzaffarnagar	farmers (empowerment and protection) agreement on price assurance and farm services act
+3	muzaffarnagar	farmers (empowerment and protection) agreement on price assurance and farm services
+3	muzaffarnagar	price assurance and farm services act
+3	red fort	house
+3	hindi	bku
+3	ghazipur	hindi
+3	tikait	hindi
+3	bku	house
+3	sad	house
+3	aap	bku
+3	aap	indian
+3	aap	opposition
+3	tmc	centre
+3	tmc	opposition
+3	congress	ram nath kovind
+3	dmk	union
+3	samajwadi party	congress
+3	samajwadi party	centre
+3	aap	arvind kejriwal
+3	arvind kejriwal	ghaziabad
+3	gurnam singh	price assurance and farm services act
+3	congress	muzaffarnagar
+3	muzaffarnagar	opposition
+3	congress	ghaziabad
+3	samajwadi party	tikait
+3	samajwadi party	ghaziabad
+3	gurnam singh	opposition
+3	bills	singhu
+3	amarinder singh	red fort
+3	modi	ram nath kovind
+3	ram nath kovind	supreme court
+3	agriculture	ram nath kovind
+3	parliament	rahul gandhi
+3	bills	rahul gandhi
+3	rahul gandhi	farm bills
+3	rahul gandhi	union
+3	bku	delhi traffic police
+3	tikait	delhi traffic police
+3	tikri	house
+3	singhu	lok sabha
+3	narendra singh	bill
+3	tomar	bill
+3	bjp	cm
+3	union	cm
+3	amarinder singh	congress
+3	rahul gandhi	opposition
+3	amarinder singh	opposition
+3	tmc	bjp
+3	rahul gandhi	red fort
+3	yogendra yadav	rajasthan
+3	narendra singh	rajasthan
+3	tomar	rajasthan
+3	darshan pal	rajasthan
+3	madhya pradesh	bjp
+3	narendra singh	price assurance and farm services act
+3	tomar	price assurance and farm services act
+3	parliament	apmc
+3	gandhi	apmc
+3	congress	msp
+3	pakistan	indian
+3	kisan sabha	supreme court
+3	congress	cm
+3	narendra singh	bku
+3	tomar	bku
+3	amarinder singh	cm
+3	supreme court	rajya sabha
+3	arvind kejriwal	opposition
+3	ram nath kovind	bill
+3	bills	ram nath kovind
+3	ram nath kovind	farm bills
+3	singhu	burari
+3	farmers	burari
+3	burari	singh
+3	burari	union
+3	bjp	house
+3	bill	apmc
+3	bills	apmc
+3	bihar	modi
+3	assembly	gandhi
+3	agriculture	apmc
+3	bihar	agriculture
+3	farm bills	apmc
+3	bill	cm
+3	bills	cm
+3	farm bills	cm
+3	centre	badal
+3	badal	bill
+3	bills	badal
+3	badal	house
+3	sad	farm bills
+3	sukhbir singh	centre
+3	sukhbir singh	sad
+3	sukhbir singh	house
+3	hindi	bjp
+3	assembly	price assurance and farm services act
+3	narendra singh	ghaziabad
+3	modi	hindi
+3	singhu	madhya pradesh
+3	ghaziabad	gandhi
+3	nda	badal
+3	sukhbir singh	modi
+3	sukhbir singh	nda
+3	price assurance and farm services act	farm bills
+3	badal	union
+3	tikri	sad
+3	sad	gandhi
+3	bku	rajasthan
+3	red fort	rajasthan
+3	bku	gandhi
+3	bihar	up
+3	dmk	bill
+3	bills	dmk
+3	dmk	farm bills
+3	aap	price assurance and farm services act
+2	tikait	bill
+2	lok sabha	msp
+2	lok sabha	tikait
+2	lok sabha	supreme court
+2	bills	tikait
+2	lok sabha	opposition
+2	tikait	farm bills
+2	lok sabha	farm bills
+2	yogendra yadav	price assurance and farm services act
+2	opposition	rajasthan
+2	congress	pakistan
+2	parliament	pakistan
+2	pakistan	opposition
+2	pakistan	rajasthan
+2	kisan sabha	bjp
+2	kisan sabha	bill
+2	kisan sabha	rajya sabha
+2	bills	kisan sabha
+2	kisan sabha	rajasthan
+2	singhu	kisan sabha
+2	kisan sabha	darshan pal
+2	amarinder singh	delhi police
+2	amarinder singh	pakistan
+2	msp	skm
+2	kisan sabha	skm
+2	lok sabha	parliament
+2	lok sabha	indian
+2	amarinder singh	parliament
+2	amarinder singh	lok sabha
+2	modi	madhya pradesh
+2	madhya pradesh	indian
+2	farmers (empowerment and protection) agreement on price assurance and farm services act	red fort
+2	red fort	farmers (empowerment and protection) agreement on price assurance and farm services
+2	price assurance and farm services act	red fort
+2	singhu	assembly
+2	kisan morcha	assembly
+2	kisan morcha	indian
+2	kisan morcha	amit shah
+2	aap	amit shah
+2	aap	yogendra yadav
+2	aap	gurnam singh
+2	morcha	amit shah
+2	red fort	bill
+2	gandhi	darshan pal
+2	yogendra yadav	gandhi
+2	tikait	skm
+2	bku	darshan pal
+2	gurnam singh	skm
+2	delhi police	sad
+2	delhi police	lok sabha
+2	kisan morcha	lok sabha
+2	yogendra yadav	lok sabha
+2	yogendra yadav	indian
+2	morcha	lok sabha
+2	sad	darshan pal
+2	bjp	skm
+2	sad	skm
+2	supreme court	ghaziabad
+2	assembly	bku
+2	assembly	tikait
+2	bku	indian
+2	indian	house
+2	aap	sad
+2	aap	house
+2	tmc	parliament
+2	tmc	indian
+2	tmc	house
+2	tmc	aap
+2	ram nath kovind	bku
+2	ram nath kovind	house
+2	congress	hindi
+2	hindi	sad
+2	hindi	indian
+2	aap	hindi
+2	hindi	opposition
+2	congress	dmk
+2	dmk	centre
+2	dmk	parliament
+2	dmk	indian
+2	dmk	opposition
+2	dmk	ram nath kovind
+2	dmk	hindi
+2	tmc	union
+2	samajwadi party	hindi
+2	ghazipur	arvind kejriwal
+2	tikait	arvind kejriwal
+2	aap	ghaziabad
+2	gurnam singh	farmers (empowerment and protection) agreement on price assurance and farm services act
+2	gurnam singh	farmers (empowerment and protection) agreement on price assurance and farm services
+2	muzaffarnagar	bjp
+2	samajwadi party	muzaffarnagar
+2	farmers (empowerment and protection) agreement on price assurance and farm services act	bjp
+2	farmers (empowerment and protection) agreement on price assurance and farm services act	opposition
+2	bjp	farmers (empowerment and protection) agreement on price assurance and farm services
+2	opposition	farmers (empowerment and protection) agreement on price assurance and farm services
+2	bills	amit shah
+2	amarinder singh	amit shah
+2	pakistan	msp
+2	pakistan	amit shah
+2	nda	ram nath kovind
+2	ram nath kovind	red fort
+2	bills	delhi police
+2	delhi police	farm bills
+2	delhi police	delhi traffic police
+2	red fort	delhi traffic police
+2	centre	arvind kejriwal
+2	tikait	house
+2	delhi police	house
+2	aap	muzaffarnagar
+2	lok sabha	tikri
+2	tmc	modi
+2	tmc	rahul gandhi
+2	tmc	gandhi
+2	yogendra yadav	opposition
+2	mamata banerjee	bjp
+2	congress	mamata banerjee
+2	modi	mamata banerjee
+2	farmers	mamata banerjee
+2	mamata banerjee	rahul gandhi
+2	mamata banerjee	opposition
+2	tmc	mamata banerjee
+2	mamata banerjee	gandhi
+2	up	mamata banerjee
+2	skm	rajasthan
+2	ram nath kovind	singh
+2	morcha	pakistan
+2	kisan sabha	house
+2	yogendra yadav	narendra singh
+2	yogendra yadav	tomar
+2	narendra singh	madhya pradesh
+2	madhya pradesh	tomar
+2	madhya pradesh	gurnam singh
+2	morcha	madhya pradesh
+2	madhya pradesh	tikait
+2	nda	apmc
+2	tikait	pakistan
+2	yogendra yadav	pakistan
+2	kisan sabha	amit shah
+2	assembly	supreme court
+2	modi	cm
+2	tomar	rajya sabha
+2	bjp	arvind kejriwal
+2	nda	arvind kejriwal
+2	burari	centre
+2	bihar	parliament
+2	gandhi	house
+2	house	cm
+2	opposition	cm
+2	assembly	cm
+2	gandhi	cm
+2	agriculture	cm
+2	singhu	farmers (empowerment and protection) agreement of price assurance and farm services
+2	lok sabha	rahul gandhi
+2	lok sabha	house
+2	assembly	rahul gandhi
+2	rahul gandhi	amit shah
+2	amit shah	opposition
+2	tmc	bill
+2	tmc	nda
+2	tmc	amit shah
+2	lok sabha	gandhi
+2	amit shah	gandhi
+2	agriculture	rahul gandhi
+2	kisan sabha	bku
+2	amarinder singh	sad
+2	amarinder singh	house
+2	amarinder singh	badal
+2	badal	opposition
+2	singhu	farm bills
+2	amarinder singh	farm bills
+2	badal	farm bills
+2	singhu	cm
+2	singhu	arvind kejriwal
+2	arvind kejriwal	bill
+2	sad	arvind kejriwal
+2	singh	arvind kejriwal
+2	bills	arvind kejriwal
+2	badal	arvind kejriwal
+2	sukhbir singh	bill
+2	sukhbir singh	bills
+2	sukhbir singh	amarinder singh
+2	sukhbir singh	farm bills
+2	assembly	farmers (empowerment and protection) agreement of price assurance and farm services
+2	narendra singh	delhi traffic police
+2	tomar	delhi traffic police
+2	sad	rajya sabha
+2	singhu	rahul gandhi
+2	singhu	hindi
+2	congress	arvind kejriwal
+2	parliament	arvind kejriwal
+2	modi	arvind kejriwal
+2	parliament	ghaziabad
+2	msp	sad
+2	badal	msp
+2	ghazipur	badal
+2	tikait	badal
+2	agriculture	badal
+2	sad	rajasthan
+2	farmers (empowerment and protection) agreement on price assurance and farm services act	rajasthan
+2	rajasthan	farmers (empowerment and protection) agreement on price assurance and farm services
+2	sukhbir singh	ghazipur
+2	sukhbir singh	tikait
+2	price assurance and farm services act	sad
+2	badal	price assurance and farm services act
+2	price assurance and farm services act	rajasthan
+2	bills	tikri
+2	tikri	farm bills
+2	farmers (empowerment and protection) agreement on price assurance and farm services act	bill
+2	bills	farmers (empowerment and protection) agreement on price assurance and farm services act
+2	farmers (empowerment and protection) agreement on price assurance and farm services act	farm bills
+2	bill	farmers (empowerment and protection) agreement on price assurance and farm services
+2	bills	farmers (empowerment and protection) agreement on price assurance and farm services
+2	farm bills	farmers (empowerment and protection) agreement on price assurance and farm services
+2	parliament	price assurance and farm services act
+2	delhi police	madhya pradesh
+2	sukhbir singh	union
+2	ghaziabad	rajasthan
+2	muzaffarnagar	gandhi
+2	muzaffarnagar	delhi traffic police
+2	muzaffarnagar	rajasthan
+2	ghazipur	bill
+2	farm bills	rajya sabha
+2	up	apmc
+2	bihar	singhu
+2	bihar	singh
+2	up	burari
+2	bihar	union
+2	hindi	rajya sabha
+2	hindi	supreme court
+2	nda	dmk
+2	price assurance and farm services act	indian
+2	kisan morcha	farmers (empowerment and protection) agreement on price assurance and farm services act
+2	kisan morcha	farmers (empowerment and protection) agreement on price assurance and farm services
+2	morcha	farmers (empowerment and protection) agreement on price assurance and farm services act
+2	morcha	farmers (empowerment and protection) agreement on price assurance and farm services
+2	kisan morcha	price assurance and farm services act
+2	morcha	price assurance and farm services act
+2	supreme court	gandhi
+2	bihar	msp
+2	bihar	nda
+2	harsimrat kaur badal	bjp
+2	harsimrat kaur badal	congress
+2	harsimrat kaur badal	modi
+2	harsimrat kaur badal	farmers
+2	harsimrat kaur badal	bill
+2	harsimrat kaur badal	sad
+2	harsimrat kaur badal	bills
+2	badal	bjp
+2	congress	badal
+2	harsimrat kaur badal	badal
+2	harsimrat kaur badal	up
+2	harsimrat kaur badal	union
+2	congress	price assurance and farm services act
+2	assembly	dmk
+1	lok sabha	bku
+1	farmers (empowerment and protection) agreement on price assurance and farm services act	darshan pal
+1	yogendra yadav	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	darshan pal	farmers (empowerment and protection) agreement on price assurance and farm services
+1	yogendra yadav	farmers (empowerment and protection) agreement on price assurance and farm services
+1	skm	gandhi
+1	indian	rajasthan
+1	singhu	gujarat
+1	farmers	gujarat
+1	gujarat	singh
+1	gujarat	indian
+1	gujarat	rajasthan
+1	up	gujarat
+1	gujarat	union
+1	congress	rajya sabha
+1	parliament	rajasthan
+1	bill	rajasthan
+1	rajya sabha	rajasthan
+1	bills	rajasthan
+1	pakistan	rajya sabha
+1	kisan sabha	pakistan
+1	ghazipur	kisan sabha
+1	kisan sabha	tikri
+1	amarinder singh	bku
+1	pakistan	bku
+1	pakistan	gandhi
+1	morcha	bill
+1	morcha	bills
+1	morcha	farm bills
+1	amarinder singh	supreme court
+1	amarinder singh	indian
+1	madhya pradesh	parliament
+1	madhya pradesh	bill
+1	lok sabha	madhya pradesh
+1	bills	madhya pradesh
+1	amarinder singh	madhya pradesh
+1	assembly	delhi police
+1	assembly	red fort
+1	gurnam singh	gandhi
+1	parliament	skm
+1	bku	skm
+1	yogendra yadav	bku
+1	lok sabha	darshan pal
+1	lok sabha	gurnam singh
+1	gurnam singh	sad
+1	muzaffarnagar	supreme court
+1	assembly	hindi
+1	assembly	ghaziabad
+1	bku	sad
+1	indian	opposition
+1	tmc	bku
+1	tmc	sad
+1	ram nath kovind	sad
+1	ram nath kovind	indian
+1	aap	ram nath kovind
+1	tmc	ram nath kovind
+1	parliament	hindi
+1	hindi	house
+1	tmc	hindi
+1	ram nath kovind	hindi
+1	dmk	bku
+1	dmk	sad
+1	dmk	house
+1	aap	dmk
+1	tmc	dmk
+1	samajwadi party	parliament
+1	samajwadi party	sad
+1	samajwadi party	indian
+1	samajwadi party	house
+1	aap	samajwadi party
+1	tmc	samajwadi party
+1	samajwadi party	ram nath kovind
+1	samajwadi party	dmk
+1	hindi	arvind kejriwal
+1	gurnam singh	ghaziabad
+1	bills	red fort
+1	ram nath kovind	bjp
+1	ram nath kovind	msp
+1	delhi police	rahul gandhi
+1	rahul gandhi	indian
+1	bku	arvind kejriwal
+1	muzaffarnagar	house
+1	ghazipur	lok sabha
+1	msp	cm
+1	tikait	rahul gandhi
+1	amarinder singh	tikait
+1	amarinder singh	rahul gandhi
+1	aap	rahul gandhi
+1	tmc	tikait
+1	tmc	singh
+1	tmc	amarinder singh
+1	amarinder singh	gandhi
+1	aap	gandhi
+1	yogendra yadav	rahul gandhi
+1	amarinder singh	yogendra yadav
+1	tmc	yogendra yadav
+1	tmc	red fort
+1	centre	mamata banerjee
+1	tikait	mamata banerjee
+1	mamata banerjee	singh
+1	amarinder singh	mamata banerjee
+1	aap	mamata banerjee
+1	yogendra yadav	mamata banerjee
+1	mamata banerjee	red fort
+1	yogendra yadav	kisan sabha
+1	singhu	ram nath kovind
+1	ghazipur	ram nath kovind
+1	ram nath kovind	tikri
+1	kisan morcha	ram nath kovind
+1	kisan morcha	pakistan
+1	ram nath kovind	pakistan
+1	morcha	ram nath kovind
+1	kisan morcha	house
+1	morcha	house
+1	assembly	kisan sabha
+1	congress	skm
+1	congress	narendra singh
+1	narendra singh	skm
+1	congress	tomar
+1	tomar	skm
+1	kisan morcha	madhya pradesh
+1	madhya pradesh	skm
+1	madhya pradesh	darshan pal
+1	yogendra yadav	madhya pradesh
+1	madhya pradesh	rajasthan
+1	narendra singh	gurnam singh
+1	gurnam singh	tomar
+1	gurnam singh	rajasthan
+1	tikri	cm
+1	aap	narendra singh
+1	aap	tomar
+1	madhya pradesh	msp
+1	madhya pradesh	supreme court
+1	bjp	apmc
+1	congress	apmc
+1	rahul gandhi	apmc
+1	lok sabha	rajasthan
+1	lok sabha	pakistan
+1	pakistan	supreme court
+1	supreme court	farmers (empowerment and protection) agreement of price assurance and farm services
+1	narendra singh	farmers (empowerment and protection) agreement of price assurance and farm services
+1	tomar	farmers (empowerment and protection) agreement of price assurance and farm services
+1	amit shah	farmers (empowerment and protection) agreement of price assurance and farm services
+1	farmers (empowerment and protection) agreement of price assurance and farm services	darshan pal
+1	kisan sabha	farmers (empowerment and protection) agreement of price assurance and farm services
+1	price assurance and farm services act	amit shah
+1	kisan sabha	price assurance and farm services act
+1	kisan sabha	cm
+1	modi	skm
+1	supreme court	skm
+1	bills	narendra singh
+1	bills	tomar
+1	assembly	narendra singh
+1	assembly	tomar
+1	aap	cm
+1	amit shah	cm
+1	narendra singh	rajya sabha
+1	narendra singh	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	tomar	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	narendra singh	farmers (empowerment and protection) agreement on price assurance and farm services
+1	tomar	farmers (empowerment and protection) agreement on price assurance and farm services
+1	gurnam singh	msp
+1	pakistan	arvind kejriwal
+1	nda	samajwadi party
+1	samajwadi party	arvind kejriwal
+1	samajwadi party	pakistan
+1	morcha	arvind kejriwal
+1	morcha	samajwadi party
+1	supreme court	house
+1	ghazipur	amit shah
+1	pakistan	darshan pal
+1	gurnam singh	pakistan
+1	delhi police	burari
+1	burari	red fort
+1	centre	apmc
+1	house	apmc
+1	apmc	opposition
+1	assembly	apmc
+1	bihar	bill
+1	bihar	bills
+1	bihar	house
+1	bihar	apmc
+1	bihar	opposition
+1	bihar	assembly
+1	bihar	gandhi
+1	bihar	farm bills
+1	parliament	cm
+1	apmc	cm
+1	bihar	cm
+1	yogendra yadav	farmers (empowerment and protection) agreement of price assurance and farm services
+1	rahul gandhi	house
+1	assembly	lok sabha
+1	amit shah	house
+1	assembly	amit shah
+1	tmc	lok sabha
+1	tmc	assembly
+1	tmc	agriculture
+1	mamata banerjee	bill
+1	lok sabha	mamata banerjee
+1	nda	mamata banerjee
+1	mamata banerjee	house
+1	assembly	mamata banerjee
+1	mamata banerjee	amit shah
+1	agriculture	mamata banerjee
+1	amit shah	bku
+1	singhu	badal
+1	sad	cm
+1	badal	cm
+1	amarinder singh	arvind kejriwal
+1	arvind kejriwal	house
+1	farm bills	arvind kejriwal
+1	arvind kejriwal	cm
+1	sukhbir singh	singhu
+1	sukhbir singh	opposition
+1	sukhbir singh	cm
+1	sukhbir singh	arvind kejriwal
+1	samajwadi party	singh
+1	bku	farmers (empowerment and protection) agreement of price assurance and farm services
+1	ghazipur	farmers (empowerment and protection) agreement of price assurance and farm services
+1	tikait	farmers (empowerment and protection) agreement of price assurance and farm services
+1	yogendra yadav	house
+1	hindi	rahul gandhi
+1	hindi	gandhi
+1	madhya pradesh	rahul gandhi
+1	madhya pradesh	hindi
+1	madhya pradesh	gandhi
+1	hindi	red fort
+1	madhya pradesh	red fort
+1	lok sabha	arvind kejriwal
+1	rahul gandhi	arvind kejriwal
+1	amit shah	arvind kejriwal
+1	arvind kejriwal	gandhi
+1	lok sabha	ghaziabad
+1	rahul gandhi	ghaziabad
+1	amit shah	ghaziabad
+1	arvind kejriwal	red fort
+1	badal	rajasthan
+1	farmers (empowerment and protection) agreement on price assurance and farm services act	sad
+1	badal	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	sad	farmers (empowerment and protection) agreement on price assurance and farm services
+1	badal	farmers (empowerment and protection) agreement on price assurance and farm services
+1	sukhbir singh	msp
+1	sukhbir singh	agriculture
+1	sukhbir singh	rajasthan
+1	sukhbir singh	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	sukhbir singh	farmers (empowerment and protection) agreement on price assurance and farm services
+1	sukhbir singh	price assurance and farm services act
+1	parliament	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	assembly	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	parliament	farmers (empowerment and protection) agreement on price assurance and farm services
+1	assembly	farmers (empowerment and protection) agreement on price assurance and farm services
+1	badal	bku
+1	ghaziabad	house
+1	badal	ghaziabad
+1	badal	red fort
+1	sukhbir singh	bku
+1	sukhbir singh	ghaziabad
+1	sukhbir singh	red fort
+1	delhi police	rajasthan
+1	muzaffarnagar	indian
+1	ghaziabad	indian
+1	indian	delhi traffic police
+1	gandhi	delhi traffic police
+1	gandhi	rajasthan
+1	modi	delhi traffic police
+1	rajasthan	delhi traffic police
+1	farmers (empowerment and protection) agreement on price assurance and farm services act	delhi traffic police
+1	farmers (empowerment and protection) agreement on price assurance and farm services	delhi traffic police
+1	price assurance and farm services act	delhi traffic police
+1	rajya sabha	house
+1	msp	rajya sabha
+1	bku	rajya sabha
+1	ghazipur	rajya sabha
+1	tikait	rajya sabha
+1	delhi police	rajya sabha
+1	bills	ghazipur
+1	ghazipur	farm bills
+1	muzaffarnagar	bill
+1	muzaffarnagar	rajya sabha
+1	bills	muzaffarnagar
+1	muzaffarnagar	farm bills
+1	samajwadi party	delhi police
+1	samajwadi party	gandhi
+1	aap	rajasthan
+1	kisan morcha	muzaffarnagar
+1	muzaffarnagar	darshan pal
+1	morcha	muzaffarnagar
+1	msp	apmc
+1	farmers (empowerment and protection) agreement on price assurance and farm services act	apmc
+1	union	apmc
+1	apmc	farmers (empowerment and protection) agreement on price assurance and farm services
+1	price assurance and farm services act	apmc
+1	delhi police	narendra singh
+1	delhi police	tomar
+1	delhi police	kisan sabha
+1	bihar	sad
+1	burari	sad
+1	bihar	burari
+1	madhya pradesh	bku
+1	ghazipur	madhya pradesh
+1	madhya pradesh	tikri
+1	madhya pradesh	opposition
+1	rajya sabha	indian
+1	hindi	bill
+1	bills	hindi
+1	dmk	rajya sabha
+1	dmk	supreme court
+1	hindi	farm bills
+1	msp	indian
+1	msp	house
+1	assembly	indian
+1	bku	cm
+1	gurnam singh	cm
+1	burari	msp
+1	ghazipur	burari
+1	burari	tikri
+1	kisan morcha	burari
+1	nda	burari
+1	morcha	burari
+1	pakistan	sad
+1	pakistan	farm bills
+1	agriculture	hindi
+1	singhu	apmc
+1	tikri	apmc
+1	singh	apmc
+1	supreme court	apmc
+1	tmc	bills
+1	amit shah	farm bills
+1	tmc	farm bills
+1	supreme court	rajasthan
+1	lok sabha	sad
+1	harsimrat kaur badal	centre
+1	harsimrat kaur badal	lok sabha
+1	harsimrat kaur badal	singh
+1	harsimrat kaur badal	amarinder singh
+1	harsimrat kaur badal	nda
+1	harsimrat kaur badal	house
+1	lok sabha	badal
+1	harsimrat kaur badal	farm bills
+1	sukhbir singh	bjp
+1	sukhbir singh	congress
+1	sukhbir singh	lok sabha
+1	sukhbir singh	harsimrat kaur badal
+1	opposition	delhi traffic police
+1	aap	bill
+1	aap	bills
+1	bjp	farmers (empowerment and protection) agreement of price assurance and farm services
+1	congress	farmers (empowerment and protection) agreement of price assurance and farm services
+1	parliament	farmers (empowerment and protection) agreement of price assurance and farm services
+1	farmers (empowerment and protection) agreement of price assurance and farm services	bill
+1	sad	farmers (empowerment and protection) agreement of price assurance and farm services
+1	bills	farmers (empowerment and protection) agreement of price assurance and farm services
+1	aap	farmers (empowerment and protection) agreement of price assurance and farm services
+1	farmers (empowerment and protection) agreement of price assurance and farm services	opposition
+1	assembly	sad
+1	aap	assembly
+1	harsimrat kaur badal	msp
+1	harsimrat kaur badal	parliament
+1	harsimrat kaur badal	aap
+1	harsimrat kaur badal	farmers (empowerment and protection) agreement of price assurance and farm services
+1	harsimrat kaur badal	opposition
+1	harsimrat kaur badal	assembly
+1	parliament	badal
+1	aap	badal
+1	badal	farmers (empowerment and protection) agreement of price assurance and farm services
+1	assembly	badal
+1	harsimrat kaur badal	agriculture
+1	msp	arvind kejriwal
+1	arvind kejriwal	farmers (empowerment and protection) agreement of price assurance and farm services
+1	assembly	arvind kejriwal
+1	harsimrat kaur badal	arvind kejriwal
+1	agriculture	arvind kejriwal
+1	harsimrat kaur badal	price assurance and farm services act
+1	price assurance and farm services act	arvind kejriwal
+1	assembly	ram nath kovind
+1	singhu	rajya sabha
+1	tikri	rajya sabha
+1	supreme court	sad
+1	tomar	sad
+1	hindi	tikri
+1	hindi	tomar
+1	ghaziabad	rajya sabha
+1	sad	ghaziabad
+1	rahul gandhi	bku
+1	rahul gandhi	supreme court
+1	ram nath kovind	rahul gandhi
+1	ram nath kovind	gandhi
+1	rahul gandhi	price assurance and farm services act
+1	ram nath kovind	price assurance and farm services act
+1	price assurance and farm services act	gandhi
+1	dmk	bjp
+1	dmk	rahul gandhi
+1	dmk	gandhi
+1	rahul gandhi	cm
+1	dmk	cm
+1	bihar	supreme court
+1	bihar	narendra singh
+1	bihar	tomar
+1	bihar	darshan pal

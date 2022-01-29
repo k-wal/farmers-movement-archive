@@ -1,0 +1,236 @@
+8	farmers	singh
+8	farmers	us
+8	singh	us
+7	farmers	centre
+7	centre	singh
+7	centre	us
+5	farmers	kisan morcha
+5	kisan morcha	singh
+5	morcha	kisan morcha
+5	morcha	farmers
+5	morcha	singh
+5	kisan morcha	us
+5	morcha	us
+4	singhu	centre
+4	singhu	farmers
+4	singhu	singh
+4	singhu	us
+4	kisan morcha	bjp
+4	centre	kisan morcha
+4	farmers	bjp
+4	singh	bjp
+4	morcha	bjp
+4	morcha	centre
+4	us	bjp
+4	farmers	tikri
+4	tikri	singh
+4	tikri	us
+3	centre	bjp
+3	centre	modi
+3	bku	centre
+3	modi	kisan morcha
+3	skm	bjp
+3	skm	kisan morcha
+3	farmers	modi
+3	bku	farmers
+3	skm	farmers
+3	modi	singh
+3	bku	singh
+3	skm	singh
+3	morcha	modi
+3	morcha	skm
+3	modi	us
+3	bku	us
+3	skm	us
+3	centre	tikri
+3	singhu	tikri
+3	house	centre
+3	farmers	house
+3	house	singh
+3	house	us
+3	tikri	kisan morcha
+3	morcha	tikri
+2	modi	bjp
+2	bku	bjp
+2	bku	modi
+2	bku	kisan morcha
+2	tikait	centre
+2	bku	tikait
+2	skm	centre
+2	tikait	farmers
+2	tikait	singh
+2	assembly	centre
+2	assembly	bku
+2	assembly	tikait
+2	assembly	farmers
+2	assembly	singh
+2	morcha	bku
+2	gurnam singh	bjp
+2	gurnam singh	centre
+2	gurnam singh	modi
+2	bku	gurnam singh
+2	gurnam singh	kisan morcha
+2	gurnam singh	farmers
+2	gurnam singh	singh
+2	morcha	gurnam singh
+2	tikait	us
+2	assembly	us
+2	gurnam singh	us
+2	singhu	house
+2	house	tikri
+2	tikri	bjp
+2	skm	tikri
+2	singhu	kisan morcha
+2	ghazipur	centre
+2	singhu	ghazipur
+2	ghazipur	tikri
+2	ghazipur	kisan morcha
+2	ghazipur	farmers
+2	ghazipur	singh
+2	morcha	singhu
+2	morcha	ghazipur
+2	house	modi
+2	house	kisan morcha
+2	morcha	house
+2	price assurance and farm services act	centre
+2	price assurance and farm services act	modi
+2	price assurance and farm services act	kisan morcha
+2	price assurance and farm services act	farmers
+2	price assurance and farm services act	singh
+2	price assurance and farm services act	morcha
+2	price assurance and farm services act	house
+2	ghazipur	us
+2	price assurance and farm services act	us
+1	delhi police	centre
+1	singhu	delhi police
+1	delhi police	farmers
+1	delhi police	singh
+1	delhi police	us
+1	tikait	bjp
+1	tikait	modi
+1	tikait	kisan morcha
+1	skm	modi
+1	bku	skm
+1	tikait	skm
+1	indian	bjp
+1	indian	centre
+1	indian	modi
+1	bku	indian
+1	indian	kisan morcha
+1	indian	tikait
+1	indian	skm
+1	indian	farmers
+1	indian	singh
+1	assembly	bjp
+1	assembly	modi
+1	assembly	kisan morcha
+1	assembly	skm
+1	assembly	indian
+1	morcha	tikait
+1	morcha	indian
+1	assembly	morcha
+1	rajasthan	bjp
+1	centre	rajasthan
+1	modi	rajasthan
+1	bku	rajasthan
+1	kisan morcha	rajasthan
+1	tikait	rajasthan
+1	skm	rajasthan
+1	farmers	rajasthan
+1	indian	rajasthan
+1	singh	rajasthan
+1	assembly	rajasthan
+1	morcha	rajasthan
+1	gurnam singh	tikait
+1	gurnam singh	skm
+1	indian	gurnam singh
+1	assembly	gurnam singh
+1	gurnam singh	rajasthan
+1	khalistani	bjp
+1	khalistani	centre
+1	khalistani	modi
+1	bku	khalistani
+1	khalistani	kisan morcha
+1	tikait	khalistani
+1	skm	khalistani
+1	khalistani	farmers
+1	indian	khalistani
+1	khalistani	singh
+1	assembly	khalistani
+1	morcha	khalistani
+1	khalistani	rajasthan
+1	gurnam singh	khalistani
+1	indian	us
+1	rajasthan	us
+1	khalistani	us
+1	yogendra yadav	bjp
+1	yogendra yadav	tikri
+1	yogendra yadav	kisan morcha
+1	yogendra yadav	skm
+1	yogendra yadav	farmers
+1	yogendra yadav	singh
+1	yogendra yadav	morcha
+1	all india	bjp
+1	tikri	all india
+1	kisan morcha	all india
+1	skm	all india
+1	farmers	all india
+1	singh	all india
+1	morcha	all india
+1	yogendra yadav	all india
+1	yogendra yadav	us
+1	all india	us
+1	singhu	modi
+1	modi	tikri
+1	ghazipur	modi
+1	ghazipur	house
+1	price assurance and farm services act	singhu
+1	price assurance and farm services act	tikri
+1	price assurance and farm services act	ghazipur
+1	balbir singh rajewal	centre
+1	balbir singh rajewal	modi
+1	singhu	balbir singh rajewal
+1	balbir singh rajewal	tikri
+1	balbir singh rajewal	kisan morcha
+1	ghazipur	balbir singh rajewal
+1	balbir singh rajewal	farmers
+1	balbir singh rajewal	singh
+1	morcha	balbir singh rajewal
+1	balbir singh rajewal	house
+1	price assurance and farm services act	balbir singh rajewal
+1	balbir singh rajewal	us
+1	singhu	bjp
+1	ghazipur	bjp
+1	singhu	skm
+1	ghazipur	skm
+1	congress	bjp
+1	congress	centre
+1	congress	modi
+1	bku	congress
+1	congress	kisan morcha
+1	congress	farmers
+1	congress	singh
+1	morcha	congress
+1	sad	bjp
+1	sad	centre
+1	sad	modi
+1	bku	sad
+1	congress	sad
+1	sad	kisan morcha
+1	farmers	sad
+1	sad	singh
+1	morcha	sad
+1	house	bjp
+1	bku	house
+1	congress	house
+1	house	sad
+1	gurnam singh	congress
+1	gurnam singh	sad
+1	gurnam singh	house
+1	price assurance and farm services act	bjp
+1	price assurance and farm services act	bku
+1	price assurance and farm services act	congress
+1	price assurance and farm services act	sad
+1	price assurance and farm services act	gurnam singh
+1	congress	us
+1	sad	us

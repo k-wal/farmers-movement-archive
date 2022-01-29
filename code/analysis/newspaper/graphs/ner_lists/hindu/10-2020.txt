@@ -1,0 +1,4995 @@
+ORG||state||364
+ORG||bjp||302
+ORG||congress||214
+ORG||parliament||181
+GPE||centre||178
+GPE||bills||160
+ORG||bku||137
+ORG||msp||123
+PERSON||tikait||117
+PERSON||modi||95
+PERSON||kisan morcha||89
+ORG||assembly||89
+PERSON||kisan sabha||89
+GPE||states||83
+PERSON||singh||81
+ORG||skm||75
+GPE||singhu||73
+GPE||tikri||73
+ORG||ghazipur||72
+PERSON||lok sabha||60
+PERSON||bill||57
+ORG||sad||56
+GPE||telangana||45
+PERSON||amarinder singh||44
+ORG||farmers||42
+ORG||opposition||40
+ORG||dmk||38
+ORG||nda||38
+NORP||indian||37
+PERSON||covid-19||37
+PERSON||rajya sabha||36
+PERSON||delhi police||36
+ORG||apmc||31
+ORG||central||30
+ORG||all india||30
+ORG||aap||29
+ORG||aiadmk||29
+GPE||rajasthan||29
+GPE||bengaluru||28
+PERSON||yogendra yadav||28
+ORG||house||27
+PERSON||inderjit singh||26
+ORG||aiks||26
+GPE||muzaffarnagar||26
+GPE||bihar||26
+PERSON||badal||26
+ORG||supreme court||25
+PERSON||kumar||25
+ORG||communist party of india||23
+ORG||andhra pradesh||23
+ORG||swaraj india||22
+PERSON||darshan pal||21
+PERSON||narendra singh||21
+PERSON||tomar||21
+ORG||harsimrat kaur badal||21
+PERSON||dharmendra malik||20
+ORG||cm||20
+PERSON||jagmohan singh||20
+ORG||national democratic alliance||19
+ORG||fir||19
+ORG||kurukshetra||19
+ORG||cabinet||19
+ORG||union||18
+ORG||jantar mantar||18
+PERSON||rohtak||18
+PERSON||k. chandrasekhar rao||18
+PERSON||rahul gandhi||18
+PERSON||amarinder||18
+ORG||tmc||18
+PERSON||shivamogga||17
+GPE||china||17
+ORG||krantikari kisan union||16
+ORG||punjab’s||16
+PERSON||b.s. yediyurappa||16
+PERSON||narendra modi’s||16
+PERSON||yudhvir singh||15
+PERSON||ranga rao||15
+PERSON||edappadi k. palaniswami||15
+PERSON||amit shah||15
+ORG||aikscc||15
+PERSON||gandhi||15
+NORP||marxist||14
+ORG||bjp’s||14
+GPE||amritsar||14
+PERSON||meerut||14
+ORG||budget||14
+PERSON||m.k. stalin||14
+ORG||aicc||14
+ORG||agriculture||14
+PERSON||rao||14
+PERSON||hannan mollah||14
+ORG||farmers (empowerment and protection) agreement on price assurance and farm services||14
+PERSON||sukhbir singh||14
+PERSON||dalit||13
+ORG||state assembly||13
+GPE||hisar||13
+PERSON||manohar lal||13
+GPE||ghaziabad||13
+ORG||mla||13
+NORP||chinese||13
+PERSON||rashtriya lok dal||13
+PERSON||jayant chaudhary||13
+GPE||tpcc||13
+PERSON||ambala||13
+ORG||charuni||13
+PERSON||karnataka rajya raitha sangha||12
+NORP||bharat||12
+GPE||saharanpur||12
+PERSON||madhya pradesh||12
+PERSON||chaudhary||12
+PERSON||vadde hanuma reddy||12
+ORG||dakaunda||12
+PERSON||sonia gandhi||12
+PERSON||ram nath kovind||12
+ORG||union cabinet||12
+GPE||barnala||12
+PERSON||gurnam singh charuni||12
+ORG||centre’s||11
+GPE||fatehabad||11
+ORG||rld||11
+PERSON||kcr||11
+PERSON||y.s. jagan||11
+GPE||burari||11
+ORG||centre of indian trade unions||11
+PERSON||ram nath||11
+PERSON||karnal||11
+ORG||tsinghua university||11
+GPE||pakistan||11
+GPE||ludhiana||10
+ORG||jjp||10
+ORG||ysrcp||10
+ORG||fatehgarh sahib||10
+GPE||gujarat||10
+ORG||kpcc||10
+GPE||salem||10
+PERSON||jind||10
+ORG||whatsapp||10
+PERSON||dharwad||10
+GPE||mathura||10
+GPE||u.s.||10
+GPE||patiala||10
+PERSON||sirsa||10
+ORG||state government||10
+PERSON||sikh||10
+PERSON||nirmala sitharaman||10
+ORG||finance||10
+PERSON||avtar singh||9
+PERSON||haveri||9
+ORG||bharat bandh||9
+ORG||chennai||9
+ORG||punjabi||9
+NORP||british||9
+ORG||legislative assembly||9
+NORP||hindus||9
+ORG||rss||9
+GPE||mumbai||9
+PERSON||siddaramaiah||9
+ORG||kaithal||9
+ORG||morcha||9
+GPE||baghpat||9
+PERSON||stalin||9
+GPE||hyderabad||9
+PERSON||ajit nawale||9
+PERSON||sarvan singh pandher||9
+ORG||raju shetti||9
+ORG||agricultural produce market committee||9
+PERSON||mahatma gandhi||9
+ORG||coimbatore||8
+ORG||bhagat||8
+ORG||narendra modi-led||8
+GPE||belagavi||8
+ORG||udf||8
+ORG||ldf||8
+PERSON||kumari selja||8
+ORG||ipc||8
+ORG||kalaburagi||8
+PERSON||yadav||8
+PERSON||hassan||8
+PERSON||citu||8
+ORG||food corporation of india||8
+PERSON||d.k. shivakumar||8
+PERSON||mohan reddy||8
+GPE||khammam||8
+PERSON||raju maan||8
+PERSON||surjewala||8
+PERSON||arvind kejriwal||8
+PERSON||nawale||8
+GPE||jammu||8
+PERSON||apmc act||8
+ORG||fci||8
+PERSON||rakesh bains||8
+PERSON||swabhimani shetkari sanghatana||8
+ORG||samajwadi party||8
+ORG||all india congress committee||8
+PERSON||birla||8
+PERSON||dushyant chautala||8
+GPE||sonipat||8
+NORP||sikhs||8
+ORG||mamata banerjee||8
+PERSON||sukhdev singh||7
+ORG||central government||7
+PERSON||rashtriya kisan mahasangh||7
+PERSON||hasiru sene||7
+PERSON||bhagat singh||7
+GPE||kolkata||7
+ORG||left democratic front||7
+PERSON||balbir singh||7
+ORG||bjp state||7
+PERSON||ashok gehlot||7
+NORP||jats||7
+PERSON||malik||7
+PERSON||palaniswami||7
+GPE||mysuru||7
+NORP||muslims||7
+ORG||charkhi dadri||7
+PERSON||tiruchi||7
+ORG||kirti kisan union||7
+PERSON||n. uttam||7
+PERSON||kumar reddy||7
+PERSON||indira gandhi||7
+ORG||andhra pradesh congress committee||7
+ORG||global times||7
+ORG||farm bills||7
+GPE||kolhapur||7
+ORG||houses||7
+ORG||punjab assembly||7
+PERSON||singh surjewala||7
+ORG||farmers (empowerment and protection) agreement of price assurance and farm services||7
+PERSON||reddy||7
+ORG||kmsc||7
+PERSON||chautala||7
+ORG||dcp||7
+PERSON||ajit singh||7
+PERSON||balbir singh rajewal||6
+PERSON||yediyurappa||6
+ORG||united democratic front||6
+ORG||ysr congress party||6
+ORG||visakhapatnam steel plant||6
+PERSON||cheema||6
+ORG||swaminathan commission||6
+NORP||khalistanis||6
+PERSON||hooda||6
+ORG||youth congress||6
+ORG||bhiwani||6
+ORG||ministry||6
+ORG||congress legislature party||6
+PERSON||haryana police||6
+ORG||bahadurgarh||6
+PERSON||harinder singh||6
+GPE||gurugram||6
+PERSON||aituc||6
+ORG||krrs||6
+ORG||modi government||6
+ORG||high court||6
+PERSON||patil||6
+ORG||union home||6
+PERSON||mann||6
+PERSON||shah||6
+PERSON||sanjay singh||6
+PERSON||ponnam prabhakar||6
+ORG||tamil nadu congress committee||6
+PERSON||ashok kumar||6
+PERSON||haryana kisan sabha||6
+ORG||union home ministry||6
+ORG||railway||6
+ORG||acts||6
+PERSON||s. sailajanath||6
+PERSON||qian feng||6
+ORG||national strategy institute||6
+ORG||mgnrega||6
+ORG||sss||6
+PERSON||shetti||6
+ORG||karnataka land reforms act||6
+ORG||upper house||6
+PERSON||pralhad joshi||6
+NORP||protests||6
+GPE||bijnor||6
+ORG||farmers produce trade and commerce (promotion and facilitation||6
+PERSON||mandya||6
+PERSON||raj bhavan||6
+ORG||a. revanth reddy||6
+PERSON||j.p. nadda||6
+ORG||farmers (empowerment and protection||6
+ORG||panipat||6
+ORG||bathinda||6
+GPE||hindi||6
+PERSON||sharma||6
+PERSON||vidhan sabha||6
+GPE||hathras||6
+ORG||union budget||6
+ORG||delhi-meerut expressway||5
+ORG||life care foundation||5
+ORG||secular progressive alliance||5
+GPE||tiruppur||5
+PERSON||chukki nanjundaswamy||5
+NORP||american||5
+PERSON||pal||5
+PERSON||samyukta horata||5
+ORG||jannayak janta party||5
+ORG||international women’s day||5
+PERSON||priscilla jebaraj||5
+PERSON||badagalpura nagendra||5
+PERSON||khalistani||5
+PERSON||kurubur shanthakumar||5
+PERSON||haryana chief||5
+ORG||aiims||5
+PERSON||faridkot||5
+PERSON||pro-dalit||5
+ORG||uttar pradesh and uttarakhand||5
+PERSON||tikri kalan||5
+PERSON||ravula venkaiah||5
+GPE||assam||5
+PERSON||puducherry||5
+ORG||haryana assembly||5
+ORG||delhi-hisar||5
+GPE||jaipur||5
+GPE||tirupati||5
+GPE||amaravati||5
+GPE||yamunanagar||5
+PERSON||h.d. kumaraswamy||5
+ORG||sangharsh coordination committee||5
+PERSON||raghav chadha||5
+PERSON||pipli||5
+PERSON||tejashwi yadav||5
+ORG||farm acts||5
+PERSON||tagore||5
+PERSON||g. jayaraj||5
+ORG||hubballi||5
+PERSON||bandi sanjay||5
+PERSON||bulandshahr||5
+PERSON||manmohan singh||5
+PERSON||sailajanath||5
+GPE||jhajjar||5
+ORG||cooperatives||5
+GPE||beijing||5
+ORG||lakhowal||5
+GPE||erode||5
+PERSON||harivansh||5
+ORG||nalgonda||5
+ORG||nationalist congress party||5
+ORG||agriculture produce marketing committee||5
+GPE||ghaziapur||5
+GPE||thanjavur||5
+PERSON||sukhbir singh badal||5
+ORG||defence||5
+PERSON||rajnath singh||5
+ORG||kisan sangharsh coordination committee||5
+PERSON||edappadi k palaniswami||5
+GPE||aligarh||5
+PERSON||pawar||5
+ORG||all-india||5
+PERSON||jagmati sangwan||5
+PERSON||rajewal||5
+PERSON||nodeep kaur||5
+PERSON||lucknow||5
+ORG||karnataka pradesh congress committee||5
+GPE||mewat||5
+NORP||muslim||5
+ORG||union government||5
+PERSON||kisan samman||5
+PERSON||sanjeev balyan||5
+ORG||tihar||5
+PERSON||maninder singh||5
+PERSON||mandeep punia||5
+PERSON||holi||4
+ORG||forest department||4
+PERSON||sitaram yechury||4
+PERSON||raitha sangha||4
+PERSON||kisan morcha’s||4
+NORP||indians||4
+PERSON||raitha mahapanchayat||4
+PERSON||mahendra singh||4
+PERSON||manjeet singh||4
+GPE||shahjahanpur||4
+ORG||anand vihar||4
+PERSON||anuj kumar||4
+ORG||state assemblies||4
+ORG||cbi||4
+ORG||iuml||4
+PERSON||jai kisan andolan||4
+PERSON||tikri border||4
+ORG||leader of opposition||4
+ORG||kprs||4
+PERSON||hoshiarpur||4
+PERSON||raut||4
+GPE||united states||4
+PERSON||left||4
+PERSON||gurnam singh||4
+PERSON||kalyana karnataka||4
+GPE||chandigarh||4
+ORG||caa||4
+NORP||inter-state||4
+PERSON||yadava||4
+ORG||rewari||4
+GPE||jd(s||4
+ORG||tdp||4
+ORG||ani||4
+ORG||nirankari||4
+GPE||west delhi||4
+ORG||delhi congress||4
+PERSON||kejriwal||4
+PERSON||haryana congress||4
+ORG||upa||4
+PERSON||nitish kumar||4
+PERSON||balasaheb thorat||4
+GPE||sangli||4
+PERSON||k.s. alagiri||4
+PERSON||sanjay dutt||4
+PERSON||nirbhay singh||4
+PERSON||trivedi||4
+ORG||lic||4
+GPE||raichur||4
+PERSON||ambani||4
+GPE||indira park||4
+ORG||pds||4
+NORP||maoists||4
+PERSON||k chandrasekhar rao||4
+PERSON||eish singhal||4
+ORG||cpm||4
+PERSON||karnataka prantha raitha sangha||4
+ORG||delhi metro rail corporation||4
+PERSON||piyush goyal||4
+PERSON||kisan adhikar||4
+ORG||essential commodities (amendment) bill||4
+GPE||bhutan||4
+PERSON||h.d. deve gowda||4
+PERSON||gowda||4
+ORG||ordinances||4
+ORG||swaminathan committee||4
+PERSON||sukhbir badal||4
+PERSON||sukhbir||4
+ORG||communist party||4
+ORG||bahujan samaj party||4
+ORG||chair||4
+PERSON||rajya sabha mps||4
+ORG||t.r. baalu||4
+GPE||krishna||4
+GPE||phagwara||4
+ORG||janata dal (secular||4
+GPE||krishnagiri||4
+ORG||minimum support prices||4
+PERSON||ajit pawar||4
+PERSON||tiruchi siva||4
+PERSON||pandher||4
+PERSON||manohar lal khattar||4
+PERSON||rashtriya janata dal||4
+ORG||yamuna nagar||4
+GPE||madurai||4
+GPE||panchkula||4
+GPE||sangrur||4
+ORG||sharad pawar||4
+ORG||houses of parliament||4
+GPE||ropar||4
+ORG||ministers||4
+ORG||leader of||4
+PERSON||scheduled castes||4
+ORG||mansa||4
+ORG||national investigation agency||4
+ORG||lpg||4
+PERSON||devi lal||4
+PERSON||gehlot||4
+ORG||union agriculture||4
+PERSON||sidhu||4
+PERSON||gurmeet singh||4
+PERSON||banerjee||4
+PERSON||ramnath kovind||4
+PERSON||aikscc prakasam||4
+GPE||canada||4
+NORP||sp||4
+ORG||farmers (empowerment and protection) agreement on price assurance and farm services act||4
+ORG||lakhimpur kheri||4
+PERSON||joginder singh||4
+NORP||hindutva||4
+GPE||baraut||4
+NORP||balyan||4
+ORG||panchayat||4
+GPE||odisha||4
+PERSON||disha ravi||4
+PERSON||kanimozhi||4
+PERSON||yogi adityanath||4
+PERSON||gurnam singh chaduni||3
+NORP||kadian||3
+PERSON||k.t. gangadhar||3
+PERSON||h.r. basavarajappa||3
+PERSON||kisan mazdoor||3
+PERSON||medha patkar||3
+ORG||anti-india||3
+ORG||agriculture ministry||3
+PERSON||anti-bjp||3
+PERSON||dalit sangharsha samiti||3
+PERSON||k.l. ashok||3
+ORG||opposition congress||3
+NORP||independents||3
+GPE||independent||3
+GPE||bahadurgarh city||3
+ORG||east india company||3
+PERSON||buta singh burjgill||3
+PERSON||rajya raitha sangha||3
+PERSON||satish jarkiholi||3
+PERSON||aikya horata||3
+ORG||national democratic alliance (||3
+PERSON||selja||3
+ORG||opposition bhupinder singh hooda||3
+ORG||union territory||3
+GPE||nh-9||3
+PERSON||kisan mahapanchayat||3
+ORG||vidyadhar nagar stadium||3
+ORG||swaraj abhiyan’s||3
+ORG||bhim army’s||3
+PERSON||chandrashekhar azad||3
+PERSON||rajasthan jat mahasabha||3
+ORG||akhil bharatiya adivasi vikas parishad||3
+ORG||state capital||3
+GPE||kasaragod||3
+ORG||haryana’s sonipat||3
+ORG||nagaur mp hanuman beniwal||3
+GPE||vallabhnagar||3
+NORP||rajsamand||3
+ORG||jagat circle||3
+PERSON||sharanabasappa mamshetty||3
+PERSON||bhatinda||3
+PERSON||h.v. diwakar||3
+NORP||chikkamagaluru||3
+PERSON||manjinder singh||3
+ORG||indian army||3
+PERSON||gian chand||3
+PERSON||viduthalai chiruthaigal katchi||3
+PERSON||h.r. naveen||3
+PERSON||babu||3
+GPE||revanth reddy||3
+GPE||mamata||3
+GPE||sisauli||3
+ORG||agricultural||3
+PERSON||shivakumar||3
+PERSON||gill||3
+PERSON||satvir singh||3
+PERSON||harvinder singh||3
+GPE||kapurthala||3
+ORG||delhi-ambala||3
+ORG||haryana railway police||3
+ORG||communist party of||3
+ORG||vsp||3
+GPE||visakhapatnam||3
+ORG||ml-nd||3
+ORG||punjab’s moga||3
+ORG||palwal||3
+GPE||bidar||3
+NORP||ballari||3
+PERSON||telugu desam party||3
+PERSON||randeep surjewala||3
+ORG||agricultural produce market committees||3
+ORG||ghmc||3
+PERSON||k. narayana||3
+PERSON||rama rao||3
+ORG||national highway||3
+PERSON||sanjay raut||3
+ORG||bihar assembly||3
+GPE||nitish||3
+ORG||electricity (amendment) bill||3
+NORP||tirunelveli||3
+NORP||thoothukudi||3
+PERSON||nagendra||3
+ORG||bharatiya kisan sangh||3
+ORG||jagan mohan reddy||3
+ORG||telangana congress||3
+PERSON||h.k. patil||3
+ORG||maha vikas aghadi||3
+ORG||ordinance||3
+PERSON||vikramarka||3
+PERSON||alagiri||3
+PERSON||deepavali||3
+PERSON||dutt||3
+PERSON||pm||3
+ORG||intuc||3
+PERSON||narasinga rao||3
+PERSON||ram vilas paswan||3
+GPE||barricades||3
+PERSON||shree ram sharma||3
+PERSON||hoshiar singh||3
+GPE||moradabad||3
+ORG||agra||3
+ORG||goods||3
+PERSON||altaf halwoor||3
+GPE||kundli||3
+ORG||doklam||3
+NORP||bhutanese||3
+ORG||ferozepur||3
+PERSON||ashutosh kohar||3
+ORG||labour codes||3
+PERSON||dubbak||3
+PERSON||act||3
+PERSON||sunil kedar||3
+ORG||line of actual control||3
+PERSON||xi jinping||3
+ORG||youtube||3
+ORG||hatkanangale||3
+PERSON||k.k. ragesh||3
+PERSON||elamaram kareem||3
+NORP||swaminathan||3
+PERSON||sathyan mokeri||3
+PERSON||rythu bandhu||3
+ORG||parliament house||3
+PERSON||anil kumar||3
+PERSON||farming produce trade and commerce||3
+ORG||national education policy||3
+PERSON||harsimrat badal||3
+PERSON||k.g. halli||3
+PERSON||rattan mann||3
+PERSON||kannada||3
+PERSON||siddu teji||3
+ORG||janata dal(s||3
+ORG||gadag||3
+GPE||vijayapura||3
+GPE||perambalur||3
+ORG||marumalarchi dravida munnetra kazhagam||3
+NORP||r.||3
+NORP||rajendran||3
+GPE||dharmapuri||3
+PERSON||tamilisai soundararajan||3
+ORG||congress state||3
+ORG||ysr congress||3
+ORG||select committee||3
+PERSON||v.s. sunil||3
+PERSON||sabha||3
+ORG||leader of the opposition siddaramaiah||3
+ORG||ias||3
+PERSON||xi||3
+PERSON||uddhav thackeray||3
+ORG||bhartaiya kisan union||3
+PERSON||prem singh||3
+ORG||people’s liberation army||3
+ORG||pla||3
+ORG||industrial relations code||3
+ORG||working conditions code||3
+ORG||bks||3
+PERSON||naidu||3
+PERSON||pinarayi vijayan||3
+PERSON||vijayan||3
+NORP||aadhaar||3
+ORG||bhupinder singh hooda||3
+ORG||ambala-kaithal||3
+PERSON||jind-patiala||3
+PERSON||rajesh ranjan||3
+ORG||patna||3
+ORG||tamizhaga vivasayigal sangam||3
+GPE||north karnataka||3
+PERSON||kharge||3
+PERSON||mandi||3
+PERSON||lal bahadur shastri||3
+ORG||shambhu||3
+PERSON||sandeep beniwal||3
+ORG||thiruvananthapuram||3
+ORG||kerala pradesh congress committee||3
+PERSON||ramesh chennithala||3
+PERSON||sanjay agarwal||3
+ORG||district congress committee||3
+NORP||kotwali||3
+PERSON||karnataka rajya raitha||3
+ORG||cctv||3
+ORG||legislative council||3
+ORG||mva||3
+GPE||narela||3
+ORG||tohana||3
+ORG||inld||3
+PERSON||shamsher singh||3
+PERSON||sukhwinder singh barwa||3
+PERSON||amit valmiki||3
+PERSON||rajveer kaur||3
+PERSON||mazdoor adhikar sangathan||3
+ORG||punjab kisan union||3
+PERSON||adhir ranjan chowdhury||3
+PERSON||sanjay kumar||3
+GPE||bangladesh||3
+PERSON||jaspal singh||3
+ORG||bharatiya janata party-jannayak janta party||3
+PERSON||rakesh||3
+ORG||ekta-ugrahan||3
+GPE||bku(u||3
+GPE||kharif||3
+ORG||army||3
+ORG||haryana’s panipat||3
+PERSON||andhra pradesh rythu||3
+PERSON||p. hanumantha rao||3
+ORG||revenue department||3
+GPE||uk||3
+GPE||jharkhand||3
+GPE||sri lanka||3
+NORP||dhakaunda||3
+PERSON||sudhakar||3
+NORP||hindu-muslim||3
+NORP||nihang sikhs||3
+PERSON||rajveer singh||3
+ORG||rashtriya swayamsevak sangh||3
+PERSON||chandrasekhar rao||3
+NORP||gandhian||3
+PERSON||kanam rajendran||3
+GPE||bhainswal village||3
+PERSON||navreet singh||3
+PERSON||tricolour||3
+ORG||mukarba chowk||3
+GPE||alipur||3
+GPE||baldev||3
+ORG||skm’s||3
+GPE||pulwama||3
+PERSON||sukhjeet singh||3
+PERSON||meena harris||3
+PERSON||sangwan khap||3
+ORG||treasury||3
+PERSON||deep sidhu||3
+PERSON||punia||3
+PERSON||rohit kumar||3
+GPE||kulchana||3
+PERSON||gangadhar badiger||3
+ORG||congress party||3
+PERSON||k. mani||3
+ORG||kerala congress (m||3
+PERSON||mani||3
+ORG||bharti kisan union||2
+ORG||we farm||2
+ORG||perambra||2
+PERSON||amrik singh||2
+NORP||united sikhs||2
+PERSON||yechury||2
+ORG||polit bureau||2
+GPE||sagar||2
+PERSON||madhu bangarappa||2
+PERSON||gangadhar||2
+GPE||karshaka||2
+PERSON||k.v. biju||2
+ORG||ramraj||2
+ORG||nandigram||2
+PERSON||jayashree gurannanavar||2
+PERSON||choonappa pujari||2
+ORG||pmo||2
+ORG||united nations||2
+ORG||tamil nadu assembly||2
+PERSON||d. raja||2
+ORG||haryana’s hisar||2
+ORG||sanjivini||2
+ORG||society for mental health||2
+PERSON||kodihalli chandrashekhar||2
+PERSON||ahmad||2
+GPE||rajguru||2
+PERSON||sukhdev||2
+ORG||a bharat bandh||2
+PERSON||vikas sisar||2
+ORG||punjab’s fatehgarh sahib||2
+PERSON||mahapanchayat||2
+ORG||karnataka bandh||2
+PERSON||yuddhaveer singh||2
+ORG||state agriculture||2
+PERSON||karnataka apmc act||2
+ORG||karnataka rajya raita||2
+PERSON||kc(m||2
+PERSON||lal||2
+PERSON||shaheed diwas||2
+PERSON||jat mahasabha||2
+PERSON||raja ram meel||2
+ORG||bku’s state||2
+PERSON||k.c. ghumaria||2
+ORG||dharapuram||2
+PERSON||l. murugan||2
+PERSON||p. madhu||2
+PERSON||tirupati lok sabha||2
+ORG||rashtriya loktantrik party||2
+ORG||rlp||2
+GPE||sujangarh||2
+ORG||indian national congress||2
+PERSON||k.p. sripal||2
+PERSON||nalin kumar kateel||2
+PERSON||k.s. eshwarappa||2
+ORG||ikya horata samiti||2
+PERSON||k. neela||2
+ORG||all india institute of medical sciences||2
+PERSON||bill 2020||2
+PERSON||maula mulla||2
+PERSON||mahatma gandhi national rural employment guarantee act||2
+PERSON||palanisamy||2
+PERSON||tammineni veerabhadram||2
+NORP||valmiki||2
+PERSON||mla b.r. patil||2
+PERSON||satnam singh||2
+PERSON||chamarasa malipatil||2
+ORG||punjab’s roopnagar||2
+GPE||singh hooda||2
+PERSON||gupta||2
+ORG||kisan union||2
+ORG||thirumavalavan||2
+ORG||vck||2
+ORG||pmk||2
+ORG||vanniyars||2
+ORG||palladam||2
+PERSON||k. surendran||2
+PERSON||k. sudhakaran||2
+PERSON||manjeet singh shergill||2
+PERSON||ramandeep singh||2
+PERSON||singh sidhu||2
+ORG||uttar pradesh police||2
+NORP||pakistani||2
+PERSON||rajvir singh||2
+ORG||microsoft||2
+GPE||vietnam||2
+ORG||delhi-meerut||2
+ORG||delhi traffic police||2
+PERSON||singhu border||2
+PERSON||jaspreet singh||2
+PERSON||charanjeet singh||2
+ORG||left front||2
+ORG||protesters||2
+PERSON||bhatti vikramarka||2
+PERSON||yasangi||2
+GPE||national||2
+PERSON||najafgarh||2
+PERSON||b. sriramulu||2
+GPE||edappadi||2
+GPE||yadgir||2
+PERSON||khandre||2
+ORG||kuldeep singh||2
+PERSON||jaswant singh||2
+ORG||union and state||2
+GPE||nellore||2
+ORG||opposition tdp||2
+GPE||vijayawada||2
+ORG||india state||2
+ORG||rtc||2
+GPE||bhadradri||2
+PERSON||kulwant singh||2
+PERSON||bhiwani-rohtak||2
+GPE||police||2
+PERSON||manoj yadava||2
+PERSON||kumaraswamy||2
+PERSON||b.r. patil||2
+PERSON||narayana||2
+PERSON||k.t. rama rao||2
+PERSON||m. rajeev||2
+PERSON||mann ki baat||2
+GPE||hoshiyarpur||2
+GPE||khalistan||2
+ORG||tenkasi||2
+PERSON||venkaiah||2
+PERSON||y.s. rajasekhara reddy||2
+PERSON||v. rajagopala reddy||2
+ORG||direct benefit transfer||2
+ORG||dbt||2
+GPE||amravati||2
+PERSON||yashomati thakur||2
+GPE||jayalalithaa||2
+ORG||karnataka rajya raita sangha||2
+GPE||sanna||2
+PERSON||kusum kumar||2
+ORG||pcc||2
+PERSON||sanna rakalu||2
+ORG||attari-wagah’||2
+ORG||gurugram’s rathiwas||2
+PERSON||kisan mahasangh||2
+ORG||mettupalayam||2
+ORG||pollachi||2
+PERSON||su||2
+PERSON||venkatesan||2
+GPE||dindigul||2
+GPE||sivaganga||2
+GPE||karaikudi||2
+PERSON||manamadurai||2
+GPE||tirupattur||2
+GPE||virudhunagar||2
+ORG||indian national trade union congress||2
+ORG||joint committee of trade unions||2
+PERSON||mahesh pattar||2
+PERSON||b.s. soppin||2
+PERSON||amrut ijari||2
+PERSON||laxman jadagannavar||2
+ORG||new education policy||2
+ORG||aiutuc||2
+ORG||life insurance corporation||2
+ORG||secretariat||2
+PERSON||s.n. shrivastava||2
+PERSON||bose raju||2
+PERSON||uttam kumar reddy||2
+ORG||election commission of india||2
+PERSON||muzaffarpur||2
+ORG||ljp||2
+PERSON||jayaraj||2
+PERSON||g. kishan reddy||2
+PERSON||m. jaggu naidu||2
+PERSON||r.k.s.v. kumar||2
+PERSON||buta singh||2
+ORG||green line||2
+PERSON||brigadier||2
+NORP||pandit||2
+ORG||dmrc||2
+ORG||railway ministry||2
+PERSON||mallu bhatti vikramarka||2
+ORG||ips||2
+ORG||erode urban district congress committee||2
+PERSON||e.p. ravi||2
+ORG||farmer’s produce trade and commerce (promotion and facilitation||2
+ORG||farmers (empowerment and protection) agreement of price assurance and farm services act||2
+PERSON||kalaimadu silai||2
+PERSON||vallabhbhai patel||2
+PERSON||rober daddapuri||2
+ORG||prakash ghatge||2
+ORG||hdmc||2
+PERSON||subhash shindhe||2
+PERSON||b.r. ambedkar||2
+PERSON||anand jadhav||2
+GPE||old hubballi||2
+PERSON||prasad abbayya||2
+PERSON||a.m. hindasageri||2
+PERSON||sardar patel||2
+ORG||d. rambhupal reddy||2
+PERSON||rambhupal reddy||2
+ORG||food||2
+PERSON||rythu vedika||2
+ORG||leader of the opposition harpal singh cheema||2
+PERSON||dilbag singh||2
+ORG||ghaziabad police||2
+ORG||mim||2
+PERSON||asaduddin owaisi||2
+PERSON||sudarshan rao||2
+ORG||maharashtra congress||2
+ORG||haridwar||2
+PERSON||suresh kumar||2
+PERSON||haryana dgp manoj yadava||2
+PERSON||singh virk||2
+ORG||vaishali||2
+ORG||supreme court of india||2
+ORG||tangedco||2
+ORG||national green tribunal||2
+GPE||bengaluru rural||2
+ORG||bengaluru urban||2
+PERSON||rayat shetkari sanghatana||2
+PERSON||khot||2
+GPE||japan||2
+GPE||australia||2
+ORG||g-7||2
+GPE||taiwan||2
+ORG||bharti kissan union||2
+ORG||eca||2
+ORG||ajai-bhawan||2
+PERSON||krantikari||2
+PERSON||twitter||2
+PERSON||swabhimani shetkari||2
+ORG||district collector||2
+ORG||president’s house||2
+PERSON||rajeev satav||2
+PERSON||dola sen||2
+PERSON||venugopal||2
+PERSON||v. muraleedharan||2
+PERSON||ravi shankar prasad||2
+PERSON||samyuktha karshaka samithi||2
+ORG||k.n. balagopal||2
+ORG||malkajgiri mp a. revanth reddy||2
+ORG||chamber of associations of maharashtra industry and trade (camit||2
+PERSON||mohan gurnani||2
+ORG||camit||2
+PERSON||gurnani||2
+ORG||akhil bhartiya||2
+PERSON||kisan mitra yojna||2
+ORG||krishi upaj mandis||2
+PERSON||govind singh dotasra||2
+PERSON||harish chaudhary||2
+ORG||delhi pollution control committee||2
+ORG||dpcc||2
+ORG||cabinet committee on parliamentary affairs||2
+PERSON||harsimrat kaur||2
+PERSON||v. narayanasamy||2
+GPE||saamana||2
+ORG||kisan||2
+PERSON||haryana bku||2
+NORP||persian||2
+PERSON||shanthakumar||2
+PERSON||kisan mazdoor sabha||2
+ORG||haryana bharatiya kisan union||2
+GPE||shamli||2
+PERSON||yogendra singh||2
+PERSON||kittur chennamma circle||2
+ORG||nwkrtc||2
+PERSON||rajashekhar menasinakai||2
+ORG||babajan mudhol||2
+PERSON||hosamani siddappa circle||2
+GPE||khanapur||2
+GPE||yamakanamaradi||2
+ORG||pattukottai||2
+PERSON||ammapettai||2
+PERSON||karur||2
+GPE||pudukottai district||2
+GPE||ariyalur||2
+ORG||kongunadu makkal desiya katchi||2
+NORP||communist||2
+ORG||welfare party of india||2
+PERSON||maruti manpade||2
+PERSON||pro-kannada||2
+ORG||forest||2
+ORG||health||2
+PERSON||dakshina kannada||2
+NORP||marxists||2
+GPE||puttur||2
+GPE||belthangady||2
+PERSON||kumar bajal||2
+PERSON||srinivasa rao||2
+ORG||manickam tagore||2
+PERSON||jai jawan||2
+PERSON||jai kisan||2
+PERSON||partap singh bajwa||2
+ORG||s.r. balasubramoniyan||2
+PERSON||biju janata dal mp||2
+ORG||law department||2
+PERSON||ragesh||2
+PERSON||sanjay||2
+ORG||sit||2
+ORG||reliance||2
+ORG||union agriculture minister||2
+PERSON||ghulam nabi azad||2
+PERSON||v.p. singh||2
+PERSON||lakhwinder singh||2
+ORG||punjabi university||2
+PERSON||deng||2
+PERSON||li||2
+PERSON||jiang zemin||2
+GPE||xinjiang||2
+PERSON||xu zhangrun||2
+ORG||maharashtra’s||2
+ORG||price assurance and farm services ordinance||2
+PERSON||bhagwant mann||2
+ORG||jannayak janata party||2
+ORG||pan||2
+PERSON||d.j. halli||2
+GPE||ladakh||2
+GPE||quad||2
+ORG||leader of the opposition in the||2
+NORP||nationalist||2
+PERSON||ambedkar||2
+ORG||occupational safety, health and||2
+ORG||social security code||2
+ORG||rajya||2
+ORG||all-india congress committee||2
+ORG||iyc||2
+PERSON||azad||2
+ORG||sjm||2
+ORG||land acquisition ordinance||2
+PERSON||m. venkaiah naidu||2
+PERSON||c.m. thulasimani||2
+ORG||gobichettipalayam||2
+GPE||kadambur||2
+PERSON||chandy||2
+PERSON||nidhi||2
+PERSON||k. venkaiah||2
+ORG||malda||2
+ORG||murshidabad||2
+ORG||tamil nadu farmers association||2
+GPE||ramanathapuram||2
+ORG||mla n.h. konaraddi||2
+ORG||b.a. mudhol||2
+ORG||karnataka pranta raita||2
+ORG||social democratic party of india||2
+PERSON||dalit sangharsh samiti||2
+PERSON||s. ramachandran||2
+PERSON||prakasam bhavan||2
+PERSON||mallikarjun kharge||2
+ORG||farmers bills||2
+PERSON||devendra fadnavis||2
+GPE||nanded||2
+PERSON||ahmednagar||2
+ORG||collector||2
+PERSON||rabi||2
+GPE||rupnagar||2
+PERSON||maize||2
+PERSON||gurvinder singh||2
+PERSON||surjit singh||2
+PERSON||basmati||2
+ORG||union council of ministers||2
+ORG||state transport||2
+PERSON||n. chandrababu naidu||2
+ORG||a.p.||2
+ORG||discoms||2
+PERSON||ferozpur||2
+ORG||agriculture bills||2
+PERSON||kiran bedi||2
+PERSON||a. anbalagan||2
+ORG||katchi||2
+ORG||all india kisan sangarsh coordination committee||2
+PERSON||bhattacharya||2
+PERSON||agarwal||2
+ORG||rythu swarajya vedika||2
+PERSON||siva||2
+ORG||dcc||2
+ORG||haryana pradesh congress committee||2
+ORG||delhi development authority||2
+ORG||dda||2
+PERSON||chadha||2
+GPE||modiji||2
+PERSON||madan mohan jha||2
+PERSON||tej pratap yadav||2
+PERSON||jan adhikar party||2
+ORG||bihar pradesh congress committee||2
+ORG||bpcc||2
+PERSON||akhilesh singh||2
+ORG||ajay kapoor||2
+PERSON||mohammad shafiullah khan||2
+PERSON||tejashwi||2
+PERSON||tej pratap||2
+NORP||atmanirbhar bharat||2
+PERSON||pramod kumar||2
+PERSON||ronki ram||2
+PERSON||singh chair||2
+ORG||panjab university||2
+ORG||mlc||2
+GPE||warangal||2
+PERSON||bedi||2
+NORP||tahsildar||2
+ORG||council||2
+PERSON||arif mohammed khan||2
+GPE||prakasam||2
+ORG||uddhav thackeray-led||2
+PERSON||mahatma gandhi national rural employment guarantee scheme||2
+ORG||karnataka agricultural produce marketing (regulation and development||2
+ORG||janata dal (s||2
+ORG||opposition congress and jd(s||2
+GPE||sections||2
+ORG||congress party’s||2
+GPE||shahdara||2
+ORG||gidderbaha (muktsar||2
+ORG||uttar pradesh assembly||2
+PERSON||sibsagar mla||2
+PERSON||raijor dal||2
+PERSON||akhil gogoi||2
+NORP||anti-citizenship||2
+PERSON||gogoi||2
+PERSON||krishak mukti||2
+ORG||gauhati medical college and hospital||2
+ORG||state’s home department||2
+ORG||guwahati police||2
+ORG||guru jambheshwar university||2
+PERSON||grover||2
+PERSON||hansi mla vinod bhayana||2
+ORG||aidwa||2
+ORG||srisailam||2
+GPE||nagarjunasagar||2
+GPE||venkatagiri||2
+PERSON||murugan||2
+PERSON||sanjeev sharma||2
+NORP||slogans||2
+ORG||khori basti||2
+ORG||faridabad police||2
+PERSON||ravinder||2
+ORG||badkhal||2
+PERSON||s. niranjan reddy||2
+PERSON||rythu beema||2
+NORP||dalits||2
+PERSON||kisan sansad||2
+ORG||sansad bhavan||2
+PERSON||raminder singh patiala||2
+PERSON||jagjit singh||2
+ORG||karnataka state farmers’ association||2
+PERSON||darshan singh||2
+PERSON||godavari||2
+ORG||justice||2
+ORG||red fort||2
+PERSON||manish grover||2
+PERSON||narinder chhikara||2
+ORG||bahadurgarh chamber of commerce and industry||2
+GPE||ramanagaram||2
+GPE||gokak||2
+ORG||bsnl||2
+PERSON||sanjeev kumar yadav||2
+ORG||communist party of china||2
+PERSON||sukhwinder singh||2
+ORG||sikh gurudwara management committee||2
+ORG||haryana state agricultural marketing board||2
+PERSON||babli||2
+GPE||doaba||2
+PERSON||dhareri jattan||2
+PERSON||surinder kaur||2
+PERSON||surinder||2
+PERSON||gurmeet||2
+GPE||pangong lake||2
+GPE||depsang||2
+PERSON||demchok||2
+ORG||west bengal assembly||2
+PERSON||panchayat raj||2
+GPE||haryana’s bahadurgarh||2
+PERSON||pawan kumar||2
+NORP||bhavans||2
+ORG||pullavari||2
+PERSON||kuppanur||2
+ORG||kupannur||2
+PERSON||k. sivakami||2
+PERSON||ashok dhawale||2
+ORG||britishers||2
+PERSON||abhimanyu kohar||2
+PERSON||satbir singh||2
+GPE||kottayam||2
+PERSON||singh cheema||2
+PERSON||yashwant sinha||2
+ORG||bku’s||2
+ORG||national front||2
+ORG||badagalapura nagendra||2
+ORG||frp||2
+PERSON||anil vij||2
+PERSON||kozhikode||2
+ORG||k-rail||2
+NORP||western ghats||2
+ORG||silverline||2
+ORG||wayanad||2
+PERSON||mollah||2
+ORG||kcr’s||2
+GPE||guru nanak||2
+PERSON||basavaraj bommai||2
+PERSON||m.s. swaminathan||2
+ORG||organisation for protection of democracy state||2
+PERSON||ajay mishra||2
+PERSON||santok singh||2
+ORG||bjp government||2
+PERSON||rytu bandhu||2
+ORG||national register of citizens||2
+ORG||sircilla||2
+ORG||lakhimpur||2
+ORG||u.p. assembly||2
+GPE||sap||2
+PERSON||mla seethakka||2
+PERSON||g. chinna reddy||2
+ORG||gurpurab||2
+ORG||narendra modi government||2
+ORG||agricultural produce marketing committee||2
+PERSON||v. rambhupal||2
+ORG||rythu sangham||2
+PERSON||b. ganga rao||2
+ORG||gvmc||2
+PERSON||m. pydiraju||2
+PERSON||rajendra sharma||2
+ORG||maharishi dayanand university||2
+ORG||haryana agriculture university||2
+PERSON||ram kanwar||2
+ORG||national flag||2
+PERSON||ajit singh’s||2
+PERSON||darshan pal singh||2
+PERSON||amreek singh||2
+ORG||bharat kisan union||2
+GPE||delhi union of journalists||2
+ORG||duj||2
+ORG||rapid action force||2
+ORG||raf||2
+ORG||dtc||2
+ORG||ito||2
+PERSON||v.m. singh||2
+ORG||additional district magistrate||2
+GPE||loni||2
+PERSON||charan singh||2
+PERSON||bundelkhand||2
+PERSON||harinder happy||2
+PERSON||happy||2
+ORG||haryana’s jat||2
+PERSON||bharatpur||2
+PERSON||ghulam mohammad jola||2
+PERSON||jola||2
+PERSON||ahmed||2
+PERSON||mohammed iqbal||2
+ORG||youtubers||2
+GPE||bilari||2
+PERSON||rashtriya lok dal (rld||2
+PERSON||sarvan singh||2
+GPE||raviryala||2
+PERSON||kisan mahapanchayat’||2
+GPE||gumthala garhu||2
+PERSON||non-sikh||2
+ORG||modi-led union||2
+PERSON||dalbir singh||2
+PERSON||rajan||2
+ORG||punjab’s faridkot||2
+GPE||barabanki||2
+ORG||sonipat’s||2
+PERSON||kamala harris||2
+PERSON||karat||2
+GPE||kandela||2
+PERSON||kandela khap||2
+ORG||khap||2
+PERSON||dadri mla sombir sangwan||2
+PERSON||rihanna||2
+ORG||state’s||2
+ORG||home ministry||2
+PERSON||prabhjot singh||2
+PERSON||jarnail singh||2
+ORG||swaroop nagar||2
+ORG||maninder||2
+ORG||telangana pradesh congress committee||2
+PERSON||kushwaha||2
+ORG||pjf||2
+ORG||disha||2
+GPE||bombay||2
+PERSON||ravi||2
+ORG||khurja||2
+PERSON||priyanka gandhi vadra||2
+PERSON||joshi||2
+ORG||jatin anand||2
+PERSON||singh lamba||2
+PERSON||bench||2
+PERSON||ramesh nagar||2
+ORG||govt||2
+ORG||aam admi party||2
+ORG||ml-new democracy||2
+ORG||motion of thanks||2
+ORG||bharatiya kisan union-dakaunda||2
+GPE||tamil||2
+PERSON||priyanka gandhi||2
+GPE||fazilka||2
+ORG||vikas vasudeva||2
+PERSON||devaki yoganand||2
+ORG||accredited social health activists||2
+GPE||gurdaspur||2
+NORP||alwar||2
+PERSON||manpreet singh||2
+ORG||union budget 2021-22||2
+PERSON||sitharaman||2
+ORG||isbt||2
+ORG||swaminathan commission’s||2
+GPE||yojana||2
+ORG||election commission||2
+ORG||a. vijayaraghavan||2
+PERSON||vijayaraghavan||2
+PERSON||zoom||2
+ORG||state legislature||2
+GPE||baroda||2
+ORG||council of ministers||2
+ORG||apcc||2
+PERSON||sripathy prakasam||2
+NORP||harish||2
+PERSON||krishi bhavan||2
+ORG||group of ministers||2
+PERSON||p. wilson||2
+ORG||cm’s||2
+PERSON||bhupender singh||2
+NORP||paswan||2
+ORG||food, civil supplies||2
+ORG||consumer affairs department||2
+PERSON||p.k. das||2
+NORP||pehowa||2
+GPE||ismailabad||2
+ORG||samalkha new grains market||2
+GPE||shivamogga district||2
+PERSON||bachao din||2
+GPE||holika dahan||1
+ORG||kokrikalan||1
+PERSON||bhoopinder singh||1
+PERSON||vinod chaudhary||1
+PERSON||ambrish singh||1
+ORG||u.p.’s||1
+PERSON||electricity bill||1
+ORG||krishnaprasad||1
+ORG||all-india trade union congress||1
+PERSON||amarjeet kaur||1
+ORG||bharatiya kisan union-rajewal||1
+ORG||bku-ekta ugrahan||1
+ORG||rashtriya kisan maha sangh||1
+ORG||indian farmers movement||1
+ORG||kerala independent farmers association||1
+GPE||thiruvambady||1
+ORG||kedavoor||1
+GPE||kodenchery||1
+GPE||nellippoyil||1
+GPE||puthuppadi||1
+GPE||chakkittappara||1
+GPE||kavilumpara||1
+PERSON||chempanoda||1
+ORG||district pradhan of bhartiya kisan union||1
+PERSON||khalsa aid||1
+PERSON||nachhatar singh||1
+PERSON||dilawar singh’s||1
+PERSON||g. ramakrishnan||1
+ORG||public sector undertakings||1
+ORG||t.n.||1
+PERSON||rakesh tikayat||1
+PERSON||delhhi||1
+PERSON||basavarajappa||1
+PERSON||aikyadhartya samithi||1
+PERSON||p.t. john||1
+PERSON||kisan swaraj||1
+PERSON||r. sridhar||1
+PERSON||dilli chalo||1
+PERSON||manu jose||1
+PERSON||ekta parishad||1
+PERSON||c. parasuraman||1
+NORP||diwali||1
+NORP||yatra||1
+PERSON||a raitha maha panchayat||1
+PERSON||rani channamma circle||1
+PERSON||akhila bharat samyukta kisan morcha||1
+PERSON||suresh babu patil||1
+NORP||modagi||1
+ORG||cped||1
+PERSON||guranannanavar||1
+ORG||ministry of home affairs||1
+ORG||u.n.||1
+GPE||fairer||1
+ORG||democratic people’s republic of korea||1
+NORP||canadian||1
+ORG||vvpat||1
+GPE||bengaluru city||1
+PERSON||g.c. bayyareddy||1
+PERSON||samyukta horata - karnataka||1
+ORG||united struggle committee||1
+ORG||kagodu satyagraha||1
+ORG||ram manohar lohia||1
+PERSON||m. krishnappa||1
+GPE||bhadravati||1
+ORG||kudremukh ulisi||1
+GPE||save kudremukh||1
+GPE||tumakuru||1
+PERSON||memos||1
+PERSON||gopal jaat||1
+PERSON||jaspinder singh||1
+ORG||rajbir||1
+PERSON||vijay kumar||1
+PERSON||aijaz ahmad||1
+PERSON||dissent’||1
+PERSON||bengaluru collective||1
+PERSON||n. ram||1
+ORG||hindu publishing group||1
+PERSON||benito mussolini||1
+ORG||western uttar pradesh, uttarakhand||1
+PERSON||lakhveer singh||1
+GPE||rampur||1
+PERSON||gurmeet chaudhary||1
+PERSON||kulwinder kaur||1
+ORG||bharatiya kisan sangharsh samiti||1
+GPE||ngo united sikhs||1
+ORG||murthal||1
+PERSON||balgovind||1
+PERSON||jai ram||1
+GPE||kanyakumari||1
+ORG||krantiveer kisan union||1
+ORG||karnataka, tamil nadu||1
+PERSON||shobha sundaresh||1
+ORG||n.d. sundaresh||1
+GPE||karanataka||1
+ORG||akshaj thakuria||1
+PERSON||dhinidhi desinghu||1
+ORG||padukone-dravid centre for sports excellence||1
+GPE||desinghu||1
+NORP||im||1
+GPE||thakuria||1
+PERSON||hockey karnataka||1
+ORG||chairos hockey cup||1
+GPE||shantinagar||1
+ORG||canara bank||1
+ORG||meg||1
+ORG||jude felix hockey academy||1
+ORG||gowri memorial hockey club||1
+GPE||axilatorz||1
+ORG||karnataka state football association||1
+PERSON||jason michael david||1
+PERSON||gagana mohankumar||1
+ORG||kslta||1
+ORG||tattvam junior tour||1
+PERSON||pavan ganesh||1
+PERSON||gagana||1
+PERSON||dharani sreenivasa||1
+PERSON||roots fc||1
+PERSON||fc hydra||1
+ORG||ksfa women’s||1
+PERSON||bangalore panthers 0||1
+ORG||btm||1
+ORG||trinity 30||1
+GPE||aadria||1
+ORG||sai sports academy||1
+GPE||keerti||1
+GPE||garden city fc||1
+PERSON||bangalore catholic fc||1
+PERSON||m.d. nanjundaswamy||1
+ORG||gatt||1
+GPE||horata||1
+PERSON||a raita mahapanchayat||1
+PERSON||b.c. patil||1
+PERSON||ramesh jarkiholi||1
+ORG||municipal high school grounds||1
+PERSON||siddanagouda patil||1
+ORG||perambra assembly||1
+ORG||nri||1
+PERSON||t.p. ramakrishnan||1
+ORG||indian union muslim league’s independent||1
+PERSON||c.h. ibrahim kutty||1
+PERSON||k.v. sudheer||1
+ORG||western peripheral expressway||1
+ORG||kundli-manesar-palwal expressway||1
+ORG||all india khet mazdoor union state||1
+GPE||republic day||1
+PERSON||venkateswarlu||1
+ORG||uttar||1
+ORG||progressive organisation for women state general||1
+PERSON||b. padma||1
+PERSON||padma||1
+ORG||aikms state executive||1
+PERSON||c.s. sagar||1
+GPE||apsara||1
+ORG||ramanand kushwaha||1
+ORG||superintendent of police (traffic)||1
+ORG||collector’s||1
+GPE||sudden||1
+PERSON||rajwinder singh golden||1
+ORG||coimbatore south assembly||1
+GPE||thousand lights||1
+PERSON||kushbu sundar||1
+ORG||raja’s school||1
+ORG||neeleswaram||1
+GPE||kapilatheertham||1
+PERSON||madhu||1
+ORG||navaratna psu||1
+ORG||soil||1
+PERSON||kartar singh sarabha’s||1
+PERSON||sarabha||1
+PERSON||bhagat singh’s||1
+PERSON||khatkar kalan||1
+PERSON||hussainiwala border||1
+GPE||anandpur sahib||1
+PERSON||udham singh’s||1
+PERSON||jallianwala bagh||1
+PERSON||preeti||1
+PERSON||rao varinder singh||1
+PERSON||ravinder garewal||1
+PERSON||rao varinder||1
+GPE||kozhikode city||1
+ORG||kunnamangalam assembly||1
+ORG||independent p.t.a. rahim||1
+PERSON||leela damodaran menon||1
+ORG||kunnamangalam||1
+PERSON||v. kuttikrishnan nair||1
+ORG||samyukta socialist party||1
+ORG||p.v.s.m. pookoya thangal||1
+ORG||league’s||1
+PERSON||k.p. raman||1
+ORG||c.p. balan vaidyar||1
+PERSON||u.c. raman||1
+PERSON||p.t.a. rahim||1
+ORG||mla u.c. raman||1
+PERSON||t. siddique||1
+PERSON||c.k. padmanabhan||1
+PERSON||beniwal||1
+PERSON||kisan mahapanchayats||1
+ORG||bjp mla||1
+ORG||nagaur||1
+PERSON||pukhraj garg||1
+PERSON||narayan beniwal||1
+PERSON||indira devi||1
+ORG||army subedar||1
+GPE||england||1
+ORG||birmingham club||1
+PERSON||shobha karandlaje||1
+ORG||rdpr||1
+ORG||haveri the||1
+PERSON||ali aloor||1
+ORG||akhila bharat janawadi mahila sanghatane||1
+ORG||nagareshwar school||1
+GPE||textile park||1
+PERSON||aloor||1
+ORG||karnataka prevention of slaughter and preservation of cattle||1
+ORG||karnataka land reforms||1
+PERSON||s. palanisamy||1
+ORG||r.s. puram uzhavar sandhai||1
+ORG||agricultural marketing department||1
+ORG||department||1
+PERSON||ramon magsaysay award||1
+PERSON||palagummi sainath||1
+PERSON||kisan bachao||1
+PERSON||desh bachao’||1
+ORG||save farmers – save the country||1
+ORG||k l narasimha rao||1
+NORP||bodepudi||1
+GPE||kendram||1
+ORG||yellandu mla k l narasimha rao||1
+ORG||k l narasimha rao’s||1
+PERSON||durga devi||1
+PERSON||uttam kumar||1
+PERSON||pavan kumar||1
+ORG||ba||1
+ORG||komaldeep kaur||1
+ORG||paviter kaur preet||1
+ORG||preet dhillon||1
+GPE||this women’s day||1
+GPE||lakhnaur||1
+PERSON||swaraj abhiyan||1
+PERSON||badagalpur nagendra||1
+PERSON||u. basavaraj||1
+PERSON||amarnath patil||1
+ORG||karnataka agricultural price commission’s||1
+PERSON||prakash kammaradi||1
+ORG||msp dilao||1
+PERSON||rani||1
+PERSON||channamma circle||1
+PERSON||ambedkar road||1
+PERSON||triveni circle||1
+PERSON||kadidal shamanna||1
+PERSON||shamanna||1
+PERSON||samyukta kissan manch||1
+PERSON||kodagu||1
+PERSON||shaant singh||1
+PERSON||daljinder singh||1
+PERSON||sudesh goyat||1
+PERSON||goyat||1
+ORG||one rank one pension||1
+GPE||haryanvi||1
+ORG||hisar’s||1
+PERSON||bhudha bhana||1
+ORG||naari||1
+ORG||haryana assembly’s||1
+PERSON||rakabganj gurdwara||1
+ORG||nishan sahib||1
+PERSON||tilak marg||1
+GPE||mandir||1
+ORG||caa-nrc-npr||1
+GPE||manusmriti||1
+ORG||eelam tamils||1
+ORG||mbc||1
+ORG||vanniyar||1
+ORG||kulasekaran committee||1
+NORP||anti-hindutva||1
+NORP||anti-hindus||1
+PERSON||kamal haasan||1
+ORG||uzhavar uzhaippalar katchi||1
+ORG||uuk||1
+PERSON||k. chellamuthu||1
+PERSON||chellamuthu||1
+ORG||kudimaramathu||1
+PERSON||athikadavu-avinashi||1
+PERSON||karnataka pranta raitha||1
+ORG||pro“the central||1
+PERSON||kanagal murthy of raitha sangha||1
+PERSON||dharmesh||1
+GPE||kasaragod district||1
+GPE||uduma||1
+ORG||kanhangad||1
+PERSON||manjeswaram||1
+PERSON||h. shankara alva||1
+ORG||indian union muslim league’s||1
+PERSON||cherkalam abdullah||1
+PERSON||p.b. abdul razak||1
+PERSON||mla m.c.||1
+PERSON||kamaruddin||1
+PERSON||razak||1
+GPE||thrikkarippur||1
+GPE||periye||1
+ORG||udf’s||1
+ORG||fair compensation and transparency in land acquisition||1
+PERSON||sarampally malla reddy||1
+PERSON||buruju||1
+GPE||mallannasagar||1
+PERSON||kondapaka||1
+ORG||toguta||1
+ORG||etigaddakishtapur||1
+PERSON||damodar rajanarasimha||1
+ORG||erravalli||1
+PERSON||rohtash kumar||1
+PERSON||luvpreet singh||1
+PERSON||suresh goswami||1
+PERSON||gurdeep singh||1
+PERSON||shergill||1
+PERSON||jatvinder singh||1
+NORP||ajrawar||1
+ORG||maharashtra power||1
+PERSON||nitin raut||1
+ORG||maharashtra state electricity transmission company||1
+ORG||recorded future||1
+ORG||power ministry||1
+ORG||ip||1
+ORG||red echo||1
+ORG||shadowpad||1
+GPE||trojan||1
+ORG||kaspersky||1
+ORG||netsarang||1
+NORP||greek||1
+ORG||winnti||1
+ORG||fireeye||1
+ORG||u.s. department of justice||1
+GPE||people’s republic of china||1
+GPE||prc||1
+ORG||department of justice||1
+ORG||red echo’s||1
+ORG||ntpc limited||1
+PERSON||ntpc kudgi stpp||1
+ORG||western regional load despatch centre||1
+ORG||southern regional load despatch centre||1
+ORG||eastern regional load despatch centre||1
+ORG||telangana state load despatch centre||1
+ORG||delhi state load despatch centre||1
+ORG||dtl||1
+PERSON||delhi transco ltd||1
+PERSON||v. o. chidambaranar port||1
+ORG||mumbai port trust||1
+ORG||regional load despatch centres||1
+ORG||cybersecurity||1
+ORG||state budget||1
+ORG||tribal sub-plan for dalits||1
+ORG||scp/tsp||1
+ORG||lingayat and vokkaliga||1
+PERSON||gaziabad||1
+PERSON||ghazipur border [ghaziabad||1
+PERSON||dhansa border||1
+PERSON||mangeshpur border||1
+PERSON||harewali border||1
+PERSON||convenience sachin rawat||1
+GPE||noida||1
+GPE||indirapuram||1
+PERSON||ghaziabad/ meerut||1
+PERSON||omvir singh||1
+ORG||kaushambi||1
+PERSON||salek chand||1
+PERSON||satpal||1
+PERSON||jatinder sonu||1
+PERSON||singur||1
+PERSON||patkar||1
+PERSON||gurnam||1
+ORG||manpreet chaudhary||1
+PERSON||gopal singh||1
+PERSON||hanuman rathi||1
+ORG||meghalaya||1
+PERSON||satya pal malik||1
+GPE||baheri||1
+ORG||bareilly||1
+ORG||telangana assembly||1
+PERSON||bhatti||1
+PERSON||visakha ukku||1
+ORG||support prices||1
+PERSON||vadde sobhanadreeswara rao||1
+ORG||k ramakrishna||1
+PERSON||m.a. gafoor||1
+PERSON||g. obulesu||1
+PERSON||y. kesava rao||1
+PERSON||k.v.v. prasad||1
+ORG||a.p. mouli||1
+PERSON||p. jamalaiah||1
+PERSON||sidharth singh||1
+PERSON||haryana shahari vikas pradhikaran||1
+PERSON||estate officer||1
+ORG||prevention of damage to public property act||1
+PERSON||manish kumar||1
+ORG||human resources||1
+GPE||rohad||1
+PERSON||pratapgouda patil||1
+PERSON||r. basanagowda turvihal||1
+ORG||mla amaregowda bayyapur||1
+ORG||mla narasimha nayak||1
+ORG||mlc ravikumar||1
+GPE||ter bazaar||1
+PERSON||v. kaveri||1
+GPE||mettur||1
+PERSON||t.m. selvaganapathy||1
+GPE||omalur||1
+GPE||sankari||1
+PERSON||selvaganapathy||1
+ORG||aiadmk’s||1
+PERSON||gounder||1
+ORG||t. sampath kumar||1
+PERSON||d. thasaparaj||1
+ORG||makkal needhi maiam||1
+PERSON||singh gill||1
+ORG||ludhiana’s heera||1
+ORG||eshwar khandre||1
+GPE||kkrdb||1
+NORP||basavakalyan||1
+GPE||maski||1
+ORG||sindagi for the assembly||1
+PERSON||sangamesh||1
+PERSON||hansi||1
+ORG||khatkar||1
+ORG||rohtak’s bahu akbarpur||1
+PERSON||lal sadak||1
+ORG||gurjeet kaur||1
+PERSON||ashok dhawle||1
+PERSON||hardeep singh||1
+PERSON||kashmir singh||1
+PERSON||shatabdi||1
+GPE||ahmedabad||1
+PERSON||mukut singh||1
+GPE||etawah||1
+PERSON||bhubaneswar||1
+ORG||nayandahalli||1
+PERSON||kodihalli chandrashekar||1
+PERSON||leaderkurubur shanthakumar||1
+PERSON||komu souharda vedike||1
+PERSON||karnataka pranta raitha sangha||1
+ORG||hemavati||1
+ORG||dss||1
+PERSON||krishnadas||1
+PERSON||m.b. pushpa||1
+ORG||central and state||1
+PERSON||jana sena party||1
+GPE||ongole||1
+ORG||kisan sangharsh coordination committee’s||1
+PERSON||p. anjaneyulu||1
+PERSON||m. ramesh||1
+PERSON||atmakur||1
+PERSON||gandhi bomma||1
+ORG||tirupati chamber of commerce||1
+ORG||tcc||1
+ORG||andhra pradesh state road transport corporation||1
+ORG||lorry owners’ association||1
+ORG||k. ramakrishna||1
+PERSON||charana samiti||1
+GPE||guntur||1
+ORG||panabaka lakshmi||1
+ORG||visakhapatnam steel plant (vsp)||1
+ORG||autorickshaw||1
+ORG||national highway at||1
+GPE||maddilapalem||1
+GPE||kurmannapalem||1
+ORG||agency||1
+PERSON||prasada reddy||1
+GPE||gajuwaka||1
+PERSON||thota suresh||1
+ORG||gajuwaka bar association||1
+ORG||tsrtc||1
+GPE||kothagudem||1
+ORG||bhadrachalam||1
+PERSON||midiam babu rao||1
+PERSON||harjit singh||1
+PERSON||balwant singh||1
+ORG||bahadurgarh, fatehgarh||1
+GPE||jualni village||1
+GPE||kaluwas village||1
+ORG||khaps||1
+ORG||bharat bandh’||1
+PERSON||loharu chowk||1
+PERSON||badhra||1
+PERSON||kadma||1
+PERSON||haryana all-||1
+GPE||delhi-jaipur||1
+PERSON||samyuktha morcha||1
+ORG||karnataka sugarcane growers’ association||1
+PERSON||raitha dalita||1
+GPE||karmikara||1
+PERSON||sanghatanegala horata samiti||1
+ORG||first information reports||1
+GPE||nargund||1
+PERSON||k. atchannaidu||1
+ORG||visakha steel plant||1
+PERSON||atchannaidu||1
+GPE||y.s.||1
+ORG||posco||1
+PERSON||biswal||1
+PERSON||surjeet singh phul||1
+PERSON||phul||1
+PERSON||ajay bhalla||1
+PERSON||amit shah’s||1
+ORG||baat||1
+ORG||adani-ambani||1
+PERSON||surejwala||1
+PERSON||vigyan bhavan||1
+PERSON||leaders||1
+PERSON||jitendra bhoiji||1
+PERSON||mohammad aslam||1
+GPE||baran||1
+PERSON||nara chandrababu naidu||1
+ORG||telugu||1
+ORG||nota||1
+PERSON||kishan pal||1
+PERSON||inder singh||1
+GPE||sonepat||1
+PERSON||gurbachan singh||1
+PERSON||saurabh bhardwaj||1
+PERSON||bharadwaj||1
+PERSON||captain amrinder||1
+PERSON||atishi||1
+PERSON||alka lamba||1
+PERSON||lamba||1
+GPE||different states||1
+PERSON||sadaqat ashram||1
+PERSON||sushil kumar modi||1
+ORG||nitish kumar’s||1
+PERSON||mla dilli babu||1
+PERSON||karuppanadhi||1
+GPE||adavinainar||1
+PERSON||p. perumbadaiyar||1
+ORG||thirukkurunkudi||1
+ORG||tamil nadu vivasaayigal sangam||1
+PERSON||tamirabharani||1
+ORG||ottapidaaram||1
+NORP||kovilpatti||1
+GPE||kanniyakumari||1
+ORG||petchipaarai||1
+GPE||perunchaani||1
+PERSON||collector m. arvind||1
+PERSON||kisan sangharsh||1
+ORG||apmc yard||1
+ORG||price assurance and farm services act and essential commodities (amendment||1
+ORG||aikss state||1
+GPE||vikarabad||1
+ORG||chevella||1
+ORG||maharashtra pradesh congress committee||1
+ORG||mpcc||1
+GPE||district guardian||1
+PERSON||satej patil||1
+PERSON||thorat||1
+PERSON||prithviraj chavan||1
+PERSON||chavan||1
+PERSON||p. thangamani||1
+GPE||namakkal district||1
+ORG||thalaviar||1
+PERSON||m.g. ramachandran||1
+PERSON||amma||1
+PERSON||hasiru sene badagalapur nagendra||1
+PERSON||mallu bhatti||1
+ORG||tanikella||1
+GPE||konijerla||1
+PERSON||srinivasan krishnan||1
+PERSON||hanumantha rao and p lakshmaiah||1
+PERSON||k venkatesham goud||1
+PERSON||venkatesham goud||1
+GPE||sangareddy||1
+GPE||medak||1
+ORG||all-india kisan sangarsh coordination committee||1
+ORG||tncc||1
+PERSON||vel yatra||1
+ORG||farm laws||1
+PERSON||v. jawahar||1
+PERSON||haryana director general||1
+ORG||trade union||1
+PERSON||natarajan||1
+ORG||ntc||1
+GPE||sulur||1
+GPE||valparai||1
+ORG||coimbatore district association of all auto rickshaw workers union||1
+ORG||regional transport office (central||1
+PERSON||p.k. sukumaran||1
+ORG||regional transport officer (central) j.k. baskaran||1
+PERSON||sukumaran||1
+ORG||coimbatore city police||1
+NORP||kattabomman||1
+ORG||all india trade union congress||1
+ORG||labour progressive federation||1
+PERSON||r. deivaraj||1
+ORG||all india insurance employees' association||1
+ORG||life insurance corporation of india||1
+GPE||sellur||1
+ORG||southern railway mazdoor union||1
+PERSON||j.m. rafi||1
+PERSON||v. ramkumar||1
+PERSON||thanga tamil selvan||1
+PERSON||mla balabharathi||1
+PERSON||s. pudur||1
+GPE||singampunari||1
+GPE||devakottai||1
+PERSON||mla gunasekaran||1
+PERSON||aranmanaivasal||1
+PERSON||p.n. deva||1
+PERSON||sangolli rayanna circle||1
+GPE||devanand jagapur||1
+PERSON||stephen jayachandra||1
+PERSON||g.m. vaidya||1
+PERSON||harish doddamani||1
+ORG||vijay guntral||1
+PERSON||r.f. kavalikai||1
+PERSON||mansur kala bhavan||1
+ORG||severa||1
+PERSON||b.n. pujari||1
+PERSON||bhuvana ballari||1
+PERSON||v.m. inamdar||1
+PERSON||manoj toranagatti||1
+PERSON||b.i. iliger||1
+ORG||hosamani||1
+ORG||j.i. karennavar||1
+PERSON||sharanu gonawar||1
+PERSON||nagappa undi||1
+ORG||jctu||1
+ORG||new pension scheme||1
+ORG||joint committee of trade union||1
+ORG||all-india trade union||1
+ORG||all-india united trade union centre||1
+ORG||india national trade union congress||1
+ORG||national centre for labour||1
+ORG||ncl||1
+ORG||students’ federation of india||1
+ORG||all india democratic students’ organisation (aidso||1
+ORG||karnataka vidyavardhaka||1
+ORG||kvs||1
+GPE||nep-2020||1
+ORG||public distribution system||1
+ORG||national pension system||1
+ORG||swaraj india chamras malipatil||1
+PERSON||malipatil||1
+ORG||bharat sanchar nigam limited||1
+ORG||iftu||1
+ORG||aictu||1
+ORG||drm’s office at dondaparthi to||1
+ORG||visakhapatnam steel plant, gajuwaka||1
+PERSON||majnu ka tila||1
+ORG||hari nagar||1
+NORP||motorists||1
+ORG||delhi-gurugram expressway||1
+PERSON||deepak saharan||1
+PERSON||saharan||1
+ORG||s.n. shrivastava delhi police||1
+GPE||islamabad||1
+ORG||grand trunk road||1
+PERSON||kavitha kruganti||1
+ORG||alliance for sustainable and holistic agriculture||1
+ORG||hsl||1
+ORG||workers welfare board||1
+ORG||telangana congress core committee||1
+PERSON||sampath kumar||1
+PERSON||vamshichand reddy||1
+PERSON||sushil modi||1
+GPE||srijan||1
+PERSON||chirag||1
+PERSON||jd||1
+GPE||mahagathbandhan||1
+ORG||vikasshil insaan party||1
+ORG||jd(u)-bjp||1
+ORG||state legislative||1
+PERSON||atul k. thakur||1
+ORG||kozhikode corporation||1
+ORG||indian union muslim league||1
+PERSON||cmp||1
+ORG||rmp||1
+GPE||valiyangadi||1
+PERSON||mohammed shuhaib||1
+PERSON||alan shuhaib||1
+PERSON||s.k. aboobakker||1
+PERSON||p. surendran||1
+PERSON||p. kuttikrishnan nair||1
+PERSON||varun bhaskar||1
+PERSON||mayor m. bhaskaran||1
+GPE||karuvassery||1
+PERSON||p.v. bineesh kumar||1
+ORG||ljd||1
+ORG||inl||1
+ORG||congress (s||1
+ORG||bdjs||1
+PERSON||k. chandrasekhar rao’s||1
+PERSON||prabhakar||1
+GPE||siddipet||1
+GPE||huzurnagar||1
+PERSON||collectorates||1
+PERSON||nama nageswara rao||1
+PERSON||vaikunta dhamam||1
+PERSON||palle vanam||1
+ORG||transport||1
+PERSON||p ajay kumar||1
+GPE||sattupalli||1
+GPE||delhi state||1
+PERSON||satyender jain||1
+PERSON||nikhil m. babu||1
+ORG||postal department||1
+PERSON||mitthu singh||1
+PERSON||hakam singh||1
+ORG||gurmukhi||1
+PERSON||paramjit pradhan||1
+PERSON||shringar singh||1
+PERSON||sukhwant singh||1
+PERSON||pyara singh||1
+PERSON||agar||1
+GPE||pyara||1
+PERSON||delhi police pro||1
+ORG||tigri||1
+ORG||ncr||1
+ORG||delhi-dehradun||1
+ORG||yamuna expressway||1
+PERSON||bku rajkumar||1
+ORG||pilibhit and lakhimpur||1
+PERSON||anil sharma||1
+ORG||delhi police’s||1
+ORG||punjab met union||1
+PERSON||jasbir singh gill||1
+PERSON||gurjeet singh aujla||1
+PERSON||acharya n.g.ranga||1
+PERSON||ranga bhavan||1
+PERSON||n.g.ranga kisan samastha||1
+PERSON||ranga||1
+NORP||parliamentarian||1
+PERSON||jitendra singh||1
+GPE||darrang||1
+PERSON||rajya sabha mps ripun bora||1
+PERSON||ranee narah||1
+PERSON||mps gaurav gogoi||1
+PERSON||nandita das||1
+PERSON||rekibuddin ahmed||1
+PERSON||abul kalam rasheed alam||1
+PERSON||jakir hussain sikdar||1
+ORG||nurul huda||1
+ORG||mysore paper mills pvt.||1
+PERSON||b.y. raghavendra||1
+ORG||nammurige accacia beda||1
+ORG||mpm||1
+PERSON||sripal||1
+ORG||karnataka state biodiversity board||1
+PERSON||anant hegde ashisar||1
+PERSON||rajendra chenni||1
+ORG||people’s alliance||1
+ORG||pagd||1
+ORG||gupkar||1
+PERSON||rohit kansal||1
+GPE||j&k||1
+ORG||centre at ramakrishnapuram in chintakani||1
+GPE||madhira||1
+PERSON||k. annamalai||1
+PERSON||annamalai||1
+ORG||tamil nadu farmers’ protection association||1
+ORG||kv virudhunagar||1
+PERSON||thoppu||1
+GPE||uthukuli||1
+ORG||sikh gurdwara management committee||1
+PERSON||raghuveer singh||1
+PERSON||moga punjab||1
+GPE||bharti||1
+PERSON||kisan krantikari sangh||1
+PERSON||sudhanshu pandey||1
+GPE||arpan||1
+ORG||bekhauf azadi||1
+PERSON||jaspreer kaur||1
+ORG||punjab university||1
+PERSON||hardev singh babbar||1
+PERSON||ramlila maidan||1
+PERSON||jasmeet singh||1
+ORG||u.p. police||1
+PERSON||vijaypal ghopla||1
+ORG||punjab cm||1
+PERSON||lal’||1
+ORG||bahadurgarh’s||1
+PERSON||mahpara||1
+ORG||kurmaguda||1
+ORG||sameena yasmeen||1
+GPE||golconda||1
+PERSON||khatoon||1
+GPE||nawabsahebkunta||1
+PERSON||batha jabeen||1
+ORG||vijaynagar colony||1
+PERSON||ayesha humera||1
+ORG||tolichowki||1
+PERSON||unani||1
+GPE||old city||1
+ORG||municipal administration and||1
+PERSON||p venkateshwara rao||1
+PERSON||y srikanth||1
+ORG||telangana rythu sangham||1
+ORG||telangana rythu||1
+ORG||grameen bharat bandh||1
+PERSON||b rambabu||1
+GPE||jandiala||1
+ORG||committee’s punjab||1
+ORG||jhajjar superintendent of police rajesh duggal||1
+ORG||sector 12 faridabad||1
+ORG||rohtak’s mansarovar||1
+ORG||karnataka anganwadi workers union||1
+PERSON||sarsawati bai kanakekar||1
+PERSON||sandhya kulkarni||1
+GPE||kollam||1
+PERSON||s. jayamohan||1
+PERSON||m. mukesh||1
+ORG||hms||1
+PERSON||nunna nageswara rao||1
+ORG||cotton corporation of india||1
+ORG||cci||1
+ORG||pangda||1
+PERSON||vetsop namgyel||1
+GPE||yadong county||1
+GPE||tibet autonomous region||1
+GPE||pangda village||1
+GPE||new delhi-una janshatabdi express||1
+ORG||divisional railway||1
+PERSON||ferozepur division||1
+PERSON||rajesh aggarwal||1
+ORG||kathua to lucknow||1
+PERSON||aggarwal||1
+ORG||north central railway||1
+ORG||indian institute of management||1
+PERSON||subramanian swamy||1
+ORG||niti aayog||1
+PERSON||ramesh chand||1
+ORG||haryana agriculture university v-c||1
+PERSON||samar singh||1
+PERSON||barry goodwin||1
+PERSON||swamy||1
+PERSON||chand||1
+PERSON||goodwin||1
+PERSON||tejinder singh virk||1
+PERSON||haryana dgp manoj||1
+PERSON||dilshad garden||1
+PERSON||rajender nagar||1
+ORG||red line||1
+ORG||sultanpur to guru dronacharya||1
+ORG||yellow line||1
+ORG||blue line||1
+ORG||new ashok nagar||1
+GPE||noida city centre||1
+ORG||violet line||1
+GPE||mewala||1
+GPE||maharajpur||1
+PERSON||rapid metro||1
+ORG||airport express line||1
+ORG||grey line||1
+ORG||international labour organization’s||1
+ORG||indian labour conference||1
+PERSON||https://bit.ly/39f01et||1
+ORG||bharatiya mazdoor sangh||1
+ORG||central or state||1
+ORG||international labour organization||1
+ORG||bms||1
+PERSON||k.r. shyam sundar||1
+PERSON||xlri||1
+ORG||xavier school of management||1
+PERSON||nakkal bapu reddy||1
+PERSON||sangareddy district unit||1
+ORG||water resources department||1
+ORG||north chennai thermal power station||1
+GPE||kosasthalaiyar||1
+ORG||tamil nadu generation and distribution corporation||1
+ORG||wrd||1
+ORG||ngt||1
+ORG||v.desinghu||1
+PERSON||nettukuppam||1
+GPE||kattupallikuppam||1
+PERSON||janata dal||1
+ORG||urban||1
+ORG||maharashtra dairy development||1
+PERSON||kedar||1
+GPE||mantralaya||1
+ORG||opposition bharatiya janata party||1
+GPE||satara||1
+PERSON||lin minwang||1
+PERSON||zhang jiadong||1
+ORG||fudan university||1
+PERSON||li hongmei||1
+ORG||shanghai institutes for international studies||1
+NORP||soviet||1
+ORG||mcmahon line||1
+PERSON||aksai chin||1
+ORG||kashmir to arunachal pradesh||1
+PERSON||zheng yongnian||1
+PERSON||yu longyu||1
+GPE||indonesia||1
+ORG||indo-pacific strategy||1
+GPE||tibet||1
+PERSON||yin guoming||1
+PERSON||antara ghosal singh||1
+ORG||delhi policy group||1
+ORG||national central university||1
+GPE||bharatiya kisan||1
+GPE||sangha||1
+GPE||yamunangar||1
+ORG||’ bharti kisan union||1
+ORG||electricity (amendments||1
+PERSON||mohanasundaram||1
+ORG||erode district free electricity rights’ protection joint movement||1
+PERSON||darshan paul||1
+GPE||kirti||1
+GPE||kissan union||1
+PERSON||zamhoori kissan sabha||1
+PERSON||kul hind kissan sabha||1
+PERSON||kissan sabha||1
+ORG||kissan sangharsh committee||1
+ORG||azaad kissan sangharsh committee||1
+PERSON||jai kissan andolan||1
+ORG||bharti kissan union ekta||1
+PERSON||paul||1
+ORG||kirti kissan union||1
+GPE||weibo||1
+ORG||indian embassy||1
+ORG||wechat||1
+ORG||foreign ministry and embassy||1
+ORG||wto||1
+ORG||embassy||1
+PERSON||ban||1
+ORG||union ministry of finance||1
+ORG||shetkari sanghatana||1
+ORG||chouduwada||1
+NORP||k. kotapadu||1
+PERSON||b. sanyasi naidu||1
+PERSON||b. jagadish||1
+PERSON||sarpanch||1
+PERSON||g. nayana babu||1
+PERSON||k. appa rao||1
+ORG||k. kotapadu police station, endowments department||1
+GPE||indian republic||1
+PERSON||shiv sena||1
+ORG||bjd||1
+PERSON||derek o’brien||1
+PERSON||syed naseer hussain(congress||1
+PERSON||ripun bora||1
+PERSON||a.k. antony||1
+PERSON||jawaharlal nehru||1
+ORG||k.c. vengopal||1
+NORP||raj bhavans||1
+ORG||save farmers and farm labourers day’||1
+ORG||kisaan sammelans||1
+PERSON||ahmed patel||1
+ORG||national food security act||1
+ORG||office of the hon’ble||1
+ORG||opposition’s||1
+PERSON||prasad||1
+ORG||revolutionary socialist party||1
+ORG||all india forward bloc||1
+GPE||mankara||1
+PERSON||c. chandran||1
+PERSON||pratirodha samithi||1
+PERSON||n. vinod||1
+ORG||ts bjp k. laxman||1
+ORG||professor swaminathan committee||1
+PERSON||laxman||1
+PERSON||n. ramachander rao||1
+ORG||intermediate board||1
+PERSON||bll||1
+ORG||nda government||1
+PERSON||sanjay goenka||1
+ORG||oil palm developers and processors association||1
+GPE||md||1
+ORG||3f oil palm||1
+GPE||suryapet||1
+PERSON||goenka||1
+ORG||ncp state||1
+PERSON||jayant patil||1
+ORG||federation of association of traders||1
+GPE||kisaan||1
+ORG||corporate||1
+ORG||district collectors||1
+ORG||pradesh congress committee||1
+PERSON||kalraj mishra||1
+PERSON||dotasra||1
+PERSON||pratap singh khachariawas||1
+PERSON||khachariawas||1
+ORG||collectorate in sriganganagar and hanumangarh||1
+ORG||no state assembly||1
+ORG||dpcc and transport department||1
+ORG||mayapuri||1
+ORG||nilothi||1
+PERSON||mundka||1
+GPE||mangolpuri||1
+GPE||mukundpur||1
+ORG||delhi state committee||1
+PERSON||k.m. tiwari||1
+ORG||delhi disaster management authority||1
+ORG||nct||1
+ORG||sic||1
+ORG||narendra modi cabinet||1
+ORG||telangana rashtra samiti||1
+PERSON||rajya sabha k. keshava rao||1
+ORG||teachers recruitment board||1
+PERSON||m. karunanidhi||1
+ORG||ammk||1
+PERSON||t.t.v. dhinakaran||1
+PERSON||dhinakaran||1
+ORG||union territory’s||1
+ORG||centralised admission committee||1
+GPE||u.t.||1
+PERSON||d.g. halli||1
+PERSON||mahanagara palike||1
+ORG||ampc||1
+ORG||gst||1
+ORG||air india||1
+ORG||sena||1
+PERSON||bihari vajpayee||1
+GPE||vajpayee||1
+ORG||block development||1
+PERSON||panchayat officer||1
+PERSON||daljit singh||1
+ORG||bdpo||1
+ORG||bharatiya kisan union’s||1
+ORG||british east india company||1
+ORG||malayalam||1
+PERSON||mahabharata||1
+PERSON||p.k. balakrishnan’s||1
+PERSON||ini njan urangatte||1
+GPE||karna||1
+GPE||draupadi’s||1
+PERSON||m.t. vasudevan nair||1
+PERSON||bhima||1
+NORP||randamoozham||1
+PERSON||kuttikrishna marar||1
+PERSON||p. govinda pillai||1
+ORG||v.s. sukthankar’s critical edition||1
+PERSON||d.d. kosambi||1
+PERSON||romila thapar||1
+ORG||puranas||1
+PERSON||wendy doniger’s||1
+ORG||sunil p. elayidom||1
+PERSON||mahabharatham||1
+PERSON||samskarika||1
+ORG||mahabharata: cultural history||1
+ORG||elayidom||1
+ORG||sree sankaracharya university of sanskrit||1
+GPE||kalady||1
+ORG||elayidom’s||1
+GPE||vyasa||1
+ORG||common era||1
+NORP||aryan||1
+ORG||mauryas||1
+GPE||guptas||1
+PERSON||rishi vyasa||1
+GPE||satyavati||1
+GPE||parashara||1
+PERSON||kuru||1
+ORG||pandu’s||1
+PERSON||kunti||1
+GPE||madri||1
+PERSON||rishi kindama||1
+PERSON||varnasrama dharma||1
+PERSON||varnashrama dharma||1
+ORG||abhimanyu||1
+GPE||yudhishthira||1
+PERSON||wendy doniger||1
+ORG||buddhism’s||1
+ORG||brahminical||1
+NORP||buddhist||1
+PERSON||duryodhana||1
+GPE||gandhari||1
+GPE||bhishma||1
+GPE||drona||1
+GPE||mahabharatas||1
+GPE||razmnama||1
+ORG||mughal emperor akbar’s||1
+GPE||vaisampayana||1
+ORG||janamejaya’s||1
+ORG||ugrashravas||1
+GPE||kalinga||1
+ORG||state apmc acts||1
+ORG||farmers empowerment and protection agreement on price assurance and farm services||1
+PERSON||saugata roy||1
+PERSON||dalit sangarsha samiti||1
+ORG||karnataka state sugarcane growers’ association||1
+ORG||devindersharma||1
+ORG||agricultural produce market committee act||1
+ORG||karnataka agricultural prices commission||1
+PERSON||g venkateshwara rao||1
+ORG||aikms||1
+ORG||all india kissan sangharsh coordination committee||1
+ORG||ghazipur farmers||1
+ORG||gautam buddh nagar||1
+PERSON||crops||1
+PERSON||krishi bhawan||1
+PERSON||durgad bail||1
+GPE||kittur||1
+ORG||navalgund mla n.h. konaraddi||1
+PERSON||rajanna koravi||1
+PERSON||anil kumar patil||1
+GPE||altaf kittur||1
+PERSON||anwar mudhol||1
+ORG||santosh naragund||1
+ORG||vikas soppin||1
+PERSON||chennamma circle||1
+GPE||uttara||1
+GPE||chikkodi||1
+GPE||athani||1
+GPE||bailhongal||1
+PERSON||k.c. venugopal||1
+ORG||agriculture produce market committee act||1
+ORG||kempegowda international airport||1
+PERSON||jds mla||1
+PERSON||vajubhai vala||1
+GPE||collectorate||1
+PERSON||k.n. nehru||1
+PERSON||nehru||1
+PERSON||jawahar||1
+ORG||mdmk||1
+PERSON||kattur||1
+GPE||manapparai||1
+PERSON||ramji nagar||1
+GPE||navalpat||1
+PERSON||thanjavur lok sabha||1
+PERSON||s.s. palanimanickam||1
+PERSON||mla durai chandrasekharan||1
+NORP||orathanadu||1
+PERSON||tiruvidaimarudhur||1
+PERSON||mayiladuthurai||1
+PERSON||sirkazhi||1
+GPE||karur district||1
+PERSON||pasupathipalayam||1
+ORG||aravakurichi||1
+PERSON||kulithalai||1
+GPE||vangal||1
+PERSON||mla v. senthil balaji||1
+PERSON||karur lok sabha||1
+PERSON||jothimani||1
+ORG||thennilai||1
+PERSON||veppanthattai||1
+GPE||krishnapuram||1
+GPE||kolakanatham||1
+GPE||kunnam||1
+PERSON||a. raja||1
+GPE||tirumayam||1
+GPE||gandharavakottai||1
+ORG||keeranur||1
+PERSON||mla s. regupathy||1
+PERSON||jayamkondam||1
+PERSON||andimadam||1
+PERSON||s.s. sivasankar||1
+PERSON||kanuvai||1
+PERSON||madukkarai||1
+PERSON||e.r. eswaran||1
+ORG||tiruppur city police||1
+PERSON||b.t. arasakumar||1
+ORG||udumalpet||1
+PERSON||madathukulam||1
+ORG||kangeyam||1
+GPE||namakkal||1
+ORG||k.s. moorthy||1
+ORG||t. senguttuvan||1
+PERSON||y. prakash||1
+GPE||koppal||1
+ORG||hospet||1
+NORP||north eastern||1
+PERSON||raitha krishi karmikara sanghatane||1
+GPE||akhil||1
+ORG||socialist unity centre of||1
+PERSON||b.s.||1
+PERSON||balakrishna shetty||1
+GPE||kundapur||1
+GPE||karkala||1
+GPE||brahmavar||1
+ORG||hebri, baindoor and kaup in udupi district||1
+GPE||mangaluru||1
+GPE||sullia||1
+GPE||moodbidri||1
+ORG||baindoor||1
+ORG||mini vidhana soudha||1
+NORP||krishnappa salian||1
+PERSON||karnataka prantha raita sangha||1
+ORG||mlc ivan||1
+PERSON||b.m. bhat||1
+PERSON||gangadhara gowda||1
+ORG||hemavati statue circle||1
+ORG||ksrtc||1
+PERSON||rakshana vedike||1
+ORG||national highway 75||1
+PERSON||boovanahalli||1
+ORG||m.a. gopalaswamy||1
+PERSON||mla a.t.||1
+ORG||taluk office||1
+PERSON||karnataka janashakti||1
+GPE||bhagawan||1
+PERSON||mahaveer circle||1
+PERSON||gandhi bazaar||1
+PERSON||gopi circle||1
+GPE||yadgir city||1
+GPE||surpur||1
+GPE||hunsagi||1
+ORG||gurmitkal||1
+PERSON||wadagera||1
+GPE||yadgir district||1
+GPE||sindhanur||1
+GPE||raichur district||1
+ORG||prakash nikam and rishikesh sonwane||1
+ORG||nekrtc||1
+PERSON||jala kala||1
+PERSON||rythu bharosa kendras||1
+PERSON||budi mutyala naidu||1
+GPE||b. satyavati||1
+PERSON||v. vinay chand||1
+ORG||epdcl cmd nagalakshmi||1
+ORG||sreenivaasan||1
+ORG||goshamahal||1
+PERSON||uttam reddy||1
+ORG||telangana state||1
+PERSON||raj niwas||1
+PERSON||memorandum||1
+ORG||rajghat||1
+PERSON||shamsher singh dullo||1
+GPE||independence||1
+GPE||sunil jakhar||1
+PERSON||jakhar||1
+ORG||quit central||1
+ORG||aam aadmi party’s punjab||1
+PERSON||pratap singh bajwa||1
+PERSON||amar patnaik||1
+ORG||bills, bharatiya janata party||1
+PERSON||bhupender yadav||1
+ORG||planning board||1
+PERSON||sunil kumar||1
+ORG||departments of cooperation and industries||1
+PERSON||arpita ghosh||1
+ORG||s.r. balasubramoniyan’s||1
+ORG||state farmers’ commissions||1
+ORG||tamizhaga vivasayigal pathukappu sangam||1
+ORG||palat vijayaraghavan||1
+GPE||nilgiris||1
+ORG||lawrencedale agro processing (leaf||1
+PERSON||p. maniarasan||1
+ORG||cauvery urimai meetpukuzhu||1
+PERSON||maniarasan||1
+ORG||cm k. chandrasekhar rao||1
+ORG||ts||1
+PERSON||dhoni||1
+PERSON||kohli||1
+PERSON||akbaruddin owaisi||1
+PERSON||pocharam srinivas reddy||1
+PERSON||n. rahul||1
+PERSON||b. chandrashekhar||1
+ORG||food processing industries||1
+GPE||himanshu||1
+ORG||centre for economic studies and planning, school of social sciences||1
+ORG||jawaharlalnehru university||1
+PERSON||bku harayana||1
+ORG||punjab youth congress||1
+ORG||punjab’s zirakpur||1
+PERSON||suresh angadi||1
+ORG||angadi’s||1
+PERSON||somavva||1
+ORG||mangala||1
+ORG||spoorthi||1
+ORG||lingaraj pati||1
+ORG||karnataka oil seeds federation||1
+PERSON||kateel||1
+GPE||angadi||1
+ORG||independent india||1
+ORG||federation of associations of maharashtra||1
+ORG||banking regulation (amendment||1
+ORG||house of parliament||1
+ORG||rajya sabha thawarchand gehlot||1
+PERSON||anand sharma||1
+PERSON||k. keshava rao||1
+PERSON||rjd||1
+PERSON||manoj k jha||1
+PERSON||xi jinping’s||1
+PERSON||sun lijun||1
+ORG||sun||1
+ORG||ministry of public security||1
+PERSON||meng hongwei||1
+PERSON||li dongsheng||1
+PERSON||meng||1
+ORG||lyon||1
+ORG||interpol||1
+ORG||sun’s||1
+ORG||first bureau||1
+GPE||hong kong||1
+GPE||shanghai||1
+GPE||chongqing||1
+PERSON||deng huilin||1
+ORG||politburo standing committee||1
+PERSON||zhou yongkang||1
+PERSON||zhou||1
+ORG||chinese communist party||1
+ORG||xinhua||1
+ORG||central political and legal affairs commission||1
+ORG||cpc||1
+ORG||safe china construction coordinating small group||1
+PERSON||guo shengkun||1
+PERSON||ren zhiqiang||1
+PERSON||cai xia||1
+ORG||chinese party-state||1
+ORG||people’s armed police||1
+ORG||pap||1
+ORG||central military commission||1
+ORG||cmc||1
+ORG||central national security commission||1
+ORG||national supervision commission||1
+PERSON||shikha aggarwal||1
+ORG||ministry of foreign affairs||1
+ORG||national chengchi university||1
+ORG||raju shetti’s||1
+ORG||all-india kisan sabha||1
+PERSON||rayat kranti sanghatana||1
+PERSON||lasalgaon||1
+PERSON||manmad||1
+ORG||pro-bharatiya janata party||1
+PERSON||4-rs||1
+ORG||indo-bangladesh||1
+ORG||jawaharlal nehru port trust||1
+PERSON||ek desh ek bazaar||1
+PERSON||dada bhuse||1
+PERSON||bhuse||1
+PERSON||raosaheb danve||1
+PERSON||danve||1
+ORG||food and public distribution||1
+ORG||lower house’s||1
+ORG||pradhan mantri kisan kalyan yojna||1
+ORG||farmers (empowerment and protection) agreement price assurance and farm services||1
+ORG||haryana assembly bhupinder||1
+PERSON||satyadev||1
+ORG||indian national students organization||1
+PERSON||digvijay singh chautala||1
+ORG||chandumajra||1
+ORG||congress’s||1
+ORG||income tax department||1
+ORG||goods and service tax||1
+PERSON||kannadigas @bsybjp||1
+ORG||finance commission||1
+PERSON||ktaka||1
+ORG||@bsybjp||1
+PERSON||p. indiradevi||1
+ORG||kerala agricultural university||1
+PERSON||indiradevi||1
+PERSON||jacob joseph||1
+PERSON||v. mohandas||1
+ORG||chithira kayala||1
+PERSON||padashekara samiti||1
+PERSON||keith krach||1
+ORG||eastern theater command||1
+ORG||pla eastern theater command||1
+ORG||pla air force senior||1
+PERSON||zhang chunhui||1
+ORG||taiwan’s defence ministry||1
+ORG||air defence identification zone||1
+PERSON||h-6||1
+PERSON||vijay oberoi||1
+ORG||defence ministry||1
+PERSON||ren guoqiang||1
+ORG||democratic progressive party||1
+ORG||dpp||1
+ORG||reuters||1
+PERSON||hu xijin||1
+GPE||america||1
+PERSON||yan xuetong||1
+ORG||institute of chinese studies||1
+PERSON||joshua eisenman||1
+ORG||american foreign policy council||1
+ORG||u.s. consulate||1
+ORG||india-u.s.-japan-australia||1
+GPE||canberra||1
+GPE||tokyo||1
+GPE||washington||1
+ORG||‘destroy farmers||1
+PERSON||kisan mela||1
+ORG||punjab agriculture university||1
+ORG||harsimrat badal’s||1
+ORG||karnataka land reforms (amendment||1
+ORG||mysore bank circle||1
+PERSON||g.c. bayya reddy||1
+ORG||aikcc||1
+PERSON||belegarara sangh||1
+PERSON||p.c. rao||1
+ORG||bangalore hotels’ association||1
+PERSON||uday shankar||1
+ORG||bangalore onion||1
+ORG||potato traders’ association||1
+ORG||indian youth congress krishna allavaru||1
+ORG||b.v. srinivas||1
+PERSON||samalkha mla dharam||1
+PERSON||singh chhoker||1
+PERSON||israna mla||1
+PERSON||chhoker||1
+ORG||centre of indian trade unions haryana||1
+PERSON||kovind||1
+PERSON||jal shakti||1
+PERSON||gajendra shekhawat||1
+ORG||national farmers commission||1
+ORG||farmer producers organisations||1
+ORG||commissions||1
+ORG||national agricultural cooperative marketing federation of india limited||1
+PERSON||dinesh kulkarni||1
+GPE||jodhpur||1
+PERSON||ganganagar||1
+ORG||inter river water dispute bill||1
+ORG||departmental committee||1
+ORG||foreign contribution regulation (amendment||1
+ORG||bilateral netting of qualified financial contracts||1
+ORG||occupational safety health||1
+ORG||social security||1
+PERSON||singanallur mla n. karthik||1
+PERSON||eswaran||1
+PERSON||pongalur n. palanisamy||1
+PERSON||mayura s. jayakumar||1
+PERSON||r. sethupathi||1
+ORG||communist party of inda||1
+PERSON||v. ramamoorthy||1
+PERSON||v.s. sundaram||1
+PERSON||a.m. munusamy||1
+PERSON||k.v. ponnaiyan||1
+PERSON||subbu||1
+GPE||erode district||1
+ORG||ap assembly||1
+PERSON||shailajanath||1
+ORG||andhra pradesh oommen chandy||1
+PERSON||pallam raju||1
+PERSON||jana sena||1
+ORG||kerala assembly||1
+PERSON||nakka anand||1
+PERSON||jagan||1
+PERSON||anand babu||1
+ORG||ycrcp||1
+ORG||pm-kisan||1
+PERSON||collector c. kathiravan||1
+ORG||pm-kisan nidhi||1
+PERSON||kalaiarasan||1
+PERSON||nengavalli||1
+PERSON||n.t. rama rao||1
+GPE||piplis’||1
+PERSON||gandhi statue||1
+PERSON||tapas roy||1
+PERSON||bechram manna||1
+PERSON||kishan mahasabha||1
+ORG||national highway at debra and||1
+PERSON||chandrakona||1
+PERSON||paschim medinipur||1
+PERSON||karjorain paschim bardhaman||1
+PERSON||gazole||1
+GPE||cooch behar||1
+ORG||state highway||1
+PERSON||amal halder||1
+PERSON||krishak sabha||1
+ORG||ferozepur, barna||1
+ORG||deendayal upadhyaya||1
+ORG||asserting||1
+GPE||ayodhya||1
+ORG||election commission’s||1
+ORG||ec||1
+PERSON||kumar-led||1
+ORG||janata dal-united||1
+ORG||jd-u||1
+PERSON||shivanand tiwari||1
+PERSON||lalu prasad||1
+PERSON||utho bihari||1
+PERSON||manjhi||1
+GPE||rajpura||1
+PERSON||gurdev singh||1
+GPE||bahour||1
+PERSON||villianur||1
+PERSON||karaikal||1
+GPE||jeeyapuram||1
+PERSON||siva suriyan||1
+ORG||desiya thennindhiya nadhigal inaippu vivasayigal sangam||1
+ORG||tiruchi collectorate||1
+ORG||all india farmers struggle coordinate committee||1
+ORG||makkal adhikaram||1
+PERSON||raja chidambaram||1
+ORG||vannarpet||1
+GPE||kalakkad||1
+ORG||valliyoor||1
+PERSON||k. balabharathi||1
+ORG||post office||1
+ORG||tamil nadu vivasayigal||1
+PERSON||v. murugan||1
+PERSON||s. balasubramanian||1
+PERSON||p. lingam||1
+PERSON||tamizhaga vivasayigal||1
+PERSON||n.a. ramachandra raja||1
+PERSON||b. mariappan||1
+ORG||all india farmers association||1
+ORG||agricultural labourers association||1
+ORG||all india democratic women’s association||1
+NORP||k. rajendran||1
+ORG||tnfa||1
+PERSON||melur||1
+ORG||othakadai||1
+GPE||samayanallur||1
+ORG||tirumangalam||1
+GPE||usilampatti||1
+GPE||paramakudi||1
+ORG||mudukalathur and tiruvadanai||1
+GPE||kondalampatti||1
+GPE||vazhapadi||1
+ORG||farmers empowerment and protection agreement||1
+PERSON||p. dilibabu||1
+PERSON||d. raveendran||1
+PERSON||t. subbu||1
+PERSON||tamilaga vivasaigal sangam||1
+ORG||national highways||1
+GPE||rayapur||1
+PERSON||p.h. neeralakeri||1
+ORG||hasiru kranti trust||1
+ORG||hubballi-dharwad bypass road||1
+ORG||tipu sultan circle||1
+PERSON||uttara kannada||1
+ORG||citizens for democracy s.r. hiremath||1
+PERSON||hiremath||1
+PERSON||kadapa maidan||1
+ORG||rural belagavi||1
+ORG||karnataka land||1
+ORG||solapur-vijayapura road||1
+PERSON||j.r. lobo||1
+ORG||district youth congress||1
+PERSON||mithun rai||1
+PERSON||muneer katipalla||1
+PERSON||krishnappa saliyan||1
+ORG||communist party of india v. kuckian||1
+ORG||nantoor junction||1
+ORG||all india trade union congress,||1
+ORG||national students union of india||1
+ORG||bantwal||1
+ORG||hassan farmers||1
+ORG||mehaboob pasha, shivarame gowda||1
+PERSON||naveen kumar||1
+PERSON||srp||1
+PERSON||ramachandran pillai||1
+PERSON||pillai||1
+GPE||m. s. swaminathan||1
+PERSON||p. narasimha rao||1
+ORG||social forestry growers association||1
+PERSON||lalitha kumari||1
+PERSON||aayakar bhavan||1
+PERSON||chada venkat reddy state||1
+PERSON||krishna kumari||1
+PERSON||mallareddy||1
+ORG||sri sri circle||1
+ORG||congress working committee||1
+PERSON||singh koshyari||1
+PERSON||kisan majdoor bachao divas||1
+PERSON||buldhana||1
+GPE||jalna||1
+ORG||national agricultural cooperative marketing federation of india ltd.||1
+ORG||nafed||1
+PERSON||shingara singh||1
+GPE||fatehpur village||1
+PERSON||700-rs||1
+PERSON||shingara||1
+NORP||tibba tapprian||1
+PERSON||dharmpal singh||1
+ORG||punjab’s agriculture department||1
+GPE||lachkani village||1
+PERSON||ranbirpura village||1
+PERSON||mulk raj gupta||1
+ORG||arthiya association||1
+ORG||badri mukhiya||1
+ORG||centre for development economics||1
+ORG||innovation studies||1
+ORG||punjab agricultural university||1
+PERSON||sukhpal singh||1
+PERSON||155-rs||1
+ORG||union agriculture and farmers||1
+ORG||punjab mandi board||1
+ORG||punjab-haryana||1
+PERSON||jasbir singh||1
+PERSON||kutha kheri||1
+PERSON||rajpura tehsil||1
+PERSON||sukhpal singh economist||1
+ORG||arhtiya||1
+PERSON||janvadi mahila samiti||1
+PERSON||karamchari sangh||1
+ORG||jind, panipat, hisar||1
+ORG||samalkha new grain market -||1
+PERSON||bku haryana||1
+GPE||sriganganagar||1
+GPE||hanumangarh||1
+PERSON||jhunjhunu||1
+GPE||nainwa||1
+PERSON||bundi||1
+PERSON||sanjay madhav||1
+PERSON||jagveer singh||1
+GPE||hapur||1
+PERSON||majhola||1
+PERSON||simbaoli sugar mill||1
+PERSON||sudesh kumar||1
+GPE||ganga||1
+PERSON||kushalpal arya||1
+PERSON||arya||1
+ORG||smp||1
+PERSON||kisan sangathan||1
+ORG||covid||1
+GPE||gsdp||1
+PERSON||jagan mohan reddy’s||1
+NORP||srikakulam||1
+PERSON||satyanarayana murthy||1
+PERSON||murthy||1
+ORG||sanchaita gajapathi raju||1
+ORG||simhachalam trust board||1
+ORG||endowments department||1
+ORG||kmss||1
+ORG||tamil nadu dinesh gundu rao||1
+ORG||cauvery rights retrieval committee||1
+PERSON||m.p. chinnadurai||1
+ORG||sengipatti||1
+GPE||budalur||1
+PERSON||melaulur||1
+ORG||tamizh desiya periyakkam||1
+PERSON||l. ramasamy||1
+PERSON||kudanthai arasan||1
+ORG||cauvery vivasayigal paadhugaapu sangam||1
+PERSON||sundara vimalanathan||1
+ORG||kumbakonam head post office||1
+GPE||bharathiselvan||1
+GPE||tiruvarur||1
+PERSON||samyuktha samithi||1
+ORG||essential commodities (amendment||1
+ORG||all india unorganised workers congress||1
+PERSON||sudha narayanan||1
+PERSON||arindam banerjee||1
+ORG||vikas dhoot||1
+NORP||french||1
+ORG||eu||1
+ORG||pepsi||1
+ORG||state bihar||1
+PERSON||chandrima bhattacharya||1
+PERSON||sashi panja||1
+PERSON||mala roy||1
+ORG||pursuit of justice||1
+PERSON||biman bose||1
+PERSON||moulali||1
+ORG||food safety and standards act||1
+PERSON||abhijit sen||1
+ORG||planning commission||1
+ORG||commission for agricultural costs and prices||1
+PERSON||ajay vir jakhar||1
+PERSON||krushak samaj||1
+ORG||punjab state farmers commission||1
+PERSON||kiran kumar vissa||1
+PERSON||ashwani mahajan||1
+ORG||sub divisional magistrate||1
+PERSON||arun jaitley||1
+ORG||sp’s||1
+PERSON||ramgopal yadav||1
+PERSON||keshava rao||1
+PERSON||patel||1
+PERSON||ravneet singh bittu||1
+PERSON||gurdeep singh aujla||1
+PERSON||chowdhary||1
+ORG||chamber of commerce and industry||1
+ORG||chamber||1
+PERSON||s. rethinavelu||1
+ORG||agricultural produce marketing (cess and regulation||1
+ORG||agricultural produce marketing companies||1
+ORG||tamil nadu agricultural produce||1
+ORG||uzhavar sandhais||1
+GPE||sasikala||1
+PERSON||kathir||1
+ORG||k. udhayaprakash||1
+NORP||makkal arasu katchi||1
+PERSON||k. palaniswami||1
+GPE||tasmac||1
+PERSON||pudhu||1
+ORG||ts manickam tagore||1
+PERSON||ved prakash vidrohi||1
+PERSON||vidrohi||1
+PERSON||vidhrohi||1
+ORG||gramin bharat||1
+ORG||supreme court-appointed environment pollution (prevention & control) authority||1
+ORG||new delhi municipal council||1
+GPE||jhilmil||1
+ORG||yamuna power ltd||1
+ORG||bses||1
+ORG||epca||1
+PERSON||tikri kalan pvc||1
+ORG||anand vihar isbt||1
+ORG||edmc||1
+PERSON||sanjay gandhi transport nagar||1
+GPE||dwarka||1
+ORG||sdmc||1
+ORG||flood and irrigation department||1
+PERSON||daljit singh cheema||1
+ORG||special assembly||1
+PERSON||singh bidhuri||1
+ORG||indian youth congress||1
+PERSON||srinivas b.v.||1
+PERSON||satyagraha||1
+ORG||first information report||1
+GPE||theni||1
+PERSON||ismail bhai||1
+ORG||gandhiji’s||1
+PERSON||arhatiyas||1
+ORG||institute for development and communication, chandigarh||1
+GPE||new aicc||1
+ORG||telangana congress manickam tagore||1
+PERSON||gandhi bhavan||1
+ORG||graduate||1
+ORG||nda’s||1
+ORG||democratic youth federation||1
+GPE||k. pudur||1
+PERSON||s. saravanakumar||1
+PERSON||jananayaga katchi||1
+PERSON||s. nizamdeen||1
+PERSON||a.m. saleem||1
+PERSON||anbalagan||1
+PERSON||raj nivas||1
+PERSON||saleem||1
+PERSON||karnataka rakshana vedike||1
+PERSON||deepak gudanatti||1
+ORG||superintendent of police||1
+PERSON||krishi morcha||1
+PERSON||eeranna kadadi||1
+ORG||opposition of the congress and jd(s||1
+ORG||industrial disputes and certain other laws||1
+PERSON||karnataka amendment||1
+ORG||karnataka land reforms (second||1
+ORG||karnataka agriculture produce marketing (regulation and development||1
+ORG||government medical college||1
+ORG||bda||1
+PERSON||mlc n. ravikumar||1
+ORG||council on saturday||1
+PERSON||ayanur manjunath||1
+PERSON||k. karunakaran||1
+PERSON||mullapally ramachandran||1
+PERSON||ramachandran||1
+PERSON||oommen chandy||1
+PERSON||d. purandeswari||1
+PERSON||purandeswari||1
+GPE||chirala||1
+PERSON||ram madhav||1
+PERSON||madhav||1
+ORG||bills — farmers’ produce trade and commerce (promotion and facilitation||1
+ORG||shiv sena rajya sabha||1
+PERSON||fadnavis||1
+ORG||maha vikas agahdi||1
+ORG||maharashtra assembly||1
+PERSON||rajya sabha mp||1
+PERSON||thackeray||1
+PERSON||sanjay nirupam||1
+PERSON||nirupam||1
+ORG||mumbai congress||1
+ORG||bharatiya khet mazdoor union||1
+GPE||seithur||1
+ORG||communist party of india p. lingam||1
+ORG||varadarajan||1
+PERSON||r. ashok||1
+PERSON||duraikannu||1
+PERSON||singh bedi||1
+PERSON||baalu||1
+ORG||sanatana||1
+GPE||villupuram||1
+PERSON||s.t. somashekhar||1
+PERSON||c.t. ravi||1
+PERSON||somashekhar||1
+ORG||state bandh||1
+ORG||r.v. deshpande||1
+PERSON||ashok||1
+PERSON||chennithala||1
+NORP||kowdiar||1
+ORG||one union||1
+PERSON||raj bhavan congress||1
+ORG||ministry of housing and urban affairs||1
+ORG||north corporation||1
+ORG||mubarakpur||1
+PERSON||pooth kalan||1
+PERSON||jaunti||1
+GPE||pansali||1
+GPE||lampur||1
+GPE||north delhi||1
+ORG||south corporation||1
+ORG||deoli, chattarpur||1
+ORG||asola||1
+GPE||south delhi||1
+GPE||jaitpur||1
+GPE||meethapur||1
+GPE||kapashera||1
+ORG||east corporation||1
+GPE||mustafabad||1
+GPE||gokulpur||1
+ORG||karawal nagar||1
+PERSON||khajuri khas||1
+GPE||dallupura||1
+GPE||kondali||1
+GPE||east delhi||1
+PERSON||sarwan singh||1
+PERSON||kokri kalan||1
+PERSON||nabha||1
+PERSON||chhahjli||1
+PERSON||rampura||1
+GPE||kotkapura||1
+ORG||jalalabad (fazilka||1
+PERSON||harsimrat||1
+ORG||opposition and aam aadmi party mla harpal cheema||1
+PERSON||daljeet singh cheema||1
+PERSON||lok sabha’s||1
+PERSON||jogender nain||1
+PERSON||ghasi ram||1
+GPE||landhari||1
+ORG||all-india democractic women’s association||1
+ORG||kitlana||1
+ORG||mallikatta||1
+ORG||mangaluru city corporation||1
+PERSON||lalbagh||1
+PERSON||p.v. mohan||1
+PERSON||mithun m. rai||1
+ORG||hampankatta||1
+ORG||j. balakrishna shetty||1
+GPE||mangaluru city||1
+PERSON||bajal||1
+GPE||nagaon||1
+ORG||trade union center of||1
+PERSON||manish grover’s||1
+ORG||gju||1
+PERSON||manish sisodia||1
+PERSON||sisodia||1
+ORG||delhi cabinet||1
+ORG||l-g||1
+PERSON||prakash chautala||1
+PERSON||bihar cm||1
+PERSON||sohan singh||1
+ORG||kundli police station in||1
+GPE||kauke kala||1
+GPE||pulichintala||1
+GPE||somasila||1
+GPE||kandaleru||1
+ORG||pothireddypadu||1
+PERSON||kavali||1
+PERSON||telugu ganga chief engineer k. harinarayana reddy||1
+ORG||nagarjunasagar right bank||1
+GPE||prakasam district||1
+PERSON||jagseer singh||1
+PERSON||l. murugan’s||1
+ORG||cauvery water management authority||1
+ORG||cwma||1
+ORG||jal shakti ministry||1
+PERSON||swaiman singh||1
+ORG||n95||1
+PERSON||gaurav bhatia||1
+PERSON||sis ram ola||1
+PERSON||ola||1
+PERSON||shekhawati||1
+PERSON||bhatia||1
+PERSON||padma shri||1
+PERSON||ajit kaswan||1
+ORG||pradesh congress||1
+PERSON||dahiya||1
+ORG||haryana’s nahri||1
+PERSON||suresh pandey||1
+PERSON||pandey||1
+PERSON||vijay||1
+PERSON||jagtar singh bajwa||1
+PERSON||anshu jain||1
+ORG||expressway||1
+PERSON||bandhu||1
+PERSON||dalit bandhu||1
+PERSON||ranveer singh brar||1
+PERSON||mr brar||1
+PERSON||hardev arshi||1
+ORG||meenakshi lekhi’s||1
+PERSON||rahul gandhi’s||1
+ORG||union ministers||1
+PERSON||parvesh sahib singh||1
+PERSON||li keqiang||1
+PERSON||imran khan||1
+ORG||dasu||1
+ORG||china pakistan economic corridor||1
+PERSON||khan||1
+ORG||pakistani taliban||1
+ORG||balochistan||1
+ORG||parliament street||1
+PERSON||jasbir kaur||1
+ORG||sansad||1
+PERSON||shiv kumar '||1
+ORG||pegasus||1
+PERSON||vessels bill||1
+PERSON||jai kisaan||1
+PERSON||om birla||1
+PERSON||bartuhari mahtab||1
+ORG||leader of the opposition in the rajya sabha||1
+PERSON||chowdhury||1
+PERSON||baldev singh||1
+PERSON||ranbir gangwar’s||1
+PERSON||highway||1
+ORG||paramilitary and rapid action force||1
+ORG||police (new delhi||1
+ORG||farmers’ parliament||1
+ORG||legal cell||1
+PERSON||raminder||1
+ORG||pan-india||1
+GPE||youtuber||1
+ORG||national anthem||1
+ORG||inquilab zindabad||1
+PERSON||anil baijal||1
+ORG||l-g’s||1
+ORG||nagarjunasagar right bank canal||1
+ORG||nrbc||1
+ORG||pattiseema lift irrigation||1
+ORG||polavaram||1
+ORG||bachawat tribunal||1
+PERSON||roldu singh||1
+ORG||punjab’s mansa||1
+PERSON||ajeetpal singh||1
+ORG||punjab’s anandpur sahib||1
+ORG||rebuild||1
+PERSON||avtar singh mehlno||1
+ORG||ddma||1
+PERSON||kisan sanman’||1
+ORG||aiims hyderabad||1
+ORG||aiims-bibinagar||1
+ORG||aiims-hyderabad’||1
+PERSON||hansi mla||1
+PERSON||bhayana||1
+ORG||all-india democratic women’s association||1
+ORG||mahila nyaya panchayat||1
+PERSON||ranbir gangwa’s||1
+ORG||samyukt morcha||1
+PERSON||bharosa kendra||1
+ORG||rbk||1
+PERSON||m. gurumoorthy||1
+ORG||sri venkateswara veterinary university||1
+ORG||animal husbandry department||1
+ORG||panchayat raj department||1
+PERSON||b. karunakar reddy||1
+PERSON||p. dwarakanatha reddy||1
+PERSON||dean t. chandrasekhar reddy||1
+ORG||registrar ravi||1
+PERSON||bijendera singh||1
+PERSON||chhikara||1
+ORG||modern industrial estate||1
+ORG||guru jambheshwar university of science and technology||1
+ORG||chaudhary devi lal university||1
+ORG||gate||1
+ORG||bahadurgarh chamber of commerce and industry (bcci||1
+ORG||bcci||1
+PERSON||saleem ahmed||1
+PERSON||congress mlc dharmasena||1
+PERSON||somashekar||1
+PERSON||mysuru paints||1
+ORG||varnishes||1
+PERSON||h.a. venkatesh||1
+PERSON||brijesh kalappa||1
+ORG||yogeshwar’s||1
+ORG||karnatakapradesh congress committee||1
+PERSON||d.k. suresh||1
+ORG||sadabhau khot’s||1
+PERSON||ajit nawale ofaiks||1
+GPE||telugu states||1
+ORG||kisan sangharsh coordinating committee||1
+PERSON||mool chand sharma||1
+ORG||dhankhar||1
+ORG||pmkisan||1
+PERSON||ramesh jarkiholi’s||1
+PERSON||leaders choonappa pujari||1
+PERSON||basavaraj patil||1
+ORG||pm-aasha||1
+ORG||institute of economic growth||1
+ORG||e-nam||1
+ORG||state-state||1
+PERSON||c.s.c. sekhar||1
+ORG||all india workers union||1
+ORG||farmers (empowerment and protection) agreement on price assurance||1
+ORG||farm services ordinance||1
+GPE||jamhoori||1
+ORG||kisan sangharsh committee||1
+ORG||azaad kisan sangharsh committee||1
+ORG||separately,||1
+ORG||union food processing industries||1
+PERSON||abohar||1
+ORG||jd (s||1
+ORG||agricultural produce, commerce and trade (promotion and facilitation||1
+ORG||farmers (empowerment and protection) agreement on price assurance and farm services ordinance||1
+ORG||khalistan zindabad force||1
+PERSON||sani mandir||1
+ORG||gt karnal||1
+GPE||sani||1
+PERSON||s. niranjan||1
+PERSON||niranjan reddy||1
+ORG||nabard||1
+ORG||ministry of agriculture sanjay agarwal||1
+PERSON||anti-punjab||1
+ORG||bjp mla dinesh||1
+ORG||lok insaf party||1
+PERSON||mla simarjit||1
+PERSON||singh bains||1
+GPE||dasara||1
+PERSON||kabini||1
+PERSON||h.d. kote||1
+ORG||committee||1
+ORG||krs||1
+ORG||mekedatu||1
+ORG||federation of state farmers’ associations kurubur shanthakumar||1
+NORP||shiramalli||1
+PERSON||mao zedong’s||1
+ORG||kuomintang||1
+NORP||japanese||1
+PERSON||mao||1
+PERSON||deng xiaoping||1
+ORG||wall street journal||1
+PERSON||li dazhao||1
+PERSON||chen duxiu||1
+PERSON||marx||1
+PERSON||lenin||1
+ORG||peking university||1
+PERSON||jiang shigong||1
+PERSON||jiang||1
+GPE||sichuan||1
+PERSON||ezra vogel||1
+GPE||vogel||1
+PERSON||mao zedong||1
+PERSON||hu jintao||1
+ORG||coimbatore collectorate||1
+PERSON||500-rs||1
+PERSON||vishwavidyalaya||1
+ORG||civil lines||1
+GPE||odisha, chhattisgarh||1
+ORG||rajasthan and uttar pradesh||1
+ORG||kalka-zirakpur road||1
+PERSON||tohana mla devender babli||1
+ORG||bjp-jannayak janta party||1
+ORG||majha||1
+ORG||pradhan mantri fasal bima yojana||1
+PERSON||lok nayak jayaprakash narayan||1
+ORG||tenant farmers association||1
+PERSON||jaswinder kaur||1
+PERSON||jaswinder||1
+PERSON||daun kalan||1
+PERSON||jaswant kaur||1
+PERSON||jaswant||1
+PERSON||narender kaur||1
+PERSON||surinder pal singh||1
+PERSON||jagwant singh||1
+PERSON||jagwant||1
+PERSON||gurmeet singh dittupur||1
+PERSON||rajender kaur||1
+ORG||xii||1
+PERSON||zohra singh||1
+ORG||zohra||1
+ORG||amritsar-delhi national highway||1
+PERSON||sukhwinder singh sabhra||1
+PERSON||sukhwinder||1
+ORG||haryana’s ambala||1
+GPE||harayana||1
+GPE||jannayak||1
+ORG||sadar police station||1
+PERSON||ravi azad||1
+PERSON||narhari bangar||1
+ORG||communist party’s||1
+ORG||central military commission’s||1
+ORG||political work department||1
+ORG||party’s youth league||1
+GPE||karakoram||1
+PERSON||tan kefei||1
+ORG||national flag guards||1
+GPE||hot springs||1
+PERSON||special branch||1
+ORG||intelligence||1
+PERSON||ongole lok sabha||1
+PERSON||n. balaji||1
+ORG||connaught place||1
+PERSON||shrinate||1
+ORG||bjp-jjp||1
+ORG||panipat, kaithal||1
+ORG||bhp||1
+GPE||gurgaon||1
+ORG||leader of the opposition in the state assembly bhupinder||1
+ORG||irrigation department||1
+ORG||rural development||1
+ORG||agriculture and horticulture||1
+PERSON||eshwarappa||1
+PERSON||zilla panchayat chief executive||1
+PERSON||k.r. nandini||1
+PERSON||parliamentarians y. devendrappa||1
+PERSON||sanganna karadi||1
+PERSON||syed nasir hussein||1
+PERSON||g. karunakar reddy||1
+PERSON||e. tukaram||1
+PERSON||b. nagendra||1
+PERSON||k.c. kondaiah||1
+PERSON||m.s. somalingappa||1
+PERSON||panchayat raj commissioner||1
+NORP||vijayanagar||1
+PERSON||sravan p.||1
+ORG||krishan||1
+PERSON||mukesh||1
+GPE||kasar village||1
+PERSON||madan lal||1
+ORG||sector-6 bahadurgarh police station||1
+ORG||post graduate institute of medical sciences||1
+PERSON||jai bhagwan||1
+ORG||sation house office||1
+ORG||“bharatiya janta party||1
+PERSON||raitha spandana||1
+ORG||bengaluru district central cooperative bank||1
+ORG||primary agriculture cooperative society||1
+PERSON||p.v. narasimha rao||1
+ORG||kisan metro’||1
+PERSON||swacch kisan morcha||1
+ORG||krantikar kisan union||1
+PERSON||zameen||1
+PERSON||zameer||1
+PERSON||bhaichara panchayat||1
+PERSON||sunhera||1
+GPE||nuh||1
+PERSON||haryana-rajasthan||1
+ORG||asif||1
+PERSON||junaid||1
+PERSON||aiks haryana||1
+PERSON||jagjit singh dallewal||1
+GPE||satyawan||1
+PERSON||ibrahim khan||1
+PERSON||zafar yaduvanshi||1
+PERSON||ranjit raju||1
+PERSON||maulana saleem||1
+ORG||vigilance||1
+ORG||ayyappancoil||1
+GPE||vellilamkandam||1
+GPE||kattappana||1
+ORG||cardamom hill reserve||1
+ORG||chr||1
+GPE||chorakkali||1
+GPE||cholavenga||1
+ORG||preservation of tree act||1
+GPE||kanchiyar||1
+ORG||divisional forest officer||1
+ORG||dfo||1
+ORG||idukki||1
+GPE||chinnakkanal||1
+NORP||ponmudi||1
+PERSON||rajakkad||1
+PERSON||devikulam subcollector s. premkrishnan||1
+PERSON||devikulam||1
+PERSON||kisan sabha state||1
+PERSON||mathew varghese||1
+PERSON||komaldeep||1
+ORG||kisan express||1
+PERSON||kisan aid||1
+PERSON||swach kisan morcha||1
+ORG||national front of the opposition||1
+PERSON||sinha||1
+PERSON||ananth subbarao||1
+ORG||sati sundaresh||1
+ORG||m.n. sriram||1
+ORG||k.n umesh||1
+PERSON||clifton d. rozario||1
+PERSON||appanna||1
+PERSON||mohan raj||1
+PERSON||chamarasa mali patil||1
+PERSON||haryana home||1
+PERSON||vij||1
+ORG||agriculture and farmers' welfare||1
+ORG||kochi||1
+ORG||legion of harmony’||1
+PERSON||purogamana kala||1
+PERSON||sangham||1
+ORG||pukasa||1
+ORG||legion of harmony||1
+PERSON||curry||1
+PERSON||hari govind||1
+PERSON||steve manuel||1
+GPE||ashiq||1
+PERSON||meena raj||1
+PERSON||joshi don bosco||1
+ORG||huzurabad||1
+PERSON||eatala rajender||1
+PERSON||dharna chowk'||1
+PERSON||rajender||1
+ORG||uttar pradesh’s||1
+PERSON||chinta mohan||1
+PERSON||anantapur||1
+ORG||chennai-kolkata||1
+GPE||gudur||1
+GPE||faridabad||1
+ORG||panipat, sonipat||1
+ORG||dap||1
+ORG||bhartiya kisan union-ekta||1
+ORG||national democratic alliance (nda) government||1
+ORG||left democratic front government||1
+PERSON||satheesan||1
+GPE||mullaperiyar||1
+PERSON||v.s. achuthanandan||1
+ORG||wayanad speaking||1
+ORG||central and state governments||1
+PERSON||joseph biden’s||1
+ORG||white house||1
+PERSON||glasgow||1
+PERSON||biden||1
+ORG||summit||1
+GPE||russia||1
+NORP||russian||1
+PERSON||vladimir putin||1
+ORG||democracy summit||1
+PERSON||sergey lavrov||1
+NORP||central asian||1
+ORG||sca||1
+ORG||maldives||1
+GPE||nepal||1
+GPE||afghanistan||1
+GPE||myanmar||1
+ORG||ministry of external affairs||1
+ORG||european union||1
+GPE||u.k.||1
+GPE||south korea||1
+ORG||minimum support price||1
+ORG||bjp ministers||1
+PERSON||j.p. dalal||1
+ORG||court||1
+ORG||maharajganj||1
+PERSON||kisan samyukta morcha||1
+ORG||b.v. raghavulu||1
+PERSON||raghavulu||1
+PERSON||electricity act||1
+PERSON||tinku kumar||1
+PERSON||rakesh beas||1
+PERSON||beas||1
+PERSON||sher singh||1
+PERSON||amarjeet singh||1
+ORG||pm modi’s||1
+ORG||indo-gangetic plain||1
+PERSON||kisan mahapanchayat ’||1
+PERSON||azad maidan||1
+PERSON||kamgar morcha||1
+PERSON||masood ahmad||1
+PERSON||jayantji||1
+ORG||tanda assembly||1
+GPE||ambedkarnagar||1
+ORG||uttar pradesh legislative assembly||1
+PERSON||sahendra singh||1
+PERSON||ramala||1
+ORG||108 ambulance workers union||1
+GPE||h.r.basavarajappa||1
+ORG||bengaluru-honnavara road||1
+PERSON||raitha sanha||1
+ORG||zilla panchayat||1
+ORG||kalaburagi-devasugur national highway 150||1
+GPE||nandur village||1
+PERSON||raitha krushi-karmikara sanghatane||1
+ORG||legislative council b.r. patil||1
+PERSON||karnataka prantha raitha||1
+PERSON||bhimashankar madyal||1
+PERSON||mahesh s.b.||1
+PERSON||umapathi malipatil||1
+PERSON||nagendrappa tambe||1
+PERSON||coolie sangham||1
+PERSON||lalitha kumar||1
+ORG||acharya||1
+PERSON||n.g.ranga kisan sabha||1
+PERSON||chunchu seshaiah||1
+PERSON||manjinder||1
+PERSON||trilochan singh||1
+PERSON||ghar||1
+PERSON||kamaljeet singh||1
+PERSON||kamaljeet||1
+ORG||life care foundation hospital||1
+GPE||nachchatra singh||1
+PERSON||nachchatra||1
+PERSON||santok||1
+PERSON||amar singh||1
+PERSON||gurnekh singh||1
+PERSON||pal singh||1
+PERSON||ranjeet singh||1
+PERSON||sarwan singh pandher||1
+PERSON||harnek singh||1
+GPE||barkatpur||1
+ORG||harnek||1
+GPE||new grain||1
+GPE||majri village||1
+PERSON||ram||1
+ORG||institute for development and communication in chandigarh||1
+ORG||kundli-singhu||1
+PERSON||tikri’||1
+ORG||singhu-tikri||1
+PERSON||plea||1
+PERSON||khattar||1
+PERSON||haryana divas||1
+ORG||haryana staff selection commission||1
+ORG||haryana public service commission||1
+PERSON||jinnah||1
+GPE||kozhikode district||1
+ORG||thamarassery range office||1
+GPE||kattippara||1
+PERSON||rytu beema||1
+ORG||mr nirajan reddy||1
+ORG||union external affairs||1
+ORG||sri lankan navy||1
+ORG||kisan credit card||1
+PERSON||abhay singh chautala||1
+PERSON||gobind kanda||1
+ORG||ellenabad assembly||1
+ORG||ellenabad||1
+PERSON||kanda||1
+PERSON||abhay chautala||1
+ORG||uttar pradesh’s lakhimpur kheri||1
+GPE||kollur village||1
+PERSON||aland mla b.r. patil||1
+PERSON||umapathi patil||1
+PERSON||shoukatali alur||1
+PERSON||sharanappa bhirnoor||1
+PERSON||lovepreet singh||1
+PERSON||daljeet singh||1
+PERSON||nachattar singh||1
+PERSON||mohammed ali shabbir||1
+ORG||aimim||1
+ORG||nrc||1
+PERSON||owaisi||1
+ORG||bjp central government||1
+PERSON||dharam singh saini||1
+PERSON||saini||1
+ORG||nakur||1
+ORG||yogi adityanath government||1
+PERSON||mamla||1
+ORG||samyukta kisan morch||1
+NORP||manair||1
+GPE||manoj||1
+PERSON||rajiv nagar||1
+ORG||industries and information technology k||1
+GPE||rajanna sircilla||1
+PERSON||maha dharna||1
+ORG||nihangs||1
+ORG||u.p. improved||1
+ORG||bhartiya kisan sangh||1
+ORG||varkala assembly||1
+GPE||varkala||1
+GPE||navayikulam||1
+GPE||attingal||1
+PERSON||kilimanoor||1
+GPE||palakkad||1
+PERSON||pirayiri||1
+PERSON||surendran||1
+NORP||islamic||1
+PERSON||a. sanjith||1
+GPE||mambaram||1
+ORG||people’s plaza||1
+ORG||tank bund||1
+PERSON||madhu yaskhi goud||1
+PERSON||geetha reddy||1
+PERSON||mahesh kumar goud||1
+PERSON||sunita rao||1
+NORP||lakhs||1
+ORG||farm laws repeal bill||1
+ORG||business advisory committee||1
+ORG||bac||1
+PERSON||repeal bill||1
+PERSON||r.k. singh||1
+PERSON||b venkat||1
+PERSON||b hymavathi||1
+PERSON||j.p. nadda’s||1
+PERSON||anurag thakur||1
+GPE||dharamshala||1
+PERSON||thakur||1
+PERSON||jairam thakur||1
+ORG||minister for industries||1
+ORG||civil supplies corporation||1
+ORG||ikp||1
+PERSON||mr rao||1
+PERSON||rythu bhima||1
+ORG||global hunger index-2021||1
+ORG||@pmoindia||1
+ORG||kisan andolan zindabad||1
+PERSON||muneesh sehgal||1
+GPE||kalhana||1
+PERSON||sehgal||1
+PERSON||sarabjit singh||1
+GPE||batala||1
+PERSON||meje singh||1
+PERSON||uttam singh||1
+PERSON||guru nanak dev||1
+NORP||surat||1
+ORG||king viraata of matsyadesh||1
+PERSON||bku yudhvir singh||1
+PERSON||pavan khatana||1
+ORG||gautam buddha nagar||1
+PERSON||vijendra yadav||1
+ORG||sambhal||1
+PERSON||bhagwan das||1
+ORG||kanpur||1
+GPE||guru||1
+ORG||uttar pradesh and punjab||1
+ORG||pradhan mantri||1
+GPE||guru nanak’s||1
+PERSON||kisan vijay diwas||1
+PERSON||sonia gandhi congress||1
+PERSON||jarkiholi||1
+ORG||central government’s||1
+PERSON||j.c. madhuswamy||1
+ORG||model agricultural produce and livestock marketing (promotion and facilitation||1
+ORG||union government’s||1
+PERSON||sathi sundaresh||1
+ORG||uttarkhand assembly||1
+ORG||sangh parivar||1
+PERSON||g. devarajan||1
+PERSON||parirakshana samiti||1
+PERSON||g. tirupati rao||1
+ORG||capital region development authority||1
+ORG||crda||1
+PERSON||repeal act||1
+PERSON||gudlur||1
+GPE||rajuvari||1
+ORG||jagadamba junction||1
+ORG||m.s. swaminathan commission||1
+ORG||visakhapatnam steel plant (vsp||1
+PERSON||gandi nayana babu||1
+PERSON||g. koteswara rao||1
+PERSON||y. raju||1
+PERSON||subba rao||1
+PERSON||v.v. srinivasa rao||1
+PERSON||gurajada||1
+ORG||rtc complex||1
+PERSON||sk rehaman||1
+PERSON||a. vimala||1
+ORG||k. satyanarayana||1
+ORG||forum for development of north andhra||1
+PERSON||a. aja sarma||1
+ORG||janata party||1
+PERSON||lok dal||1
+ORG||jats, sainis||1
+PERSON||ashok arora||1
+PERSON||hari singh saini||1
+PERSON||p.d. gupta||1
+PERSON||kripa lal punia||1
+ORG||jat-sc||1
+ORG||chamars||1
+PERSON||caste||1
+PERSON||bawa||1
+PERSON||nichattar singh||1
+PERSON||nichattar||1
+PERSON||dafedar||1
+PERSON||paramjeet kaur||1
+PERSON||paramjeet||1
+PERSON||rajveer jadaun||1
+ORG||cabinet ministers||1
+ORG||farmers of telangana||1
+PERSON||y.s. sharmila||1
+PERSON||sharmila||1
+GPE||jubilee hills||1
+ORG||kaleswaram project||1
+ORG||cm kcr’s||1
+PERSON||ysr||1
+ORG||constitutional conduct group||1
+ORG||ifs||1
+ORG||goi||1
+PERSON||chakka||1
+GPE||district pradhan||1
+PERSON||amreek||1
+PERSON||mandeep singh||1
+ORG||sudhir||1
+PERSON||pavneet kaur||1
+GPE||sangroor||1
+PERSON||outer||1
+ORG||delhi-uttar pradesh||1
+ORG||delhi-dabur tiraha||1
+GPE||nangloi||1
+PERSON||suresh dhaka||1
+ORG||bhanu||1
+PERSON||bhanu pratap singh||1
+ORG||nand kishore gurjar||1
+PERSON||yadavs||1
+PERSON||gurjars||1
+PERSON||sokhendra sharma||1
+ORG||digambar jain degree college||1
+PERSON||bharatiya jana sangh||1
+PERSON||akhilesh yadav||1
+PERSON||mulayam singh||1
+PERSON||kairana||1
+GPE||gandhigiri||1
+ORG||ajay hooda’s||1
+PERSON||mohammed rafi’s “||1
+PERSON||aaj||1
+ORG||madhya pradesh’s gwalior||1
+GPE||bunkdelkhand||1
+PERSON||raghubir singh||1
+PERSON||munshi hari||1
+PERSON||singh chauhan||1
+PERSON||chauhan||1
+PERSON||deepak chaudhary||1
+ORG||haryana’s charkhi dadri||1
+PERSON||maulana arshad||1
+ORG||bhim army||1
+PERSON||chandrashekhar ravan||1
+PERSON||aftab ahmed||1
+PERSON||mamman khan||1
+PERSON||ferozepur jhirka||1
+PERSON||mohammad ilyas||1
+GPE||punahana||1
+ORG||haryana’s jind||1
+PERSON||a. jayathilak||1
+ORG||kerala promotion of tree growth||1
+PERSON||jayathilak||1
+PERSON||fr||1
+PERSON||sebastian kochupurackal||1
+ORG||church||1
+PERSON||dilshad khan||1
+PERSON||navjot singh jyoti||1
+PERSON||dilshad||1
+ORG||navjot’s||1
+ORG||navjyot’s||1
+PERSON||navjot||1
+PERSON||amarpreet singh||1
+ORG||dilshad’s||1
+PERSON||dilbar||1
+ORG||ankit’s||1
+ORG||harvinder||1
+PERSON||mittarbir||1
+ORG||harvinder’s||1
+GPE||rohini||1
+PERSON||rajeev ranjan singh||1
+PERSON||kisan ekta morcha||1
+PERSON||badshah pal||1
+PERSON||shashank shekher||1
+PERSON||rajinder kumar||1
+ORG||hardeep||1
+PERSON||tripura||1
+PERSON||kishan rai||1
+ORG||agartala||1
+PERSON||rai||1
+ORG||ecg||1
+GPE||south africa||1
+PERSON||tripura yuktibad bikash mancha||1
+PERSON||kisan panchayat||1
+PERSON||dalal khap||1
+ORG||jhajjar’s bahadurgarh||1
+PERSON||kisan kranti||1
+PERSON||ghulam mohammad jaula||1
+PERSON||jaula||1
+NORP||jat-muslim||1
+ORG||mid-1960s-||1
+PERSON||arya samaj||1
+ORG||astha||1
+ORG||qtv||1
+NORP||pan-islamic||1
+PERSON||vipin baliyan||1
+PERSON||puran singh||1
+PERSON||satendra kumar||1
+ORG||university of allahabad||1
+PERSON||jagdeep singh||1
+ORG||achampet||1
+GPE||amangal||1
+PERSON||ravinder singh||1
+PERSON||delhi jal board||1
+PERSON||tara gandhi bhattcharajee||1
+ORG||national gandhi museum||1
+PERSON||bhattacharjee||1
+ORG||torch||1
+ORG||behrampore||1
+ORG||vsnl||1
+PERSON||sail||1
+ORG||mir jafar||1
+PERSON||nawab siraj||1
+GPE||battle of plassey||1
+PERSON||pm kisan||1
+GPE||kalna||1
+GPE||bardhaman||1
+PERSON||ujaghar singh||1
+GPE||thol village||1
+ORG||karnal highway||1
+PERSON||sanjeev yadav||1
+ORG||raitha karmika dalita||1
+PERSON||karambir||1
+ORG||cardiac||1
+ORG||harinder||1
+ORG||kundli station house officer||1
+PERSON||ravi kumar||1
+ORG||civil hospital||1
+ORG||rai station house||1
+PERSON||vivek malik||1
+ORG||deepak nehra||1
+ORG||post graduate institute of medical sciences at rohtak||1
+GPE||bensi village||1
+GPE||deepak||1
+PERSON||balvir singh||1
+ORG||dsgmc||1
+ORG||masters||1
+PERSON||manjot singh||1
+PERSON||jangi||1
+ORG||punjabi, hindi and english||1
+ORG||malyalam||1
+ORG||dravidar kazhagam||1
+PERSON||k. veeramani||1
+PERSON||a.k. rajan||1
+ORG||madras high court||1
+PERSON||vijoo krishnan||1
+PERSON||veeramani||1
+PERSON||gurlal singh bhalwan||1
+PERSON||zila parishad||1
+GPE||golewala||1
+PERSON||gurvinder pal||1
+PERSON||saurabh verma||1
+PERSON||lawrence vishnoi||1
+GPE||ajmer||1
+PERSON||gurinder pal||1
+ORG||goldy||1
+PERSON||bhalwan||1
+ORG||faridkot’s jubilee chowk||1
+PERSON||raid||1
+PERSON||manishi chandra||1
+PERSON||sarai kale khan||1
+ORG||goldy brar||1
+GPE||vishnoi||1
+ORG||goldy’s||1
+GPE||gurlal||1
+ORG||student organisation of punjab university||1
+PERSON||bhambhia||1
+PERSON||sachin jawla||1
+PERSON||jawla||1
+PERSON||surinder chaudhary||1
+ORG||battisa||1
+PERSON||suraj mal||1
+PERSON||udayveer singh||1
+PERSON||yogendra ahlawat||1
+GPE||bhainsi village||1
+PERSON||ahlawat||1
+PERSON||gajendra ahalwat||1
+PERSON||sahendra singh ramala||1
+ORG||chhaprauli||1
+ORG||delhi assembly||1
+ORG||haryana’s rohtak||1
+PERSON||actress gul panag||1
+PERSON||gul||1
+PERSON||nirmala||1
+PERSON||kamla||1
+GPE||sikar||1
+ORG||daman pratirodh divas||1
+ORG||anti-repression day||1
+PERSON||pro-khalistani||1
+PERSON||damdami taksal||1
+ORG||uttar pradesh’s purvanchal||1
+PERSON||trenches||1
+PERSON||jatin singh||1
+ORG||dhansa||1
+PERSON||yoginder shastri||1
+PERSON||gurjeet singh||1
+ORG||panipat and karnal||1
+PERSON||gurlal singh||1
+PERSON||nodeep||1
+ORG||delhi university’s punjabi department||1
+ORG||haryana high court||1
+PERSON||rajveer||1
+PERSON||harveer kaur||1
+PERSON||kundli industrial area||1
+PERSON||harris||1
+ORG||judicial||1
+ORG||muktsar sahib’s||1
+NORP||gandhar||1
+ORG||mas||1
+PERSON||prakash karat||1
+ORG||corporates||1
+ORG||public sector enterprises||1
+PERSON||k. balakrishnan||1
+PERSON||brinda karat||1
+ORG||communist party of india-marxist||1
+GPE||bamnauli village||1
+PERSON||raja sulakshpal tomar||1
+PERSON||naudeep kaur||1
+PERSON||shiv kumar||1
+PERSON||kaur||1
+PERSON||majdoor adhikar sanghathan||1
+PERSON||question hour||1
+ORG||shashi tharoor||1
+PERSON||sushil kumar gupta||1
+PERSON||dass gupta||1
+PERSON||kamal harris||1
+ORG||temporary suspension of telecom services (public emergency or public safety||1
+PERSON||yudhveer singh||1
+ORG||energy department||1
+ORG||mw||1
+PERSON||siddaramiah||1
+ORG||skill development department||1
+ORG||farmersprotest||1
+PERSON||arshdeep singh atwal||1
+PERSON||jay sandhu||1
+GPE||london||1
+PERSON||prakat singh||1
+PERSON||harmeet sandhu||1
+PERSON||rohtak road||1
+PERSON||hari shankar sharma||1
+ORG||capital on republic day||1
+ORG||caf||1
+ORG||media||1
+NORP||manglaur||1
+PERSON||gur mandi||1
+GPE||agripreneurship||1
+PERSON||c. ravindranath||1
+ORG||vaiga||1
+ORG||a farmers welfare board||1
+GPE||thrissur||1
+PERSON||anand vishnu prakash||1
+PERSON||sasneham krishi manthri||1
+PERSON||’ sukhwinder singh||1
+ORG||punjab’s pola||1
+PERSON||jarnail||1
+PERSON||jagtar singh sidhu||1
+ORG||peshawar||1
+PERSON||chhotu ram||1
+NORP||non-sikhs||1
+PERSON||iqbal singh||1
+ORG||delhi police’s special cell||1
+PERSON||crime branch||1
+GPE||shahpur||1
+PERSON||yogesh kumar||1
+ORG||budhana||1
+PERSON||amritpal singh||1
+PERSON||rupinder kaur||1
+PERSON||ekamjot||1
+PERSON||rupinder||1
+GPE||jasgun||1
+ORG||aap state||1
+ORG||aap national convener||1
+PERSON||delhi cm||1
+ORG||adani||1
+ORG||fortune special basmati||1
+PERSON||nanjundaswamy||1
+ORG||disha farmers’||1
+GPE||malkajgiri||1
+PERSON||sachin pilot||1
+PERSON||pilot||1
+GPE||kotkhawda||1
+PERSON||chaksu||1
+PERSON||niwai mla prashant bairwa||1
+PERSON||chaksu mla||1
+PERSON||prakash solanki||1
+ORG||dalit, jat||1
+PERSON||ramesh kumar||1
+PERSON||sonu||1
+ORG||sadar bazaar||1
+PERSON||harkeerat kaur||1
+PERSON||jai mata di||1
+PERSON||kul hind kisan sabha||1
+PERSON||baldev singh nihalgarh||1
+ORG||vishwa hindu parishad||1
+PERSON||arun kumar||1
+ORG||dgp||1
+ORG||rpf||1
+ORG||shiva market||1
+ORG||routes||1
+PERSON||prakash||1
+GPE||satnam||1
+ORG||station house officer||1
+PERSON||harpreet||1
+ORG||nihang||1
+PERSON||moni||1
+ORG||ac||1
+GPE||pitampura||1
+ORG||mo dhaliwal’s||1
+ORG||shantanu||1
+ORG||nikita||1
+ORG||sikhs for justice||1
+PERSON||greta||1
+PERSON||gurjant singh||1
+ORG||uno||1
+ORG||avinashi||1
+ORG||palladam assembly||1
+PERSON||rajiv gandhi||1
+PERSON||sandeep dubey||1
+ORG||madhuban chowk||1
+PERSON||sandeep||1
+PERSON||kumar jha||1
+PERSON||dubey||1
+PERSON||lakha sidhana||1
+ORG||haryana’s karnal||1
+PERSON||sidhana||1
+ORG||sidhu’s||1
+PERSON||karti dharti||1
+PERSON||sangeet toor||1
+PERSON||toor||1
+ORG||university of delhi||1
+GPE||new york||1
+PERSON||navjeet kaur||1
+PERSON||sargam toor||1
+PERSON||gurumukhi||1
+PERSON||shahmukhi||1
+ORG||punjabi and punjabi||1
+PERSON||baba farid||1
+ORG||trolley times||1
+PERSON||deep khatri||1
+GPE||iglas||1
+GPE||amroha||1
+ORG||gonda||1
+PERSON||shubham patel||1
+ORG||binor||1
+PERSON||imran masood||1
+ORG||sugarcane control (amendment) order||1
+PERSON||p. krishnaprasad||1
+PERSON||rajinder deep singh wala||1
+ORG||union finance||1
+GPE||alipurduar||1
+NORP||bengali||1
+NORP||non-bengali||1
+PERSON||rajib banerjee||1
+PERSON||reform laws||1
+PERSON||pramod kumar joshi||1
+PERSON||shinjini ghosh||1
+PERSON||ranjit dalal||1
+PERSON||gurpreet singh||1
+ORG||punjab’s barnala||1
+PERSON||kiranbala katiyar||1
+ORG||punjab’s mohali||1
+PERSON||gurjan singh||1
+PERSON||abdul wahid||1
+ORG||meerut-delhi expressway||1
+PERSON||wahid||1
+GPE||tajpura village||1
+PERSON||shahzad||1
+ORG||bhartiya kisan mazdoor manch||1
+PERSON||mahendra||1
+PERSON||naresh||1
+PERSON||mannan baliyan||1
+PERSON||baliyan||1
+PERSON||manjinder singh sirsa||1
+ORG||delhi high court||1
+ORG||pil||1
+PERSON||d.n. patel||1
+PERSON||jyoti singh||1
+PERSON||preet singh||1
+PERSON||cong||1
+PERSON||wayanad lok sabha||1
+PERSON||adityanath||1
+ORG||transparency international||1
+GPE||up||1
+PERSON||burj gill||1
+PERSON||sharad pawar’s||1
+PERSON||jairam ramesh||1
+ORG||a parliamentary standing committee||1
+ORG||parliament committee||1
+PERSON||ramesh||1
+ORG||mrinal pande||1
+PERSON||siddharth varadarajan||1
+PERSON||vinod jose||1
+PERSON||zafar agha||1
+ORG||party||1
+PERSON||congress lok sabha||1
+ORG||#food givers||1
+ORG||shame||1
+ORG||bjpdeestroys||1
+ORG||valaiyar reclamation board||1
+ORG||mutharaiyar||1
+PERSON||veera mutharaiyar||1
+GPE||valayangulam||1
+PERSON||anaiyur||1
+ORG||perarasar perumbidugu mutharaiyar||1
+PERSON||veeramutharaiyar munnetra||1
+PERSON||k.k. selvakumar||1
+PERSON||sellur k. raju||1
+PERSON||r.b. udhayakumar||1
+PERSON||dindigul c. sreenivasan||1
+PERSON||congress rajya sabha||1
+PERSON||bajwa||1
+ORG||punjab police||1
+GPE||held||1
+PERSON||chuabisi||1
+PERSON||chaugama||1
+PERSON||thamba||1
+PERSON||surendra chaudhary||1
+ORG||circle||1
+ORG||adm||1
+ORG||national highways authority of india||1
+PERSON||alok singh||1
+ORG||nhai||1
+PERSON||bhojan||1
+ORG||capital||1
+ORG||delhi on budget day||1
+GPE||jalaun||1
+PERSON||jasmeet gill||1
+PERSON||nachhattar singh||1
+PERSON||manjeet bajwa||1
+ORG||magistrate||1
+ORG||indian women’s press corps||1
+ORG||press club of india||1
+ORG||press association||1
+PERSON||dharmender singh||1
+ORG||constitution of india||1
+ORG||aikssc||1
+PERSON||ashish mittal||1
+ORG||rythu garjana||1
+PERSON||k ranga reddy||1
+PERSON||p ranga rao||1
+PERSON||jana samithi||1
+PERSON||m kodandaram||1
+ORG||head constable||1
+ORG||old police lines||1
+ORG||opl||1
+GPE||mayawati||1
+ORG||uttar pradesh cabinet||1
+PERSON||amrik||1
+PERSON||nirmal singh||1
+NORP||arunodaya||1
+PERSON||gaddam lakshman||1
+PERSON||sarabhjit kaur||1
+PERSON||jagter singh||1
+PERSON||shahjahan||1
+PERSON||gurbaaj singh||1
+PERSON||volunteer||1
+ORG||congress-led opposition||1
+ORG||national conference||1
+ORG||all-india united democratic front||1
+ORG||arbitration and conciliation act||1
+GPE||samajwadi||1
+PERSON||meenakshi lekhi||1
+PERSON||lekhi||1
+PERSON||dayanidhi maran||1
+PERSON||danish ali||1
+PERSON||mahua moitra||1
+ORG||congress party’s supriya sule||1
+PERSON||manoj k. jha||1
+PERSON||jha||1
+PERSON||deve gowda’s||1
+PERSON||derek o’||1
+ORG||this council of states||1
+ORG||national and state highways||1
+PERSON||m.b. sajjan||1
+PERSON||bheemashankar madiyal||1
+PERSON||sajjan||1
+PERSON||raju dhillon||1
+PERSON||gurtej singh||1
+PERSON||dhillon||1
+ORG||bhartiya kisan union national||1
+PERSON||greta thunberg||1
+PERSON||a kisan panchayat||1
+GPE||bhainswal||1
+GPE||rabindranath tagore||1
+PERSON||netaji subhash||1
+PERSON||chandra bose||1
+PERSON||jan sangh||1
+PERSON||shyama prasad mookerjee||1
+PERSON||pranab mukherjee||1
+PERSON||locket chatterjee||1
+ORG||ayushman bharat||1
+GPE||cyclone amphan||1
+PERSON||adhir ranjan chowdhary||1
+PERSON||sp mookerjee||1
+PERSON||shanti niketan||1
+PERSON||mohua moitra’s||1
+ORG||netaji||1
+PERSON||kohar||1
+PERSON||kangana ranaut||1
+PERSON||harshvardhan patil||1
+GPE||bollywood||1
+ORG||c.m. ibrahim||1
+PERSON||mlc p. thippeswamy||1
+PERSON||b. k. hariprasad||1
+PERSON||v.d. savarkar||1
+PERSON||ibrahim||1
+PERSON||naseer ahmed||1
+PERSON||basavaraj horatti||1
+PERSON||b.k. hariprsad||1
+ORG||muslim students federation||1
+PERSON||kumar k.b.||1
+PERSON||mathrubhumi||1
+ORG||msf||1
+ORG||v.p. sanu||1
+ORG||students federation of india||1
+PERSON||sanu||1
+ORG||sfi||1
+ORG||msf state||1
+PERSON||p.k. navas||1
+PERSON||santhosh||1
+PERSON||satheesh kumar||1
+PERSON||k.p.m. riyas||1
+ORG||kerala union of working journalists||1
+PERSON||ramandeep bhathal||1
+PERSON||bhathal||1
+ORG||information technology||1
+PERSON||raman||1
+ORG||police (operations||1
+PERSON||muktesh chander||1
+PERSON||dheera singh nihang||1
+PERSON||chhinda||1
+PERSON||dheera||1
+PERSON||gehna||1
+PERSON||jacob||1
+PERSON||kisan sabha’s punjab||1
+PERSON||singh punnawal||1
+PERSON||rajinder singh||1
+PERSON||wala||1
+PERSON||k.p. anbalagan||1
+ORG||sipcot||1
+PERSON||karunanidhi||1
+PERSON||vaiko||1
+NORP||sri lankan||1
+ORG||external affairs||1
+PERSON||s. jaisankar||1
+ORG||thirukkural||1
+PERSON||sanskrit||1
+ORG||achampet to hyderabad||1
+PERSON||y. s. rajashekhara reddy’s||1
+ORG||nallamalla||1
+GPE||pharma city||1
+PERSON||k. kusum||1
+ORG||mallu ravi||1
+PERSON||shabbir ali||1
+ORG||balaram naik||1
+PERSON||malreddy ranga reddy||1
+NORP||himalayan||1
+NORP||asian||1
+GPE||pangong||1
+ORG||kailash||1
+ORG||ladakhi||1
+ORG||daulat beg oldi||1
+PERSON||beg oldie||1
+ORG||dsdbo||1
+ORG||karakoram pass||1
+GPE||galwan||1
+ORG||pp14||1
+NORP||sino-indian||1
+GPE||new delhi’s||1
+ORG||centre for policy research||1
+ORG||ladakh to arunachal pradesh||1
+PERSON||sushant singh||1
+ORG||hemkunt foundation||1
+ORG||patiala’s bahal||1
+PERSON||singh mansa||1
+ORG||delhi-agra highway||1
+PERSON||manveer rathi||1
+PERSON||vikram singh||1
+ORG||mohali’s||1
+ORG||income tax office||1
+ORG||jaura in madhya pradesh||1
+PERSON||states blockades||1
+PERSON||hemani bhandari||1
+GPE||pudukkotai||1
+ORG||desiya thennindiya nathigal inaippu vivasayigal sangam||1
+ORG||manaparai||1
+PERSON||v. chidambaram||1
+ORG||tamil nadu vivasayigal sangam||1
+PERSON||perambalur members||1
+ORG||r.raja chidambaram||1
+PERSON||thanjavur addressing||1
+PERSON||sami natarajan||1
+ORG||intentions of the centre||1
+GPE||n.v.kannan||1
+GPE||p.senthilkumar||1
+ORG||b.balasundaram||1
+PERSON||veeramohan||1
+PERSON||pazhanirasan||1
+GPE||k.anbu||1
+ORG||student federation of india||1
+ORG||n.gurusamy||1
+PERSON||makkal adhikaram deva||1
+ORG||k.muniyandi||1
+ORG||musiri||1
+PERSON||edappadi k.palaniswami||1
+ORG||k.s.alagiri||1
+PERSON||m.k.stalin||1
+ORG||tamil nadu congress||1
+PERSON||nanjangud||1
+ORG||bandipalya.||1
+GPE||organizing||1
+ORG||karnataka sugarcane growers’ association attahalli devaraj||1
+PERSON||kurnool||1
+GPE||hayathnagar||1
+ORG||hyderabad-vijayawada||1
+PERSON||chada venkat reddy||1
+PERSON||d.g. narasimha rao||1
+PERSON||v. kiran||1
+PERSON||p. padma||1
+PERSON||t. sagar||1
+GPE||jhansi||1
+PERSON||achuta ramarao||1
+PERSON||j.v. chalapathi rao||1
+GPE||nizamabad||1
+NORP||makur||1
+GPE||wardhannapet||1
+GPE||narsampet||1
+GPE||mandarpet||1
+GPE||crpc||1
+ORG||pandav nagar||1
+NORP||seemapuri||1
+PERSON||120b||1
+PERSON||brijpal singh||1
+PERSON||thamba chaudhary||1
+ORG||pandav nagar police station||1
+PERSON||niraj kumar||1
+GPE||shikaripur||1
+PERSON||regarding shikaripur||1
+PERSON||ismail tamatgar||1
+PERSON||deepak chinchore||1
+PERSON||basavaraj malkari||1
+PERSON||gouri||1
+PERSON||vasanth arkachari||1
+ORG||tekram||1
+ORG||uttar bharat khap panchayats||1
+PERSON||dadri mla sombirsangwan||1
+PERSON||maan||1
+GPE||rajasthan’s||1
+GPE||charkhi||1
+PERSON||nirmala devi||1
+PERSON||sangwan||1
+ORG||ompati||1
+ORG||haryana’s||1
+GPE||rakhigarhi village||1
+PERSON||mini||1
+GPE||poonia||1
+PERSON||meham independent||1
+PERSON||mla balraj kundu||1
+ORG||haryana’s nuh||1
+ORG||gandhi nagar||1
+ORG||gomti express||1
+GPE||modinagar||1
+ORG||ghaziabad, meerut, shamli||1
+ORG||utkal express||1
+GPE||puri||1
+GPE||bettiah||1
+ORG||bangarpet||1
+GPE||kolar||1
+GPE||nimtita||1
+PERSON||yuthika bhargava||1
+GPE||kalasa||1
+GPE||banduri||1
+GPE||mudhol||1
+ORG||samyukta||1
+PERSON||kalmesh ligade||1
+PERSON||laxman doddamani||1
+PERSON||venkanagouda patil||1
+GPE||bhavanishankar||1
+ORG||karnataka pranth raita||1
+PERSON||raita krishikarmikara sanghatane||1
+ORG||republican party of india||1
+PERSON||samyukta horata karnataka||1
+ORG||kalaburagi police||1
+ORG||price assurance and farm services act||1
+ORG||bidar district police||1
+ORG||nagarjunasagar assembly||1
+PERSON||jana reddy’s||1
+PERSON||polam baata||1
+GPE||thummadam village||1
+ORG||nidmanoor||1
+PERSON||k. jana reddy||1
+ORG||patiala’s||1
+ORG||punjab’s allowal||1
+ORG||government railway police||1
+PERSON||sangeeta kalia||1
+PERSON||bamla||1
+PERSON||sui||1
+PERSON||siwani||1
+ORG||hisar-rajgarh||1
+PERSON||loharu||1
+ORG||hisar-jaipur||1
+ORG||rewari-hisar||1
+GPE||mehrana||1
+PERSON||ismaila||1
+ORG||all-india democratic women association||1
+ORG||ambala cantonment||1
+ORG||jagadhari||1
+PERSON||haryana mla karan dalal||1
+GPE||atoha village||1
+GPE||patli||1
+ORG||krantikari kisan union’s||1
+PERSON||diamond harbour mla dipak||1
+PERSON||kumar halder||1
+PERSON||diamond harbour||1
+GPE||parganas||1
+PERSON||halder||1
+PERSON||sovan chatterjee||1
+PERSON||suvendu adhikari||1
+ORG||singur rabindranath bhattacharya||1
+ORG||agriculture infrastructure and development cess||1
+ORG||large and medium industries jagadish shettar||1
+ORG||mla prasad abbayya||1
+ORG||congress robert daddapuri||1
+NORP||atma||1
+ORG||karnataka vikas grameena bank p. gopikrishna||1
+ORG||karnatak chamber of commerce and industry||1
+ORG||kcci||1
+PERSON||mahendra ladhad||1
+PERSON||n.a. charantimath||1
+ORG||department of economics||1
+ORG||karnatak university||1
+ORG||b.h. nagoor||1
+ORG||msmes||1
+PERSON||r.r. biradar||1
+PERSON||khatavkar y.m.||1
+ORG||member of legislative assembly||1
+ORG||jewargi||1
+PERSON||ajay singh||1
+ORG||national investment and manufacturing zone||1
+ORG||hungund||1
+ORG||lingsugur||1
+PERSON||shashil g. namoshi||1
+ORG||jal jeevan mission [urban||1
+ORG||karnataka state sugarcane farmers’ association kurubur shanthakumar||1
+ORG||micro, small and medium enterprises (msme) council||1
+ORG||msme council’s||1
+PERSON||ravi koti||1
+ORG||general||1
+PERSON||suresh kumar jain||1
+ORG||msme council||1
+ORG||budgetary||1
+ORG||mysore industries association||1
+ORG||mia vasu||1
+ORG||budget for the mahatma gandhi national rural employment guarantee scheme||1
+GPE||kolhapur district||1
+ORG||national economic survey||1
+ORG||centre for monitoring indian economy||1
+ORG||mgnregs||1
+ORG||nrega||1
+PERSON||mazdoor kisan||1
+NORP||sangathan||1
+PERSON||nikhil dey||1
+PERSON||amarjeet dayanand||1
+PERSON||sudhir saroha||1
+PERSON||billo rani||1
+PERSON||baljinder singh||1
+GPE||rattak||1
+PERSON||baljinder||1
+PERSON||dilbagh singh||1
+GPE||banthla village||1
+PERSON||gurjar||1
+PERSON||rashidpur garhi||1
+PERSON||ranjeeta dhama||1
+PERSON||madan bhaiya||1
+PERSON||kishore||1
+PERSON||mani raghuvanshi||1
+ORG||naseer shah||1
+ORG||ram temple||1
+PERSON||akshardham setu||1
+PERSON||akshardham||1
+ORG||max hospital||1
+PERSON||hassanpur||1
+PERSON||mayur vihar||1
+PERSON||murga mandi||1
+PERSON||kondli pul||1
+ORG||station house officers||1
+ORG||union budget’s||1
+NORP||punjabis||1
+ORG||aap aam aadmi party||1
+ORG||leader of the opposition in the punjab assembly||1
+PERSON||harpal singh cheema||1
+PERSON||ramit sharma||1
+ORG||ig moradabad||1
+PERSON||sukhdev singh korikalan||1
+PERSON||kisan mazdoor sangarsh samiti||1
+ORG||states’ budget||1
+ORG||eastern rajasthan canal project||1
+PERSON||kaur gill||1
+PERSON||soram village||1
+PERSON||vasundhara raje||1
+PERSON||raje||1
+PERSON||satish poonia||1
+PERSON||arun singh||1
+PERSON||kewal singh||1
+ORG||arhtiyas||1
+PERSON||baljit singh||1
+ORG||talwandi||1
+PERSON||sarvan||1
+PERSON||bhushan ashu||1
+PERSON||ashu||1
+PERSON||ajmer singh||1
+ORG||international farmers’ day||1
+PERSON||dasoju shravan||1
+PERSON||mahesh goud||1
+PERSON||indira shobhan||1
+PERSON||raj bavan||1
+PERSON||k. chandrashekar rao||1
+PERSON||shravan||1
+PERSON||tamilisai||1
+PERSON||v. narayana swamy||1
+PERSON||venkateswara||1
+ORG||narayana swamy||1
+PERSON||nadda||1
+ORG||left democratic front (ldf||1
+PERSON||p.j. joseph||1
+ORG||punjab vidhan sabha||1
+ORG||cm separately||1
+ORG||all indian united trade union centre||1
+ORG||all india agitation week||1
+ORG||hubballi division||1
+GPE||colonies||1
+PERSON||badiger||1
+PERSON||ramesh hoasamani||1
+ORG||g.s. petere||1
+ORG||gangadhar dalabadi||1
+PERSON||goodusab kaladagi||1
+ORG||ml||1
+PERSON||m.l. narayana||1
+PERSON||p. govindaiah||1
+PERSON||g.v. konda reddy||1
+ORG||organisation for protection of democratic rights||1
+PERSON||d.v.n. swamy||1
+PERSON||j.v. satyanarayana murthy||1
+PERSON||ganesh panda||1
+ORG||cpi-ml new democracy||1
+PERSON||kondayya||1
+PERSON||gandhi jayanti||1
+NORP||adanis||1
+ORG||amazon||1
+ORG||all india kisan & mazdoor congress||1
+PERSON||m. kodanda reddy||1
+PERSON||haryana chief minister||1
+ORG||gohana||1
+ORG||congress mla sri krishan hooda||1
+ORG||meham||1
+PERSON||kisan adhikar diwas||1
+NORP||nehruvian||1
+ORG||meenakshi||1
+ORG||banashankari||1
+PERSON||ramesh chandra lahoti||1
+ORG||apmc committee||1
+ORG||karnataka chamber of commerce and industry||1
+PERSON||rithendra sugoor||1
+PERSON||t.n. prakash kammardi||1
+ORG||karnataka agriculture price commission||1
+PERSON||sugoor||1
+ORG||fkcci||1
+ORG||ksrtc staff||1
+ORG||workers federation h.v.||1
+PERSON||anantha subba rrao||1
+ORG||provident fund||1
+PERSON||d.a. vijaya bhaskar||1
+PERSON||karnataka randeep||1
+ORG||fair||1
+ORG||karnataka state land reforms act||1
+PERSON||manohar lal khattar’s||1
+PERSON||sushil gupta||1
+ORG||opposition harpal singh cheema||1
+PERSON||p. chidamabaram||1
+PERSON||gurudwara rakabganj||1
+ORG||bku-ekta||1
+ORG||maharashtra mp||1
+PERSON||swabhimani paksha||1
+ORG||fertilizers d.v. sadananda gowda||1
+GPE||manpade||1
+PERSON||n. thulasi reddy||1
+ORG||ysrc||1
+ORG||polavaram project||1
+PERSON||thulasi reddy||1
+ORG||rajasthan assembly||1
+PERSON||c.p. joshi||1
+ORG||state council of ministers||1
+ORG||state bills||1
+NORP||anti-constitutional||1
+ORG||agricultural produce marketing committee act||1
+PERSON||narendra] modi’s||1
+ORG||central travancore||1
+GPE||jamaat-e-islami||1
+ORG||kanam rajendran cpi state||1
+ORG||haryana agriculture||1
+PERSON||jai prakash dalal||1
+GPE||south haryana||1
+ORG||cotton corporation||1
+ORG||union agriculture ministry||1
+PERSON||sanjay agarwal’s||1
+PERSON||makkal g. rajan||1
+PERSON||pudur panchayat||1
+PERSON||mohan kumaramangalam||1
+PERSON||gaon connection||1
+ORG||all india agricultural workers’ union||1
+ORG||aiawu||1
+PERSON||mahatma gandhi national rural employment act||1
+PERSON||musi||1
+PERSON||hithapu laxmamma||1
+GPE||laxmamma||1
+ORG||valigonda||1
+PERSON||munugode||1
+ORG||groups||1
+ORG||district collector’s||1
+PERSON||m. yadagiri||1
+ORG||yadagiri||1
+PERSON||pruthvi raj||1
+ORG||agriculture acts||1
+ORG||list ii||1
+PERSON||list iii||1
+ORG||joint committee||1
+PERSON||n.c. chatterjee||1
+PERSON||k.s. raghavachari||1
+PERSON||a. krishnaswamy||1
+PERSON||parvathi krishnan||1
+PERSON||bimal commar ghosh||1
+PERSON||v. venkataramana||1
+PERSON||chandra mathur||1
+PERSON||asoka mehta||1
+PERSON||k.k. basu||1
+PERSON||basu||1
+PERSON||constitution bench||1
+ORG||i.t.c. limited||1
+ORG||tobacco board act||1
+ORG||bihar’s||1
+GPE||monghyr||1
+ORG||itc||1
+ORG||state apmc act||1
+PERSON||list||1
+PERSON||r. ramakumar||1
+ORG||professor,||1
+ORG||tata institute of social sciences||1
+PERSON||samana||1
+PERSON||kheti bachao yatra||1
+ORG||aap’s||1
+PERSON||harchand singh bursat||1
+PERSON||prakash javadekar||1
+PERSON||backward classes||1
+PERSON||ashwani sharma’s||1
+ORG||punjab congress||1
+ORG||farm fresh||1
+ORG||department of cooperation||1
+ORG||maharashtra officials||1
+ORG||national agricultural cooperative marketing federation||1
+ORG||horticulture department||1
+NORP||egyptian||1
+ORG||tamil nadu federation of all farmers’ association and||1
+PERSON||sangankalin peramaippu||1
+NORP||koyambedu||1
+ORG||p.r. pandian||1
+ORG||national coordination committee of electricity employees and engineers||1
+ORG||kseb workers’ association (citu||1
+ORG||rotary nagar||1
+ORG||bhakta ramadasu kalakshetram||1
+PERSON||kisan morcha state||1
+ORG||k sridhar reddy||1
+ORG||indian bank’s||1
+PERSON||prerana||1
+ORG||indian bank||1
+ORG||poornatha and co||1
+ORG||central bureau of investigation||1
+ORG||sira and rajarajeshwarinagar assembly||1
+PERSON||t.b. jayachandra||1
+ORG||income tax department, enforcement directorate||1
+ORG||kunchitiga vokkaliga||1
+ORG||hallikar vokkaliga||1
+GPE||sira||1
+PERSON||rajesh gowda||1
+PERSON||c.p. mudalagiriyappa||1
+PERSON||ammajamma||1
+PERSON||kusuma h.||1
+PERSON||d.k. ravi||1
+GPE||r.r. nagar||1
+ORG||state congress||1
+PERSON||ram kumar||1
+ORG||kharkhari jatmal||1
+PERSON||dagar||1
+PERSON||naresh kumar||1
+ORG||najafgarh agricultural produce market committee||1
+PERSON||mukhya mantri||1
+ORG||an “agriculture conference on implementation of recommendations of swaminathan committee||1
+PERSON||gopal rai||1
+PERSON||kamal singh||1
+PERSON||yogesh phalswal||1
+NORP||ghumman||1
+PERSON||phool singh sheokand||1
+PERSON||mla ajay singh||1
+PERSON||d.v. sadananda gowda||1
+PERSON||s.t. somashekar||1
+PERSON||pratap simha||1
+ORG||political science department||1
+PERSON||deep kamal saharan||1
+PERSON||prem singh gehlawat||1
+PERSON||surender singh||1
+PERSON||singh kashyap||1
+PERSON||satpal beniwal||1
+PERSON||anoop singh||1
+ORG||yogi||1
+ORG||badals for the past||1
+PERSON||rajendra singh||1
+ORG||lok janshakti party||1
+PERSON||dinara||1
+NORP||rohtas||1
+PERSON||chirag paswan||1
+ORG||janata||1
+GPE||dedhgaon||1
+PERSON||geedha||1
+NORP||jd(u||1
+PERSON||jai kumar singh||1
+PERSON||jai kumar||1
+NORP||humlog||1
+PERSON||vijay mandal||1
+NORP||bhumihar||1
+GPE||gaura village||1
+PERSON||vikas singh||1
+ORG||madhya pradesh congress||1
+PERSON||kamal nath||1
+PERSON||shivraj singh||1
+PERSON||nath||1
+PERSON||jyotiraditya scindia||1
+GPE||chambal||1
+ORG||golla ashok||1
+GPE||chandapur village||1
+GPE||sadashivapet||1
+ORG||marathwada||1
+ORG||national disaster response force||1
+ORG||ndrf||1
+GPE||pandharpur||1
+GPE||solapur||1
+GPE||baramati||1
+GPE||pune||1
+GPE||daund||1
+GPE||junnar||1
+PERSON||ambegaon||1
+PERSON||anti-tamil nadu||1
+PERSON||anti-tamil||1
+PERSON||c.s. muralidharan||1
+PERSON||mines pralhad joshi||1
+ORG||legislative councils||1
+ORG||industries||1
+PERSON||jagadish shettar||1
+GPE||hubblali||1
+ORG||indo-china||1
+PERSON||sharad a. bobde||1
+PERSON||k.k. venugopal||1
+PERSON||rakesh vaishnav||1
+ORG||chhattisgarh kisan congress||1
+PERSON||k. parameswar||1
+PERSON||m.l. sharma||1
+ORG||farmers produce trade and commerce (agriculture and promotion) act||1
+ORG||cji||1
+ORG||solicitor-general tushar mehta and additional solicitor-general||1
+PERSON||k.m. natraj||1
+PERSON||bobde||1
+PERSON||parameswar||1
+PERSON||wilson||1
+ORG||teppakulam post office||1
+PERSON||a. ansardeen||1
+PERSON||m.a. bharathi||1
+GPE||kumbakonam||1
+PERSON||v. kalyanasundaram||1
+ORG||district executive committee||1
+PERSON||c. chandrakumar||1
+GPE||madukur||1
+ORG||ammapettai union||1
+ORG||aps||1
+PERSON||jac||1
+ORG||church centre||1
+ORG||jagan mohan reddy government||1
+ORG||ysr congress party government||1
+ORG||n.balaji||1
+ORG||andhra pradesh rationalists association||1
+ORG||telugu nadu students federation||1
+ORG||tnsf||1
+PERSON||ravi naidu||1
+PERSON||vizag||1
+ORG||hyderabad, chennai or bengaluru||1
+PERSON||anand goud||1
+PERSON||janshakti party||1
+ORG||shiv sena’s arvind sawant||1
+GPE||malayali||1
+PERSON||harcharan bains||1
+ORG||central acts||1
+ORG||kartarpur||1
+ORG||external affairs ministry||1
+PERSON||bains||1
+PERSON||sanjay yadav||1
+PERSON||lal babu sahani||1
+PERSON||santosh kumar||1
+PERSON||rakesh mandal||1
+PERSON||rajeev mandal||1
+GPE||mahendra park||1
+GPE||jahangirpuri||1
+ORG||atm||1
+ORG||all-india united trade union centre (||1
+ORG||scheme workers’ federation of india||1
+PERSON||swfi bhuvana ballari||1
+ORG||international industrial tribunal||1
+PERSON||bhuvana||1
+PERSON||karimnagar||1
+PERSON||dhablan||1
+PERSON||budhlada||1
+GPE||phillaur||1
+PERSON||samrala||1
+PERSON||shwait malik||1
+PERSON||som parkash||1
+PERSON||parkash||1
+ORG||prime minister’s office||1
+ORG||punjab bjp||1
+PERSON||bandaru dattatreya||1
+PERSON||harish rao||1
+GPE||timmapur||1
+PERSON||parkash singh badal||1
+ORG||special cbi court’s||1
+ORG||babri masjid||1
+PERSON||lal krishna advani||1
+PERSON||aicc training||1
+PERSON||sachin rao||1
+ORG||powerpoint||1
+PERSON||congresshad||1
+ORG||state co-operative||1
+PERSON||kagodu thimmappa||1
+PERSON||thimmappa||1
+ORG||kagodu||1
+PERSON||sagar mla hartal halappa||1
+ORG||baroda assembly||1
+PERSON||bhupinder singh||1
+ORG||bjp-jannayak||1
+ORG||janta party||1
+ORG||hobson’s||1
+ORG||all-india kisan sangharsh coordination committee||1
+PERSON||mla t. senguttuvan||1
+PERSON||kangaleri panchayat||1
+GPE||hosur||1
+GPE||thally||1
+PERSON||vepanapalli||1
+PERSON||mla p. saravanan||1
+GPE||nilaiyur||1
+ORG||kodimangalam, manjampatti and chinnapatti||1
+ORG||dmk m. manimaran||1
+GPE||kottampatti||1
+PERSON||karmathur||1
+PERSON||t.g. vinay||1
+ORG||kullampatti||1
+PERSON||green corridor||1
+PERSON||gandhi jayanthi||1
+ORG||kalakuruchi mp pon||1
+PERSON||gouthama sigamani||1
+PERSON||paneerselvam||1
+GPE||sattankulam||1
+ORG||tamil nadu government||1
+PERSON||r. radhakrishnan||1
+PERSON||i. periasami||1
+GPE||veerasikkampatti village||1
+GPE||athur union||1
+GPE||anaiyur village||1
+GPE||kamudi||1
+PERSON||kadher basha muthuramalingam||1
+GPE||tamilselvi||1
+NORP||anayur||1
+PERSON||kavadi murugan||1
+PERSON||kimmane rathnakar||1
+PERSON||tirthahalli||1
+PERSON||rathnakar||1
+PERSON||nathuram godse||1
+GPE||dc||1
+PERSON||h.s. sundaresh||1
+PERSON||belur gopalakrishna||1
+PERSON||k.b.prasanna kumar||1
+PERSON||prasanna kumar||1
+PERSON||anita kumari||1
+ORG||union public service commission(upsc||1
+ORG||civil services||1
+GPE||koraput||1
+GPE||rayagada||1
+ORG||koraput-cuttack||1
+ORG||titlagarh||1
+PERSON||a.k. tripathi||1
+GPE||palasa||1
+GPE||naupada||1
+PERSON||kotabommali||1
+PERSON||srikakulam road||1
+PERSON||vizianagaram||1
+GPE||kottavalasa||1
+PERSON||visakhapatnam-koraput||1
+GPE||damanjodi||1
+PERSON||lakshmipur road||1
+PERSON||parvatipuram||1
+PERSON||bobbili||1
+ORG||statewide||1
+PERSON||ashok chavan||1
+PERSON||eknath gaikwad||1
+PERSON||rajiv satav||1
+GPE||hingoli||1
+GPE||nandurbar||1
+ORG||tribal development||1
+PERSON||k.c. padvi||1
+PERSON||vijay wadettiwar||1
+GPE||chandrapur||1
+ORG||satej||1
+PERSON||vishwajeet kadam||1
+ORG||all-india working group of aikscc||1
+ORG||haryana cm manohar lal||1
+ORG||rohtak’s meham||1
+PERSON||khaat||1
+PERSON||chai pe charcha||1

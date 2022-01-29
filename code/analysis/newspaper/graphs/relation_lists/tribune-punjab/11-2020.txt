@@ -1,0 +1,1673 @@
+132	farmers	singh
+88	farmers	nda
+86	bku	singh
+85	nda	singh
+85	bku	farmers
+71	centre	farmers
+68	centre	singh
+64	ugrahan	farmers
+63	bku	nda
+62	ugrahan	singh
+61	central	farmers
+60	bku	ugrahan
+56	central	singh
+46	centre	nda
+46	farmers	tribune
+45	ugrahan	nda
+44	singh	tribune
+42	centre	central
+39	central	nda
+38	farmers	bjp
+37	bjp	singh
+37	bku	tribune
+35	bku	centre
+34	nda	bathinda
+33	bathinda	singh
+33	farmers	bathinda
+32	nda	tribune
+31	bku	central
+30	central government	farmers
+30	central government	central
+30	bku	bathinda
+29	central government	singh
+28	singh	amarinder singh
+28	farmers	amarinder singh
+28	ugrahan	tribune
+27	sangrur	farmers
+27	nda	bjp
+25	modi	farmers
+24	farmers	amritsar
+24	centre	amarinder singh
+24	sangrur	singh
+24	centre	bjp
+23	bku	sangrur
+23	central	ugrahan
+23	centre	ugrahan
+23	ugrahan	bathinda
+22	amritsar	singh
+22	central	bjp
+22	modi	singh
+22	central government	centre
+22	cm	farmers
+22	bku	bjp
+22	union government	farmers
+21	farmers	mann
+21	ugrahan	sangrur
+20	bills	farmers
+20	mann	singh
+20	cm	singh
+20	mansa	singh
+20	farmers	mansa
+20	union government	singh
+19	central	amarinder singh
+19	centre	tribune
+19	mansa	nda
+19	ugrahan	bjp
+18	bills	singh
+18	modi	nda
+18	nda	amarinder singh
+18	bku	mann
+17	farmers	delhi police
+17	central government	nda
+17	nda	mann
+17	bathinda	tribune
+17	bku	union government
+17	union government	nda
+16	centre	amritsar
+16	punjab government	farmers
+16	congress	farmers
+16	singh	delhi police
+16	sangrur	nda
+16	central government	bku
+16	singh	khanauri
+16	farmers	khanauri
+15	punjab government	singh
+15	ambala	singh
+15	ambala	farmers
+15	congress	singh
+15	modi	centre
+15	centre	delhi police
+15	centre	cm
+15	barnala	singh
+15	barnala	farmers
+15	bku	mansa
+15	bku	khanauri
+15	ugrahan	khanauri
+14	bills	centre
+14	balbir singh	singh
+14	nda	delhi police
+14	sangrur	tribune
+14	ugrahan	mansa
+14	bku	modi
+14	ugrahan	mann
+13	sarwan singh pandher	singh
+13	farmers	sarwan singh pandher
+13	patiala	singh
+13	centre	congress
+13	balbir singh	farmers
+13	central	tribune
+13	bku	barnala
+13	barnala	ugrahan
+13	mansa	bathinda
+13	centre	union government
+13	nda	khanauri
+13	shingara singh mann	bku
+13	shingara singh mann	singh
+13	shingara singh mann	farmers
+13	mann	bathinda
+13	shingara singh mann	mann
+13	bku	haryana police
+13	haryana police	singh
+13	farmers	haryana police
+12	centre	ambala
+12	centre	sarwan singh pandher
+12	centre	mann
+12	farmers	patiala
+12	nda	patiala
+12	modi	bjp
+12	modi	central
+12	bills	central
+12	bills	nda
+12	cm	nda
+12	dap	singh
+12	farmers	dap
+12	bjp	tribune
+12	nda	amritsar
+12	tribune news servicechandigarh	tribune
+12	farmers	kirti
+12	piyush goyal	singh
+12	central	amritsar
+12	sukhdev singh	singh
+12	farmers	sukhdev singh
+12	bku	dabwali
+12	singh	dabwali
+12	farmers	dabwali
+12	shingara singh mann	nda
+12	central government	ugrahan
+12	cm	amarinder singh
+11	central	congress
+11	central government	bjp
+11	sad	farmers
+11	punjab government	nda
+11	mansa	tribune
+11	tribune news servicechandigarh	singh
+11	farmers	tribune news servicechandigarh
+11	bku	patiala
+11	kirti kisan union	farmers
+11	kirti	singh
+11	kirti kisan union	kirti
+11	balbir singh	bku
+11	piyush goyal	farmers
+11	nda	dabwali
+11	ugrahan	dabwali
+11	shingara singh mann	bathinda
+11	shingara singh mann	ugrahan
+11	ugrahan	union government
+11	tribune news servicebathinda	bathinda
+11	tribune news servicebathinda	singh
+11	farmers	tribune news servicebathinda
+11	nda	tribune news servicebathinda
+11	tribune news servicebathinda	tribune
+10	centre	punjab government
+10	amritsar	sarwan singh pandher
+10	haryana government	singh
+10	haryana government	farmers
+10	singhu	singh
+10	farmers	singhu
+10	farmers	kisan morcha
+10	congress	amarinder singh
+10	central	delhi police
+10	balbir singh	centre
+10	balbir singh rajewal	singh
+10	balbir singh	balbir singh rajewal
+10	modi	tribune
+10	central	mann
+10	mann	tribune
+10	farmers	parliament
+10	sad	singh
+10	centre	mansa
+10	ambala	nda
+10	singh	ludhiana
+10	farmers	ludhiana
+10	bku	tribune news servicechandigarh
+10	bku	amritsar
+10	barnala	nda
+10	kirti kisan union	singh
+10	bku	ambala
+10	piyush goyal	centre
+10	bku	delhi police
+10	bku	sukhdev singh
+10	khanauri	dabwali
+10	bku	tribune news servicebathinda
+10	central	cm
+10	haryana police	khanauri
+10	nda	haryana police
+10	ugrahan	haryana police
+10	bku	bku ekta ugrahan
+10	bku ekta ugrahan	singh
+10	farmers	bku ekta ugrahan
+10	bku ekta ugrahan	nda
+10	ugrahan	bku ekta ugrahan
+10	khanauri	tribune
+10	haryana police	tribune
+10	capt amarinder singh	singh
+10	farmers	capt amarinder singh
+10	capt amarinder singh	amarinder singh
+9	kisan morcha	singh
+9	bjp	amarinder singh
+9	balbir singh	central
+9	farmers	balbir singh rajewal
+9	congress	nda
+9	bills	amarinder singh
+9	central	sangrur
+9	parliament	singh
+9	punjab government	ugrahan
+9	ferozepur	singh
+9	sangrur	bathinda
+9	nda	ludhiana
+9	nda	tribune news servicechandigarh
+9	aap	singh
+9	farmers	aap
+9	bku	jagmohan singh
+9	singh	jagmohan singh
+9	nda	jagmohan singh
+9	union government	tribune
+9	piyush goyal	nda
+9	krantikari kisan union	singh
+9	krantikari kisan union	farmers
+9	ugrahan	sukhdev singh
+9	modi	ugrahan
+9	centre	khanauri
+9	singh	shambhu
+9	farmers	shambhu
+9	bku	ekta-ugrahan
+9	ekta-ugrahan	singh
+9	ekta-ugrahan	farmers
+9	ugrahan	ekta-ugrahan
+8	centre	sangrur
+8	centre	singhu
+8	centre	patiala
+8	congress	bjp
+8	central	kisan morcha
+8	modi	amarinder singh
+8	amarinder singh	delhi police
+8	balbir singh	bjp
+8	centre	balbir singh rajewal
+8	central	balbir singh rajewal
+8	balbir singh	nda
+8	bills	modi
+8	central government	amarinder singh
+8	centre	parliament
+8	joginder singh ugrahan	singh
+8	farmers	joginder singh ugrahan
+8	ugrahan	joginder singh ugrahan
+8	sad	bjp
+8	centre	dap
+8	dap	nda
+8	ambala	tribune
+8	farmers	ferozepur
+8	bjp	bathinda
+8	bku	ludhiana
+8	barnala	mansa
+8	barnala	sangrur
+8	sangrur	mansa
+8	farmers	jagmohan singh
+8	ugrahan	tribune news servicechandigarh
+8	patiala	tribune
+8	ugrahan	patiala
+8	sangrur	kirti
+8	modi	union government
+8	bku	amarinder singh
+8	bku	balbir singh rajewal
+8	central	sarwan singh pandher
+8	centre	krantikari kisan union
+8	krantikari kisan union	nda
+8	nda	sukhdev singh
+8	bathinda	dabwali
+8	bku	punjab government
+8	piyush goyal	central
+8	kirti	nda
+8	modi	bathinda
+8	union government	bathinda
+8	haryana police	dabwali
+8	bku	shambhu
+8	centre	shambhu
+8	nda	shambhu
+8	bku	haryana government
+8	haryana government	nda
+8	dabwali	tribune
+8	centre	capt amarinder singh
+8	centre	bathinda
+8	central	union government
+8	malwa	singh
+8	farmers	malwa
+7	nda	singhu
+7	centre	kisan morcha
+7	modi	congress
+7	singhu	delhi police
+7	kisan morcha	nda
+7	bills	congress
+7	gurnam singh charuni	singh
+7	gurnam singh charuni	farmers
+7	bills	tribune
+7	nda	parliament
+7	centre	tikri
+7	tikri	singh
+7	farmers	tikri
+7	bku	bku ugrahan
+7	farmers	bku ugrahan
+7	ugrahan	bku ugrahan
+7	bku	joginder singh ugrahan
+7	sad	centre
+7	mansa	bjp
+7	punjab government	bjp
+7	punjab government	tribune
+7	ugrahan	ambala
+7	ugrahan	ferozepur
+7	barnala	bathinda
+7	sangrur	bjp
+7	bku	fazilka
+7	fazilka	singh
+7	farmers	fazilka
+7	ugrahan	amritsar
+7	ugrahan	jagmohan singh
+7	bku	ferozepur
+7	centre	tribune news servicechandigarh
+7	kirti kisan union	sangrur
+7	piyush goyal	bjp
+7	central	bathinda
+7	sangrur	khanauri
+7	central	punjab government
+7	shingara singh mann	tribune
+7	kirti kisan union	nda
+7	bku	kirti
+7	union government	mann
+7	bku	kisan morcha
+7	centre	haryana police
+7	khanauri	shambhu
+7	ugrahan	shambhu
+7	patiala	khanauri
+7	cm	capt amarinder singh
+7	ekta-ugrahan	nda
+7	central	capt amarinder singh
+7	central	mansa
+7	kirti kisan union	centre
+7	bku ekta ugrahan	bathinda
+7	centre	kirti
+7	nda	malwa
+6	amritsar	amarinder singh
+6	balbir singh rajewal	bjp
+6	nda	balbir singh rajewal
+6	bills	bjp
+6	bills	delhi police
+6	central government	modi
+6	central government	delhi police
+6	gurnam singh charuni	nda
+6	modi	mann
+6	parliament	bjp
+6	central	parliament
+6	bills	parliament
+6	tikri	delhi police
+6	sad	nda
+6	dap	bjp
+6	sad	tribune
+6	ferozepur	nda
+6	barnala	bjp
+6	amritsar	bathinda
+6	barnala	tribune
+6	ugrahan	ludhiana
+6	patiala	jagmohan singh
+6	punjab government	sangrur
+6	kirti kisan union	tribune
+6	kirti	tribune
+6	modi	ambala
+6	bku	krantikari kisan union
+6	bathinda	khanauri
+6	central	sukhdev singh
+6	ugrahan	amarinder singh
+6	central	ambala
+6	piyush goyal	amarinder singh
+6	bku	kirti kisan union
+6	kirti kisan union	bjp
+6	kirti kisan union	central
+6	kirti	bjp
+6	central	kirti
+6	modi	tribune news servicebathinda
+6	central	dap
+6	centre	aap
+6	sangrur	haryana police
+6	ugrahan	delhi police
+6	delhi police	shambhu
+6	haryana police	shambhu
+6	ugrahan	haryana government
+6	bku	gurnam singh charuni
+6	patiala	shambhu
+6	bku ekta ugrahan	mann
+6	ugrahan	tribune news servicebathinda
+6	mansa	khanauri
+6	bku	dap
+6	nda	capt amarinder singh
+6	sukhdev singh	tribune
+6	barnala	centre
+6	central	ludhiana
+6	central government	tribune
+6	cm	bjp
+6	bku	malwa
+6	mann	tribune news servicebathinda
+6	malwa	tribune
+5	indian	singh
+5	farmers	indian
+5	ambala	amarinder singh
+5	sangrur	ambala
+5	centre	haryana government
+5	sangrur	mann
+5	haryana government	mann
+5	singhu	amarinder singh
+5	kisan morcha	delhi police
+5	congress	delhi police
+5	modi	delhi police
+5	balbir singh	kisan morcha
+5	kisan morcha	balbir singh rajewal
+5	central government	congress
+5	central government	balbir singh
+5	central government	bills
+5	msp	farmers
+5	tikri	singhu
+5	cm	congress
+5	bku ugrahan	singh
+5	ambala	mansa
+5	bills	ambala
+5	punjab government	dap
+5	ugrahan	dap
+5	mansa	ferozepur
+5	ferozepur	tribune
+5	centre	joginder singh ugrahan
+5	joginder singh ugrahan	nda
+5	mansa	ludhiana
+5	amritsar	bjp
+5	mansa	amritsar
+5	bku	aap
+5	nda	aap
+5	fazilka	nda
+5	bjp	jagmohan singh
+5	ludhiana	tribune
+5	amritsar	tribune
+5	fazilka	ferozepur
+5	barnala	patiala
+5	mansa	patiala
+5	sangrur	patiala
+5	tribune news servicechandigarh	patiala
+5	union government	congress
+5	bku	bills
+5	bku	piyush goyal
+5	central	khanauri
+5	sangrur	sukhdev singh
+5	sangrur	dabwali
+5	central government	mann
+5	kirti kisan union	ugrahan
+5	ugrahan	kirti
+5	shingara singh mann	union government
+5	mansa	mann
+5	sad	bku
+5	bills	cm
+5	bku	bhagat
+5	bhagat	singh
+5	farmers	bhagat
+5	bku	tikri
+5	bku	singhu
+5	shingara singh mann	centre
+5	delhi police	khanauri
+5	modi	haryana police
+5	ambala	haryana police
+5	haryana police	delhi police
+5	modi	dabwali
+5	centre	jagmohan singh
+5	ambala	shambhu
+5	dabwali	shambhu
+5	centre	bku ekta ugrahan
+5	modi	bku ekta ugrahan
+5	bku ekta ugrahan	dabwali
+5	haryana government	haryana police
+5	farmers	kundli
+5	union government	tribune news servicebathinda
+5	haryana police	bathinda
+5	mansa	haryana police
+5	mansa	dabwali
+5	haryana government	bathinda
+5	haryana government	tribune
+5	bku	cm
+5	sad	cm
+5	tribune news servicechandigarh	khanauri
+5	tribune	shambhu
+5	centre	ekta-ugrahan
+5	ekta-ugrahan	delhi police
+5	ekta-ugrahan	khanauri
+5	ekta-ugrahan	haryana police
+5	capt amarinder singh	bjp
+5	barnala	central
+5	centre	ludhiana
+5	nda	sarwan singh pandher
+5	central government	ludhiana
+5	bku ekta ugrahan	tribune
+5	mann	bjp
+5	central	krantikari kisan union
+5	malwa	bathinda
+5	mansa	malwa
+5	shingara singh mann	tribune news servicebathinda
+4	punjab government	amritsar
+4	bills	indian
+4	ambala	sarwan singh pandher
+4	ambala	amritsar
+4	sangrur	amritsar
+4	haryana government	ambala
+4	singhu	patiala
+4	kisan morcha	bjp
+4	central	singhu
+4	modi	kisan morcha
+4	balbir singh	modi
+4	central government	singhu
+4	central government	kisan morcha
+4	central government	balbir singh rajewal
+4	centre	gurnam singh charuni
+4	gurnam singh charuni	singhu
+4	gurnam singh charuni	delhi police
+4	delhi police	tribune
+4	nda	tikri
+4	central	bku ugrahan
+4	sangrur	bku ugrahan
+4	ambala	bjp
+4	mansa	dap
+4	bills	dap
+4	parliament	tribune
+4	dap	tribune
+4	sad	ugrahan
+4	bills	ugrahan
+4	ferozepur	bjp
+4	ambala	ferozepur
+4	joginder singh ugrahan	tribune
+4	barnala	ludhiana
+4	sangrur	ludhiana
+4	tribune news servicechandigarh	bjp
+4	barnala	amritsar
+4	aap	bjp
+4	sangrur	aap
+4	sangrur	jagmohan singh
+4	jagmohan singh	tribune
+4	ugrahan	aap
+4	ugrahan	fazilka
+4	ferozepur	bathinda
+4	patiala	ludhiana
+4	bills	union government
+4	balbir singh	piyush goyal
+4	piyush goyal	balbir singh rajewal
+4	centre	kmsc
+4	kmsc	singh
+4	farmers	kmsc
+4	central government	sarwan singh pandher
+4	central government	amritsar
+4	piyush goyal	krantikari kisan union
+4	amarinder singh	khanauri
+4	sukhdev singh	bathinda
+4	sukhdev singh	khanauri
+4	sukhdev singh	dabwali
+4	nda	bku ugrahan
+4	piyush goyal	congress
+4	barnala	union government
+4	modi	mansa
+4	shingara singh mann	mansa
+4	central	patiala
+4	sad	modi
+4	bills	bathinda
+4	vidhan sabha	singh
+4	vidhan sabha	farmers
+4	vidhan sabha	bills
+4	congress	dap
+4	dap	amarinder singh
+4	central government	dap
+4	mansa	kirti
+4	nda	bhagat
+4	sad	central
+4	tikri	amarinder singh
+4	union government	amarinder singh
+4	union government	delhi police
+4	ambala	khanauri
+4	aap	amarinder singh
+4	kisan morcha	haryana police
+4	haryana police	amarinder singh
+4	centre	dabwali
+4	union government	dabwali
+4	ugrahan	tikri
+4	ugrahan	kisan morcha
+4	tikri	shambhu
+4	modi	shambhu
+4	amarinder singh	shambhu
+4	union government	bku ekta ugrahan
+4	shingara singh mann	bku ekta ugrahan
+4	bku ekta ugrahan	khanauri
+4	modi	haryana government
+4	shingara singh mann	haryana government
+4	haryana government	khanauri
+4	haryana government	dabwali
+4	haryana police	patiala
+4	bku	kundli
+4	kundli	singh
+4	kisan morcha	kundli
+4	ugrahan	bhagat
+4	mansa	tribune news servicebathinda
+4	tribune news servicebathinda	dabwali
+4	sarwan singh pandher	tribune
+4	gurnam singh charuni	tribune
+4	ekta-ugrahan	tribune
+4	ekta-ugrahan	shambhu
+4	mansa	sukhdev singh
+4	mansa	shambhu
+4	congress	capt amarinder singh
+4	modi	ludhiana
+4	central government	barnala
+4	central government	mansa
+4	central government	sangrur
+4	central	shambhu
+4	bku ekta ugrahan	bjp
+4	mann	sukhdev singh
+4	union government	amritsar
+4	union government	sukhdev singh
+4	shingara singh mann	central
+4	central government	krantikari kisan union
+4	balbir singh	tribune
+4	central	ekta-ugrahan
+4	modi	cm
+4	ekta-ugrahan	dabwali
+4	ugrahan	malwa
+4	bku	parliament
+4	malwa	mann
+4	centre	malwa
+4	amarinder singh	ludhiana
+3	bills	amritsar
+3	bills	punjab government
+3	sarwan singh pandher	amarinder singh
+3	sangrur	amarinder singh
+3	sangrur	sarwan singh pandher
+3	haryana government	amarinder singh
+3	haryana government	sangrur
+3	ambala	mann
+3	mann	sarwan singh pandher
+3	amritsar	mann
+3	congress	singhu
+3	congress	kisan morcha
+3	kisan morcha	amarinder singh
+3	bjp	delhi police
+3	balbir singh	singhu
+3	balbir singh	amarinder singh
+3	balbir singh	delhi police
+3	modi	balbir singh rajewal
+3	balbir singh rajewal	amarinder singh
+3	balbir singh rajewal	delhi police
+3	bills	singhu
+3	gurnam singh charuni	kisan morcha
+3	gurnam singh charuni	congress
+3	modi	gurnam singh charuni
+3	gurnam singh charuni	amarinder singh
+3	balbir singh	gurnam singh charuni
+3	msp	centre
+3	modi	msp
+3	msp	delhi police
+3	msp	nda
+3	msp	mann
+3	modi	parliament
+3	central government	parliament
+3	cm	delhi police
+3	bku ugrahan	tribune
+3	sad	bills
+3	bills	mansa
+3	ambala	parliament
+3	mansa	parliament
+3	punjab government	mansa
+3	punjab government	parliament
+3	dap	parliament
+3	ugrahan	parliament
+3	centre	ferozepur
+3	joginder singh ugrahan	bjp
+3	bjp	ludhiana
+3	bathinda	ludhiana
+3	tribune news servicechandigarh	bathinda
+3	mansa	tribune news servicechandigarh
+3	sangrur	tribune news servicechandigarh
+3	amritsar	ludhiana
+3	barnala	aap
+3	fazilka	bjp
+3	barnala	jagmohan singh
+3	ludhiana	jagmohan singh
+3	mansa	jagmohan singh
+3	aap	jagmohan singh
+3	aap	tribune
+3	sangrur	ferozepur
+3	ferozepur	amritsar
+3	patiala	bjp
+3	patiala	bathinda
+3	aap	patiala
+3	congress	tribune
+3	kirti kisan union	punjab government
+3	punjab government	kirti
+3	union government	ambala
+3	balbir singh	union government
+3	central	kmsc
+3	kmsc	sarwan singh pandher
+3	kmsc	amritsar
+3	piyush goyal	delhi police
+3	krantikari kisan union	tribune news servicechandigarh
+3	krantikari kisan union	tribune
+3	central	dabwali
+3	amarinder singh	dabwali
+3	punjab government	bathinda
+3	punjab government	amarinder singh
+3	central	joginder singh ugrahan
+3	ambala	congress
+3	piyush goyal	modi
+3	modi	barnala
+3	union government	mansa
+3	shingara singh mann	modi
+3	central	jagmohan singh
+3	balbir singh	patiala
+3	tribune news servicebathinda	bjp
+3	bills	tribune news servicebathinda
+3	vidhan sabha	cm
+3	central government	cm
+3	cm	dap
+3	kirti	bathinda
+3	barnala	kirti
+3	kirti	amritsar
+3	sangrur	bhagat
+3	cm	parliament
+3	sad	congress
+3	bku	congress
+3	bku	msp
+3	msp	singh
+3	ambala	kisan morcha
+3	ambala	delhi police
+3	union government	singhu
+3	union government	kisan morcha
+3	tikri	khanauri
+3	singhu	khanauri
+3	kisan morcha	khanauri
+3	modi	khanauri
+3	union government	khanauri
+3	congress	aap
+3	ambala	aap
+3	union government	aap
+3	haryana police	tikri
+3	union government	haryana police
+3	kisan morcha	dabwali
+3	ambala	dabwali
+3	delhi police	dabwali
+3	ugrahan	singhu
+3	ugrahan	congress
+3	singhu	shambhu
+3	kisan morcha	shambhu
+3	union government	shambhu
+3	sangrur	shambhu
+3	ambala	bku ekta ugrahan
+3	sangrur	bku ekta ugrahan
+3	bku ekta ugrahan	haryana police
+3	bku ekta ugrahan	jagmohan singh
+3	bku ekta ugrahan	shambhu
+3	haryana government	kisan morcha
+3	gurnam singh charuni	ambala
+3	gurnam singh charuni	union government
+3	gurnam singh charuni	khanauri
+3	gurnam singh charuni	haryana police
+3	ugrahan	gurnam singh charuni
+3	gurnam singh charuni	shambhu
+3	ambala	patiala
+3	patiala	delhi police
+3	patiala	dabwali
+3	gurnam singh charuni	patiala
+3	centre	kundli
+3	ugrahan	kundli
+3	mann	aap
+3	mann	dabwali
+3	haryana police	tribune news servicebathinda
+3	haryana government	tribune news servicebathinda
+3	sad	amarinder singh
+3	sad	khanauri
+3	tribune news servicechandigarh	haryana police
+3	sad	capt amarinder singh
+3	amarinder singh	tribune
+3	cm	tribune
+3	capt amarinder singh	tribune
+3	ugrahan	cm
+3	tribune news servicechandigarh	shambhu
+3	ekta-ugrahan	amarinder singh
+3	ekta-ugrahan	tribune news servicechandigarh
+3	tribune news servicechandigarh	dabwali
+3	krantikari kisan union	mansa
+3	krantikari kisan union	ugrahan
+3	sukhdev singh	patiala
+3	parliament	amarinder singh
+3	piyush goyal	parliament
+3	modi	punjab government
+3	piyush goyal	punjab government
+3	modi	capt amarinder singh
+3	bills	capt amarinder singh
+3	piyush goyal	capt amarinder singh
+3	ambala	bathinda
+3	bku	sarwan singh pandher
+3	ambala	ludhiana
+3	central	aap
+3	sukhdev singh	bjp
+3	centre	sukhdev singh
+3	barnala	sukhdev singh
+3	amritsar	sukhdev singh
+3	central government	bathinda
+3	central government	sukhdev singh
+3	central government	punjab government
+3	punjab government	jagmohan singh
+3	ugrahan	sarwan singh pandher
+3	kirti kisan union	ambala
+3	kirti kisan union	mansa
+3	central government	kirti kisan union
+3	sarwan singh pandher	shambhu
+3	ludhiana	shambhu
+3	central government	shambhu
+3	punjab government	bku ekta ugrahan
+3	central	ferozepur
+3	central government	patiala
+3	ambala	kirti
+3	central government	kirti
+3	dap	jagmohan singh
+3	kisan morcha	amritsar
+3	amritsar	kundli
+3	punjab government	krantikari kisan union
+3	union government	bjp
+3	ambala	tribune news servicechandigarh
+3	central	tikri
+3	central government	tikri
+3	central government	ekta-ugrahan
+3	central government	khanauri
+3	ekta-ugrahan	union government
+3	barnala	khanauri
+3	cm	union government
+3	krantikari kisan union	bjp
+3	centre	tribune news servicebathinda
+3	cm	aap
+3	mansa	amarinder singh
+3	central	malwa
+3	shingara singh mann	malwa
+3	malwa	tribune news servicebathinda
+3	central government	malwa
+3	central	haryana police
+3	haryana police	ludhiana
+3	sad	malwa
+3	malwa	khanauri
+3	haryana government	bjp
+3	ekta-ugrahan	ludhiana
+3	cm	ludhiana
+3	shingara singh mann	bjp
+3	kisan morcha	tribune
+2	centre	indian
+2	punjab government	indian
+2	haryana government	sarwan singh pandher
+2	haryana government	amritsar
+2	mann	amarinder singh
+2	singhu	bjp
+2	kisan morcha	singhu
+2	modi	singhu
+2	balbir singh	congress
+2	bills	kisan morcha
+2	balbir singh	bills
+2	gurnam singh charuni	bjp
+2	central	gurnam singh charuni
+2	bills	gurnam singh charuni
+2	msp	central
+2	mann	delhi police
+2	bills	mann
+2	barnala	bku ugrahan
+2	indian	bathinda
+2	nda	indian
+2	sad	ambala
+2	sad	mansa
+2	punjab government	ambala
+2	ambala	dap
+2	sad	dap
+2	sad	ferozepur
+2	bills	ferozepur
+2	ferozepur	parliament
+2	punjab government	ferozepur
+2	ambala	joginder singh ugrahan
+2	sad	joginder singh ugrahan
+2	bills	joginder singh ugrahan
+2	punjab government	joginder singh ugrahan
+2	barnala	tribune news servicechandigarh
+2	tribune news servicechandigarh	ludhiana
+2	tribune news servicechandigarh	amritsar
+2	aap	bathinda
+2	aap	ludhiana
+2	mansa	aap
+2	tribune news servicechandigarh	aap
+2	amritsar	aap
+2	fazilka	bathinda
+2	mansa	fazilka
+2	sangrur	fazilka
+2	bathinda	jagmohan singh
+2	tribune news servicechandigarh	jagmohan singh
+2	amritsar	jagmohan singh
+2	fazilka	tribune
+2	barnala	ferozepur
+2	ferozepur	ludhiana
+2	ferozepur	tribune news servicechandigarh
+2	ferozepur	aap
+2	ferozepur	jagmohan singh
+2	amritsar	patiala
+2	ferozepur	patiala
+2	balbir singh	ambala
+2	piyush goyal	ugrahan
+2	sarwan singh pandher	bjp
+2	central government	kmsc
+2	tribune news servicechandigarh	delhi police
+2	piyush goyal	tribune news servicechandigarh
+2	piyush goyal	tribune
+2	krantikari kisan union	delhi police
+2	bathinda	amarinder singh
+2	punjab government	sukhdev singh
+2	joginder singh ugrahan	amarinder singh
+2	sangrur	joginder singh ugrahan
+2	joginder singh ugrahan	khanauri
+2	bku ugrahan	bjp
+2	barnala	mann
+2	balbir singh	jagmohan singh
+2	balbir singh rajewal	jagmohan singh
+2	piyush goyal	jagmohan singh
+2	balbir singh rajewal	patiala
+2	piyush goyal	patiala
+2	sad	bathinda
+2	sad	tribune news servicebathinda
+2	vidhan sabha	centre
+2	vidhan sabha	central
+2	vidhan sabha	amarinder singh
+2	vidhan sabha	nda
+2	bhagat	bathinda
+2	amritsar	bhagat
+2	balbir singh	sad
+2	central government	sad
+2	kisan morcha	tikri
+2	modi	tikri
+2	ambala	tikri
+2	union government	tikri
+2	msp	union government
+2	sangrur	kisan morcha
+2	msp	sangrur
+2	modi	sangrur
+2	sangrur	union government
+2	shingara singh mann	kisan morcha
+2	shingara singh mann	sangrur
+2	congress	khanauri
+2	shingara singh mann	khanauri
+2	msp	aap
+2	modi	aap
+2	aap	khanauri
+2	haryana police	singhu
+2	congress	haryana police
+2	shingara singh mann	haryana police
+2	tikri	dabwali
+2	singhu	dabwali
+2	congress	dabwali
+2	shingara singh mann	dabwali
+2	congress	bku ugrahan
+2	union government	bku ugrahan
+2	modi	jagmohan singh
+2	ambala	jagmohan singh
+2	khanauri	jagmohan singh
+2	haryana police	jagmohan singh
+2	msp	ugrahan
+2	bku	jhajjar
+2	jhajjar	centre
+2	jhajjar	tikri
+2	jhajjar	singh
+2	jhajjar	kisan morcha
+2	jhajjar	farmers
+2	jhajjar	modi
+2	jhajjar	amarinder singh
+2	jhajjar	ambala
+2	jhajjar	delhi police
+2	jhajjar	nda
+2	jhajjar	haryana police
+2	congress	shambhu
+2	aap	shambhu
+2	jagmohan singh	shambhu
+2	jhajjar	shambhu
+2	bku ekta ugrahan	kisan morcha
+2	congress	bku ekta ugrahan
+2	bku ekta ugrahan	delhi police
+2	bku ekta ugrahan	aap
+2	haryana government	tikri
+2	haryana government	delhi police
+2	haryana government	aap
+2	jhajjar	haryana government
+2	haryana government	shambhu
+2	haryana government	bku ekta ugrahan
+2	gurnam singh charuni	dabwali
+2	gurnam singh charuni	bku ekta ugrahan
+2	tikri	patiala
+2	modi	patiala
+2	patiala	amarinder singh
+2	union government	patiala
+2	bku ekta ugrahan	patiala
+2	union government	kundli
+2	sangrur	kundli
+2	nda	kundli
+2	kisan morcha	mann
+2	mann	khanauri
+2	haryana police	mann
+2	mann	jagmohan singh
+2	mann	shambhu
+2	mann	patiala
+2	bhagat	khanauri
+2	haryana police	bhagat
+2	bhagat	dabwali
+2	bku ekta ugrahan	bhagat
+2	tribune news servicebathinda	khanauri
+2	haryana government	mansa
+2	punjab government	sarwan singh pandher
+2	sad	delhi police
+2	tribune news servicechandigarh	amarinder singh
+2	cm	tribune news servicechandigarh
+2	sad	tribune news servicechandigarh
+2	sad	haryana police
+2	bku	capt amarinder singh
+2	capt amarinder singh	delhi police
+2	tribune news servicechandigarh	capt amarinder singh
+2	ekta-ugrahan	gurnam singh charuni
+2	ekta-ugrahan	patiala
+2	tribune news servicechandigarh	sukhdev singh
+2	krantikari kisan union	khanauri
+2	sukhdev singh	shambhu
+2	congress	parliament
+2	piyush goyal	bills
+2	parliament	capt amarinder singh
+2	piyush goyal	dap
+2	congress	indian
+2	central	indian
+2	indian	amarinder singh
+2	dap	indian
+2	barnala	ambala
+2	sarwan singh pandher	bathinda
+2	barnala	sarwan singh pandher
+2	modi	sarwan singh pandher
+2	sarwan singh pandher	ludhiana
+2	mansa	sarwan singh pandher
+2	modi	amritsar
+2	modi	sukhdev singh
+2	sukhdev singh	ludhiana
+2	aap	sukhdev singh
+2	central government	ambala
+2	sukhdev singh	jagmohan singh
+2	kirti kisan union	bathinda
+2	kirti kisan union	barnala
+2	kirti kisan union	modi
+2	kirti kisan union	ludhiana
+2	kirti kisan union	amritsar
+2	kirti kisan union	aap
+2	bathinda	shambhu
+2	barnala	shambhu
+2	amritsar	shambhu
+2	central	bku ekta ugrahan
+2	mansa	bku ekta ugrahan
+2	bku ekta ugrahan	sukhdev singh
+2	ferozepur	sukhdev singh
+2	central government	ferozepur
+2	sarwan singh pandher	patiala
+2	modi	kirti
+2	kirti	ludhiana
+2	kirti	aap
+2	punjab government	mann
+2	ferozepur	mann
+2	punjab government	cm
+2	cm	jagmohan singh
+2	kisan morcha	sukhdev singh
+2	central	kundli
+2	barnala	kundli
+2	tribune news servicechandigarh	parliament
+2	kirti kisan union	amarinder singh
+2	kirti kisan union	cm
+2	kirti kisan union	tribune news servicechandigarh
+2	kirti kisan union	capt amarinder singh
+2	kirti	amarinder singh
+2	cm	kirti
+2	kirti	tribune news servicechandigarh
+2	kirti	capt amarinder singh
+2	balbir singh	amritsar
+2	amritsar	balbir singh rajewal
+2	barnala	congress
+2	central government	union government
+2	singhu	tribune
+2	joginder singh ugrahan	tikri
+2	joginder singh ugrahan	delhi police
+2	central government	joginder singh ugrahan
+2	ekta-ugrahan	tikri
+2	ekta-ugrahan	singhu
+2	bills	ekta-ugrahan
+2	ekta-ugrahan	joginder singh ugrahan
+2	bku	kmsc
+2	union government	kmsc
+2	union government	sarwan singh pandher
+2	kmsc	khanauri
+2	sarwan singh pandher	khanauri
+2	haryana police	sarwan singh pandher
+2	sarwan singh pandher	dabwali
+2	ugrahan	kmsc
+2	ekta-ugrahan	sarwan singh pandher
+2	ekta-ugrahan	bathinda
+2	ekta-ugrahan	sangrur
+2	ekta-ugrahan	bku ekta ugrahan
+2	tribune news servicechandigarh	bhagat
+2	bhagat	tribune
+2	ekta-ugrahan	bhagat
+2	balbir singh	parliament
+2	parliament	balbir singh rajewal
+2	central government	piyush goyal
+2	parliament	jagmohan singh
+2	bku ekta ugrahan	parliament
+2	sad	aap
+2	bills	aap
+2	aap	capt amarinder singh
+2	krantikari kisan union	amarinder singh
+2	central	tribune news servicebathinda
+2	central government	shingara singh mann
+2	central government	tribune news servicebathinda
+2	dap	bathinda
+2	shingara singh mann	dap
+2	dap	tribune news servicebathinda
+2	dap	malwa
+2	dap	mann
+2	cm	amritsar
+2	kirti kisan union	joginder singh ugrahan
+2	kirti	joginder singh ugrahan
+2	msp	cm
+2	balbir singh	ludhiana
+2	balbir singh rajewal	ludhiana
+2	central government	haryana police
+2	central	haryana government
+2	central government	haryana government
+2	bjp	khanauri
+2	malwa	bjp
+2	ambala	malwa
+2	malwa	tribune news servicechandigarh
+2	sad	haryana government
+2	haryana government	malwa
+2	balbir singh rajewal	tribune
+2	malwa	sarwan singh pandher
+2	sad	kisan morcha
+2	union government	ludhiana
+2	union government	capt amarinder singh
+2	capt amarinder singh	ludhiana
+2	malwa	ludhiana
+2	bku ekta ugrahan	tribune news servicebathinda
+2	sukhdev singh	tribune news servicebathinda
+2	bills	dabwali
+2	bills	bku ekta ugrahan
+2	mansa	kisan morcha
+2	ekta-ugrahan	ambala
+2	ekta-ugrahan	mansa
+2	ludhiana	khanauri
+2	sangrur	malwa
+2	barnala	haryana police
+2	malwa	haryana police
+2	malwa	dabwali
+2	haryana police	sukhdev singh
+1	amritsar	indian
+1	singhu	balbir singh rajewal
+1	congress	balbir singh rajewal
+1	bills	balbir singh rajewal
+1	gurnam singh charuni	balbir singh rajewal
+1	central government	gurnam singh charuni
+1	bills	msp
+1	msp	tribune
+1	cm	tikri
+1	cm	singhu
+1	centre	ghazipur
+1	ghazipur	tikri
+1	ghazipur	singh
+1	ghazipur	singhu
+1	farmers	ghazipur
+1	ghazipur	delhi police
+1	cm	ghazipur
+1	nda	ghazipur
+1	barnala	joginder singh ugrahan
+1	joginder singh ugrahan	bku ugrahan
+1	sad	parliament
+1	sad	punjab government
+1	dap	ferozepur
+1	mansa	joginder singh ugrahan
+1	joginder singh ugrahan	parliament
+1	dap	joginder singh ugrahan
+1	ferozepur	joginder singh ugrahan
+1	barnala	fazilka
+1	fazilka	ludhiana
+1	fazilka	tribune news servicechandigarh
+1	fazilka	amritsar
+1	fazilka	aap
+1	fazilka	jagmohan singh
+1	fazilka	patiala
+1	congress	tribune news servicechandigarh
+1	union government	tribune news servicechandigarh
+1	balbir singh	ugrahan
+1	ugrahan	balbir singh rajewal
+1	kmsc	bjp
+1	sukhdev singh	amarinder singh
+1	punjab government	khanauri
+1	punjab government	dabwali
+1	joginder singh ugrahan	bathinda
+1	joginder singh ugrahan	sukhdev singh
+1	joginder singh ugrahan	dabwali
+1	bku ugrahan	bathinda
+1	piyush goyal	ambala
+1	kirti kisan union	bku ugrahan
+1	kirti	bku ugrahan
+1	shingara singh mann	barnala
+1	vidhan sabha	congress
+1	central government	vidhan sabha
+1	vidhan sabha	dap
+1	barnala	bhagat
+1	mansa	bhagat
+1	kirti	bhagat
+1	vidhan sabha	parliament
+1	balbir singh	dap
+1	congress	tikri
+1	msp	tikri
+1	msp	singhu
+1	msp	kisan morcha
+1	msp	congress
+1	msp	amarinder singh
+1	ambala	singhu
+1	msp	ambala
+1	sangrur	tikri
+1	sangrur	singhu
+1	sangrur	congress
+1	sangrur	delhi police
+1	shingara singh mann	tikri
+1	shingara singh mann	singhu
+1	shingara singh mann	congress
+1	shingara singh mann	msp
+1	shingara singh mann	amarinder singh
+1	shingara singh mann	ambala
+1	shingara singh mann	delhi police
+1	msp	khanauri
+1	aap	tikri
+1	aap	singhu
+1	kisan morcha	aap
+1	aap	delhi police
+1	shingara singh mann	aap
+1	msp	haryana police
+1	haryana police	aap
+1	msp	dabwali
+1	aap	dabwali
+1	centre	bku ugrahan
+1	bku ugrahan	tikri
+1	bku ugrahan	singhu
+1	kisan morcha	bku ugrahan
+1	msp	bku ugrahan
+1	modi	bku ugrahan
+1	bku ugrahan	amarinder singh
+1	ambala	bku ugrahan
+1	bku ugrahan	delhi police
+1	shingara singh mann	bku ugrahan
+1	bku ugrahan	khanauri
+1	bku ugrahan	aap
+1	bku ugrahan	haryana police
+1	bku ugrahan	dabwali
+1	tikri	jagmohan singh
+1	singhu	jagmohan singh
+1	kisan morcha	jagmohan singh
+1	congress	jagmohan singh
+1	msp	jagmohan singh
+1	amarinder singh	jagmohan singh
+1	delhi police	jagmohan singh
+1	union government	jagmohan singh
+1	shingara singh mann	jagmohan singh
+1	dabwali	jagmohan singh
+1	bku ugrahan	jagmohan singh
+1	jhajjar	singhu
+1	jhajjar	congress
+1	jhajjar	msp
+1	jhajjar	union government
+1	jhajjar	sangrur
+1	shingara singh mann	jhajjar
+1	jhajjar	khanauri
+1	jhajjar	aap
+1	jhajjar	dabwali
+1	jhajjar	bku ugrahan
+1	jhajjar	jagmohan singh
+1	jhajjar	ugrahan
+1	msp	shambhu
+1	shingara singh mann	shambhu
+1	bku ugrahan	shambhu
+1	bku ekta ugrahan	tikri
+1	bku ekta ugrahan	singhu
+1	msp	bku ekta ugrahan
+1	bku ekta ugrahan	amarinder singh
+1	bku ekta ugrahan	bku ugrahan
+1	jhajjar	bku ekta ugrahan
+1	haryana government	singhu
+1	haryana government	congress
+1	msp	haryana government
+1	haryana government	union government
+1	haryana government	bku ugrahan
+1	haryana government	jagmohan singh
+1	gurnam singh charuni	tikri
+1	msp	gurnam singh charuni
+1	gurnam singh charuni	sangrur
+1	shingara singh mann	gurnam singh charuni
+1	gurnam singh charuni	aap
+1	gurnam singh charuni	bku ugrahan
+1	gurnam singh charuni	jagmohan singh
+1	jhajjar	gurnam singh charuni
+1	gurnam singh charuni	haryana government
+1	kisan morcha	patiala
+1	congress	patiala
+1	msp	patiala
+1	shingara singh mann	patiala
+1	bku ugrahan	patiala
+1	jhajjar	patiala
+1	haryana government	patiala
+1	kundli	tikri
+1	kundli	singhu
+1	congress	kundli
+1	msp	kundli
+1	modi	kundli
+1	kundli	amarinder singh
+1	ambala	kundli
+1	kundli	delhi police
+1	shingara singh mann	kundli
+1	kundli	khanauri
+1	kundli	aap
+1	haryana police	kundli
+1	kundli	dabwali
+1	bku ugrahan	kundli
+1	kundli	jagmohan singh
+1	jhajjar	kundli
+1	kundli	shambhu
+1	bku ekta ugrahan	kundli
+1	haryana government	kundli
+1	gurnam singh charuni	kundli
+1	kundli	patiala
+1	mann	tikri
+1	mann	singhu
+1	congress	mann
+1	bku ugrahan	mann
+1	jhajjar	mann
+1	gurnam singh charuni	mann
+1	kundli	mann
+1	centre	bhagat
+1	tikri	bhagat
+1	singhu	bhagat
+1	kisan morcha	bhagat
+1	congress	bhagat
+1	msp	bhagat
+1	modi	bhagat
+1	bhagat	amarinder singh
+1	ambala	bhagat
+1	bhagat	delhi police
+1	union government	bhagat
+1	shingara singh mann	bhagat
+1	aap	bhagat
+1	bku ugrahan	bhagat
+1	bhagat	jagmohan singh
+1	jhajjar	bhagat
+1	bhagat	shambhu
+1	haryana government	bhagat
+1	gurnam singh charuni	bhagat
+1	patiala	bhagat
+1	kundli	bhagat
+1	mann	bhagat
+1	punjab government	haryana government
+1	dap	haryana police
+1	cm	khanauri
+1	cm	haryana police
+1	capt amarinder singh	khanauri
+1	haryana police	capt amarinder singh
+1	ugrahan	capt amarinder singh
+1	cm	shambhu
+1	sad	shambhu
+1	capt amarinder singh	shambhu
+1	gurnam singh charuni	cm
+1	sad	gurnam singh charuni
+1	gurnam singh charuni	tribune news servicechandigarh
+1	gurnam singh charuni	capt amarinder singh
+1	cm	patiala
+1	sad	patiala
+1	capt amarinder singh	patiala
+1	ekta-ugrahan	cm
+1	sad	ekta-ugrahan
+1	ekta-ugrahan	capt amarinder singh
+1	krantikari kisan union	sukhdev singh
+1	krantikari kisan union	dabwali
+1	krantikari kisan union	shambhu
+1	krantikari kisan union	patiala
+1	punjab government	congress
+1	punjab government	capt amarinder singh
+1	modi	dap
+1	dap	capt amarinder singh
+1	indian	bjp
+1	modi	indian
+1	parliament	indian
+1	piyush goyal	indian
+1	capt amarinder singh	indian
+1	aap	sarwan singh pandher
+1	ambala	sukhdev singh
+1	sarwan singh pandher	sukhdev singh
+1	central government	aap
+1	barnala	punjab government
+1	punjab government	ludhiana
+1	punjab government	aap
+1	sarwan singh pandher	jagmohan singh
+1	central government	jagmohan singh
+1	kirti kisan union	sarwan singh pandher
+1	kirti kisan union	sukhdev singh
+1	kirti kisan union	jagmohan singh
+1	bjp	shambhu
+1	punjab government	shambhu
+1	kirti kisan union	shambhu
+1	barnala	bku ekta ugrahan
+1	bku ekta ugrahan	sarwan singh pandher
+1	bku ekta ugrahan	ludhiana
+1	bku ekta ugrahan	amritsar
+1	central government	bku ekta ugrahan
+1	kirti kisan union	bku ekta ugrahan
+1	modi	ferozepur
+1	ferozepur	sarwan singh pandher
+1	kirti kisan union	ferozepur
+1	ferozepur	shambhu
+1	ferozepur	bku ekta ugrahan
+1	punjab government	patiala
+1	kirti kisan union	patiala
+1	kirti	sarwan singh pandher
+1	kirti	sukhdev singh
+1	kirti	jagmohan singh
+1	kirti	shambhu
+1	kirti	bku ekta ugrahan
+1	ferozepur	kirti
+1	kirti	patiala
+1	mann	ludhiana
+1	kirti kisan union	mann
+1	kirti	mann
+1	piyush goyal	cm
+1	barnala	kisan morcha
+1	kundli	sukhdev singh
+1	central	tribune news servicechandigarh
+1	central government	tribune news servicechandigarh
+1	central government	capt amarinder singh
+1	kirti kisan union	parliament
+1	kirti	parliament
+1	balbir singh	kundli
+1	kundli	balbir singh rajewal
+1	central government	kundli
+1	central government	bku ugrahan
+1	bills	tikri
+1	joginder singh ugrahan	singhu
+1	kmsc	tikri
+1	kmsc	singhu
+1	kmsc	amarinder singh
+1	kmsc	delhi police
+1	sarwan singh pandher	tikri
+1	sarwan singh pandher	singhu
+1	sarwan singh pandher	delhi police
+1	amritsar	tikri
+1	amritsar	singhu
+1	amritsar	delhi police
+1	amritsar	khanauri
+1	kmsc	haryana police
+1	amritsar	haryana police
+1	kmsc	dabwali
+1	amritsar	dabwali
+1	kmsc	shambhu
+1	ekta-ugrahan	kmsc
+1	ekta-ugrahan	amritsar
+1	bku ekta ugrahan	tribune news servicechandigarh
+1	barnala	kmsc
+1	kmsc	patiala
+1	cm	bathinda
+1	krantikari kisan union	mann
+1	balbir singh	krantikari kisan union
+1	krantikari kisan union	balbir singh rajewal
+1	krantikari kisan union	parliament
+1	punjab government	delhi police
+1	cm	bku ekta ugrahan
+1	dap	bku ekta ugrahan
+1	dap	singhu
+1	dap	delhi police
+1	singhu	indian
+1	indian	delhi police
+1	central government	indian
+1	centre	fazilka
+1	modi	fazilka
+1	piyush goyal	mansa
+1	piyush goyal	amritsar
+1	dap	amritsar
+1	krantikari kisan union	amritsar
+1	krantikari kisan union	dap
+1	bills	sarwan singh pandher
+1	vidhan sabha	ambala
+1	vidhan sabha	sarwan singh pandher
+1	vidhan sabha	amritsar
+1	vidhan sabha	tribune
+1	sukhdev singh	bhagat
+1	punjab government	bku ugrahan
+1	union government	malwa
+1	union government	dap
+1	vidhan sabha	aap
+1	parliament	bathinda
+1	amritsar	parliament
+1	ferozepur	amarinder singh
+1	cm	sarwan singh pandher
+1	sarwan singh pandher	capt amarinder singh
+1	union government	indian
+1	tribune news servicebathinda	indian
+1	indian	tribune
+1	tikri	tribune
+1	msp	bjp
+1	msp	joginder singh ugrahan
+1	ekta-ugrahan	bjp
+1	msp	ekta-ugrahan
+1	sukhdev singh	delhi police
+1	kundli	tribune
+1	sad	msp
+1	tikri	ludhiana
+1	kisan morcha	ludhiana
+1	delhi police	ludhiana
+1	balbir singh	tikri
+1	tikri	balbir singh rajewal
+1	ambala	balbir singh rajewal
+1	balbir singh	haryana police
+1	haryana police	balbir singh rajewal
+1	jhajjar	central
+1	jhajjar	ludhiana
+1	balbir singh	jhajjar
+1	jhajjar	balbir singh rajewal
+1	central government	jhajjar
+1	balbir singh	shambhu
+1	balbir singh rajewal	shambhu
+1	haryana government	ludhiana
+1	balbir singh	haryana government
+1	haryana government	balbir singh rajewal
+1	malwa	aap
+1	krantikari kisan union	ambala
+1	sad	krantikari kisan union
+1	krantikari kisan union	aap
+1	krantikari kisan union	malwa
+1	sad	kirti kisan union
+1	kirti kisan union	khanauri
+1	kirti kisan union	malwa
+1	kirti kisan union	krantikari kisan union
+1	haryana government	tribune news servicechandigarh
+1	krantikari kisan union	haryana government
+1	kirti kisan union	haryana government
+1	joginder singh ugrahan	tribune news servicechandigarh
+1	joginder singh ugrahan	aap
+1	joginder singh ugrahan	malwa
+1	krantikari kisan union	joginder singh ugrahan
+1	haryana government	joginder singh ugrahan
+1	sad	kirti
+1	kirti	khanauri
+1	kirti	malwa
+1	krantikari kisan union	kirti
+1	haryana government	kirti
+1	balbir singh	tribune news servicechandigarh
+1	tribune news servicechandigarh	balbir singh rajewal
+1	parliament	patiala
+1	malwa	amritsar
+1	central	bhagat
+1	bhagat	ludhiana
+1	central government	bhagat
+1	sad	balbir singh rajewal
+1	balbir singh	cm
+1	union government	balbir singh rajewal
+1	cm	balbir singh rajewal
+1	balbir singh	capt amarinder singh
+1	amritsar	capt amarinder singh
+1	balbir singh rajewal	capt amarinder singh
+1	kirti kisan union	union government
+1	balbir singh	kirti kisan union
+1	kirti kisan union	balbir singh rajewal
+1	union government	kirti
+1	balbir singh	kirti
+1	kirti	balbir singh rajewal
+1	sad	ludhiana
+1	modi	malwa
+1	malwa	amarinder singh
+1	cm	malwa
+1	malwa	capt amarinder singh
+1	cm	mansa
+1	krantikari kisan union	cm
+1	krantikari kisan union	ludhiana
+1	punjab government	union government
+1	shingara singh mann	punjab government
+1	punjab government	tribune news servicebathinda
+1	sangrur	cm
+1	msp	sukhdev singh
+1	cm	sukhdev singh
+1	cm	mann
+1	barnala	amarinder singh
+1	barnala	capt amarinder singh
+1	nda	kmsc
+1	bills	sukhdev singh
+1	congress	mansa
+1	mansa	delhi police
+1	bills	khanauri
+1	kisan morcha	parliament
+1	parliament	delhi police
+1	union government	parliament
+1	parliament	khanauri
+1	bills	haryana police
+1	parliament	haryana police
+1	parliament	dabwali
+1	bills	shambhu
+1	parliament	shambhu
+1	gurnam singh charuni	mansa
+1	gurnam singh charuni	parliament
+1	ekta-ugrahan	kisan morcha
+1	ekta-ugrahan	congress
+1	modi	ekta-ugrahan
+1	ekta-ugrahan	parliament
+1	tribune news servicechandigarh	sarwan singh pandher
+1	barnala	malwa
+1	barnala	dabwali
+1	ludhiana	dabwali
+1	malwa	shambhu
+1	malwa	patiala
+1	barnala	ekta-ugrahan
+1	ekta-ugrahan	malwa
+1	kisan morcha	bathinda
+1	sad	sangrur
+1	shingara singh mann	sad
+1	sad	sukhdev singh
+1	shingara singh mann	sukhdev singh
+1	kisan morcha	tribune news servicebathinda
+1	sangrur	tribune news servicebathinda
+1	kisan morcha	malwa
+1	malwa	sukhdev singh
+1	haryana police	bjp
+1	bjp	dabwali
+1	sad	dabwali
+1	central government	dabwali
+1	fazilka	kisan morcha
+1	central	fazilka
+1	sad	fazilka
+1	shingara singh mann	fazilka
+1	fazilka	khanauri
+1	fazilka	sukhdev singh
+1	fazilka	tribune news servicebathinda
+1	fazilka	malwa
+1	fazilka	haryana police
+1	fazilka	dabwali
+1	central government	fazilka
+1	haryana government	sukhdev singh
+1	haryana government	fazilka
+1	ferozepur	kisan morcha
+1	shingara singh mann	ferozepur
+1	ferozepur	khanauri
+1	ferozepur	tribune news servicebathinda
+1	ferozepur	malwa
+1	ferozepur	haryana police
+1	ferozepur	dabwali
+1	haryana government	ferozepur
+1	sad	mann
+1	fazilka	mann

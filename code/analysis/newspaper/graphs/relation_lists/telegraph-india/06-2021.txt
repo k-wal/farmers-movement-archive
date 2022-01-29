@@ -1,0 +1,367 @@
+9	state	farmers
+8	farmers	singh
+7	farmers	modi
+7	state	modi
+7	state	singh
+6	farmers	bjp
+6	state	bjp
+6	farmers	nda
+6	farmers	centre
+6	farmers	kisan morcha
+6	modi	singh
+6	morcha	kisan morcha
+6	morcha	farmers
+6	state	centre
+5	modi	bjp
+5	state	nda
+5	modi	centre
+5	singh	bjp
+5	centre	singh
+5	kisan morcha	singh
+5	morcha	singh
+5	state	kisan morcha
+5	morcha	state
+4	parliament	modi
+4	parliament	farmers
+4	state	parliament
+4	nda	bjp
+4	kisan morcha	bjp
+4	modi	kisan morcha
+4	centre	kisan morcha
+4	narendra singh	farmers
+4	tomar	farmers
+4	narendra singh	tomar
+4	tikait	kisan morcha
+4	tikait	farmers
+4	narendra singh	singh
+4	tomar	singh
+4	tikait	singh
+4	morcha	bjp
+4	morcha	modi
+4	morcha	centre
+4	morcha	tikait
+4	narendra singh	state
+4	state	tomar
+4	kisan morcha	nda
+4	singh	nda
+4	morcha	nda
+4	house	farmers
+4	state	house
+4	farmers	tikri
+4	farmers	jjp
+4	jjp	singh
+4	state	tikri
+3	farmers	sad
+3	assembly	bjp
+3	assembly	modi
+3	assembly	farmers
+3	assembly	state
+3	parliament	kumar
+3	modi	kumar
+3	farmers	kumar
+3	state	kumar
+3	modi	nda
+3	sad	nda
+3	centre	bjp
+3	narendra singh	modi
+3	narendra singh	centre
+3	tomar	modi
+3	tomar	centre
+3	tikait	bjp
+3	tikait	modi
+3	state	tikait
+3	tikait	nda
+3	parliament	centre
+3	parliament	singh
+3	house	modi
+3	house	centre
+3	house	kisan morcha
+3	house	singh
+3	morcha	house
+3	tikri	bjp
+3	tikri	kisan morcha
+3	tikri	singh
+3	jjp	bjp
+3	jjp	tikri
+3	jjp	kisan morcha
+3	tikait	jjp
+3	morcha	tikri
+3	morcha	jjp
+3	state	jjp
+3	tikri	nda
+3	jjp	nda
+3	skm	kisan morcha
+3	skm	farmers
+3	morcha	skm
+2	parliament	bjp
+2	sad	bjp
+2	assembly	parliament
+2	yadav	farmers
+2	yadav	sad
+2	state	sad
+2	assembly	nda
+2	yadav	nda
+2	assembly	centre
+2	assembly	kisan morcha
+2	narendra singh	bjp
+2	tomar	bjp
+2	tikait	centre
+2	assembly	singh
+2	assembly	morcha
+2	centre	nda
+2	narendra singh	nda
+2	tomar	nda
+2	parliament	msp
+2	modi	msp
+2	centre	msp
+2	farmers	msp
+2	narendra singh	msp
+2	narendra singh	parliament
+2	tomar	msp
+2	parliament	tomar
+2	singh	msp
+2	supreme court	msp
+2	supreme court	parliament
+2	supreme court	modi
+2	supreme court	centre
+2	supreme court	farmers
+2	supreme court	narendra singh
+2	supreme court	tomar
+2	supreme court	singh
+2	state	msp
+2	supreme court	state
+2	msp	kumar
+2	centre	kumar
+2	narendra singh	kumar
+2	tomar	kumar
+2	singh	kumar
+2	supreme court	kumar
+2	house	bjp
+2	parliament	house
+2	bku	bjp
+2	bku	modi
+2	singhu	bjp
+2	singhu	modi
+2	bku	singhu
+2	modi	tikri
+2	bku	tikri
+2	singhu	tikri
+2	bku	kisan morcha
+2	singhu	kisan morcha
+2	house	tikri
+2	bku	farmers
+2	singhu	farmers
+2	ghazipur	bjp
+2	ghazipur	modi
+2	bku	ghazipur
+2	singhu	ghazipur
+2	ghazipur	tikri
+2	ghazipur	kisan morcha
+2	ghazipur	farmers
+2	bku	tikait
+2	singhu	tikait
+2	tikait	tikri
+2	ghazipur	tikait
+2	bku	singh
+2	singhu	singh
+2	ghazipur	singh
+2	jjp	modi
+2	bku	jjp
+2	singhu	jjp
+2	ghazipur	jjp
+2	morcha	bku
+2	morcha	singhu
+2	morcha	ghazipur
+2	bku	state
+2	singhu	state
+2	state	ghazipur
+2	house	nda
+2	skm	centre
+2	centre	tikri
+2	skm	tikri
+2	state	skm
+2	skm	nda
+2	tikait	skm
+2	skm	singh
+2	sad	singh
+2	skm	jjp
+2	jjp	sad
+1	rajya sabha	bjp
+1	rajya sabha	parliament
+1	rajya sabha	modi
+1	opposition	bjp
+1	opposition	parliament
+1	opposition	modi
+1	opposition	rajya sabha
+1	bjp	lok sabha
+1	parliament	lok sabha
+1	modi	lok sabha
+1	rajya sabha	lok sabha
+1	opposition	lok sabha
+1	rajya sabha	farmers
+1	opposition	farmers
+1	farmers	lok sabha
+1	parliament	sad
+1	sad	modi
+1	rajya sabha	sad
+1	opposition	sad
+1	sad	lok sabha
+1	bihar	bjp
+1	bihar	parliament
+1	bihar	modi
+1	bihar	rajya sabha
+1	bihar	opposition
+1	bihar	lok sabha
+1	bihar	farmers
+1	bihar	sad
+1	assembly	rajya sabha
+1	assembly	opposition
+1	assembly	lok sabha
+1	assembly	sad
+1	assembly	bihar
+1	yadav	bjp
+1	yadav	parliament
+1	yadav	modi
+1	yadav	rajya sabha
+1	yadav	opposition
+1	yadav	lok sabha
+1	yadav	bihar
+1	assembly	yadav
+1	state	rajya sabha
+1	state	opposition
+1	state	lok sabha
+1	state	bihar
+1	state	yadav
+1	bjp	kumar
+1	rajya sabha	kumar
+1	opposition	kumar
+1	lok sabha	kumar
+1	sad	kumar
+1	bihar	kumar
+1	assembly	kumar
+1	yadav	kumar
+1	parliament	nda
+1	rajya sabha	nda
+1	opposition	nda
+1	nda	lok sabha
+1	bihar	nda
+1	nda	kumar
+1	narendra singh	kisan morcha
+1	assembly	narendra singh
+1	tomar	kisan morcha
+1	assembly	tomar
+1	assembly	tikait
+1	narendra singh	tikait
+1	tikait	tomar
+1	morcha	narendra singh
+1	morcha	tomar
+1	farmers (empowerment and protection) agreement of price assurance and farm services	msp
+1	farmers (empowerment and protection) agreement of price assurance and farm services	parliament
+1	farmers (empowerment and protection) agreement of price assurance and farm services	modi
+1	farmers (empowerment and protection) agreement of price assurance and farm services	centre
+1	farmers (empowerment and protection) agreement of price assurance and farm services	farmers
+1	narendra singh	farmers (empowerment and protection) agreement of price assurance and farm services
+1	farmers (empowerment and protection) agreement of price assurance and farm services	tomar
+1	farmers (empowerment and protection) agreement of price assurance and farm services	singh
+1	supreme court	farmers (empowerment and protection) agreement of price assurance and farm services
+1	state	farmers (empowerment and protection) agreement of price assurance and farm services
+1	farmers (empowerment and protection) agreement of price assurance and farm services	kumar
+1	parliament	kisan morcha
+1	bill	bjp
+1	bill	parliament
+1	bill	modi
+1	bill	centre
+1	bill	kisan morcha
+1	bill	house
+1	bill	farmers
+1	assembly	house
+1	assembly	bill
+1	bill	singh
+1	cpm	bjp
+1	parliament	cpm
+1	cpm	modi
+1	cpm	centre
+1	cpm	kisan morcha
+1	house	cpm
+1	farmers	cpm
+1	bill	cpm
+1	assembly	cpm
+1	cpm	singh
+1	morcha	parliament
+1	morcha	bill
+1	morcha	cpm
+1	bill	state
+1	state	cpm
+1	ambala	bjp
+1	ambala	parliament
+1	ambala	modi
+1	ambala	centre
+1	ambala	kisan morcha
+1	ambala	house
+1	ambala	farmers
+1	bill	ambala
+1	assembly	ambala
+1	ambala	singh
+1	ambala	cpm
+1	morcha	ambala
+1	state	ambala
+1	bku	house
+1	singhu	house
+1	ghazipur	house
+1	tikait	house
+1	house	jjp
+1	bku	nda
+1	singhu	nda
+1	ghazipur	nda
+1	skm	house
+1	skm	sad
+1	sad	kisan morcha
+1	tikait	sad
+1	morcha	sad
+1	yadav	skm
+1	yadav	kisan morcha
+1	yadav	tikait
+1	yadav	singh
+1	yadav	jjp
+1	morcha	yadav
+1	yogendra yadav	skm
+1	yogendra yadav	kisan morcha
+1	yogendra yadav	farmers
+1	yogendra yadav	sad
+1	yogendra yadav	tikait
+1	yogendra yadav	singh
+1	yogendra yadav	jjp
+1	yogendra yadav	morcha
+1	yogendra yadav	yadav
+1	yogendra yadav	nda
+1	house	msp
+1	narendra singh	house
+1	tomar	house
+1	supreme court	house
+1	house	kumar
+1	bku	centre
+1	singhu	centre
+1	skm	bjp
+1	skm	modi
+1	bku	skm
+1	singhu	skm
+1	ghazipur	centre
+1	ghazipur	skm
+1	jjp	centre
+1	congress	bjp
+1	congress	tikri
+1	congress	farmers
+1	congress	sad
+1	sad	tikri
+1	narendra singh	congress
+1	narendra singh	tikri
+1	narendra singh	sad
+1	congress	tomar
+1	tomar	tikri
+1	tomar	sad
+1	congress	singh
+1	congress	jjp
+1	narendra singh	jjp
+1	tomar	jjp
+1	state	congress
+1	congress	nda

@@ -1,0 +1,431 @@
+20	farmers	up
+20	farmers	sp
+19	sp	up
+14	singh	farmers
+12	singh	sp
+12	union	farmers
+11	singh	up
+11	union	sp
+11	nda	farmers
+10	nda	up
+10	nda	sp
+9	msp	farmers
+9	msp	sp
+9	union	up
+9	farmers	congress
+9	apmc	farmers
+9	centre	farmers
+8	msp	up
+8	farmers	bku
+8	singh	union
+8	farmers	bjp
+8	up	bjp
+8	up	congress
+8	singh	centre
+8	centre	up
+8	centre	sp
+7	sp	bku
+7	sp	bjp
+7	sp	congress
+7	apmc	up
+7	apmc	sp
+7	singh	apmc
+6	up	bku
+6	union	bku
+6	farmers	modi
+6	up	modi
+6	sp	modi
+6	bjp	congress
+6	union	bjp
+6	singh	nda
+6	centre	apmc
+5	kisan sabha	farmers
+5	union	nda
+5	centre	bjp
+5	centre	congress
+5	singh	bjp
+5	singh	congress
+5	union	centre
+5	union	apmc
+4	fir	up
+4	singh	bku
+4	singh	bihar
+4	farmers	bihar
+4	up	bihar
+4	sp	bihar
+4	msp	modi
+4	nda	msp
+4	nda	modi
+4	kisan sabha	sp
+4	union	congress
+4	nda	apmc
+4	msp	congress
+4	msp	centre
+4	singh	msp
+4	singh	amarinder singh
+4	farmers	amarinder singh
+4	singh	amarinder
+4	farmers	amarinder
+4	amarinder singh	amarinder
+4	centre	modi
+4	msp	apmc
+4	singh	sad
+4	farmers	sad
+4	badal	singh
+4	badal	farmers
+4	apmc	sad
+3	fir	farmers
+3	fir	sp
+3	bku	bihar
+3	kisan sabha	up
+3	nda	kisan sabha
+3	bku	bjp
+3	kisan sabha	apmc
+3	singh	bathinda
+3	bathinda	farmers
+3	bathinda	up
+3	bathinda	nda
+3	bathinda	sp
+3	union	bathinda
+3	singh	barnala
+3	barnala	farmers
+3	barnala	up
+3	nda	barnala
+3	barnala	sp
+3	msp	bjp
+3	amarinder singh	bjp
+3	amarinder singh	congress
+3	centre	amarinder singh
+3	amarinder singh	up
+3	amarinder singh	sp
+3	amarinder	bjp
+3	amarinder	congress
+3	centre	amarinder
+3	up	amarinder
+3	sp	amarinder
+3	tikri	up
+3	tikri	agra
+3	agra	up
+3	singh	modi
+3	singh	kisan sabha
+3	nda	centre
+3	union	msp
+3	union	modi
+3	apmc	modi
+3	apmc	bjp
+3	nda	bku
+3	tikri	sp
+3	agra	sp
+3	bjp	modi
+3	nda	bjp
+3	nda	congress
+3	centre	sad
+3	up	sad
+3	amarinder singh	sad
+3	sp	sad
+3	badal	bjp
+3	badal	centre
+3	badal	up
+3	badal	sad
+3	badal	amarinder singh
+3	badal	sp
+3	badal	union
+3	apmc	amarinder singh
+3	badal	apmc
+3	sad	amarinder
+3	badal	amarinder
+3	apmc	amarinder
+3	sad	congress
+3	badal	congress
+3	apmc	congress
+2	kisan sabha	msp
+2	kisan sabha	modi
+2	bku	congress
+2	muzaffarnagar	bjp
+2	bku	muzaffarnagar
+2	muzaffarnagar	congress
+2	farmers	muzaffarnagar
+2	up	muzaffarnagar
+2	fir	bjp
+2	fir	congress
+2	sp	muzaffarnagar
+2	union	muzaffarnagar
+2	union	fir
+2	msp	amarinder singh
+2	msp	amarinder
+2	fir	agra
+2	kisan sabha	centre
+2	bathinda	centre
+2	bathinda	modi
+2	union	kisan sabha
+2	bathinda	apmc
+2	singh	agra
+2	nda	bihar
+2	barnala	bku
+2	barnala	bihar
+2	congress	modi
+2	bjp’s	bjp
+2	bjp’s	congress
+2	centre	bjp’s
+2	bjp’s	modi
+2	farmers	bjp’s
+2	bjp’s	up
+2	sp	bjp’s
+2	parliament	bjp
+2	singh	parliament
+2	parliament	farmers
+2	parliament	up
+2	sad	bjp
+2	parliament	sad
+2	nda	parliament
+2	nda	sad
+2	parliament	amarinder singh
+2	nda	amarinder singh
+2	parliament	sp
+2	union	parliament
+2	union	sad
+2	union	amarinder singh
+2	badal	parliament
+2	badal	modi
+2	badal	nda
+2	singh	bill
+2	farmers	bill
+2	parliament	apmc
+2	parliament	amarinder
+2	nda	amarinder
+2	union	amarinder
+2	msp	sad
+1	fir	msp
+1	ludhiana	bku
+1	ludhiana	singh
+1	ludhiana	farmers
+1	ludhiana	up
+1	ludhiana	bihar
+1	ludhiana	sp
+1	union	bihar
+1	ludhiana	union
+1	fir	bku
+1	fir	muzaffarnagar
+1	farmers	mumbai
+1	mumbai	up
+1	kisan sabha	mumbai
+1	nda	mumbai
+1	mumbai	sp
+1	apmc	mumbai
+1	bathinda	barnala
+1	union	barnala
+1	bihar	bjp
+1	bihar	congress
+1	centre	bihar
+1	msp	bihar
+1	amarinder singh	bihar
+1	amarinder	bihar
+1	fir	tikri
+1	centre	tomar
+1	msp	tomar
+1	tomar	modi
+1	singh	tomar
+1	tomar	farmers
+1	tomar	up
+1	kisan sabha	tomar
+1	nda	tomar
+1	bathinda	msp
+1	bathinda	kisan sabha
+1	bathinda	tomar
+1	narendra singh	centre
+1	narendra singh	msp
+1	narendra singh	modi
+1	narendra singh	singh
+1	narendra singh	farmers
+1	narendra singh	up
+1	narendra singh	kisan sabha
+1	narendra singh	nda
+1	narendra singh	tomar
+1	narendra singh	bathinda
+1	tomar	sp
+1	narendra singh	sp
+1	union	tomar
+1	narendra singh	union
+1	jagmohan singh	centre
+1	jagmohan singh	msp
+1	jagmohan singh	modi
+1	singh	jagmohan singh
+1	jagmohan singh	farmers
+1	jagmohan singh	up
+1	jagmohan singh	kisan sabha
+1	jagmohan singh	nda
+1	jagmohan singh	tomar
+1	jagmohan singh	bathinda
+1	narendra singh	jagmohan singh
+1	jagmohan singh	sp
+1	jagmohan singh	union
+1	tomar	apmc
+1	narendra singh	apmc
+1	jagmohan singh	apmc
+1	centre	bku
+1	indian	bjp
+1	bku	indian
+1	centre	indian
+1	singh	indian
+1	farmers	indian
+1	up	indian
+1	union	indian
+1	apmc	bku
+1	apmc	indian
+1	kurukshetra	bku
+1	kurukshetra	farmers
+1	kurukshetra	nda
+1	kurukshetra	sp
+1	union	kurukshetra
+1	singh	tikri
+1	punjabi	bku
+1	singh	punjabi
+1	punjabi	farmers
+1	punjabi	up
+1	nda	punjabi
+1	punjabi	bihar
+1	punjabi	sp
+1	barnala	punjabi
+1	msp	bjp’s
+1	nda	bjp’s
+1	parliament	centre
+1	parliament	modi
+1	sad	modi
+1	bjp	aap
+1	centre	aap
+1	parliament	aap
+1	modi	aap
+1	singh	aap
+1	farmers	aap
+1	up	aap
+1	sad	aap
+1	nda	aap
+1	bathinda	bjp
+1	bathinda	parliament
+1	bathinda	sad
+1	bathinda	aap
+1	amarinder singh	modi
+1	amarinder singh	aap
+1	bathinda	amarinder singh
+1	sp	aap
+1	union	aap
+1	badal	aap
+1	badal	bathinda
+1	bjp	bill
+1	centre	bill
+1	parliament	bill
+1	modi	bill
+1	up	bill
+1	sad	bill
+1	nda	bill
+1	aap	bill
+1	bathinda	bill
+1	amarinder singh	bill
+1	sp	bill
+1	union	bill
+1	badal	bill
+1	apmc	aap
+1	apmc	bill
+1	amarinder	modi
+1	amarinder	aap
+1	bathinda	amarinder
+1	amarinder	bill
+1	tikri	centre
+1	centre	ghazipur
+1	tikri	ghazipur
+1	up	ghazipur
+1	sp	ghazipur
+1	parliament	congress
+1	msp	parliament
+1	badal	msp
+1	msp	bku
+1	cm	bku
+1	cm	msp
+1	cm	farmers
+1	bku	ambala
+1	msp	ambala
+1	cm	ambala
+1	farmers	ambala
+1	cm	sp
+1	sp	ambala
+1	union	cm
+1	union	ambala
+1	singh	hisar
+1	farmers	hisar
+1	kisan sabha	hisar
+1	kisan sabha	bill
+1	hisar	bill
+1	sikh	bjp
+1	sikh	congress
+1	sikh	centre
+1	sikh	modi
+1	sikh	singh
+1	sikh	farmers
+1	sikh	up
+1	fir	centre
+1	fir	modi
+1	singh	fir
+1	sikh	fir
+1	sikh	sp
+1	singh	bjp’s
+1	sikh	bjp’s
+1	fir	bjp’s
+1	sikh	union
+1	union	bjp’s
+1	jind	bjp
+1	jind	congress
+1	jind	centre
+1	jind	modi
+1	singh	jind
+1	jind	farmers
+1	jind	up
+1	sikh	jind
+1	fir	jind
+1	jind	sp
+1	jind	bjp’s
+1	union	jind
+1	badal	sikh
+1	badal	fir
+1	badal	bjp’s
+1	badal	jind
+1	sikhs	bjp
+1	sikhs	congress
+1	centre	sikhs
+1	sikhs	modi
+1	singh	sikhs
+1	farmers	sikhs
+1	sikhs	up
+1	sikh	sikhs
+1	fir	sikhs
+1	sikhs	sp
+1	sikhs	bjp’s
+1	union	sikhs
+1	jind	sikhs
+1	badal	sikhs
+1	agra	bjp
+1	agra	congress
+1	centre	agra
+1	agra	modi
+1	farmers	agra
+1	sikh	agra
+1	agra	bjp’s
+1	union	agra
+1	jind	agra
+1	badal	agra
+1	sikhs	agra
+1	balbir singh	bjp
+1	balbir singh	congress
+1	balbir singh	centre
+1	balbir singh	modi
+1	balbir singh	singh
+1	balbir singh	farmers
+1	balbir singh	up
+1	balbir singh	sikh
+1	balbir singh	fir
+1	balbir singh	sp
+1	balbir singh	bjp’s
+1	balbir singh	union
+1	balbir singh	jind
+1	balbir singh	badal
+1	balbir singh	sikhs
+1	balbir singh	agra

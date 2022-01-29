@@ -1,0 +1,128 @@
+8	sp	up
+6	farmers	sp
+5	farmers	up
+5	singh	up
+5	singh	sp
+4	centre	sp
+4	up	bku
+4	sp	bku
+3	nda	up
+3	nda	sp
+3	fir	up
+3	fir	sp
+3	centre	farmers
+3	singh	bku
+3	centre	up
+3	farmers	bku
+2	nda	farmers
+2	telangana	farmers
+2	telangana	up
+2	telangana	sp
+2	singh	singhu
+2	up	singhu
+2	singh	nda
+2	sp	singhu
+2	fir	singhu
+2	singh	fir
+2	union	farmers
+2	union	sp
+2	house	farmers
+2	house	sp
+2	union	house
+2	singh	centre
+2	singh	farmers
+1	cm	farmers
+1	cm	up
+1	nda	cm
+1	cm	sp
+1	cm	telangana
+1	nda	telangana
+1	nda	singhu
+1	rajasthan	singhu
+1	rajasthan	singh
+1	rajasthan	up
+1	rajasthan	nda
+1	rajasthan	sp
+1	fir	nda
+1	rajasthan	fir
+1	agra	singhu
+1	singh	agra
+1	agra	up
+1	nda	agra
+1	rajasthan	agra
+1	agra	sp
+1	fir	agra
+1	centre	congress
+1	farmers	congress
+1	kisan sabha	congress
+1	kisan sabha	centre
+1	kisan sabha	farmers
+1	sp	congress
+1	kisan sabha	sp
+1	union	congress
+1	union	centre
+1	union	kisan sabha
+1	indian	congress
+1	centre	indian
+1	farmers	indian
+1	kisan sabha	indian
+1	sp	indian
+1	union	indian
+1	house	congress
+1	house	centre
+1	kisan sabha	house
+1	house	indian
+1	centre	singhu
+1	tikri	centre
+1	tikri	singhu
+1	singh	tikri
+1	tikri	up
+1	tikri	sp
+1	fir	centre
+1	fir	tikri
+1	centre	sonipat
+1	sonipat	singhu
+1	singh	sonipat
+1	tikri	sonipat
+1	sonipat	up
+1	sonipat	sp
+1	fir	sonipat
+1	centre	bku
+1	nda	bku
+1	nda	centre
+1	bathinda	bku
+1	bathinda	centre
+1	singh	bathinda
+1	bathinda	farmers
+1	bathinda	up
+1	bathinda	nda
+1	bathinda	sp
+1	jagmohan singh	bku
+1	jagmohan singh	centre
+1	singh	jagmohan singh
+1	jagmohan singh	farmers
+1	jagmohan singh	up
+1	jagmohan singh	nda
+1	jagmohan singh	sp
+1	jagmohan singh	bathinda
+1	msp	bku
+1	singh	msp
+1	msp	farmers
+1	msp	up
+1	msp	sp
+1	centre	telangana
+1	tikait	bku
+1	farmers	tikait
+1	tikait	up
+1	tikait	sp
+1	union	bku
+1	union	tikait
+1	union	up
+1	fir	bku
+1	fir	tikait
+1	fir	farmers
+1	fir	union
+1	house	bku
+1	house	tikait
+1	house	up
+1	fir	house

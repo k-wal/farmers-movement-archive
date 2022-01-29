@@ -1,0 +1,73 @@
+3	singh	state
+3	farmers	state
+3	bku	farmers
+3	farmers	singh
+3	covid-19	state
+3	covid-19	singh
+3	covid-19	farmers
+3	union	bku
+3	union	farmers
+2	state	centre
+2	bku	state
+2	tikait	bku
+2	singh	centre
+2	bku	singh
+2	farmers	centre
+2	tikait	farmers
+2	covid-19	centre
+2	covid-19	bku
+2	union	state
+2	union	tikait
+2	union	singh
+2	union	covid-19
+1	bku	centre
+1	tikait	state
+1	tikait	centre
+1	msp	state
+1	msp	centre
+1	msp	bku
+1	msp	tikait
+1	states	state
+1	states	centre
+1	bku	states
+1	tikait	states
+1	msp	states
+1	tikait	singh
+1	msp	singh
+1	states	singh
+1	msp	farmers
+1	farmers	states
+1	covid-19	tikait
+1	covid-19	msp
+1	covid-19	states
+1	state	fir
+1	centre	fir
+1	bku	fir
+1	tikait	fir
+1	msp	fir
+1	states	fir
+1	singh	fir
+1	farmers	fir
+1	covid-19	fir
+1	union	centre
+1	union	msp
+1	union	states
+1	union	fir
+1	bjp	state
+1	bjp	centre
+1	bjp	singh
+1	bjp	farmers
+1	bjp	covid-19
+1	jagmohan singh	state
+1	bku	jagmohan singh
+1	singh	jagmohan singh
+1	farmers	jagmohan singh
+1	covid-19	jagmohan singh
+1	darshan pal	state
+1	bku	darshan pal
+1	singh	darshan pal
+1	farmers	darshan pal
+1	covid-19	darshan pal
+1	darshan pal	jagmohan singh
+1	union	jagmohan singh
+1	union	darshan pal

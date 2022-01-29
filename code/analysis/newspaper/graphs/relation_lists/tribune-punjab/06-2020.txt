@@ -1,0 +1,423 @@
+16	farmers	singh
+7	bku	singh
+7	bku	farmers
+7	nda	singh
+7	farmers	nda
+7	centre	singh
+7	centre	farmers
+7	sad	singh
+7	badal	singh
+6	bku	nda
+6	farmers	tribune
+6	punjab government	singh
+6	punjab government	farmers
+6	msp	farmers
+6	modi	singh
+6	modi	farmers
+6	bjp	singh
+6	congress	singh
+6	farmers	bjp
+6	sad	farmers
+6	sad	badal
+6	farmers	badal
+6	sukhbir	singh
+6	sukhbir	badal
+5	bku	tribune
+5	singh	tribune
+5	msp	singh
+5	congress	farmers
+5	sad	sukhbir
+5	farmers	sukhbir
+4	punjab government	tribune
+4	modi	msp
+4	kisan union	farmers
+4	sad	bjp
+4	congress	bjp
+4	sad	msp
+4	badal	bjp
+4	congress	badal
+4	msp	badal
+4	modi	bjp
+4	modi	badal
+4	central	singh
+4	central	farmers
+4	sukhbir	bjp
+4	congress	sukhbir
+4	sad	amarinder singh
+4	singh	amarinder singh
+4	aap	singh
+4	farmers	aap
+4	sad	capt amarinder singh
+4	capt amarinder singh	singh
+4	capt amarinder singh	amarinder singh
+4	capt amarinder	sad
+4	capt amarinder	singh
+4	capt amarinder	amarinder singh
+4	capt amarinder	capt amarinder singh
+4	sad	amarinder
+4	amarinder	singh
+4	amarinder	amarinder singh
+4	amarinder	capt amarinder singh
+4	capt amarinder	amarinder
+4	centre	congress
+4	centre	bjp
+3	sangrur	singh
+3	sangrur	farmers
+3	nda	tribune
+3	sangrur	tribune
+3	bku	punjab government
+3	punjab government	nda
+3	punjab government	sangrur
+3	modi	centre
+3	modi	nda
+3	bku	kisan union
+3	sad	congress
+3	msp	bjp
+3	sad	modi
+3	modi	congress
+3	central government	singh
+3	central government	farmers
+3	central	bjp
+3	sad	central
+3	central government	central
+3	msp	sukhbir
+3	modi	sukhbir
+3	farmers	amarinder singh
+3	badal	amarinder singh
+3	sad	aap
+3	msp	aap
+3	badal	aap
+3	farmers	capt amarinder singh
+3	badal	capt amarinder singh
+3	capt amarinder	farmers
+3	capt amarinder	badal
+3	farmers	amarinder
+3	amarinder	badal
+3	sad	centre
+3	cabinet	singh
+3	congress	cabinet
+3	centre	badal
+3	centre	sukhbir
+3	sad	sukhbir singh
+3	sukhbir singh	singh
+3	sukhbir singh	badal
+3	sukhbir singh	sukhbir
+3	union government	singh
+3	union government	farmers
+2	bku	barnala
+2	barnala	singh
+2	barnala	farmers
+2	bku	sangrur
+2	barnala	sangrur
+2	barnala	tribune
+2	bku	lakhowal
+2	lakhowal	singh
+2	farmers	lakhowal
+2	barnala	lakhowal
+2	sangrur	lakhowal
+2	lakhowal	tribune
+2	barnala	punjab government
+2	punjab government	lakhowal
+2	bku	tribune news servicesangrur
+2	tribune news servicesangrur	singh
+2	farmers	tribune news servicesangrur
+2	barnala	tribune news servicesangrur
+2	sangrur	tribune news servicesangrur
+2	tribune news servicesangrur	tribune
+2	tribune news servicesangrur	lakhowal
+2	punjab government	tribune news servicesangrur
+2	bku	msp
+2	msp	centre
+2	centre	nda
+2	msp	nda
+2	msp	tribune
+2	tomar	singh
+2	msp	tomar
+2	farmers	tomar
+2	modi	tomar
+2	kisan union	singh
+2	kisan union	nda
+2	msp	congress
+2	nda	bjp
+2	congress	nda
+2	central government	bjp
+2	central government	sad
+2	central government	msp
+2	central government	badal
+2	central government	modi
+2	msp	central
+2	central	badal
+2	modi	central
+2	sad	punjab government
+2	punjab government	badal
+2	central government	sukhbir
+2	central	sukhbir
+2	punjab government	sukhbir
+2	kisan union	tribune
+2	msp	amarinder singh
+2	modi	aap
+2	aap	amarinder singh
+2	msp	capt amarinder singh
+2	aap	capt amarinder singh
+2	capt amarinder	msp
+2	capt amarinder	aap
+2	msp	amarinder
+2	amarinder	aap
+2	bjp	amarinder singh
+2	centre	amarinder singh
+2	capt amarinder singh	bjp
+2	centre	capt amarinder singh
+2	capt amarinder	bjp
+2	capt amarinder	centre
+2	amarinder	bjp
+2	centre	amarinder
+2	bku	bathinda
+2	singh	bathinda
+2	nda	bathinda
+2	sukhdev singh	singh
+2	shingara singh mann	bku
+2	shingara singh mann	singh
+2	shingara singh mann	bathinda
+2	shingara singh mann	nda
+2	cabinet	bjp
+2	centre	cabinet
+2	farmers	cabinet
+2	modi	cabinet
+2	congress	amarinder singh
+2	aap	bjp
+2	centre	cm
+2	sad	cm
+2	cm	singh
+2	cm	farmers
+2	cm	badal
+2	congress	capt amarinder singh
+2	capt amarinder	congress
+2	congress	amarinder
+2	sukhbir	amarinder singh
+2	sukhbir	aap
+2	cm	sukhbir
+2	sukhbir	capt amarinder singh
+2	capt amarinder	sukhbir
+2	sukhbir	amarinder
+2	harsimrat kaur badal	singh
+2	congress	harsimrat kaur badal
+2	harsimrat kaur badal	badal
+2	sukhbir	harsimrat kaur badal
+2	badal	cabinet
+2	harsimrat kaur badal	cabinet
+2	sukhbir	cabinet
+2	union government	bjp
+2	union government	badal
+2	modi	union government
+2	union government	aap
+2	sukhbir singh	farmers
+2	central government	aap
+2	central government	union government
+2	central	aap
+2	central	union government
+2	union government	sukhbir
+1	barnala	nda
+1	sangrur	nda
+1	nda	lakhowal
+1	tribune news servicesangrur	nda
+1	bku	centre
+1	bku	modi
+1	bku	tribune news servicechandigarh
+1	centre	tribune news servicechandigarh
+1	tribune news servicechandigarh	singh
+1	msp	tribune news servicechandigarh
+1	farmers	tribune news servicechandigarh
+1	modi	tribune news servicechandigarh
+1	nda	tribune news servicechandigarh
+1	centre	tribune
+1	modi	tribune
+1	tribune news servicechandigarh	tribune
+1	bku	tomar
+1	centre	tomar
+1	nda	tomar
+1	tribune news servicechandigarh	tomar
+1	tomar	tribune
+1	sad	nda
+1	nda	badal
+1	central government	congress
+1	central government	nda
+1	central	congress
+1	central	nda
+1	punjab government	bjp
+1	punjab government	congress
+1	msp	punjab government
+1	modi	punjab government
+1	central government	punjab government
+1	central	punjab government
+1	sukhbir	nda
+1	kirti kisan union	singh
+1	kirti kisan union	farmers
+1	kirti kisan union	sangrur
+1	kirti kisan union	tribune
+1	kirti kisan union	punjab government
+1	kirti	singh
+1	farmers	kirti
+1	sangrur	kirti
+1	kirti	tribune
+1	punjab government	kirti
+1	kirti kisan union	kirti
+1	kisan union	sangrur
+1	kisan union	punjab government
+1	kisan union	kirti kisan union
+1	kisan union	kirti
+1	kisan union	msp
+1	modi	amarinder singh
+1	modi	capt amarinder singh
+1	capt amarinder	modi
+1	modi	amarinder
+1	sad	tomar
+1	badal	tomar
+1	tomar	amarinder singh
+1	tomar	aap
+1	tomar	capt amarinder singh
+1	capt amarinder	tomar
+1	amarinder	tomar
+1	centre	central
+1	central	amarinder singh
+1	central	capt amarinder singh
+1	capt amarinder	central
+1	central	amarinder
+1	bku	sukhdev singh
+1	sukhdev singh	bathinda
+1	nda	sukhdev singh
+1	shingara singh mann	sukhdev singh
+1	nda	cabinet
+1	farmers	bathinda
+1	shingara singh mann	farmers
+1	bathinda	tribune
+1	shingara singh mann	tribune
+1	bku	tribune news servicebathinda
+1	tribune news servicebathinda	singh
+1	tribune news servicebathinda	bathinda
+1	farmers	tribune news servicebathinda
+1	nda	tribune news servicebathinda
+1	shingara singh mann	tribune news servicebathinda
+1	tribune news servicebathinda	tribune
+1	bku	malwa
+1	malwa	singh
+1	malwa	bathinda
+1	farmers	malwa
+1	nda	malwa
+1	shingara singh mann	malwa
+1	malwa	tribune
+1	malwa	tribune news servicebathinda
+1	punjab government	bathinda
+1	shingara singh mann	punjab government
+1	punjab government	tribune news servicebathinda
+1	punjab government	malwa
+1	centre	aap
+1	congress	aap
+1	cm	bjp
+1	cm	congress
+1	msp	cm
+1	cm	amarinder singh
+1	cm	aap
+1	cm	capt amarinder singh
+1	sukhdev singh	bjp
+1	centre	sukhdev singh
+1	sad	sukhdev singh
+1	congress	sukhdev singh
+1	msp	sukhdev singh
+1	farmers	sukhdev singh
+1	badal	sukhdev singh
+1	sukhdev singh	amarinder singh
+1	aap	sukhdev singh
+1	cm	sukhdev singh
+1	capt amarinder singh	sukhdev singh
+1	capt amarinder	cm
+1	capt amarinder	sukhdev singh
+1	cm	amarinder
+1	amarinder	sukhdev singh
+1	sukhbir	sukhdev singh
+1	sukhbir singh	congress
+1	sukhbir singh	amarinder singh
+1	sukhbir singh	capt amarinder singh
+1	capt amarinder	sukhbir singh
+1	sad	harsimrat kaur badal
+1	harsimrat kaur badal	amarinder singh
+1	sukhbir singh	harsimrat kaur badal
+1	harsimrat kaur badal	capt amarinder singh
+1	capt amarinder	harsimrat kaur badal
+1	sukhbir singh	amarinder
+1	harsimrat kaur badal	amarinder
+1	sad	cabinet
+1	cabinet	amarinder singh
+1	sukhbir singh	cabinet
+1	capt amarinder singh	cabinet
+1	capt amarinder	cabinet
+1	amarinder	cabinet
+1	sad	union government
+1	msp	union government
+1	sukhbir singh	bjp
+1	sukhbir singh	msp
+1	sukhbir singh	modi
+1	sukhbir singh	aap
+1	sukhbir singh	union government
+1	central government	sukhbir singh
+1	sukhbir singh	central
+1	centre	mansa
+1	sad	mansa
+1	mansa	singh
+1	farmers	mansa
+1	mansa	badal
+1	cm	mansa
+1	sukhbir singh	centre
+1	sukhbir singh	mansa
+1	sukhbir singh	cm
+1	centre	fazilka
+1	sad	fazilka
+1	fazilka	singh
+1	farmers	fazilka
+1	fazilka	badal
+1	mansa	fazilka
+1	cm	fazilka
+1	sukhbir singh	fazilka
+1	centre	punjab government
+1	punjab government	mansa
+1	punjab government	cm
+1	sukhbir singh	punjab government
+1	punjab government	fazilka
+1	mansa	sukhbir
+1	fazilka	sukhbir
+1	assembly	singh
+1	assembly	farmers
+1	assembly	aap
+1	assembly	union government
+1	central government	assembly
+1	assembly	central
+1	centre	union government
+1	union government	congress
+1	balbir singh	bjp
+1	balbir singh	centre
+1	balbir singh	singh
+1	balbir singh	congress
+1	balbir singh	farmers
+1	balbir singh	badal
+1	balbir singh	modi
+1	balbir singh	union government
+1	harsimrat kaur badal	bjp
+1	centre	harsimrat kaur badal
+1	farmers	harsimrat kaur badal
+1	modi	harsimrat kaur badal
+1	union government	harsimrat kaur badal
+1	balbir singh	harsimrat kaur badal
+1	balbir singh	sukhbir
+1	union government	cabinet
+1	balbir singh	cabinet
+1	sikh	bjp
+1	sikh	centre
+1	sikh	singh
+1	sikh	congress
+1	sikh	farmers
+1	sikh	badal
+1	sikh	modi
+1	sikh	union government
+1	sikh	balbir singh
+1	sikh	harsimrat kaur badal
+1	sikh	sukhbir
+1	sikh	cabinet

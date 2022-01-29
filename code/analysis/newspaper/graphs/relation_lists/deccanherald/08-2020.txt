@@ -1,0 +1,211 @@
+4	farmers	centre
+3	centre	sad
+3	nda	centre
+3	farmers	union
+2	nda	farmers
+2	centre	union
+2	congress	centre
+2	congress	sad
+2	modi	congress
+2	modi	centre
+2	modi	sad
+2	farmers	congress
+2	farmers	sad
+2	modi	farmers
+2	congress	singh
+2	centre	singh
+2	singh	sad
+2	modi	singh
+2	farmers	singh
+2	congress	farmers (empowerment and protection) agreement on price assurance and farm services
+2	centre	farmers (empowerment and protection) agreement on price assurance and farm services
+2	sad	farmers (empowerment and protection) agreement on price assurance and farm services
+2	modi	farmers (empowerment and protection) agreement on price assurance and farm services
+2	farmers	farmers (empowerment and protection) agreement on price assurance and farm services
+2	singh	farmers (empowerment and protection) agreement on price assurance and farm services
+2	farmers	apmc
+1	farmers	gandhi
+1	nda	sad
+1	centre	gandhi
+1	sad	gandhi
+1	nda	gandhi
+1	centre	parliament
+1	farmers	parliament
+1	nda	parliament
+1	parliament	indian
+1	centre	indian
+1	farmers	indian
+1	nda	indian
+1	parliament	union
+1	nda	union
+1	union	indian
+1	gujarat	parliament
+1	gujarat	centre
+1	farmers	gujarat
+1	nda	gujarat
+1	gujarat	indian
+1	gujarat	union
+1	congress	bjp
+1	centre	bjp
+1	congress	bill
+1	bjp	bill
+1	centre	bill
+1	bjp	sad
+1	sad	bill
+1	modi	bjp
+1	modi	bill
+1	bills	congress
+1	bills	bjp
+1	bills	centre
+1	bills	bill
+1	bills	sad
+1	bills	modi
+1	farmers	bjp
+1	farmers	bill
+1	bills	farmers
+1	singh	bjp
+1	singh	bill
+1	bills	singh
+1	congress	house
+1	bjp	house
+1	centre	house
+1	bill	house
+1	sad	house
+1	modi	house
+1	bills	house
+1	farmers	house
+1	singh	house
+1	amarinder singh	congress
+1	amarinder singh	bjp
+1	amarinder singh	centre
+1	amarinder singh	bill
+1	amarinder singh	sad
+1	amarinder singh	modi
+1	amarinder singh	bills
+1	amarinder singh	farmers
+1	amarinder singh	singh
+1	amarinder singh	house
+1	congress	opposition
+1	bjp	opposition
+1	centre	opposition
+1	bill	opposition
+1	sad	opposition
+1	modi	opposition
+1	bills	opposition
+1	farmers	opposition
+1	singh	opposition
+1	house	opposition
+1	amarinder singh	opposition
+1	aap	congress
+1	aap	bjp
+1	aap	centre
+1	aap	bill
+1	aap	sad
+1	aap	modi
+1	aap	bills
+1	aap	farmers
+1	aap	singh
+1	aap	house
+1	aap	amarinder singh
+1	aap	opposition
+1	assembly	congress
+1	assembly	bjp
+1	assembly	centre
+1	assembly	bill
+1	assembly	sad
+1	modi	assembly
+1	bills	assembly
+1	assembly	farmers
+1	assembly	singh
+1	assembly	house
+1	amarinder singh	assembly
+1	assembly	opposition
+1	aap	assembly
+1	bjp	farmers (empowerment and protection) agreement on price assurance and farm services
+1	bill	farmers (empowerment and protection) agreement on price assurance and farm services
+1	bills	farmers (empowerment and protection) agreement on price assurance and farm services
+1	house	farmers (empowerment and protection) agreement on price assurance and farm services
+1	amarinder singh	farmers (empowerment and protection) agreement on price assurance and farm services
+1	opposition	farmers (empowerment and protection) agreement on price assurance and farm services
+1	aap	farmers (empowerment and protection) agreement on price assurance and farm services
+1	assembly	farmers (empowerment and protection) agreement on price assurance and farm services
+1	congress	msp
+1	centre	msp
+1	msp	sad
+1	modi	msp
+1	farmers	msp
+1	singh	msp
+1	congress	apmc
+1	centre	apmc
+1	msp	apmc
+1	sad	apmc
+1	modi	apmc
+1	singh	apmc
+1	congress	narendra singh
+1	narendra singh	centre
+1	narendra singh	msp
+1	narendra singh	sad
+1	modi	narendra singh
+1	farmers	narendra singh
+1	narendra singh	singh
+1	narendra singh	apmc
+1	congress	tomar
+1	centre	tomar
+1	tomar	msp
+1	tomar	sad
+1	modi	tomar
+1	farmers	tomar
+1	tomar	singh
+1	tomar	apmc
+1	narendra singh	tomar
+1	congress	badal
+1	centre	badal
+1	badal	msp
+1	badal	sad
+1	modi	badal
+1	farmers	badal
+1	badal	singh
+1	badal	apmc
+1	narendra singh	badal
+1	badal	tomar
+1	msp	farmers (empowerment and protection) agreement on price assurance and farm services
+1	apmc	farmers (empowerment and protection) agreement on price assurance and farm services
+1	narendra singh	farmers (empowerment and protection) agreement on price assurance and farm services
+1	tomar	farmers (empowerment and protection) agreement on price assurance and farm services
+1	badal	farmers (empowerment and protection) agreement on price assurance and farm services
+1	congress	union
+1	msp	union
+1	sad	union
+1	modi	union
+1	singh	union
+1	union	apmc
+1	narendra singh	union
+1	tomar	union
+1	badal	union
+1	union	farmers (empowerment and protection) agreement on price assurance and farm services
+1	sukhbir singh	congress
+1	sukhbir singh	centre
+1	sukhbir singh	msp
+1	sukhbir singh	sad
+1	sukhbir singh	modi
+1	sukhbir singh	farmers
+1	sukhbir singh	singh
+1	sukhbir singh	apmc
+1	sukhbir singh	narendra singh
+1	sukhbir singh	tomar
+1	sukhbir singh	badal
+1	sukhbir singh	farmers (empowerment and protection) agreement on price assurance and farm services
+1	sukhbir singh	union
+1	tmc	centre
+1	tmc	farmers
+1	tmc	nda
+1	centre	mamata banerjee
+1	farmers	mamata banerjee
+1	nda	mamata banerjee
+1	tmc	mamata banerjee
+1	tikri	house
+1	nda	tikri
+1	nda	house
+1	tikri	chair
+1	house	chair
+1	nda	chair

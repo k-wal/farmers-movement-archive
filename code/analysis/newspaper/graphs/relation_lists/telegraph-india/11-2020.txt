@@ -1,0 +1,850 @@
+18	farmers	centre
+18	farmers	singh
+17	state	farmers
+16	centre	singh
+14	state	singh
+13	farmers	modi
+13	state	centre
+11	centre	modi
+11	congress	farmers
+11	farmers	narendra
+9	burari	centre
+9	farmers	msp
+9	burari	farmers
+9	congress	modi
+9	centre	narendra
+9	modi	narendra
+9	amarinder singh	farmers
+9	modi	singh
+9	amarinder singh	singh
+9	amarinder	amarinder singh
+9	amarinder	farmers
+9	amarinder	singh
+8	singhu	centre
+8	centre	msp
+8	singhu	farmers
+8	singhu	singh
+8	singh	msp
+8	burari	singh
+8	congress	centre
+8	farmers	bjp
+8	amarinder singh	centre
+8	delhi police	farmers
+8	assembly	farmers
+8	delhi police	singh
+8	amarinder	centre
+8	state	modi
+8	congress	singh
+8	state	congress
+7	burari	singhu
+7	amarinder singh	modi
+7	delhi police	centre
+7	assembly	singh
+7	khattar	farmers
+7	amarinder	modi
+7	singh	narendra
+7	amarinder singh	state
+7	amarinder	state
+6	centre	bjp
+6	congress	bjp
+6	modi	bjp
+6	congress	narendra
+6	congress	gandhi
+6	modi	gandhi
+6	farmers	gandhi
+6	centre	tikri
+6	burari	tikri
+6	bku	farmers
+6	farmers	tikri
+6	assembly	centre
+6	tikri	singh
+6	farmers	covid-19
+6	covid-19	singh
+6	khattar	centre
+6	khattar	modi
+6	khattar	singh
+6	khattar	narendra
+6	state	bjp
+6	singhu	state
+6	state	msp
+6	parliament	congress
+6	parliament	modi
+6	parliament	farmers
+6	assembly	state
+5	burari	modi
+5	bjp	narendra
+5	centre	gandhi
+5	singhu	tikri
+5	singhu	delhi police
+5	delhi police	tikri
+5	burari	delhi police
+5	assembly	modi
+5	assembly	amarinder singh
+5	bku	singh
+5	covid-19	centre
+5	delhi police	covid-19
+5	amarinder singh	khattar
+5	amarinder	assembly
+5	amarinder	khattar
+5	amarinder singh	narendra
+5	amarinder	narendra
+5	covid-19	msp
+5	singh	bjp
+5	burari	state
+5	state	narendra
+5	state	delhi police
+5	amarinder singh	congress
+5	centre	jantar mantar
+5	farmers	jantar mantar
+5	singh	jantar mantar
+5	state	jantar mantar
+5	amarinder	congress
+5	parliament	centre
+5	parliament	singh
+5	state	parliament
+4	singhu	msp
+4	burari	msp
+4	bjp	msp
+4	congress	msp
+4	modi	msp
+4	farmers	kumar
+4	msp	narendra
+4	burari	narendra
+4	gandhi	bjp
+4	bku	centre
+4	singhu	modi
+4	assembly	bku
+4	bku	covid-19
+4	assembly	covid-19
+4	gurnam singh charuni	bku
+4	gurnam singh charuni	farmers
+4	assembly	gurnam singh charuni
+4	gurnam singh charuni	singh
+4	gurnam singh charuni	covid-19
+4	delhi police	msp
+4	amarinder singh	bjp
+4	madhya pradesh	centre
+4	madhya pradesh	farmers
+4	madhya pradesh	singh
+4	madhya pradesh	state
+4	centre	rajasthan
+4	farmers	rajasthan
+4	singh	rajasthan
+4	madhya pradesh	rajasthan
+4	state	rajasthan
+4	khattar	bjp
+4	khattar	madhya pradesh
+4	khattar	state
+4	khattar	rajasthan
+4	amarinder	bjp
+4	khattar	congress
+4	parliament	gandhi
+4	state	tikri
+4	farmers	shambhu
+4	delhi police	shambhu
+4	singh	shambhu
+4	state	shambhu
+4	congress	jantar mantar
+4	assembly	congress
+4	singh	gandhi
+4	state	gandhi
+4	state	covid-19
+4	ambala	farmers
+4	ambala	singh
+4	state	ambala
+3	burari	bjp
+3	burari	congress
+3	congress	rahul gandhi
+3	rahul gandhi	modi
+3	rahul gandhi	farmers
+3	burari	gandhi
+3	rahul gandhi	gandhi
+3	gandhi	narendra
+3	bku	modi
+3	tikri	modi
+3	amarinder singh	bku
+3	amarinder singh	singhu
+3	amarinder singh	burari
+3	bku	delhi police
+3	delhi police	modi
+3	assembly	delhi police
+3	mann ki baat	modi
+3	mann ki baat	farmers
+3	singhu	covid-19
+3	covid-19	modi
+3	khattar	bku
+3	khattar	singhu
+3	burari	khattar
+3	khattar	mann ki baat
+3	gurnam singh charuni	centre
+3	gurnam singh charuni	delhi police
+3	amarinder	bku
+3	amarinder	singhu
+3	amarinder	burari
+3	delhi police	narendra
+3	assembly	narendra
+3	mann ki baat	narendra
+3	bku	msp
+3	amarinder singh	msp
+3	assembly	msp
+3	khattar	msp
+3	gurnam singh charuni	msp
+3	amarinder	msp
+3	madhya pradesh	bjp
+3	madhya pradesh	modi
+3	amarinder singh	madhya pradesh
+3	rajasthan	bjp
+3	modi	rajasthan
+3	amarinder singh	rajasthan
+3	kisan sabha	centre
+3	kisan sabha	farmers
+3	kisan sabha	singh
+3	kisan sabha	madhya pradesh
+3	kisan sabha	state
+3	kisan sabha	rajasthan
+3	kisan sabha	khattar
+3	hannan mollah	centre
+3	hannan mollah	farmers
+3	hannan mollah	singh
+3	hannan mollah	madhya pradesh
+3	hannan mollah	state
+3	hannan mollah	rajasthan
+3	hannan mollah	khattar
+3	hannan mollah	kisan sabha
+3	narendra singh	centre
+3	narendra singh	farmers
+3	narendra singh	singh
+3	tomar	centre
+3	tomar	farmers
+3	tomar	singh
+3	narendra singh	tomar
+3	amarinder	madhya pradesh
+3	amarinder	rajasthan
+3	farmers	muslim
+3	state	muslim
+3	yadav	centre
+3	yadav	farmers
+3	yadav	singh
+3	yadav	state
+3	madhya pradesh	narendra
+3	rajasthan	narendra
+3	kisan sabha	narendra
+3	hannan mollah	narendra
+3	narendra singh	narendra
+3	tomar	narendra
+3	khattar	parliament
+3	parliament	narendra
+3	centre	shambhu
+3	singhu	shambhu
+3	madhya pradesh	congress
+3	amarinder singh	jantar mantar
+3	congress	rajasthan
+3	pakistan	centre
+3	pakistan	congress
+3	amarinder singh	pakistan
+3	pakistan	farmers
+3	pakistan	singh
+3	pakistan	state
+3	amarinder	jantar mantar
+3	amarinder	pakistan
+3	amarinder singh	parliament
+3	modi	jantar mantar
+3	parliament	jantar mantar
+3	amarinder	parliament
+3	amarinder singh	gandhi
+3	amarinder	gandhi
+3	bku	state
+3	ambala	msp
+3	ambala	covid-19
+2	centre	kumar
+2	congress	kumar
+2	msp	kumar
+2	modi	kumar
+2	randeep surjewala	bjp
+2	randeep surjewala	congress
+2	randeep surjewala	modi
+2	randeep surjewala	farmers
+2	rahul gandhi	centre
+2	rahul gandhi	bjp
+2	rahul gandhi	msp
+2	burari	rahul gandhi
+2	randeep surjewala	rahul gandhi
+2	kumar	narendra
+2	randeep surjewala	narendra
+2	rahul gandhi	narendra
+2	gandhi	msp
+2	randeep surjewala	gandhi
+2	bku	singhu
+2	bku	tikri
+2	burari	bku
+2	amarinder singh	tikri
+2	amarinder singh	delhi police
+2	sonipat	centre
+2	bku	sonipat
+2	sonipat	modi
+2	amarinder singh	sonipat
+2	sonipat	farmers
+2	delhi police	sonipat
+2	assembly	sonipat
+2	sonipat	singh
+2	mann ki baat	centre
+2	mann ki baat	singhu
+2	burari	mann ki baat
+2	amarinder singh	mann ki baat
+2	mann ki baat	singh
+2	covid-19	tikri
+2	burari	covid-19
+2	amarinder singh	covid-19
+2	sonipat	covid-19
+2	khattar	tikri
+2	khattar	delhi police
+2	assembly	khattar
+2	khattar	sonipat
+2	khattar	covid-19
+2	bihar	centre
+2	bku	bihar
+2	bihar	modi
+2	amarinder singh	bihar
+2	bihar	farmers
+2	bihar	delhi police
+2	assembly	bihar
+2	bihar	sonipat
+2	bihar	singh
+2	bihar	covid-19
+2	khattar	bihar
+2	gurnam singh charuni	modi
+2	amarinder singh	gurnam singh charuni
+2	gurnam singh charuni	sonipat
+2	gurnam singh charuni	khattar
+2	gurnam singh charuni	bihar
+2	amarinder	tikri
+2	amarinder	delhi police
+2	amarinder	sonipat
+2	amarinder	mann ki baat
+2	amarinder	covid-19
+2	amarinder	bihar
+2	amarinder	gurnam singh charuni
+2	bku	narendra
+2	singhu	narendra
+2	tikri	narendra
+2	sonipat	narendra
+2	covid-19	narendra
+2	bihar	narendra
+2	gurnam singh charuni	narendra
+2	singhu	bjp
+2	singhu	madhya pradesh
+2	madhya pradesh	msp
+2	burari	madhya pradesh
+2	mann ki baat	bjp
+2	singhu	rajasthan
+2	rajasthan	msp
+2	burari	rajasthan
+2	kisan sabha	bjp
+2	kisan sabha	msp
+2	kisan sabha	modi
+2	amarinder singh	kisan sabha
+2	hannan mollah	bjp
+2	hannan mollah	msp
+2	hannan mollah	modi
+2	hannan mollah	amarinder singh
+2	narendra singh	bjp
+2	narendra singh	msp
+2	burari	narendra singh
+2	amarinder singh	narendra singh
+2	madhya pradesh	narendra singh
+2	narendra singh	state
+2	narendra singh	rajasthan
+2	khattar	narendra singh
+2	kisan sabha	narendra singh
+2	hannan mollah	narendra singh
+2	tomar	bjp
+2	tomar	msp
+2	burari	tomar
+2	amarinder singh	tomar
+2	madhya pradesh	tomar
+2	state	tomar
+2	tomar	rajasthan
+2	khattar	tomar
+2	kisan sabha	tomar
+2	hannan mollah	tomar
+2	amarinder	kisan sabha
+2	amarinder	hannan mollah
+2	amarinder	narendra singh
+2	amarinder	tomar
+2	muslim	centre
+2	muslim	bjp
+2	muslim	modi
+2	singhu	yadav
+2	yadav	msp
+2	burari	yadav
+2	muslim	narendra
+2	parliament	bjp
+2	parliament	rahul gandhi
+2	khattar	gandhi
+2	odisha	farmers
+2	bku	kumar
+2	tikri	shambhu
+2	burari	shambhu
+2	centre	balbir singh
+2	farmers	balbir singh
+2	singh	balbir singh
+2	state	balbir singh
+2	msp	jantar mantar
+2	pakistan	bjp
+2	pakistan	jantar mantar
+2	kisan sabha	congress
+2	hannan mollah	congress
+2	jantar mantar	narendra
+2	pakistan	narendra
+2	assembly	parliament
+2	assembly	jantar mantar
+2	pakistan	modi
+2	assembly	pakistan
+2	assembly	gandhi
+2	gandhi	jantar mantar
+2	pakistan	gandhi
+2	indian	farmers
+2	indian	state
+2	indian	muslim
+2	singhu	congress
+2	congress	tikri
+2	delhi police	congress
+2	singhu	parliament
+2	parliament	tikri
+2	burari	parliament
+2	singhu	jantar mantar
+2	tikri	jantar mantar
+2	burari	jantar mantar
+2	delhi police	jantar mantar
+2	congress	covid-19
+2	centre	sukhwinder singh
+2	singhu	sukhwinder singh
+2	tikri	sukhwinder singh
+2	burari	sukhwinder singh
+2	farmers	sukhwinder singh
+2	delhi police	sukhwinder singh
+2	singh	sukhwinder singh
+2	state	sukhwinder singh
+2	jantar mantar	sukhwinder singh
+2	singhu	gandhi
+2	tikri	gandhi
+2	ambala	centre
+2	bku	ambala
+2	assembly	ambala
+2	gurnam singh charuni	state
+2	gurnam singh charuni	ambala
+2	assembly	bjp
+2	bjp’s	centre
+2	bjp’s	bjp
+2	bjp’s	modi
+2	bjp’s	farmers
+2	bjp’s	state
+2	bku	bjp
+2	bku	congress
+2	madhya pradesh	parliament
+2	parliament	rajasthan
+2	delhi police	ambala
+2	msp	shambhu
+2	ambala	shambhu
+2	covid-19	shambhu
+1	ludhiana	centre
+1	ludhiana	singhu
+1	ludhiana	msp
+1	burari	ludhiana
+1	ludhiana	farmers
+1	ludhiana	singh
+1	jagmohan singh	centre
+1	singhu	jagmohan singh
+1	jagmohan singh	msp
+1	burari	jagmohan singh
+1	jagmohan singh	farmers
+1	jagmohan singh	singh
+1	ludhiana	jagmohan singh
+1	bjp	kumar
+1	burari	kumar
+1	randeep surjewala	centre
+1	randeep surjewala	msp
+1	burari	randeep surjewala
+1	randeep surjewala	kumar
+1	rahul gandhi	kumar
+1	gandhi	kumar
+1	assembly	singhu
+1	assembly	tikri
+1	assembly	burari
+1	singhu	sonipat
+1	sonipat	tikri
+1	burari	sonipat
+1	mann ki baat	bku
+1	mann ki baat	tikri
+1	mann ki baat	delhi police
+1	assembly	mann ki baat
+1	mann ki baat	sonipat
+1	mann ki baat	covid-19
+1	singhu	bihar
+1	bihar	tikri
+1	burari	bihar
+1	mann ki baat	bihar
+1	gurnam singh charuni	singhu
+1	gurnam singh charuni	tikri
+1	burari	gurnam singh charuni
+1	gurnam singh charuni	mann ki baat
+1	sonipat	msp
+1	bihar	msp
+1	mann ki baat	msp
+1	mann ki baat	madhya pradesh
+1	mann ki baat	state
+1	gujarat	centre
+1	gujarat	bjp
+1	singhu	gujarat
+1	gujarat	msp
+1	gujarat	modi
+1	burari	gujarat
+1	amarinder singh	gujarat
+1	farmers	gujarat
+1	gujarat	singh
+1	madhya pradesh	gujarat
+1	state	gujarat
+1	mann ki baat	gujarat
+1	mann ki baat	rajasthan
+1	gujarat	rajasthan
+1	khattar	gujarat
+1	kisan sabha	singhu
+1	burari	kisan sabha
+1	kisan sabha	mann ki baat
+1	kisan sabha	gujarat
+1	hannan mollah	singhu
+1	hannan mollah	burari
+1	hannan mollah	mann ki baat
+1	hannan mollah	gujarat
+1	singhu	narendra singh
+1	narendra singh	modi
+1	mann ki baat	narendra singh
+1	narendra singh	gujarat
+1	singhu	tomar
+1	tomar	modi
+1	mann ki baat	tomar
+1	tomar	gujarat
+1	amarinder	gujarat
+1	singhu	muslim
+1	muslim	msp
+1	burari	muslim
+1	amarinder singh	muslim
+1	muslim	singh
+1	madhya pradesh	muslim
+1	mann ki baat	muslim
+1	gujarat	muslim
+1	muslim	rajasthan
+1	khattar	muslim
+1	kisan sabha	muslim
+1	hannan mollah	muslim
+1	narendra singh	muslim
+1	tomar	muslim
+1	amarinder	muslim
+1	yogendra yadav	centre
+1	yogendra yadav	bjp
+1	yogendra yadav	singhu
+1	yogendra yadav	msp
+1	yogendra yadav	modi
+1	burari	yogendra yadav
+1	amarinder singh	yogendra yadav
+1	yogendra yadav	farmers
+1	yogendra yadav	singh
+1	yogendra yadav	madhya pradesh
+1	yogendra yadav	state
+1	yogendra yadav	mann ki baat
+1	yogendra yadav	gujarat
+1	yogendra yadav	rajasthan
+1	yogendra yadav	khattar
+1	yogendra yadav	kisan sabha
+1	hannan mollah	yogendra yadav
+1	yogendra yadav	narendra singh
+1	yogendra yadav	tomar
+1	amarinder	yogendra yadav
+1	yogendra yadav	muslim
+1	yadav	bjp
+1	yadav	modi
+1	amarinder singh	yadav
+1	madhya pradesh	yadav
+1	mann ki baat	yadav
+1	yadav	gujarat
+1	yadav	rajasthan
+1	khattar	yadav
+1	kisan sabha	yadav
+1	hannan mollah	yadav
+1	narendra singh	yadav
+1	yadav	tomar
+1	amarinder	yadav
+1	yadav	muslim
+1	yogendra yadav	yadav
+1	gujarat	narendra
+1	yogendra yadav	narendra
+1	yadav	narendra
+1	mann ki baat	congress
+1	mann ki baat	parliament
+1	randeep surjewala	parliament
+1	randeep surjewala	mann ki baat
+1	randeep surjewala	khattar
+1	mann ki baat	rahul gandhi
+1	khattar	rahul gandhi
+1	mann ki baat	gandhi
+1	assembly	odisha
+1	odisha	state
+1	narendra singh	tikri
+1	narendra singh	delhi police
+1	tomar	tikri
+1	delhi police	tomar
+1	bku	baghpat
+1	baghpat	farmers
+1	baghpat	kumar
+1	singhu	balbir singh
+1	tikri	balbir singh
+1	burari	balbir singh
+1	delhi police	balbir singh
+1	shambhu	balbir singh
+1	aap	centre
+1	aap	singhu
+1	aap	tikri
+1	aap	burari
+1	aap	farmers
+1	aap	delhi police
+1	aap	singh
+1	aap	state
+1	aap	shambhu
+1	aap	balbir singh
+1	tikait	centre
+1	tikait	bjp
+1	tikait	congress
+1	tikait	msp
+1	amarinder singh	tikait
+1	tikait	farmers
+1	tikait	singh
+1	madhya pradesh	tikait
+1	state	tikait
+1	bjp	jantar mantar
+1	tikait	jantar mantar
+1	madhya pradesh	jantar mantar
+1	tikait	rajasthan
+1	rajasthan	jantar mantar
+1	pakistan	msp
+1	pakistan	tikait
+1	pakistan	madhya pradesh
+1	pakistan	rajasthan
+1	khattar	tikait
+1	khattar	jantar mantar
+1	khattar	pakistan
+1	kisan sabha	tikait
+1	kisan sabha	jantar mantar
+1	kisan sabha	pakistan
+1	hannan mollah	tikait
+1	hannan mollah	jantar mantar
+1	hannan mollah	pakistan
+1	narendra singh	congress
+1	narendra singh	tikait
+1	narendra singh	jantar mantar
+1	pakistan	narendra singh
+1	congress	tomar
+1	tikait	tomar
+1	tomar	jantar mantar
+1	pakistan	tomar
+1	amarinder	tikait
+1	aikscc	centre
+1	aikscc	bjp
+1	congress	aikscc
+1	aikscc	msp
+1	amarinder singh	aikscc
+1	farmers	aikscc
+1	tikait	aikscc
+1	aikscc	singh
+1	madhya pradesh	aikscc
+1	state	aikscc
+1	aikscc	jantar mantar
+1	aikscc	rajasthan
+1	pakistan	aikscc
+1	khattar	aikscc
+1	kisan sabha	aikscc
+1	hannan mollah	aikscc
+1	narendra singh	aikscc
+1	tomar	aikscc
+1	amarinder	aikscc
+1	tikait	narendra
+1	aikscc	narendra
+1	pakistan	parliament
+1	tikri	msp
+1	parliament	msp
+1	delhi police	parliament
+1	parliament	covid-19
+1	covid-19	jantar mantar
+1	singhu	rahul gandhi
+1	rahul gandhi	tikri
+1	delhi police	rahul gandhi
+1	rahul gandhi	singh
+1	state	rahul gandhi
+1	rahul gandhi	jantar mantar
+1	rahul gandhi	covid-19
+1	congress	sukhwinder singh
+1	msp	sukhwinder singh
+1	modi	sukhwinder singh
+1	parliament	sukhwinder singh
+1	covid-19	sukhwinder singh
+1	rahul gandhi	sukhwinder singh
+1	delhi police	gandhi
+1	covid-19	gandhi
+1	gandhi	sukhwinder singh
+1	assembly	kumar
+1	singh	kumar
+1	state	kumar
+1	ambala	kumar
+1	covid-19	kumar
+1	gurnam singh charuni	kumar
+1	bku	yadav
+1	assembly	yadav
+1	yadav	kumar
+1	yadav	ambala
+1	yadav	covid-19
+1	gurnam singh charuni	yadav
+1	shambhu	jantar mantar
+1	shambhu	sukhwinder singh
+1	yadav	tikri
+1	yadav	delhi police
+1	yadav	shambhu
+1	yadav	jantar mantar
+1	yadav	sukhwinder singh
+1	telegraph	centre
+1	telegraph	bjp
+1	telegraph	congress
+1	telegraph	modi
+1	amarinder singh	telegraph
+1	telegraph	farmers
+1	assembly	telegraph
+1	telegraph	singh
+1	state	telegraph
+1	pakistan	telegraph
+1	amarinder	telegraph
+1	telegraph	gandhi
+1	indian	centre
+1	indian	bjp
+1	indian	modi
+1	centre	dalit
+1	bjp	dalit
+1	modi	dalit
+1	farmers	dalit
+1	indian	dalit
+1	state	dalit
+1	muslim	dalit
+1	indian	narendra
+1	dalit	narendra
+1	bjp’s	indian
+1	bjp’s	dalit
+1	bjp’s	muslim
+1	bjp’s	narendra
+1	tikri	bjp
+1	ghazipur	centre
+1	ghazipur	bjp
+1	bku	ghazipur
+1	singhu	ghazipur
+1	ghazipur	congress
+1	ghazipur	tikri
+1	ghazipur	modi
+1	burari	ghazipur
+1	amarinder singh	ghazipur
+1	ghazipur	farmers
+1	bku	parliament
+1	ghazipur	parliament
+1	ghazipur	singh
+1	bku	madhya pradesh
+1	madhya pradesh	tikri
+1	madhya pradesh	ghazipur
+1	state	ghazipur
+1	bku	rajasthan
+1	tikri	rajasthan
+1	ghazipur	rajasthan
+1	khattar	ghazipur
+1	amarinder	ghazipur
+1	jjp	centre
+1	jjp	bjp
+1	bku	jjp
+1	singhu	jjp
+1	congress	jjp
+1	jjp	tikri
+1	jjp	modi
+1	ghazipur	jjp
+1	burari	jjp
+1	amarinder singh	jjp
+1	farmers	jjp
+1	parliament	jjp
+1	jjp	singh
+1	madhya pradesh	jjp
+1	state	jjp
+1	jjp	rajasthan
+1	khattar	jjp
+1	amarinder	jjp
+1	bjp’s	bku
+1	bjp’s	singhu
+1	bjp’s	congress
+1	bjp’s	tikri
+1	bjp’s	ghazipur
+1	bjp’s	burari
+1	bjp’s	amarinder singh
+1	bjp’s	parliament
+1	bjp’s	singh
+1	bjp’s	madhya pradesh
+1	bjp’s	rajasthan
+1	bjp’s	khattar
+1	bjp’s	amarinder
+1	bjp’s	jjp
+1	dakaunda	centre
+1	dakaunda	bjp
+1	dakaunda	bku
+1	dakaunda	singhu
+1	dakaunda	congress
+1	dakaunda	tikri
+1	dakaunda	modi
+1	dakaunda	ghazipur
+1	dakaunda	burari
+1	dakaunda	amarinder singh
+1	dakaunda	farmers
+1	dakaunda	parliament
+1	dakaunda	singh
+1	dakaunda	madhya pradesh
+1	dakaunda	state
+1	dakaunda	rajasthan
+1	dakaunda	khattar
+1	dakaunda	amarinder
+1	dakaunda	jjp
+1	dakaunda	bjp’s
+1	bku	gandhi
+1	ghazipur	gandhi
+1	madhya pradesh	gandhi
+1	rajasthan	gandhi
+1	jjp	gandhi
+1	bjp’s	gandhi
+1	dakaunda	gandhi
+1	congress	balbir singh
+1	modi	balbir singh
+1	parliament	balbir singh
+1	madhya pradesh	balbir singh
+1	rajasthan	balbir singh
+1	khattar	balbir singh
+1	kisan sabha	parliament
+1	kisan sabha	balbir singh
+1	hannan mollah	parliament
+1	hannan mollah	balbir singh
+1	balbir singh	narendra
+1	amarinder singh	ambala
+1	amarinder	ambala
+1	odisha	congress
+1	odisha	modi
+1	odisha	kumar
+1	odisha	narendra
+1	singhu	ambala
+1	delhi police	bjp
+1	ambala	bjp
+1	ambala	congress
+1	bjp	shambhu
+1	bku	shambhu
+1	congress	shambhu
+1	assembly	shambhu
+1	covid-19	bjp
+1	gurnam singh charuni	bjp
+1	gurnam singh charuni	congress
+1	gurnam singh charuni	shambhu

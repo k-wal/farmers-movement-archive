@@ -1,0 +1,1610 @@
+221	farmers	up
+205	farmers	sp
+198	sp	up
+190	singh	farmers
+181	singh	up
+175	singh	sp
+142	union	farmers
+126	nda	farmers
+126	union	up
+125	union	sp
+124	nda	up
+119	nda	sp
+114	singh	union
+111	singh	nda
+102	farmers	bku
+93	centre	farmers
+88	up	bku
+88	sp	bku
+88	centre	up
+82	singh	bku
+81	union	bku
+81	singh	singhu
+79	union	nda
+76	farmers	tikait
+76	fir	up
+75	fir	farmers
+75	centre	sp
+71	up	singhu
+71	sp	singhu
+69	tikait	up
+69	fir	sp
+69	farmers	singhu
+69	singh	centre
+66	tikait	sp
+64	farmers	bjp
+62	farmers	kisan morcha
+62	up	bjp
+60	nda	bku
+60	union	tikait
+60	singh	fir
+59	union	centre
+59	farmers	modi
+58	sp	bjp
+56	sp	kisan morcha
+56	tikait	bku
+55	up	kisan morcha
+54	singh	kisan morcha
+54	singh	tikait
+53	nda	centre
+53	up	modi
+50	up	congress
+50	farmers	ghazipur
+49	farmers	congress
+49	sp	modi
+48	up	ghazipur
+48	fir	nda
+47	fir	union
+45	nda	singhu
+44	nda	kisan morcha
+44	singh	bjp
+43	union	kisan morcha
+43	sp	ghazipur
+43	centre	bku
+42	msp	farmers
+42	msp	sp
+41	msp	up
+41	union	bjp
+40	sp	congress
+39	nda	tikait
+38	bku	kisan morcha
+38	singh	ghazipur
+38	house	up
+36	bathinda	nda
+36	nda	bjp
+35	union	ghazipur
+35	delhi police	singh
+35	fir	centre
+35	singh	congress
+34	singh	bathinda
+34	farmers	bill
+34	fir	tikait
+34	nda	modi
+34	union	modi
+33	bathinda	farmers
+33	tikait	ghazipur
+33	fir	bku
+33	delhi police	up
+33	delhi police	sp
+33	house	farmers
+33	rajasthan	farmers
+33	rajasthan	up
+32	singh	tikri
+32	tikri	farmers
+32	tikri	up
+32	delhi police	farmers
+32	centre	modi
+32	centre	tikait
+31	house	sp
+31	bjp	modi
+31	singh	modi
+31	rajasthan	singh
+30	up	bill
+30	bjp	congress
+30	sp	bill
+30	centre	bjp
+30	singh	house
+29	bathinda	up
+29	bathinda	sp
+29	bills	bill
+29	union	msp
+29	fir	singhu
+28	bku	ghazipur
+28	farmers	agra
+28	kisan sabha	up
+28	centre	congress
+27	skm	kisan morcha
+27	sanyukta kisan morcha	kisan morcha
+27	cm	up
+27	singh	msp
+27	union	congress
+27	union	singhu
+27	tikri	sp
+27	bku	bjp
+26	singh	skm
+26	skm	farmers
+26	sanyukta kisan morcha	farmers
+26	singh	jind
+26	bills	farmers
+26	tikait	kisan morcha
+26	rajasthan	sp
+25	skm	up
+25	skm	sp
+25	sanyukta kisan morcha	singh
+25	jind	farmers
+25	up	indian
+25	tikri	singhu
+25	kisan sabha	farmers
+25	nda	house
+25	centre	kisan morcha
+24	sanyukta kisan morcha	up
+24	sanyukta kisan morcha	sp
+24	farmers	indian
+24	parliament	farmers
+23	bathinda	bku
+23	sanyukta kisan morcha	nda
+23	cm	sp
+23	msp	bku
+23	agra	bku
+23	singh	agra
+23	agra	up
+23	agra	sp
+23	union	bill
+23	bills	sp
+23	singh	bill
+23	fir	kisan morcha
+23	nda	ghazipur
+22	nda	skm
+22	jind	up
+22	jind	sp
+22	bills	up
+22	sp	indian
+22	delhi police	singhu
+22	farmers	sad
+22	parliament	up
+22	kisan sabha	sp
+22	union	house
+22	delhi police	nda
+22	rajasthan	union
+21	bathinda	kisan morcha
+21	union	agra
+21	singhu	ghazipur
+21	parliament	sp
+21	congress	modi
+21	cm	farmers
+21	singh	kisan sabha
+21	singh	sad
+20	nda	jind
+20	delhi police	union
+20	fir	modi
+19	union	skm
+19	msp	tikait
+19	singh	indian
+19	up	sad
+19	sp	sad
+19	tikait	bjp
+19	bku	modi
+19	nda	msp
+19	rajasthan	nda
+18	jind	bku
+18	nda	congress
+18	bills	union
+18	singhu	kisan morcha
+18	union	kisan sabha
+18	house	centre
+18	fir	house
+18	fir	congress
+18	sikh	singh
+18	singh	parliament
+18	msp	centre
+17	union	bathinda
+17	sanyukta kisan morcha	bku
+17	sanyukta kisan morcha	union
+17	union	jind
+17	fir	ghazipur
+17	bills	singh
+17	union	tikri
+17	fir	bjp
+17	cm	centre
+17	sikh	farmers
+17	sikh	sp
+17	rajasthan	bku
+17	fir	msp
+16	sanyukta kisan morcha	skm
+16	sanyukta kisan morcha	bathinda
+16	nda	bill
+16	bjp’s	bjp
+16	union	parliament
+16	lok sabha	up
+16	delhi police	fir
+16	msp	bjp
+16	tomar	farmers
+15	skm	bku
+15	bathinda	skm
+15	ludhiana	singh
+15	ludhiana	farmers
+15	tikri	ghazipur
+15	nda	agra
+15	farmers	bjp’s
+15	farmers	lok sabha
+15	sikh	up
+15	singh	cm
+15	rajasthan	centre
+15	singh	tomar
+15	nda	parliament
+15	union	tomar
+14	darshan pal	kisan morcha
+14	singh	darshan pal
+14	darshan pal	up
+14	sp	bjp’s
+14	bku	singhu
+14	nda	indian
+14	nda	tikri
+14	bjp’s	up
+14	cm	bjp
+14	modi	bill
+14	tikait	modi
+14	bathinda	singhu
+14	union	cm
+14	rajasthan	kisan morcha
+14	centre	ghazipur
+14	tomar	sp
+14	narendra singh	singh
+14	narendra singh	farmers
+14	rajasthan	tikait
+13	darshan pal	farmers
+13	nda	darshan pal
+13	delhi police	tikri
+13	union	sad
+13	nda	cm
+13	kisan morcha	modi
+13	kisan sabha	centre
+13	house	bku
+13	house	tikait
+13	narendra singh	tomar
+13	centre	singhu
+13	narendra singh	union
+13	msp	modi
+12	darshan pal	bku
+12	darshan pal	sp
+12	union	darshan pal
+12	singh	sonipat
+12	centre	bill
+12	bills	nda
+12	cm	congress
+12	tikait	singhu
+12	ludhiana	up
+12	ludhiana	sp
+12	singhu	indian
+12	badal	farmers
+12	badal	up
+12	cm	modi
+12	lok sabha	bjp
+12	lok sabha	sp
+12	charuni	singh
+12	charuni	farmers
+12	sikh	nda
+12	tikait	congress
+12	house	bjp
+12	narendra singh	sp
+12	nda	sad
+12	sikh	singhu
+12	ghazipur	bjp
+12	sanyukta kisan morcha	fir
+12	nda	tomar
+12	narendra singh	nda
+11	darshan pal	skm
+11	jind	kisan morcha
+11	bills	centre
+11	agra	tikait
+11	bjp	bill
+11	bills	bjp
+11	delhi police	ghazipur
+11	kisan sabha	congress
+11	bjp’s	modi
+11	bills	modi
+11	charuni	up
+11	charuni	union
+11	bku	balbir singh rajewal
+11	singh	balbir singh rajewal
+11	farmers	balbir singh rajewal
+11	nda	balbir singh rajewal
+11	up	balbir singh rajewal
+11	sonipat	singhu
+11	parliament	centre
+11	fir	parliament
+11	rajasthan	fir
+11	up	bihar
+11	sp	bihar
+11	house	modi
+11	msp	kisan morcha
+11	tomar	up
+11	barnala	farmers
+11	centre	skm
+11	tomar	bku
+11	singhu	congress
+11	house	singhu
+10	sonipat	up
+10	sonipat	sp
+10	msp	ghazipur
+10	bjp’s	congress
+10	nda	bjp’s
+10	congress	bill
+10	fir	indian
+10	lok sabha	modi
+10	nda	lok sabha
+10	charuni	bku
+10	sanyukta kisan morcha	centre
+10	sikh	tikait
+10	badal	singh
+10	jind	singhu
+10	delhi police	kisan morcha
+10	fir	kisan sabha
+10	kisan morcha	ghazipur
+10	house	ghazipur
+10	fir	jind
+10	parliament	bjp
+10	farmers	bihar
+10	rahul gandhi	congress
+10	farmers	rahul gandhi
+10	up	rahul gandhi
+10	narendra singh	up
+10	barnala	bku
+10	singh	barnala
+10	nda	barnala
+10	singhu	bjp
+10	skm	singhu
+10	rajasthan	singhu
+10	fir	skm
+10	narendra singh	bku
+10	barnala	up
+10	sanyukta kisan morcha	singhu
+10	bathinda	centre
+10	singh	bihar
+10	singh	rohtak
+10	farmers	rohtak
+10	rohtak	up
+10	rohtak	sp
+9	sanyukta kisan morcha	darshan pal
+9	msp	agra
+9	union	bjp’s
+9	bills	congress
+9	tikait	indian
+9	union	indian
+9	farmers	muzaffarnagar
+9	union	muzaffarnagar
+9	kisan sabha	kisan morcha
+9	badal	sp
+9	fir	agra
+9	lok sabha	congress
+9	kisan morcha	bjp
+9	charuni	nda
+9	singh	gurnam singh charuni
+9	gurnam singh charuni	farmers
+9	gurnam singh charuni	up
+9	charuni	gurnam singh charuni
+9	charuni	sp
+9	darshan pal	centre
+9	jind	tikait
+9	centre	balbir singh rajewal
+9	kisan morcha	balbir singh rajewal
+9	sp	balbir singh rajewal
+9	bku	congress
+9	ghazipur	congress
+9	house	parliament
+9	house	bill
+9	rajasthan	congress
+9	rajasthan	msp
+9	centre	tomar
+9	singhu	sad
+9	bathinda	barnala
+9	singh	hisar
+9	farmers	hisar
+9	rajasthan	ghazipur
+9	fir	bill
+9	indian	bjp
+9	fir	cm
+9	msp	congress
+9	sad	bjp
+8	bathinda	darshan pal
+8	bathinda	jind
+8	jind	darshan pal
+8	nda	sonipat
+8	ludhiana	union
+8	bku	indian
+8	tikait	sad
+8	bku	muzaffarnagar
+8	tikait	muzaffarnagar
+8	parliament	congress
+8	parliament	bill
+8	bills	parliament
+8	badal	union
+8	centre	indian
+8	centre	agra
+8	jind	bjp
+8	fir	tikri
+8	centre	bjp’s
+8	charuni	kisan morcha
+8	union	gurnam singh charuni
+8	jind	centre
+8	sikh	bku
+8	sikh	kisan morcha
+8	sikh	union
+8	badal	nda
+8	union	balbir singh rajewal
+8	rajasthan	kisan sabha
+8	fir	darshan pal
+8	house	kisan morcha
+8	singh	rajya sabha
+8	narendra singh	centre
+8	parliament	singhu
+8	fir	bathinda
+8	singh	bjp’s
+8	narendra singh	kisan morcha
+8	fir	tomar
+8	tikri	kisan morcha
+8	telangana	farmers
+8	union	bihar
+8	delhi police	tikait
+8	sad	congress
+7	singh	ambala
+7	farmers	ambala
+7	sp	ambala
+7	sanyukta kisan morcha	jind
+7	sonipat	farmers
+7	agra	ghazipur
+7	bku	sad
+7	ghazipur	sad
+7	fir	sad
+7	parliament	kisan morcha
+7	ludhiana	nda
+7	ludhiana	agra
+7	modi	narendra modi’s
+7	farmers	narendra modi’s
+7	up	narendra modi’s
+7	sp	narendra modi’s
+7	charuni	centre
+7	charuni	tikait
+7	gurnam singh charuni	bku
+7	gurnam singh charuni	tikait
+7	darshan pal	tikait
+7	sanyukta kisan morcha	tikait
+7	jind	modi
+7	badal	bjp
+7	badal	tikait
+7	delhi police	centre
+7	house	congress
+7	jind	ghazipur
+7	fir	balbir singh rajewal
+7	parliament	modi
+7	bku	bill
+7	kisan sabha	modi
+7	centre	rahul gandhi
+7	msp	skm
+7	rajasthan	skm
+7	up	rajya sabha
+7	bathinda	tikri
+7	delhi police	bathinda
+7	barnala	sp
+7	union	barnala
+7	rajasthan	agra
+7	up	hisar
+7	parliament	bku
+7	parliament	tikait
+7	skm	modi
+7	kisan sabha	nda
+7	tomar	kisan morcha
+7	union	lok sabha
+7	tomar	tikait
+7	nda	muzaffarnagar
+7	indian	modi
+7	singh	kurukshetra
+7	kurukshetra	up
+7	singhu	bill
+7	up	dmk
+7	sp	hisar
+7	nda	bihar
+7	telangana	up
+7	centre	bihar
+7	rohtak	singhu
+7	delhi police	bku
+7	rohtak	bku
+7	singh	rahul gandhi
+6	bku	ambala
+6	nda	ambala
+6	up	ambala
+6	union	ambala
+6	jind	sonipat
+6	agra	kisan morcha
+6	farmers	yogendra yadav
+6	ludhiana	bku
+6	karnal	singh
+6	karnal	up
+6	up	muzaffarnagar
+6	ludhiana	bjp
+6	agra	bjp
+6	fir	bjp’s
+6	cm	lok sabha
+6	centre	gurnam singh charuni
+6	nda	gurnam singh charuni
+6	gurnam singh charuni	sp
+6	sikh	jind
+6	badal	bku
+6	darshan pal	balbir singh rajewal
+6	jind	balbir singh rajewal
+6	house	darshan pal
+6	parliament	lok sabha
+6	rajasthan	modi
+6	rajasthan	rahul gandhi
+6	farmers	rajya sabha
+6	sp	rajya sabha
+6	sanyukta kisan morcha	rajasthan
+6	rajasthan	bathinda
+6	singh	lok sabha
+6	kisan sabha	skm
+6	tomar	skm
+6	narendra singh	skm
+6	narendra singh	tikait
+6	narendra singh	fir
+6	ghazipur	modi
+6	kisan sabha	msp
+6	kurukshetra	farmers
+6	kurukshetra	sp
+6	kurukshetra	union
+6	singh	amarinder singh
+6	amarinder singh	up
+6	amarinder singh	sp
+6	bjp’s	indian
+6	singh	amarinder
+6	up	amarinder
+6	amarinder singh	amarinder
+6	sp	amarinder
+6	tikri	bku
+6	sikh	fir
+6	delhi police	skm
+6	bku	hisar
+6	bathinda	msp
+6	tikri	jind
+6	centre	sad
+6	centre	rohtak
+6	bjp’s	ghazipur
+6	tikri	house
+6	delhi police	indian
+6	tikri	tikait
+6	union	rahul gandhi
+6	ghazipur	indian
+5	kisan morcha	ambala
+5	jind	skm
+5	bathinda	sonipat
+5	singh	yogendra yadav
+5	up	yogendra yadav
+5	sp	yogendra yadav
+5	ludhiana	singhu
+5	ludhiana	indian
+5	karnal	farmers
+5	karnal	sp
+5	sp	muzaffarnagar
+5	fir	muzaffarnagar
+5	badal	congress
+5	house	indian
+5	lok sabha	bill
+5	bills	lok sabha
+5	jind	agra
+5	centre	lok sabha
+5	cm	bjp’s
+5	centre	narendra modi’s
+5	nda	narendra modi’s
+5	gurnam singh charuni	kisan morcha
+5	darshan pal	bjp
+5	darshan pal	modi
+5	sanyukta kisan morcha	bjp
+5	sanyukta kisan morcha	charuni
+5	charuni	jind
+5	tikait	balbir singh rajewal
+5	sanyukta kisan morcha	balbir singh rajewal
+5	delhi police	parliament
+5	rajasthan	parliament
+5	rajasthan	delhi police
+5	jind	house
+5	bihar	bjp
+5	house	lok sabha
+5	bills	house
+5	kisan sabha	rahul gandhi
+5	cm	bill
+5	bills	cm
+5	sikh	parliament
+5	charuni	ambala
+5	ludhiana	fir
+5	barnala	kisan morcha
+5	sanyukta kisan morcha	barnala
+5	skm	bjp
+5	skm	tikait
+5	nda	rajya sabha
+5	skm	narendra modi’s
+5	kisan morcha	narendra modi’s
+5	singh	narendra modi’s
+5	union	rajya sabha
+5	singh	muzaffarnagar
+5	msp	singhu
+5	kurukshetra	nda
+5	house	skm
+5	farmers	amarinder singh
+5	farmers	amarinder
+5	bathinda	balbir singh rajewal
+5	singh	apmc
+5	apmc	farmers
+5	apmc	up
+5	apmc	sp
+5	nda	yogendra yadav
+5	cm	house
+5	nda	dmk
+5	fir	dmk
+5	nda	hisar
+5	union	hisar
+5	jind	hisar
+5	rajasthan	cm
+5	sikh	rajasthan
+5	sanyukta kisan morcha	tikri
+5	fir	lok sabha
+5	telangana	sp
+5	sanyukta kisan morcha	msp
+5	parliament	ghazipur
+5	sad	modi
+5	supreme court	farmers
+5	supreme court	up
+5	supreme court	sp
+5	ghazipur	bill
+5	bjp’s	bku
+5	tikait	bjp’s
+5	msp	tomar
+5	bathinda	modi
+5	sanyukta kisan morcha	tomar
+5	sanyukta kisan morcha	narendra singh
+5	tomar	bjp
+5	narendra singh	bjp
+5	sad	bill
+5	bills	fir
+5	telangana	congress
+5	delhi police	msp
+5	nda	rohtak
+4	sanyukta kisan morcha	ambala
+4	union	sonipat
+4	fir	yogendra yadav
+4	bjp’s	bill
+4	bills	bjp’s
+4	kisan morcha	indian
+4	ghazipur	muzaffarnagar
+4	kisan morcha	congress
+4	kisan morcha	bill
+4	ludhiana	jind
+4	karnal	nda
+4	karnal	union
+4	lok sabha	bjp’s
+4	charuni	bjp
+4	charuni	darshan pal
+4	sanyukta kisan morcha	modi
+4	sikh	centre
+4	cm	singhu
+4	delhi police	kisan sabha
+4	charuni	fir
+4	fir	gurnam singh charuni
+4	jind	congress
+4	house	bihar
+4	rahul gandhi	bjp
+4	rahul gandhi	modi
+4	sp	rahul gandhi
+4	tikait	bill
+4	centre	rajya sabha
+4	parliament	rajya sabha
+4	parliament	indian
+4	parliament	sad
+4	kisan sabha	bjp
+4	kisan sabha	narendra modi’s
+4	darshan pal	singhu
+4	rajasthan	darshan pal
+4	singhu	balbir singh rajewal
+4	skm	balbir singh rajewal
+4	tomar	modi
+4	narendra singh	modi
+4	union	narendra modi’s
+4	centre	muzaffarnagar
+4	singhu	modi
+4	sikh	ghazipur
+4	kurukshetra	centre
+4	kurukshetra	tikait
+4	sikh	indian
+4	sikh	house
+4	tikri	bill
+4	bills	singhu
+4	centre	apmc
+4	sanyukta kisan morcha	delhi police
+4	singh	jagmohan singh
+4	jagmohan singh	farmers
+4	jagmohan singh	nda
+4	jagmohan singh	up
+4	jagmohan singh	bathinda
+4	kisan morcha	yogendra yadav
+4	ludhiana	modi
+4	agra	modi
+4	centre	dmk
+4	cm	dmk
+4	house	dmk
+4	centre	hisar
+4	tikait	hisar
+4	tikri	skm
+4	delhi police	darshan pal
+4	rajasthan	tikri
+4	cm	msp
+4	msp	lok sabha
+4	farmers	dmk
+4	msp	bihar
+4	sanyukta kisan morcha	ghazipur
+4	fir	sonipat
+4	tikri	bjp
+4	centre	telangana
+4	sad	indian
+4	supreme court	indian
+4	kisan sabha	singhu
+4	kisan sabha	bihar
+4	centre	nitish kumar
+4	singh	nitish kumar
+4	up	nitish kumar
+4	bihar	nitish kumar
+4	sp	nitish kumar
+4	tikri	centre
+4	delhi police	rohtak
+4	tomar	bill
+4	supreme court	singh
+4	supreme court	union
+4	badal	ghazipur
+4	rajasthan	jind
+4	delhi police	house
+4	narendra singh	msp
+4	bathinda	tomar
+4	narendra singh	bathinda
+4	sanyukta kisan morcha	kisan sabha
+4	narendra singh	house
+4	bathinda	house
+4	rajya sabha	congress
+4	bjp’s	sad
+4	bills	sad
+4	jind	rohtak
+4	telangana	modi
+4	farmers	aap
+4	sp	aap
+4	agra	singhu
+4	delhi police	jind
+4	badal	sad
+4	muzaffarnagar	modi
+4	bathinda	rohtak
+4	kisan morcha	hisar
+3	skm	ambala
+3	sonipat	bku
+3	sonipat	kisan morcha
+3	bku	yogendra yadav
+3	union	yogendra yadav
+3	samajwadi party	farmers
+3	samajwadi party	up
+3	samajwadi party	sp
+3	ludhiana	kisan morcha
+3	karnal	singhu
+3	karnal	tikri
+3	karnal	delhi police
+3	kisan sabha	bill
+3	badal	bill
+3	badal	bills
+3	agra	indian
+3	house	agra
+3	charuni	modi
+3	darshan pal	gurnam singh charuni
+3	jind	gurnam singh charuni
+3	sikh	bjp
+3	sikh	modi
+3	sikh	sanyukta kisan morcha
+3	badal	centre
+3	bjp	balbir singh rajewal
+3	modi	balbir singh rajewal
+3	charuni	balbir singh rajewal
+3	gurnam singh charuni	balbir singh rajewal
+3	charuni	congress
+3	gurnam singh charuni	congress
+3	darshan pal	congress
+3	darshan pal	ghazipur
+3	bihar	congress
+3	parliament	bihar
+3	bihar	modi
+3	bihar	bill
+3	bills	bihar
+3	lok sabha	rahul gandhi
+3	msp	bill
+3	parliament	tomar
+3	tomar	rajya sabha
+3	narendra singh	parliament
+3	narendra singh	rajya sabha
+3	sikh	sad
+3	charuni	rajasthan
+3	gurnam singh charuni	ambala
+3	rajasthan	barnala
+3	bathinda	agra
+3	sanyukta kisan morcha	agra
+3	parliament	skm
+3	rajasthan	bjp
+3	tomar	narendra modi’s
+3	narendra singh	narendra modi’s
+3	narendra singh	muzaffarnagar
+3	msp	narendra modi’s
+3	fir	narendra modi’s
+3	bku	narendra modi’s
+3	skm	indian
+3	kurukshetra	bku
+3	kurukshetra	indian
+3	house	narendra modi’s
+3	amarinder singh	bjp
+3	amarinder singh	congress
+3	centre	amarinder singh
+3	indian	congress
+3	amarinder	bjp
+3	amarinder	congress
+3	centre	amarinder
+3	bathinda	bill
+3	badal	singhu
+3	barnala	singhu
+3	tikri	barnala
+3	centre	barnala
+3	jind	barnala
+3	nda	apmc
+3	union	apmc
+3	singhu	yogendra yadav
+3	skm	yogendra yadav
+3	delhi police	yogendra yadav
+3	bathinda	yogendra yadav
+3	sanyukta kisan morcha	yogendra yadav
+3	amarinder singh	singhu
+3	nda	amarinder singh
+3	singhu	amarinder
+3	nda	amarinder
+3	delhi police	modi
+3	rajasthan	indian
+3	karnal	kisan morcha
+3	karnal	sanyukta kisan morcha
+3	parliament	agra
+3	sp	dmk
+3	lok sabha	singhu
+3	singhu	bihar
+3	skm	bihar
+3	kisan morcha	bihar
+3	telangana	kisan morcha
+3	telangana	ghazipur
+3	nda	telangana
+3	supreme court	centre
+3	supreme court	fir
+3	jind	bill
+3	farmers	nitish kumar
+3	union	nitish kumar
+3	msp	apmc
+3	apmc	bihar
+3	tikri	rohtak
+3	union	rohtak
+3	house	sad
+3	rajya sabha	bjp
+3	rajya sabha	bihar
+3	supreme court	bjp
+3	supreme court	parliament
+3	supreme court	nda
+3	kisan sabha	bku
+3	bjp’s	singhu
+3	delhi police	kurukshetra
+3	kurukshetra	fir
+3	rajasthan	bill
+3	narendra singh	bill
+3	bathinda	kisan sabha
+3	msp	darshan pal
+3	kisan sabha	darshan pal
+3	darshan pal	tomar
+3	narendra singh	darshan pal
+3	msp	house
+3	kisan sabha	house
+3	rajasthan	house
+3	house	tomar
+3	sanyukta kisan morcha	house
+3	fir	ambala
+3	singhu	rajya sabha
+3	rohtak	tikait
+3	ludhiana	congress
+3	ludhiana	sad
+3	ludhiana	bjp’s
+3	muzaffarnagar	bjp
+3	charuni	hisar
+3	charuni	kurukshetra
+3	kurukshetra	hisar
+3	house	barnala
+3	bjp	aap
+3	bjp’s	aap
+3	sikh	tikri
+3	sikh	delhi police
+3	bathinda	tikait
+3	cm	bihar
+3	cm	nitish kumar
+3	nda	nitish kumar
+3	rohtak	bjp
+3	rohtak	indian
+3	indian	bill
+3	msp	parliament
+3	tikri	parliament
+3	delhi police	bjp
+3	bathinda	bjp
+3	supreme court	ghazipur
+3	barnala	bjp
+3	centre	yogendra yadav
+3	fir	rohtak
+3	baghpat	tikait
+3	baghpat	ghazipur
+3	baghpat	farmers
+3	baghpat	nda
+3	baghpat	up
+3	baghpat	muzaffarnagar
+3	baghpat	union
+3	tikait	aap
+3	ghazipur	aap
+3	up	aap
+3	tikri	sad
+3	agra	balbir singh rajewal
+3	delhi police	bill
+3	skm	hisar
+3	bathinda	hisar
+3	darshan pal	hisar
+3	sanyukta kisan morcha	hisar
+3	skm	rohtak
+3	rohtak	kisan morcha
+3	rohtak	hisar
+3	darshan pal	rohtak
+3	sanyukta kisan morcha	rohtak
+3	fir	hisar
+3	jagmohan singh	bku
+3	jagmohan singh	msp
+3	jagmohan singh	sp
+2	bathinda	ambala
+2	darshan pal	ambala
+2	jind	ambala
+2	samajwadi party	bku
+2	samajwadi party	union
+2	samajwadi party	fir
+2	sad	muzaffarnagar
+2	kisan sabha	parliament
+2	bills	kisan morcha
+2	badal	parliament
+2	badal	kisan morcha
+2	badal	kisan sabha
+2	karnal	fir
+2	bjp	narendra modi’s
+2	congress	narendra modi’s
+2	lok sabha	narendra modi’s
+2	gurnam singh charuni	bjp
+2	gurnam singh charuni	modi
+2	sanyukta kisan morcha	gurnam singh charuni
+2	sikh	darshan pal
+2	badal	sikh
+2	badal	balbir singh rajewal
+2	cm	bku
+2	cm	sonipat
+2	charuni	ghazipur
+2	gurnam singh charuni	ghazipur
+2	charuni	house
+2	house	gurnam singh charuni
+2	congress	balbir singh rajewal
+2	ghazipur	balbir singh rajewal
+2	house	balbir singh rajewal
+2	lok sabha	bihar
+2	rahul gandhi	bihar
+2	bills	bku
+2	fir	rahul gandhi
+2	tomar	indian
+2	narendra singh	indian
+2	charuni	skm
+2	rajasthan	gurnam singh charuni
+2	rajasthan	ambala
+2	ludhiana	rajasthan
+2	ludhiana	bathinda
+2	sanyukta kisan morcha	ludhiana
+2	ludhiana	barnala
+2	fir	barnala
+2	kisan sabha	hisar
+2	darshan pal	parliament
+2	rajasthan	balbir singh rajewal
+2	lok sabha	rajya sabha
+2	tomar	lok sabha
+2	kisan sabha	tomar
+2	narendra singh	lok sabha
+2	narendra singh	kisan sabha
+2	tomar	muzaffarnagar
+2	sikh	sonipat
+2	skm	bill
+2	bill	narendra modi’s
+2	tikait	narendra modi’s
+2	kurukshetra	modi
+2	kurukshetra	skm
+2	kurukshetra	kisan morcha
+2	kurukshetra	house
+2	sikh	skm
+2	sikh	kurukshetra
+2	amarinder singh	bjp’s
+2	cm	indian
+2	amarinder singh	indian
+2	bjp’s	amarinder
+2	indian	amarinder
+2	bills	tikri
+2	badal	tikri
+2	badal	bathinda
+2	barnala	bill
+2	badal	barnala
+2	barnala	balbir singh rajewal
+2	cm	parliament
+2	apmc	kisan morcha
+2	delhi police	congress
+2	fir	amarinder singh
+2	fir	amarinder
+2	jantar mantar	singhu
+2	singh	jantar mantar
+2	nda	jantar mantar
+2	jantar mantar	up
+2	jantar mantar	sp
+2	ludhiana	delhi police
+2	delhi police	agra
+2	hisar	modi
+2	cm	tikait
+2	karnal	skm
+2	karnal	bathinda
+2	lok sabha	dmk
+2	union	dmk
+2	skm	ghazipur
+2	ghazipur	bihar
+2	rajasthan	bihar
+2	bathinda	ghazipur
+2	bathinda	bihar
+2	msp	telangana
+2	telangana	singhu
+2	telangana	skm
+2	singh	telangana
+2	rajasthan	telangana
+2	bathinda	telangana
+2	sanyukta kisan morcha	bihar
+2	sanyukta kisan morcha	telangana
+2	telangana	tikait
+2	supreme court	bku
+2	supreme court	modi
+2	supreme court	sad
+2	fir	bihar
+2	msp	nitish kumar
+2	kisan sabha	nitish kumar
+2	fir	nitish kumar
+2	kisan sabha	apmc
+2	apmc	nitish kumar
+2	kisan sabha	rohtak
+2	sad	bihar
+2	tomar	ghazipur
+2	rajya sabha	bill
+2	bills	rajya sabha
+2	supreme court	bill
+2	supreme court	bills
+2	house	rajya sabha
+2	supreme court	house
+2	apmc	bjp
+2	kisan sabha	tikait
+2	kisan sabha	bjp’s
+2	badal	fir
+2	kurukshetra	singhu
+2	delhi police	sonipat
+2	rajasthan	tomar
+2	narendra singh	rajasthan
+2	darshan pal	narendra modi’s
+2	sanyukta kisan morcha	narendra modi’s
+2	lok sabha	sad
+2	parliament	bjp’s
+2	tomar	congress
+2	tomar	sad
+2	narendra singh	congress
+2	narendra singh	sad
+2	bills	tomar
+2	bills	narendra singh
+2	ludhiana	bill
+2	ludhiana	bills
+2	kisan morcha	sad
+2	house	muzaffarnagar
+2	charuni	sad
+2	gurnam singh charuni	sad
+2	gurnam singh charuni	hisar
+2	kurukshetra	gurnam singh charuni
+2	msp	rahul gandhi
+2	cm	rahul gandhi
+2	msp	bjp’s
+2	rajasthan	hisar
+2	rajasthan	kurukshetra
+2	sonipat	rohtak
+2	barnala	modi
+2	congress	aap
+2	singh	aap
+2	sad	aap
+2	jind	tomar
+2	narendra singh	jind
+2	karnal	bjp
+2	karnal	bku
+2	karnal	charuni
+2	karnal	jind
+2	sikh	bathinda
+2	sikh	barnala
+2	dmk	bill
+2	bills	dmk
+2	agra	bill
+2	msp	indian
+2	charuni	indian
+2	rohtak	congress
+2	msp	rohtak
+2	charuni	rohtak
+2	bills	indian
+2	delhi police	tomar
+2	bathinda	parliament
+2	tikri	indian
+2	bathinda	indian
+2	darshan pal	indian
+2	sanyukta kisan morcha	indian
+2	supreme court	singhu
+2	supreme court	delhi police
+2	msp	jind
+2	jind	indian
+2	barnala	skm
+2	delhi police	barnala
+2	darshan pal	barnala
+2	barnala	indian
+2	msp	yogendra yadav
+2	tikait	yogendra yadav
+2	rajasthan	yogendra yadav
+2	tomar	yogendra yadav
+2	narendra singh	yogendra yadav
+2	darshan pal	yogendra yadav
+2	house	yogendra yadav
+2	rajasthan	sad
+2	lok sabha	bku
+2	tikait	lok sabha
+2	lok sabha	ghazipur
+2	bku	aap
+2	msp	aap
+2	centre	aap
+2	modi	aap
+2	union	aap
+2	ludhiana	tikri
+2	telangana	bjp
+2	ambala	modi
+2	tikri	congress
+2	parliament	dmk
+2	nda	rahul gandhi
+2	bills	delhi police
+2	rajasthan	rohtak
+2	bku	bihar
+2	rohtak	bihar
+2	tikait	rahul gandhi
+2	badal	rahul gandhi
+2	delhi police	hisar
+2	kurukshetra	bjp
+2	jagmohan singh	centre
+2	bjp’s	muzaffarnagar
+2	muzaffarnagar	indian
+2	baghpat	bjp
+2	baghpat	bku
+2	baghpat	modi
+2	baghpat	bjp’s
+2	baghpat	indian
+2	singhu	hisar
+2	skm	agra
+2	agra	hisar
+2	darshan pal	agra
+2	agra	rohtak
+2	hisar	balbir singh rajewal
+2	rohtak	balbir singh rajewal
+1	sonipat	skm
+1	sonipat	ambala
+1	darshan pal	sonipat
+1	sanyukta kisan morcha	sonipat
+1	singh	samajwadi party
+1	samajwadi party	yogendra yadav
+1	ludhiana	tikait
+1	karnal	ghazipur
+1	bills	kisan sabha
+1	cm	narendra modi’s
+1	bjp’s	narendra modi’s
+1	sikh	charuni
+1	sikh	gurnam singh charuni
+1	badal	modi
+1	badal	charuni
+1	badal	gurnam singh charuni
+1	badal	darshan pal
+1	badal	sanyukta kisan morcha
+1	badal	jind
+1	sikh	balbir singh rajewal
+1	bathinda	cm
+1	cm	jind
+1	parliament	rahul gandhi
+1	rahul gandhi	bill
+1	bills	rahul gandhi
+1	house	rahul gandhi
+1	bills	msp
+1	bills	tikait
+1	samajwadi party	tikait
+1	samajwadi party	ghazipur
+1	rajya sabha	indian
+1	gurnam singh charuni	skm
+1	barnala	agra
+1	parliament	balbir singh rajewal
+1	skm	lok sabha
+1	lok sabha	kisan morcha
+1	rajya sabha	modi
+1	skm	rajya sabha
+1	kisan morcha	rajya sabha
+1	kisan sabha	lok sabha
+1	kisan sabha	rajya sabha
+1	rajya sabha	narendra modi’s
+1	sonipat	modi
+1	sonipat	ghazipur
+1	parliament	narendra modi’s
+1	indian	narendra modi’s
+1	kurukshetra	parliament
+1	kurukshetra	narendra modi’s
+1	sikh	narendra modi’s
+1	cm	amarinder singh
+1	cm	amarinder
+1	bills	bathinda
+1	bills	barnala
+1	tikri	balbir singh rajewal
+1	bill	balbir singh rajewal
+1	bills	balbir singh rajewal
+1	apmc	bku
+1	sanyukta kisan morcha	apmc
+1	barnala	apmc
+1	apmc	balbir singh rajewal
+1	jagmohan singh	singhu
+1	jagmohan singh	skm
+1	jagmohan singh	kisan morcha
+1	delhi police	jagmohan singh
+1	jagmohan singh	fir
+1	sanyukta kisan morcha	jagmohan singh
+1	jagmohan singh	yogendra yadav
+1	delhi police	amarinder singh
+1	rajasthan	amarinder singh
+1	delhi police	amarinder
+1	rajasthan	amarinder
+1	jantar mantar	congress
+1	delhi police	jantar mantar
+1	rajasthan	jantar mantar
+1	jantar mantar	amarinder singh
+1	fir	jantar mantar
+1	jantar mantar	amarinder
+1	sikh	cm
+1	cm	tikri
+1	sikh	agra
+1	dmk	bjp
+1	dmk	congress
+1	msp	dmk
+1	telangana	bihar
+1	karnal	sonipat
+1	tikri	modi
+1	skm	congress
+1	telangana	bku
+1	parliament	telangana
+1	union	telangana
+1	telangana	agra
+1	singhu	nitish kumar
+1	skm	nitish kumar
+1	kisan morcha	nitish kumar
+1	apmc	singhu
+1	apmc	skm
+1	fir	apmc
+1	kisan sabha	tikri
+1	jantar mantar	ghazipur
+1	jantar mantar	farmers
+1	jantar mantar	sad
+1	jantar mantar	bihar
+1	union	jantar mantar
+1	jantar mantar	house
+1	supreme court	rajya sabha
+1	supreme court	bihar
+1	parliament	apmc
+1	apmc	rajya sabha
+1	apmc	bill
+1	bills	apmc
+1	supreme court	apmc
+1	house	apmc
+1	kisan sabha	ghazipur
+1	badal	bjp’s
+1	tikri	hisar
+1	house	hisar
+1	sonipat	indian
+1	kurukshetra	sonipat
+1	house	sonipat
+1	rajasthan	narendra modi’s
+1	bathinda	narendra modi’s
+1	darshan pal	bill
+1	sanyukta kisan morcha	bill
+1	tikait	ambala
+1	bathinda	congress
+1	bathinda	rajya sabha
+1	jind	rajya sabha
+1	sonipat	congress
+1	sonipat	rajya sabha
+1	rohtak	ghazipur
+1	tomar	bjp’s
+1	narendra singh	bjp’s
+1	ludhiana	parliament
+1	ludhiana	lok sabha
+1	ludhiana	tomar
+1	ludhiana	narendra singh
+1	kisan morcha	muzaffarnagar
+1	tomar	balbir singh rajewal
+1	narendra singh	balbir singh rajewal
+1	sad	hisar
+1	kurukshetra	sad
+1	samajwadi party	bjp
+1	samajwadi party	msp
+1	samajwadi party	centre
+1	samajwadi party	modi
+1	samajwadi party	cm
+1	samajwadi party	bjp’s
+1	fir	telangana
+1	ludhiana	aap
+1	charuni	tomar
+1	narendra singh	charuni
+1	karnal	centre
+1	karnal	tomar
+1	karnal	narendra singh
+1	bjp	nitish kumar
+1	parliament	nitish kumar
+1	modi	nitish kumar
+1	lok sabha	nitish kumar
+1	bill	nitish kumar
+1	bills	nitish kumar
+1	house	nitish kumar
+1	sikh	ludhiana
+1	ludhiana	centre
+1	ludhiana	house
+1	agra	congress
+1	bills	agra
+1	charuni	msp
+1	msp	gurnam singh charuni
+1	gurnam singh charuni	indian
+1	gurnam singh charuni	rohtak
+1	bills	jind
+1	singhu	ambala
+1	badal	indian
+1	cm	ghazipur
+1	cm	sad
+1	tikri	msp
+1	tomar	singhu
+1	tikri	tomar
+1	narendra singh	singhu
+1	narendra singh	tikri
+1	narendra singh	ghazipur
+1	narendra singh	delhi police
+1	tikri	darshan pal
+1	sanyukta kisan morcha	parliament
+1	supreme court	msp
+1	supreme court	tikait
+1	supreme court	skm
+1	supreme court	kisan morcha
+1	supreme court	tikri
+1	supreme court	rajasthan
+1	supreme court	tomar
+1	supreme court	narendra singh
+1	supreme court	bathinda
+1	supreme court	darshan pal
+1	supreme court	sanyukta kisan morcha
+1	jind	parliament
+1	supreme court	jind
+1	sikh	msp
+1	sikh	tomar
+1	sikh	narendra singh
+1	sikh	supreme court
+1	msp	barnala
+1	parliament	barnala
+1	barnala	tikait
+1	barnala	ghazipur
+1	tomar	barnala
+1	narendra singh	barnala
+1	supreme court	barnala
+1	bjp	yogendra yadav
+1	parliament	yogendra yadav
+1	tikri	yogendra yadav
+1	ghazipur	yogendra yadav
+1	indian	yogendra yadav
+1	supreme court	yogendra yadav
+1	jind	yogendra yadav
+1	sikh	yogendra yadav
+1	barnala	yogendra yadav
+1	modi	yogendra yadav
+1	narendra modi’s	yogendra yadav
+1	badal	rajasthan
+1	singhu	muzaffarnagar
+1	tikri	muzaffarnagar
+1	baghpat	singhu
+1	baghpat	singh
+1	baghpat	tikri
+1	baghpat	sp
+1	baghpat	fir
+1	baghpat	house
+1	lok sabha	aap
+1	fir	aap
+1	singhu	aap
+1	nda	aap
+1	indian	aap
+1	parliament	amarinder singh
+1	amarinder singh	modi
+1	amarinder singh	ghazipur
+1	amarinder singh	sad
+1	amarinder singh	bill
+1	union	amarinder singh
+1	bills	ghazipur
+1	bills	amarinder singh
+1	supreme court	congress
+1	supreme court	amarinder singh
+1	supreme court	bjp’s
+1	parliament	amarinder
+1	amarinder	modi
+1	ghazipur	amarinder
+1	sad	amarinder
+1	amarinder	bill
+1	union	amarinder
+1	bills	amarinder
+1	supreme court	amarinder
+1	amarinder singh	bku
+1	bathinda	amarinder singh
+1	house	amarinder singh
+1	badal	amarinder singh
+1	badal	house
+1	bku	amarinder
+1	bathinda	amarinder
+1	house	amarinder
+1	badal	amarinder
+1	barnala	amarinder singh
+1	barnala	amarinder
+1	ludhiana	msp
+1	msp	balbir singh rajewal
+1	ludhiana	balbir singh rajewal
+1	centre	ambala
+1	sad	ambala
+1	apmc	congress
+1	agra	sad
+1	tomar	agra
+1	jind	sad
+1	sikh	congress
+1	sikh	bill
+1	harsimrat kaur badal	parliament
+1	harsimrat kaur badal	tikait
+1	singh	harsimrat kaur badal
+1	harsimrat kaur badal	farmers
+1	harsimrat kaur badal	sad
+1	nda	harsimrat kaur badal
+1	harsimrat kaur badal	up
+1	harsimrat kaur badal	sp
+1	union	harsimrat kaur badal
+1	fir	harsimrat kaur badal
+1	badal	harsimrat kaur badal
+1	tikait	dmk
+1	singh	dmk
+1	sad	dmk
+1	badal	dmk
+1	harsimrat kaur badal	dmk
+1	tikri	sonipat
+1	bjp’s	rahul gandhi
+1	kisan sabha	cm
+1	cm	apmc
+1	delhi police	rajya sabha
+1	fir	rajya sabha
+1	kisan sabha	sad
+1	bills	rajasthan
+1	agra	aap
+1	cm	rohtak
+1	bku	rajya sabha
+1	msp	rajya sabha
+1	tikait	rajya sabha
+1	tikait	bihar
+1	tomar	bihar
+1	narendra singh	bihar
+1	badal	msp
+1	badal	rajya sabha
+1	badal	bihar
+1	badal	tomar
+1	badal	narendra singh
+1	rohtak	rajya sabha
+1	tomar	rohtak
+1	narendra singh	rohtak
+1	badal	rohtak
+1	bku	rahul gandhi
+1	rajya sabha	rahul gandhi
+1	tomar	rahul gandhi
+1	narendra singh	rahul gandhi
+1	rohtak	rahul gandhi
+1	delhi police	bihar
+1	charuni	kisan sabha
+1	charuni	delhi police
+1	charuni	bihar
+1	ambala	bjp
+1	kisan sabha	ambala
+1	delhi police	ambala
+1	ambala	bihar
+1	skm	bjp’s
+1	bjp’s	kisan morcha
+1	delhi police	bjp’s
+1	bjp’s	bihar
+1	rajasthan	bjp’s
+1	charuni	bjp’s
+1	bjp’s	ambala
+1	charuni	bathinda
+1	bathinda	bjp’s
+1	hisar	bjp
+1	hisar	bihar
+1	ambala	hisar
+1	bjp’s	hisar
+1	darshan pal	bihar
+1	darshan pal	bjp’s
+1	ludhiana	skm
+1	ludhiana	kisan sabha
+1	ludhiana	bihar
+1	ludhiana	charuni
+1	ludhiana	ambala
+1	ludhiana	hisar
+1	ludhiana	darshan pal
+1	kisan sabha	indian
+1	indian	bihar
+1	ambala	indian
+1	indian	hisar
+1	sanyukta kisan morcha	bjp’s
+1	kurukshetra	kisan sabha
+1	kurukshetra	bihar
+1	kurukshetra	ambala
+1	kurukshetra	bjp’s
+1	kurukshetra	bathinda
+1	kurukshetra	darshan pal
+1	ludhiana	kurukshetra
+1	sanyukta kisan morcha	kurukshetra
+1	kisan sabha	jind
+1	jind	bihar
+1	jind	bjp’s
+1	kurukshetra	jind
+1	kisan sabha	barnala
+1	barnala	bihar
+1	charuni	barnala
+1	barnala	ambala
+1	barnala	bjp’s
+1	barnala	hisar
+1	kurukshetra	barnala
+1	karnal	modi
+1	karnal	kisan sabha
+1	karnal	bihar
+1	karnal	rajasthan
+1	karnal	ambala
+1	karnal	bjp’s
+1	karnal	hisar
+1	karnal	darshan pal
+1	karnal	ludhiana
+1	karnal	indian
+1	karnal	kurukshetra
+1	karnal	barnala
+1	rohtak	modi
+1	rohtak	ambala
+1	rohtak	bjp’s
+1	ludhiana	rohtak
+1	kurukshetra	rohtak
+1	barnala	rohtak
+1	karnal	rohtak
+1	cm	rajya sabha
+1	rajya sabha	nitish kumar
+1	kurukshetra	msp
+1	kurukshetra	tomar
+1	agra	lok sabha
+1	jagmohan singh	parliament
+1	jagmohan singh	union
+1	tikri	lok sabha
+1	badal	lok sabha
+1	singhu	rahul gandhi
+1	tikri	rahul gandhi
+1	ghazipur	rahul gandhi
+1	sad	rahul gandhi
+1	sonipat	tikait
+1	tikri	telangana

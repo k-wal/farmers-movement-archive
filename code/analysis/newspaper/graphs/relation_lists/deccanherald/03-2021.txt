@@ -1,0 +1,1313 @@
+58	farmers	delh
+57	farmers	singh
+51	delh	singh
+51	farmers	union
+44	delh	union
+43	singhu	farmers
+43	singhu	singh
+42	singhu	delh
+42	singh	union
+40	ghazipur	farmers
+40	farmers	centre
+39	farmers	tikri
+39	ghazipur	singh
+39	ghazipur	delh
+38	ghazipur	singhu
+38	singhu	tikri
+38	tikri	singh
+38	tikri	delh
+37	ghazipur	tikri
+32	centre	delh
+32	farmers	msp
+32	modi	farmers
+32	ghazipur	union
+30	delh	msp
+30	singhu	union
+30	tikri	union
+29	kisan morcha	farmers
+29	morcha	kisan morcha
+29	morcha	farmers
+29	farmers	bharat
+28	centre	singh
+28	singh	msp
+27	msp	union
+27	centre	union
+27	bharat	union
+26	kisan morcha	delh
+26	modi	delh
+26	morcha	delh
+25	bharat	delh
+24	kisan morcha	singh
+24	modi	singh
+24	morcha	singh
+24	ghazipur	msp
+23	kisan morcha	union
+23	morcha	union
+23	singhu	msp
+23	bharat	singh
+22	singhu	centre
+22	modi	union
+22	tikri	msp
+21	centre	tikri
+20	farmers	bjp
+19	ghazipur	centre
+19	farmers	tikait
+19	singhu	bharat
+19	ghazipur	bharat
+19	bharat	tikri
+19	kisan morcha	singhu
+19	kisan morcha	ghazipur
+19	kisan morcha	tikri
+19	morcha	singhu
+19	morcha	ghazipur
+19	morcha	tikri
+18	centre	msp
+18	modi	centre
+17	modi	msp
+17	kisan morcha	bharat
+17	morcha	bharat
+16	kisan morcha	skm
+16	farmers	skm
+16	morcha	skm
+16	modi	singhu
+16	centre	bharat
+16	tikait	union
+16	farmers	congress
+16	farmers	bharat bandh
+16	bharat	bharat bandh
+15	modi	bjp
+15	delh	skm
+15	modi	ghazipur
+15	modi	tikri
+15	bharat bandh	union
+15	delh	bharat bandh
+14	singh	skm
+14	delh	bjp
+14	tikait	delh
+14	kisan morcha	centre
+14	morcha	centre
+14	singhu	bharat bandh
+14	ghazipur	bharat bandh
+14	tikri	bharat bandh
+14	singh	bharat bandh
+13	singh	bjp
+13	bjp	union
+13	skm	union
+13	tikait	singh
+13	bharat	msp
+13	tikait	bharat
+13	tikri	skm
+13	farmers	parliament
+13	assembly	farmers
+13	farmers	bill
+12	centre	tikait
+12	farmers	bku
+12	singhu	skm
+12	ghazipur	skm
+12	centre	bjp
+12	modi	congress
+12	kisan morcha	bharat bandh
+12	morcha	bharat bandh
+11	bku	union
+11	farmers	committee
+11	modi	parliament
+11	congress	centre
+11	congress	singh
+11	farmers	house
+11	farmers	gandhi
+10	kisan morcha	msp
+10	morcha	msp
+10	ghazipur	tikait
+10	singh	bku
+10	bharat	bku
+10	delh	bku
+10	assembly	bjp
+10	singh	house
+10	delh	house
+10	congress	rahul gandhi
+10	congress	gandhi
+10	rahul gandhi	gandhi
+9	ghazipur	bku
+9	committee	singh
+9	parliament	singh
+9	parliament	delh
+9	congress	bjp
+9	assembly	congress
+9	congress	bill
+9	congress	delh
+9	farmers	rahul gandhi
+9	singh	gandhi
+9	union	bill
+9	union	house
+9	delh	gandhi
+9	bharat	skm
+8	msp	bjp
+8	msp	skm
+8	farmers	yadav
+8	singhu	indian
+8	farmers	indian
+8	singh	indian
+8	delh	indian
+8	singhu	tikait
+8	tikait	msp
+8	singhu	bku
+8	tikri	bku
+8	bku	msp
+8	tikait	bku
+8	committee	union
+8	ghazipur	parliament
+8	parliament	union
+8	assembly	centre
+8	assembly	singh
+8	bjp	bill
+8	singh	bill
+8	singhu	house
+8	ghazipur	house
+8	delh	bill
+8	congress	union
+8	union	gandhi
+8	assembly	union
+8	committee	parliament
+8	centre	rahul gandhi
+8	centre	gandhi
+8	kisan morcha	tikait
+8	modi	tikait
+8	morcha	tikait
+7	kisan morcha	bjp
+7	kisan morcha	modi
+7	kisan morcha	darshan pal
+7	farmers	darshan pal
+7	morcha	bjp
+7	morcha	modi
+7	morcha	darshan pal
+7	delh	yadav
+7	modi	indian
+7	farmers	british
+7	tikait	tikri
+7	centre	bku
+7	farmers	rajasthan
+7	singhu	committee
+7	ghazipur	committee
+7	committee	delh
+7	singhu	parliament
+7	parliament	msp
+7	singhu	bjp
+7	ghazipur	bjp
+7	tikri	bjp
+7	singhu	congress
+7	ghazipur	congress
+7	congress	tikri
+7	congress	parliament
+7	modi	assembly
+7	centre	bill
+7	modi	bill
+7	parliament	bill
+7	assembly	bill
+7	rahul gandhi	singh
+7	rahul gandhi	union
+7	modi	committee
+7	centre	skm
+7	farmers	price assurance and farm services act
+7	modi	price assurance and farm services act
+7	price assurance and farm services act	delh
+7	singhu	gandhi
+7	rahul gandhi	delh
+7	modi	bharat
+7	tikait	bjp
+7	tikri border	tikri
+7	tikri border	farmers
+7	tikri border	delh
+7	bharat	bjp
+7	skm	bharat bandh
+6	yogendra yadav	farmers
+6	yogendra yadav	yadav
+6	union	darshan pal
+6	delh	darshan pal
+6	singhu	british
+6	singh	british
+6	delh	british
+6	msp	rajasthan
+6	union	rajasthan
+6	committee	tikri
+6	committee	msp
+6	parliament	tikri
+6	ghazipur	indian
+6	tikri	indian
+6	assembly	tikri
+6	singhu	bill
+6	ghazipur	bill
+6	tikri	house
+6	msp	house
+6	centre	house
+6	parliament	house
+6	bill	house
+6	assembly	delh
+6	bihar	farmers
+6	price assurance and farm services act	singh
+6	price assurance and farm services act	union
+6	modi	rahul gandhi
+6	ghazipur	gandhi
+6	modi	gandhi
+6	kisan morcha	bill
+6	morcha	bill
+6	congress	hindi
+6	centre	hindi
+6	farmers	hindi
+6	hindi	rahul gandhi
+6	hindi	gandhi
+6	bhagat	farmers
+6	bhagat	singh
+6	farmers	gujarat
+6	singhu	tikri border
+6	kisan morcha	tikri border
+6	morcha	tikri border
+6	tikri border	singh
+6	centre	bharat bandh
+6	msp	bharat bandh
+6	bharat	bill
+5	skm	darshan pal
+5	farmers	international women's day
+5	international women's day	singh
+5	msp	yadav
+5	kisan morcha	yadav
+5	morcha	yadav
+5	singh	yadav
+5	union	yadav
+5	yogendra yadav	delh
+5	international women's day	delh
+5	modi	british
+5	ghazipur	rajasthan
+5	singh	rajasthan
+5	delh	rajasthan
+5	msp	indian
+5	union	indian
+5	congress	msp
+5	parliament	bjp
+5	singhu	assembly
+5	ghazipur	assembly
+5	assembly	parliament
+5	farmers	supreme court
+5	tikri	bill
+5	congress	house
+5	modi	house
+5	gandhi	bill
+5	price assurance and farm services act	msp
+5	centre	price assurance and farm services act
+5	singhu	rahul gandhi
+5	ghazipur	rahul gandhi
+5	rahul gandhi	tikri
+5	tikri	gandhi
+5	bengaluru	bharat
+5	msp	gandhi
+5	ghazipur	british
+5	tikri	british
+5	centre	bhagat singh
+5	farmers	bhagat singh
+5	singh	bhagat singh
+5	hindi	delh
+5	delh	bhagat singh
+5	bhagat	centre
+5	bhagat	bhagat singh
+5	bhagat	delh
+5	kisan morcha	gujarat
+5	morcha	gujarat
+5	ghazipur	tikri border
+5	tikri border	skm
+5	tikri border	union
+4	yogendra yadav	msp
+4	kisan morcha	yogendra yadav
+4	morcha	yogendra yadav
+4	singh	darshan pal
+4	kisan morcha	international women's day
+4	morcha	international women's day
+4	bjp	yadav
+4	skm	yadav
+4	yogendra yadav	union
+4	international women's day	union
+4	british	indian
+4	singhu	sikh
+4	farmers	sikh
+4	sikh	singh
+4	sikh	delh
+4	singhu	international women's day
+4	ghazipur	international women's day
+4	tikri	international women's day
+4	tikri	kavitha kuruganti
+4	farmers	kavitha kuruganti
+4	singhu	yadav
+4	ghazipur	yadav
+4	tikri	yadav
+4	singhu	rajasthan
+4	tikri	rajasthan
+4	tikait	rajasthan
+4	bku	rajasthan
+4	bharat	rajasthan
+4	delh	kavitha kuruganti
+4	kisan morcha	parliament
+4	parliament	indian
+4	morcha	parliament
+4	assembly	house
+4	rahul gandhi	bill
+4	gandhi	house
+4	farmers	sad
+4	sad	union
+4	supreme court	union
+4	bihar	ghazipur
+4	bihar	singh
+4	tikait	house
+4	bku	house
+4	bihar	union
+4	ghazipur	mahendra singh
+4	tikait	mahendra singh
+4	farmers	mahendra singh
+4	mahendra singh	singh
+4	bihar	delh
+4	congress	rajya sabha
+4	farmers	rajya sabha
+4	modi	rajya sabha
+4	parliament	rajya sabha
+4	farmers	lok sabha
+4	modi	lok sabha
+4	congress	committee
+4	modi	bku
+4	farmers	bathinda
+4	singh	bathinda
+4	union	bathinda
+4	delh	bathinda
+4	centre	sukhdev
+4	farmers	sukhdev
+4	singh	sukhdev
+4	delh	sukhdev
+4	centre	darshan pal
+4	bengaluru	tikait
+4	bengaluru	farmers
+4	bharat	darshan pal
+4	bengaluru	union
+4	bengaluru	delh
+4	farmers	kisan sabha
+4	farmers	tomar
+4	rahul gandhi	msp
+4	msp	british
+4	singhu	hindi
+4	ghazipur	hindi
+4	hindi	tikri
+4	hindi	msp
+4	hindi	singh
+4	singhu	bhagat singh
+4	ghazipur	bhagat singh
+4	tikri	bhagat singh
+4	bhagat	singhu
+4	bhagat	ghazipur
+4	bhagat	tikri
+4	bhagat	congress
+4	gujarat	singh
+4	tikri border	centre
+4	committee	bill
+4	bjp	gandhi
+4	modi	hindi
+4	hindi	union
+4	bharat bandh	bill
+4	committee	indian
+4	farmers	muzaffarnagar
+4	muzaffarnagar	union
+4	muzaffarnagar	delh
+4	tikri border	msp
+4	bahadurgarh city	singhu
+4	bahadurgarh city	tikri
+4	bahadurgarh city	farmers
+4	bahadurgarh city	singh
+4	bahadurgarh city	tikri border
+4	bahadurgarh city	delh
+4	tikri border	bharat
+4	bku	bharat bandh
+4	singhu	ambala
+4	ghazipur	ambala
+4	tikri	ambala
+4	kisan morcha	ambala
+4	skm	ambala
+4	farmers	ambala
+4	bharat bandh	ambala
+4	morcha	ambala
+4	singh	ambala
+4	bharat	ambala
+4	ambala	union
+4	delh	ambala
+3	singhu	ghaziabad
+3	ghazipur	ghaziabad
+3	tikri	ghaziabad
+3	farmers	ghaziabad
+3	singh	ghaziabad
+3	delh	ghaziabad
+3	modi	darshan pal
+3	yogendra yadav	bjp
+3	yogendra yadav	skm
+3	yogendra yadav	darshan pal
+3	yogendra yadav	singh
+3	international women's day	msp
+3	kisan morcha	andhra pradesh
+3	farmers	andhra pradesh
+3	morcha	andhra pradesh
+3	singh	andhra pradesh
+3	darshan pal	yadav
+3	union	andhra pradesh
+3	delh	andhra pradesh
+3	centre	international women's day
+3	singhu	kavitha kuruganti
+3	ghazipur	kavitha kuruganti
+3	centre	kavitha kuruganti
+3	singh	kavitha kuruganti
+3	international women's day	kavitha kuruganti
+3	tikait	yadav
+3	centre	yadav
+3	centre	rajasthan
+3	kavitha kuruganti	union
+3	singhu	ministry of external affairs
+3	ghazipur	ministry of external affairs
+3	ministry of external affairs	tikri
+3	ministry of external affairs	msp
+3	farmers	ministry of external affairs
+3	modi	ministry of external affairs
+3	ministry of external affairs	indian
+3	ministry of external affairs	singh
+3	ministry of external affairs	union
+3	ministry of external affairs	delh
+3	parliament	centre
+3	centre	supreme court
+3	assembly	supreme court
+3	supreme court	singh
+3	msp	bill
+3	bjp	house
+3	singhu	malik
+3	ghazipur	malik
+3	tikri	malik
+3	bjp	malik
+3	farmers	malik
+3	modi	malik
+3	singh	malik
+3	parliament	gandhi
+3	assembly	rahul gandhi
+3	assembly	gandhi
+3	rahul gandhi	house
+3	singh	sad
+3	farmers	dmk
+3	assembly	dmk
+3	assembly	stalin
+3	stalin	dmk
+3	assembly	aiadmk
+3	dmk	aiadmk
+3	stalin	aiadmk
+3	bihar	msp
+3	bihar	tikait
+3	bihar	bku
+3	bihar	house
+3	farmers	madhya pradesh
+3	ghazipur	odisha
+3	farmers	odisha
+3	singh	odisha
+3	union	odisha
+3	mahendra singh	msp
+3	mahendra singh	bku
+3	mahendra singh	house
+3	mahendra singh	union
+3	delh	odisha
+3	mahendra singh	delh
+3	lok sabha	bjp
+3	congress	lok sabha
+3	lok sabha	parliament
+3	assembly	lok sabha
+3	lok sabha	rajya sabha
+3	committee	bjp
+3	committee	rajya sabha
+3	bku	bathinda
+3	centre	farmers (empowerment and protection) agreement on price assurance and farm services act
+3	farmers	farmers (empowerment and protection) agreement on price assurance and farm services act
+3	modi	farmers (empowerment and protection) agreement on price assurance and farm services act
+3	farmers (empowerment and protection) agreement on price assurance and farm services act	singh
+3	price assurance and farm services act	farmers (empowerment and protection) agreement on price assurance and farm services act
+3	delh	farmers (empowerment and protection) agreement on price assurance and farm services act
+3	msp	sukhdev
+3	kisan morcha	kavitha kuruganti
+3	morcha	kavitha kuruganti
+3	kisan morcha	assembly
+3	morcha	assembly
+3	kisan morcha	house
+3	morcha	house
+3	lok sabha	singh
+3	priyanka gandhi vadra	congress
+3	priyanka gandhi vadra	centre
+3	priyanka gandhi vadra	farmers
+3	priyanka gandhi vadra	modi
+3	priyanka gandhi vadra	rahul gandhi
+3	priyanka gandhi vadra	gandhi
+3	priyanka gandhi vadra	singh
+3	priyanka gandhi vadra	union
+3	priyanka gandhi vadra	delh
+3	tikait	darshan pal
+3	kisan morcha	bengaluru
+3	bengaluru	centre
+3	bengaluru	darshan pal
+3	morcha	bengaluru
+3	bharat	house
+3	singhu	mahendra singh
+3	tikri	mahendra singh
+3	farmers	narendra singh
+3	modi	narendra singh
+3	narendra singh	singh
+3	modi	tomar
+3	assembly	tomar
+3	tomar	singh
+3	narendra singh	tomar
+3	baghpat	bjp
+3	farmers	baghpat
+3	modi	baghpat
+3	baghpat	singh
+3	shivamogga	tikait
+3	farmers	shivamogga
+3	centre	british
+3	msp	bhagat singh
+3	congress	bhagat singh
+3	rahul gandhi	bhagat singh
+3	bhagat singh	gandhi
+3	singhu	sukhdev
+3	ghazipur	sukhdev
+3	tikri	sukhdev
+3	bhagat singh	sukhdev
+3	singhu	rajguru
+3	ghazipur	rajguru
+3	rajguru	tikri
+3	centre	rajguru
+3	farmers	rajguru
+3	rajguru	singh
+3	rajguru	bhagat singh
+3	rajguru	delh
+3	rajguru	sukhdev
+3	bhagat	msp
+3	bhagat	rahul gandhi
+3	bhagat	gandhi
+3	bhagat	sukhdev
+3	bhagat	rajguru
+3	singhu	gujarat
+3	ghazipur	gujarat
+3	gujarat	tikri
+3	gujarat	skm
+3	gujarat	delh
+3	committee	house
+3	rahul gandhi	bjp
+3	msp	sad
+3	bharat bandh	sad
+3	bharat	sad
+3	bharat	kisan sabha
+3	centre	tomar
+3	tomar	union
+3	parliament	british
+3	british	union
+3	committee	british
+3	muzaffarnagar	msp
+3	modi	muzaffarnagar
+3	muzaffarnagar	singh
+3	price assurance and farm services act	bjp
+3	muzaffarnagar	bharat
+3	bihar	singhu
+3	bihar	kisan morcha
+3	bihar	morcha
+3	bhagat singh	union
+3	bhagat	union
+3	bahadurgarh city	msp
+3	ghazipur	muzaffarnagar
+3	bihar	bharat
+3	kisan morcha	bku
+3	morcha	bku
+3	singhu	bathinda
+3	ghazipur	bathinda
+3	tikri	bathinda
+3	kisan morcha	bathinda
+3	bharat bandh	bathinda
+3	morcha	bathinda
+3	gujarat	bharat
+3	bharat	bathinda
+3	gujarat	union
+3	tikri border	bharat bandh
+3	bahadurgarh city	ghazipur
+3	kisan morcha	bahadurgarh city
+3	bahadurgarh city	bharat bandh
+3	morcha	bahadurgarh city
+3	bahadurgarh city	bharat
+3	bahadurgarh city	union
+2	bjp	skm
+2	modi	skm
+2	bjp	darshan pal
+2	international women's day	skm
+2	modi	international women's day
+2	yogendra yadav	international women's day
+2	msp	andhra pradesh
+2	skm	andhra pradesh
+2	modi	yadav
+2	international women's day	yadav
+2	modi	sikh
+2	singhu	yogendra yadav
+2	ghazipur	yogendra yadav
+2	yogendra yadav	tikri
+2	yogendra yadav	tikait
+2	yogendra yadav	centre
+2	yogendra yadav	kavitha kuruganti
+2	bharat	international women's day
+2	bku	yadav
+2	kavitha kuruganti	yadav
+2	bharat	yadav
+2	yogendra yadav	rajasthan
+2	yadav	rajasthan
+2	committee	tikait
+2	committee	centre
+2	yogendra yadav	committee
+2	committee	bharat
+2	committee	yadav
+2	committee	rajasthan
+2	parliament	ministry of external affairs
+2	singhu	supreme court
+2	ghazipur	supreme court
+2	supreme court	msp
+2	supreme court	bjp
+2	parliament	supreme court
+2	parliament	yadav
+2	assembly	yadav
+2	supreme court	yadav
+2	supreme court	bill
+2	yadav	bill
+2	supreme court	house
+2	yadav	house
+2	msp	malik
+2	centre	malik
+2	assembly	malik
+2	supreme court	delh
+2	delh	malik
+2	parliament	rahul gandhi
+2	sad	bill
+2	dmk	centre
+2	dmk	supreme court
+2	dmk	union
+2	stalin	centre
+2	farmers	stalin
+2	stalin	supreme court
+2	stalin	union
+2	centre	aiadmk
+2	farmers	aiadmk
+2	supreme court	aiadmk
+2	union	aiadmk
+2	bihar	rajasthan
+2	rajasthan	house
+2	ghazipur	madhya pradesh
+2	madhya pradesh	singh
+2	madhya pradesh	rajasthan
+2	madhya pradesh	house
+2	madhya pradesh	union
+2	bku	odisha
+2	bihar	odisha
+2	odisha	house
+2	mahendra singh	rajasthan
+2	madhya pradesh	delh
+2	bjp	rajya sabha
+2	assembly	rajya sabha
+2	assembly	committee
+2	lok sabha	committee
+2	msp	bathinda
+2	centre	bathinda
+2	farmers (empowerment and protection) agreement on price assurance and farm services act	msp
+2	farmers (empowerment and protection) agreement on price assurance and farm services act	union
+2	union	sukhdev
+2	kisan morcha	gandhi
+2	morcha	gandhi
+2	assembly	kavitha kuruganti
+2	singh	rajya sabha
+2	rajya sabha	bill
+2	kisan morcha	madhya pradesh
+2	morcha	madhya pradesh
+2	singhu	lok sabha
+2	ghazipur	lok sabha
+2	lok sabha	tikri
+2	priyanka gandhi vadra	singhu
+2	priyanka gandhi vadra	ghazipur
+2	priyanka gandhi vadra	tikri
+2	bengaluru	modi
+2	bengaluru	singh
+2	centre	mahendra singh
+2	bharat	mahendra singh
+2	congress	kisan sabha
+2	kisan sabha	singh
+2	assembly	tikait
+2	tikait	malik
+2	modi	mahendra singh
+2	narendra singh	bjp
+2	narendra singh	tikait
+2	assembly	narendra singh
+2	tomar	bjp
+2	tikait	tomar
+2	singhu	baghpat
+2	ghazipur	baghpat
+2	baghpat	tikri
+2	baghpat	tikait
+2	baghpat	malik
+2	tikait	skm
+2	kisan morcha	shivamogga
+2	shivamogga	centre
+2	morcha	shivamogga
+2	bengaluru	shivamogga
+2	shivamogga	bharat
+2	shivamogga	union
+2	shivamogga	delh
+2	committee	supreme court
+2	congress	british
+2	rahul gandhi	british
+2	british	gandhi
+2	hindi	british
+2	british	bhagat singh
+2	hindi	bhagat singh
+2	british	sukhdev
+2	rajguru	msp
+2	rajguru	british
+2	bhagat	british
+2	bhagat	hindi
+2	gujarat	centre
+2	gujarat	british
+2	congress	dmk
+2	modi	dmk
+2	dmk	bill
+2	shivamogga	bjp
+2	congress	tomar
+2	tomar	bill
+2	hindi	bjp
+2	bjp	bharat bandh
+2	tikait	bharat bandh
+2	bengaluru	bjp
+2	centre	kisan sabha
+2	kisan sabha	bharat bandh
+2	kisan sabha	union
+2	indian	house
+2	muzaffarnagar	price assurance and farm services act
+2	baghpat	msp
+2	baghpat	bharat
+2	baghpat	union
+2	baghpat	delh
+2	tikri	darshan pal
+2	parliament	tikait
+2	tikait	gandhi
+2	bihar	parliament
+2	tikait	bill
+2	bihar	bill
+2	kisan morcha	committee
+2	morcha	committee
+2	bihar	committee
+2	congress	tikait
+2	modi	bhagat singh
+2	tikait	price assurance and farm services act
+2	priyanka gandhi vadra	bhagat singh
+2	narendra singh	centre
+2	narendra singh	price assurance and farm services act
+2	narendra singh	union
+2	narendra singh	delh
+2	tomar	price assurance and farm services act
+2	tomar	delh
+2	bhagat	modi
+2	bhagat	priyanka gandhi vadra
+2	bhagat	bjp
+2	sikh	tikri
+2	centre	sikh
+2	tikait	muzaffarnagar
+2	bku	bjp
+2	kisan morcha	rajasthan
+2	skm	rajasthan
+2	morcha	rajasthan
+2	gujarat	rajasthan
+2	singhu	muzaffarnagar
+2	muzaffarnagar	tikri
+2	muzaffarnagar	bku
+2	bihar	congress
+2	congress	bharat
+2	kisan sabha	bku
+2	bihar	kisan sabha
+2	committee	ministry of external affairs
+2	modi	rajasthan
+2	skm	bill
+2	singhu	odisha
+2	tikri	odisha
+2	kisan morcha	odisha
+2	bharat bandh	odisha
+2	morcha	odisha
+2	bharat	odisha
+2	kisan morcha	ghaziabad
+2	bharat bandh	ghaziabad
+2	morcha	ghaziabad
+2	bharat	ghaziabad
+2	ghaziabad	union
+2	gujarat	bharat bandh
+2	bihar	tikri
+2	bihar	bharat bandh
+2	bihar	gujarat
+2	singhu	andhra pradesh
+2	ghazipur	andhra pradesh
+2	tikri	andhra pradesh
+2	bharat bandh	andhra pradesh
+2	gujarat	andhra pradesh
+2	bihar	andhra pradesh
+2	bharat	andhra pradesh
+2	msp	ambala
+2	skm	bathinda
+2	ambala	bathinda
+2	bahadurgarh city	skm
+2	singhu	sad
+2	ghazipur	sad
+2	tikri	sad
+2	kisan morcha	sad
+2	skm	sad
+2	morcha	sad
+2	tikri border	sad
+2	bahadurgarh city	sad
+2	delh	sad
+2	bku	skm
+1	centre	ghaziabad
+1	msp	darshan pal
+1	modi	yogendra yadav
+1	international women's day	bjp
+1	international women's day	darshan pal
+1	bjp	andhra pradesh
+1	modi	andhra pradesh
+1	darshan pal	andhra pradesh
+1	yogendra yadav	andhra pradesh
+1	international women's day	andhra pradesh
+1	andhra pradesh	yadav
+1	sikh	indian
+1	sikh	british
+1	yogendra yadav	bku
+1	tikait	international women's day
+1	international women's day	bku
+1	msp	kavitha kuruganti
+1	tikait	kavitha kuruganti
+1	bku	kavitha kuruganti
+1	yogendra yadav	bharat
+1	bharat	kavitha kuruganti
+1	international women's day	rajasthan
+1	kavitha kuruganti	rajasthan
+1	committee	bku
+1	committee	international women's day
+1	committee	kavitha kuruganti
+1	parliament	skm
+1	kisan morcha	indian
+1	skm	indian
+1	morcha	indian
+1	kisan morcha	ministry of external affairs
+1	ministry of external affairs	skm
+1	morcha	ministry of external affairs
+1	assembly	msp
+1	tikri	supreme court
+1	congress	supreme court
+1	modi	supreme court
+1	congress	yadav
+1	congress	malik
+1	parliament	malik
+1	supreme court	malik
+1	malik	yadav
+1	malik	bill
+1	malik	house
+1	congress	sad
+1	rahul gandhi	sad
+1	parliament	sad
+1	sad	gandhi
+1	assembly	sad
+1	sad	house
+1	madhya pradesh	msp
+1	madhya pradesh	tikait
+1	madhya pradesh	bku
+1	bihar	madhya pradesh
+1	msp	odisha
+1	tikait	odisha
+1	odisha	rajasthan
+1	madhya pradesh	odisha
+1	bihar	mahendra singh
+1	madhya pradesh	mahendra singh
+1	mahendra singh	odisha
+1	modi	bathinda
+1	price assurance and farm services act	bku
+1	price assurance and farm services act	bathinda
+1	farmers (empowerment and protection) agreement on price assurance and farm services act	bku
+1	farmers (empowerment and protection) agreement on price assurance and farm services act	bathinda
+1	bku	sukhdev
+1	modi	sukhdev
+1	sukhdev	bathinda
+1	price assurance and farm services act	sukhdev
+1	farmers (empowerment and protection) agreement on price assurance and farm services act	sukhdev
+1	kisan morcha	congress
+1	kisan morcha	rahul gandhi
+1	morcha	congress
+1	morcha	rahul gandhi
+1	congress	international women's day
+1	rahul gandhi	international women's day
+1	parliament	international women's day
+1	international women's day	gandhi
+1	assembly	international women's day
+1	congress	kavitha kuruganti
+1	modi	kavitha kuruganti
+1	rahul gandhi	kavitha kuruganti
+1	parliament	kavitha kuruganti
+1	kavitha kuruganti	gandhi
+1	singhu	rajya sabha
+1	ghazipur	rajya sabha
+1	tikri	rajya sabha
+1	kisan morcha	rajya sabha
+1	centre	rajya sabha
+1	rahul gandhi	rajya sabha
+1	rajya sabha	gandhi
+1	morcha	rajya sabha
+1	international women's day	rajya sabha
+1	kavitha kuruganti	rajya sabha
+1	international women's day	bill
+1	kavitha kuruganti	bill
+1	international women's day	house
+1	kavitha kuruganti	house
+1	rajya sabha	house
+1	union	rajya sabha
+1	singhu	madhya pradesh
+1	madhya pradesh	tikri
+1	congress	madhya pradesh
+1	madhya pradesh	centre
+1	modi	madhya pradesh
+1	madhya pradesh	rahul gandhi
+1	madhya pradesh	parliament
+1	madhya pradesh	gandhi
+1	assembly	madhya pradesh
+1	madhya pradesh	international women's day
+1	madhya pradesh	kavitha kuruganti
+1	madhya pradesh	rajya sabha
+1	madhya pradesh	bill
+1	kisan morcha	lok sabha
+1	lok sabha	centre
+1	lok sabha	rahul gandhi
+1	lok sabha	gandhi
+1	morcha	lok sabha
+1	lok sabha	international women's day
+1	lok sabha	kavitha kuruganti
+1	lok sabha	bill
+1	lok sabha	house
+1	lok sabha	union
+1	madhya pradesh	lok sabha
+1	delh	rajya sabha
+1	lok sabha	delh
+1	kisan morcha	priyanka gandhi vadra
+1	priyanka gandhi vadra	parliament
+1	morcha	priyanka gandhi vadra
+1	priyanka gandhi vadra	assembly
+1	priyanka gandhi vadra	international women's day
+1	priyanka gandhi vadra	kavitha kuruganti
+1	priyanka gandhi vadra	rajya sabha
+1	priyanka gandhi vadra	bill
+1	priyanka gandhi vadra	house
+1	priyanka gandhi vadra	madhya pradesh
+1	priyanka gandhi vadra	lok sabha
+1	kisan sabha	bjp
+1	modi	kisan sabha
+1	parliament	kisan sabha
+1	kisan sabha	rajya sabha
+1	lok sabha	kisan sabha
+1	committee	kisan sabha
+1	mahendra singh	bjp
+1	assembly	mahendra singh
+1	mahendra singh	malik
+1	lok sabha	tikait
+1	lok sabha	malik
+1	lok sabha	mahendra singh
+1	singhu	narendra singh
+1	ghazipur	narendra singh
+1	narendra singh	tikri
+1	narendra singh	malik
+1	narendra singh	mahendra singh
+1	lok sabha	narendra singh
+1	singhu	tomar
+1	ghazipur	tomar
+1	tomar	tikri
+1	tomar	malik
+1	tomar	mahendra singh
+1	lok sabha	tomar
+1	assembly	baghpat
+1	baghpat	mahendra singh
+1	lok sabha	baghpat
+1	narendra singh	baghpat
+1	baghpat	tomar
+1	bengaluru	skm
+1	shivamogga	skm
+1	shivamogga	darshan pal
+1	shivamogga	singh
+1	congress	sukhdev
+1	rahul gandhi	sukhdev
+1	sukhdev	gandhi
+1	hindi	sukhdev
+1	congress	rajguru
+1	rajguru	rahul gandhi
+1	rajguru	gandhi
+1	hindi	rajguru
+1	kisan morcha	british
+1	skm	british
+1	morcha	british
+1	kisan morcha	bhagat singh
+1	skm	bhagat singh
+1	morcha	bhagat singh
+1	gujarat	bhagat singh
+1	tikri border	british
+1	tikri border	gujarat
+1	tikri border	bhagat singh
+1	kisan morcha	sukhdev
+1	skm	sukhdev
+1	morcha	sukhdev
+1	gujarat	sukhdev
+1	tikri border	sukhdev
+1	kisan morcha	rajguru
+1	rajguru	skm
+1	morcha	rajguru
+1	gujarat	rajguru
+1	tikri border	rajguru
+1	kisan morcha	bhagat
+1	bhagat	skm
+1	morcha	bhagat
+1	bhagat	gujarat
+1	bhagat	tikri border
+1	dmk	bjp
+1	stalin	bjp
+1	congress	stalin
+1	modi	stalin
+1	stalin	bill
+1	bjp	aiadmk
+1	congress	aiadmk
+1	modi	aiadmk
+1	bill	aiadmk
+1	parliament	tomar
+1	tomar	house
+1	committee	tomar
+1	hindi	bill
+1	hindi	house
+1	assembly	bharat bandh
+1	assembly	bharat
+1	centre	sad
+1	kisan sabha	msp
+1	kisan sabha	bill
+1	kisan sabha	sad
+1	tomar	msp
+1	tomar	bharat bandh
+1	bharat	tomar
+1	tomar	sad
+1	tomar	kisan sabha
+1	british	house
+1	muzaffarnagar	bjp
+1	bharat	price assurance and farm services act
+1	baghpat	muzaffarnagar
+1	baghpat	price assurance and farm services act
+1	assembly	skm
+1	assembly	darshan pal
+1	yogendra yadav	assembly
+1	bjp	kavitha kuruganti
+1	skm	kavitha kuruganti
+1	kavitha kuruganti	darshan pal
+1	tikri border	bjp
+1	tikri border	darshan pal
+1	yogendra yadav	tikri border
+1	tikri border	assembly
+1	tikri border	kavitha kuruganti
+1	tikri border	yadav
+1	yogendra yadav	parliament
+1	yogendra yadav	gandhi
+1	bihar	bjp
+1	bihar	gandhi
+1	bihar	yogendra yadav
+1	kisan morcha	supreme court
+1	tikait	supreme court
+1	supreme court	gandhi
+1	yogendra yadav	supreme court
+1	morcha	supreme court
+1	bihar	supreme court
+1	gandhi	yadav
+1	bihar	yadav
+1	yogendra yadav	bill
+1	yogendra yadav	house
+1	committee	gandhi
+1	tikait	rahul gandhi
+1	tikait	bhagat singh
+1	congress	price assurance and farm services act
+1	rahul gandhi	price assurance and farm services act
+1	price assurance and farm services act	gandhi
+1	price assurance and farm services act	bhagat singh
+1	priyanka gandhi vadra	tikait
+1	priyanka gandhi vadra	price assurance and farm services act
+1	congress	narendra singh
+1	narendra singh	rahul gandhi
+1	narendra singh	gandhi
+1	narendra singh	bhagat singh
+1	priyanka gandhi vadra	narendra singh
+1	tomar	rahul gandhi
+1	tomar	gandhi
+1	tomar	bhagat singh
+1	priyanka gandhi vadra	tomar
+1	bhagat	tikait
+1	bhagat	price assurance and farm services act
+1	bhagat	narendra singh
+1	bhagat	tomar
+1	bjp	bhagat singh
+1	priyanka gandhi vadra	msp
+1	priyanka gandhi vadra	bjp
+1	priyanka gandhi vadra	hindi
+1	kisan morcha	price assurance and farm services act
+1	morcha	price assurance and farm services act
+1	singhu	price assurance and farm services act
+1	tikri	price assurance and farm services act
+1	modi	tikri border
+1	tikri border	price assurance and farm services act
+1	bahadurgarh city	centre
+1	bahadurgarh city	modi
+1	bahadurgarh city	price assurance and farm services act
+1	sikh	msp
+1	sikh	price assurance and farm services act
+1	tikri border	sikh
+1	bahadurgarh city	sikh
+1	singhu	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	tikri	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	tikri border	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	bahadurgarh city	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	sikh	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	bhagat	assembly
+1	parliament	muzaffarnagar
+1	ghazipur	price assurance and farm services act
+1	parliament	price assurance and farm services act
+1	tikri border	international women's day
+1	bku	malik
+1	bharat	malik
+1	malik	union
+1	baghpat	bku
+1	baghpat	centre
+1	gujarat	darshan pal
+1	yogendra yadav	gujarat
+1	gujarat	yadav
+1	darshan pal	rajasthan
+1	madhya pradesh	skm
+1	madhya pradesh	darshan pal
+1	yogendra yadav	madhya pradesh
+1	madhya pradesh	gujarat
+1	madhya pradesh	yadav
+1	bengaluru	bill
+1	sikh	gandhi
+1	centre	muzaffarnagar
+1	muzaffarnagar	house
+1	muzaffarnagar	mahendra singh
+1	bharat bandh	bhagat singh
+1	bharat	bhagat singh
+1	bharat bandh	sukhdev
+1	bharat	sukhdev
+1	rajguru	bharat bandh
+1	bharat	rajguru
+1	rajguru	union
+1	bhagat	bharat bandh
+1	bhagat	bharat
+1	congress	bku
+1	bihar	centre
+1	tikait	kisan sabha
+1	ministry of external affairs	british
+1	parliament	rajasthan
+1	indian	rajasthan
+1	british	rajasthan
+1	centre	indian
+1	bjp	rajasthan
+1	congress	gujarat
+1	modi	gujarat
+1	gujarat	rahul gandhi
+1	gujarat	gandhi
+1	gujarat	hindi
+1	bihar	modi
+1	dmk	parliament
+1	bihar	dmk
+1	bihar	rajya sabha
+1	dmk	rajya sabha
+1	committee	dmk
+1	modi	bharat bandh
+1	parliament	bharat bandh
+1	parliament	bharat
+1	assembly	price assurance and farm services act
+1	farmers (empowerment and protection) agreement on price assurance and farm services act	bjp
+1	assembly	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	narendra singh	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	tomar	farmers (empowerment and protection) agreement on price assurance and farm services act
+1	singhu	darshan pal
+1	ghazipur	darshan pal
+1	bharat bandh	darshan pal
+1	darshan pal	bill
+1	skm	odisha
+1	odisha	darshan pal
+1	odisha	bill
+1	gujarat	bku
+1	gujarat	bathinda
+1	bihar	bathinda
+1	bku	andhra pradesh
+1	bathinda	andhra pradesh
+1	bharat bandh	house
+1	gujarat	house
+1	bathinda	house
+1	andhra pradesh	house
+1	gujarat	odisha
+1	odisha	bathinda
+1	odisha	andhra pradesh
+1	singhu	kisan sabha
+1	ghazipur	kisan sabha
+1	kisan sabha	tikri
+1	kisan morcha	kisan sabha
+1	morcha	kisan sabha
+1	gujarat	kisan sabha
+1	kisan sabha	bathinda
+1	kisan sabha	andhra pradesh
+1	kisan sabha	house
+1	kisan sabha	odisha
+1	kisan sabha	delh
+1	congress	bharat bandh
+1	rahul gandhi	bharat bandh
+1	bharat bandh	gandhi
+1	hindi	bharat bandh
+1	bharat	rahul gandhi
+1	bharat	gandhi
+1	hindi	bharat
+1	gujarat	msp
+1	bihar	skm
+1	gujarat	ambala
+1	bihar	ambala
+1	ambala	andhra pradesh
+1	bharat bandh	rajasthan
+1	ambala	rajasthan
+1	andhra pradesh	rajasthan
+1	centre	ambala
+1	ghazipur	sikh
+1	kisan morcha	sikh
+1	sikh	skm
+1	sikh	bharat bandh
+1	morcha	sikh
+1	sikh	bathinda
+1	bharat	sikh
+1	sikh	ambala
+1	bathinda	bill
+1	ambala	bill
+1	sikh	bill
+1	sikh	union
+1	committee	skm
+1	committee	bharat bandh
+1	committee	bathinda
+1	committee	ambala
+1	committee	sikh
+1	msp	ghaziabad
+1	skm	ghaziabad
+1	tikri border	ghaziabad
+1	bahadurgarh city	ghaziabad
+1	ghaziabad	sad
+1	muzaffarnagar	bharat bandh
+1	tikri border	bku
+1	tikri border	bathinda
+1	bahadurgarh city	bku
+1	bahadurgarh city	bathinda
+1	bku	ambala
+1	tikri border	ambala
+1	bahadurgarh city	ambala
+1	bku	sad
+1	sad	bathinda
+1	ambala	sad
+1	bharat bandh	yadav
+1	gujarat	tikait
+1	gujarat	bill
