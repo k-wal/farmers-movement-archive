@@ -218,7 +218,7 @@ def get_correct_ner(text):
 def update_ner_counts(ners, counts, label_map, place_labels=True):
 	labels = ['PERSON', 'NORP', 'ORG']
 	if place_labels:
-		labels.extend(['LABELS', 'GPE'])
+		labels.extend(['LOC', 'GPE'])
 	for line_ners in ners:
 		current_ners = []
 		for ner in line_ners.ents:

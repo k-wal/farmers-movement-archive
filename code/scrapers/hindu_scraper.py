@@ -120,6 +120,10 @@ class HinduScraper:
 			date_string = datetime.datetime.strftime(cur_date, "%Y/%m/%d/")
 			month_string = datetime.datetime.strftime(cur_date, "%m-%Y")
 			url = 'https://www.thehindu.com/archive/print/' + date_string
+			web_url = 'https://www.thehindu.com/archive/web/' + date_string
+			
+			# url = web_url
+			
 			print(url)
 			self.get_day_articles(url, dir_path + '/' + month_string)
 			time.sleep(3)

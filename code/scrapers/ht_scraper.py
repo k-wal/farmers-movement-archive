@@ -130,8 +130,10 @@ class HTScraper:
 				print("not analysis")
 				continue
 			
-			title, date, coverage, text = self.get_text_ht(link)
-
+			try:
+				title, date, coverage, text = self.get_text_ht(link)
+			except:
+				continue
 			# check if the current article should be included
 			try:
 				formatted_date = datetime.datetime.strptime(date, "%d-%m-%Y")
