@@ -36,7 +36,7 @@ def main_func(dir_path, start_string, end_string):
 		date += datetime.timedelta(days=1)
 
 
-start_string = '26-01-2021'
-end_string = '15-02-2021'
+start_string = '16-02-2021'
+end_string = '28-02-2021'
 dir_path = '../../corpus/verified_tweets'
 main_func(dir_path, start_string, end_string)
