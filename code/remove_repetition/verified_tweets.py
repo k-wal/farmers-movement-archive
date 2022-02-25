@@ -3,7 +3,11 @@ import os
 import datetime
 
 def get_file_dataframe(filepath):
-	df = pd.read_csv(filepath)
+	try:
+		df = pd.read_csv(filepath, lineterminator='\n')
+	except:
+		df = pd.read_csv(filepath, lineterminator='\n', error_bad_lines=False)
+		print(filepath)
 	keeping_columns = ['id', 'date', 'tweet', 'hashtags', 'user_id', 'username', 'name', 'link', 'urls', 'nlikes', 'nretweets',
 						'nreplies']
 	df = df[keeping_columns]
@@ -36,7 +40,7 @@ def main_func(dir_path, start_string, end_string):
 		date += datetime.timedelta(days=1)
 
 
-start_string = '16-02-2021'
+start_string = '01-01-2021'
 end_string = '28-02-2021'
 dir_path = '../../corpus/verified_tweets'
 main_func(dir_path, start_string, end_string)

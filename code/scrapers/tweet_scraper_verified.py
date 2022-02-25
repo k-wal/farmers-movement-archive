@@ -2,6 +2,7 @@ import twint
 import os
 import datetime
 
+# store tweets with hashtag ht in the given interval in filepath
 def get_tweets_hashtag(ht, start_date, end_date, filepath):
 	print(start_date, ht)
 	c = twint.Config()
@@ -28,12 +29,13 @@ def get_tweets_hashtag(ht, start_date, end_date, filepath):
 	if len(df) > 0:
 		df.to_csv(filepath)
 	
-
+# create directory if not already created
 def create_directory(dir_path):
 	if os.path.isdir(dir_path):
 		return
 	os.makedirs(dir_path)
 
+# get all tweets for a particular hashtag in a given interval
 def get_date_tweets_hashtag(hashtag, start_string, end_string, dir_path):
 	start_date = datetime.datetime.strptime(start_string, "%Y-%m-%d")
 	end_date = datetime.datetime.strptime(end_string, "%Y-%m-%d")
@@ -50,7 +52,7 @@ def get_date_tweets_hashtag(hashtag, start_string, end_string, dir_path):
 
 		date += datetime.timedelta(days=1)
 
-
+# get hashtags from hashtags file
 def get_hashtags():
 	f = open('hashtags.txt','r')
 	lines = f.readlines()
@@ -58,14 +60,42 @@ def get_hashtags():
 	hashtags = [line.strip() for line in lines]
 	return hashtags
 
-start_string = '2021-01-27'
-end_string = '2021-02-15'
-hashtags = get_hashtags()
-for hashtag in hashtags:
-	hashtag = hashtag.lower()
-	dir_path = '../../corpus/verified_tweets'
-	
-	if not os.path.isdir(dir_path):
-		os.mkdir(dir_path)
+# get tweets from all hashtags from a particular date
+def get_all_tweets_date(date, dir_path):
+	hashtags = get_hashtags()
+	for hashtag in hashtags:
+		date_string =  date.strftime("%Y-%m-%d")
+		next_date = date + datetime.timedelta(days=1)
+		next_date_string = next_date.strftime("%Y-%m-%d")
+		cur_dir_path = dir_path + '/' + date_string
+		create_directory(cur_dir_path)
+		filepath = cur_dir_path + '/' + hashtag + '.csv'
+		get_tweets_hashtag(hashtag, date_string, next_date_string, filepath)
 
-	get_date_tweets_hashtag(hashtag, start_string, end_string, dir_path)
+# main function, to scrape and store tweets from an interval that have all relevant hashtags
+def main_func(start_string, end_string, dir_path):
+	create_directory(dir_path)
+	start_date = datetime.datetime.strptime(start_string, "%Y-%m-%d")
+	end_date = datetime.datetime.strptime(end_string, "%Y-%m-%d")
+	
+	date = start_date
+	while date <= end_date:
+		get_all_tweets_date(date, dir_path)
+		date += datetime.timedelta(days=1)
+
+start_string = '2021-01-01'
+end_string = '2021-01-25'
+dir_path = '../../corpus/verified_tweets'
+main_func(start_string, end_string, dir_path)
+
+# start_string = '2021-01-01'
+# end_string = '2021-01-25'
+# hashtags = get_hashtags()
+# for hashtag in hashtags:
+# 	hashtag = hashtag.lower()
+# 	dir_path = '../../corpus/verified_tweets'
+	
+# 	if not os.path.isdir(dir_path):
+# 		os.mkdir(dir_path)
+
+# 	get_date_tweets_hashtag(hashtag, start_string, end_string, dir_path)

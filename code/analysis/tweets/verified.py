@@ -7,7 +7,7 @@ from wordcloud import WordCloud
 def get_date_tweets(dir_path, date):
 	date_string =  date.strftime("%Y-%m-%d")
 	filepath = dir_path + '/' + date_string + '/combined.csv'
-	df = pd.read_csv(filepath)
+	df = pd.read_csv(filepath, lineterminator='\n')
 	return df
 
 def get_interval_tweets(start_string, end_string, dir_path):
@@ -56,13 +56,29 @@ def plot_freq(freq):
 	plot_frequency_graph(freq)
 	# plot_wordcloud(freq)
 
+def create_directory(dir_path):
+	if not os.path.exists(dir_path):
+		os.mkdir(dir_path)
+	return
+
+def print_freq(freq, start_string, end_string):
+	dir_path = 'results'
+	create_directory(dir_path)
+	filepath = dir_path + '/' + start_string + '_' + end_string + '.txt'
+	file = open(filepath, 'w')
+	for user in freq.keys():
+		to_write = user + '|' + str(freq[user]) + '\n'
+		file.write(to_write)
+	file.close()
+
 def main_func(start_string, end_string, dir_path):
 	df = get_interval_tweets(start_string, end_string, dir_path)
 	df, freq = get_user_frequency(df)
-	plot_freq(freq)
+	print_freq(freq, start_string, end_string)	
+	# plot_freq(freq)
 
-start_string = '26-01-2021'
-end_string = '15-02-2021'
+start_string = '01-01-2021'
+end_string = '28-02-2021'
 dir_path = '../../../corpus/verified_tweets'
 
 main_func(start_string, end_string, dir_path)
