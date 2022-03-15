@@ -16,7 +16,8 @@ def get_file_dataframe(filepath):
 def combine_date_tweets(dir_path, date):
 	print(date.strftime("%d-%m-%Y"))
 	date_string =  date.strftime("%Y-%m-%d")
-	dir_path = dir_path + '/' + date_string
+	month_string =  date.strftime("%m-%d")
+	dir_path = dir_path + '/' + month_string + '/' + date_string
 	date_df = pd.DataFrame()
 
 	filenames = os.listdir(dir_path)
@@ -40,7 +41,7 @@ def main_func(dir_path, start_string, end_string):
 		date += datetime.timedelta(days=1)
 
 
-start_string = '01-01-2021'
-end_string = '28-02-2021'
+start_string = '01-09-2020'
+end_string = '30-06-2021'
 dir_path = '../../corpus/verified_tweets'
 main_func(dir_path, start_string, end_string)

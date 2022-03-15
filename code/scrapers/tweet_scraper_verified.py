@@ -6,7 +6,7 @@ import datetime
 def get_tweets_hashtag(ht, start_date, end_date, filepath):
 	print(start_date, ht)
 	c = twint.Config()
-	c.Search = "#" + ht + ' -filter:replies'
+	c.Search = ht
 	c.Since = start_date
 	c.Until = end_date
 	c.Verified = True
@@ -43,21 +43,34 @@ def get_date_tweets_hashtag(hashtag, start_string, end_string, dir_path):
 	date = start_date
 	while date <= end_date:
 		date_string =  date.strftime("%Y-%m-%d")
+		month_string = date.strftime("%Y-%m")
 		next_date = date + datetime.timedelta(days=1)
 		next_date_string = next_date.strftime("%Y-%m-%d")
-		cur_dir_path = dir_path + '/' + date_string
+		cur_dir_path = dir_path + '/' + month_string + '/' + date_string
 		create_directory(cur_dir_path)
 		filepath = cur_dir_path + '/' + hashtag + '.csv'
 		get_tweets_hashtag(hashtag, date_string, next_date_string, filepath)
 
 		date += datetime.timedelta(days=1)
 
+
+def get_keywords():
+	keywords = [
+	'farmers protest',
+	'kisan andolan'
+	]
+	return keywords
+
 # get hashtags from hashtags file
 def get_hashtags():
 	f = open('hashtags.txt','r')
 	lines = f.readlines()
 	f.close()
-	hashtags = [line.strip() for line in lines]
+	hashtags = ['#'+line.strip() for line in lines]
+	
+	keywords = get_keywords()
+	hashtags.extend(keywords)
+	
 	return hashtags
 
 # get tweets from all hashtags from a particular date
@@ -65,9 +78,10 @@ def get_all_tweets_date(date, dir_path):
 	hashtags = get_hashtags()
 	for hashtag in hashtags:
 		date_string =  date.strftime("%Y-%m-%d")
+		month_string = date.strftime("%Y-%m")
 		next_date = date + datetime.timedelta(days=1)
 		next_date_string = next_date.strftime("%Y-%m-%d")
-		cur_dir_path = dir_path + '/' + date_string
+		cur_dir_path = dir_path + '/' + month_string + '/' + date_string
 		create_directory(cur_dir_path)
 		filepath = cur_dir_path + '/' + hashtag + '.csv'
 		get_tweets_hashtag(hashtag, date_string, next_date_string, filepath)
@@ -83,8 +97,8 @@ def main_func(start_string, end_string, dir_path):
 		get_all_tweets_date(date, dir_path)
 		date += datetime.timedelta(days=1)
 
-start_string = '2021-01-01'
-end_string = '2021-01-25'
+start_string = '2022-02-01'
+end_string = '2022-02-28'
 dir_path = '../../corpus/verified_tweets'
 main_func(start_string, end_string, dir_path)
 
