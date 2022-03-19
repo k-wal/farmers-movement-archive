@@ -6,7 +6,9 @@ from wordcloud import WordCloud
 
 def get_date_tweets(dir_path, date):
 	date_string =  date.strftime("%Y-%m-%d")
-	filepath = dir_path + '/' + date_string + '/combined.csv'
+	print(date_string)
+	month_string =  date.strftime("%Y-%m")
+	filepath = dir_path + '/' + month_string + '/' + date_string + '/combined.csv'
 	df = pd.read_csv(filepath, lineterminator='\n')
 	return df
 
@@ -77,8 +79,8 @@ def main_func(start_string, end_string, dir_path):
 	print_freq(freq, start_string, end_string)	
 	# plot_freq(freq)
 
-start_string = '01-01-2021'
-end_string = '28-02-2021'
+start_string = '01-09-2020'
+end_string = '28-02-2022'
 dir_path = '../../../corpus/verified_tweets'
 
 main_func(start_string, end_string, dir_path)

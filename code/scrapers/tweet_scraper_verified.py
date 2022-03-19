@@ -57,7 +57,21 @@ def get_date_tweets_hashtag(hashtag, start_string, end_string, dir_path):
 def get_keywords():
 	keywords = [
 	'farmers protest',
-	'kisan andolan'
+	'kisan andolan',
+	'farm bill',
+	'farmer\'s bill',
+	'farmer bill',
+	'farmers\' bill',
+	'farm policy',
+	'farm policies',
+	'Essential Commodities (Amendment) Bill',
+	'Essential Commodities Bill',
+	'Essential Commodities Act',
+	'agri bill',
+	'agri ordinance',
+	'farm ordinance',
+	'agri-reform',
+	'agriculture bills',
 	]
 	return keywords
 
@@ -97,7 +111,7 @@ def main_func(start_string, end_string, dir_path):
 		get_all_tweets_date(date, dir_path)
 		date += datetime.timedelta(days=1)
 
-start_string = '2022-02-01'
+start_string = '2022-02-10'
 end_string = '2022-02-28'
 dir_path = '../../corpus/verified_tweets'
 main_func(start_string, end_string, dir_path)
