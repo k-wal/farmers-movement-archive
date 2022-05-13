@@ -34,7 +34,7 @@ def compare_dates(d1, d2):
 
 def get_text_tribune(url):
 	r = requests.get(url)
-	soup = BeautifulSoup(r.content, 'html5lib')
+	soup = BeautifulSoup(r.content, 'html.parser')
 	try:
 		title = soup.find('meta', property='og:title')['content'] # getting article title
 	except:
@@ -96,7 +96,7 @@ def get_page_articles(url, dir_path, start_date, end_date = "none"):
 
 	main_url = 'https://www.tribuneindia.com'
 	r = requests.get(url)
-	soup = BeautifulSoup(r.content, 'html5lib')
+	soup = BeautifulSoup(r.content, 'html.parser')
 	card_titles = soup.findAll('h4', class_='ts-card-title')
 
 	first_card_title = soup.find('h4', class_='card-title')

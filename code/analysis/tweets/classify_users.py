@@ -12,10 +12,11 @@ def get_user_bio(username):
 	twint.run.Lookup(c)
 
 def get_usernames():
-	file = open('results/usernames.txt','r')
+	file = open('results/counts.txt','r')
 	lines = file.readlines()
 	file.close()
-	return [line.strip() for line in lines]
+	usernames = [line.strip().split('|')[0] for line in lines]
+	return usernames
 
 def write_bios():
 	usernames = get_usernames()

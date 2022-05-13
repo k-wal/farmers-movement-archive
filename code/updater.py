@@ -159,9 +159,10 @@ sections = ['comment',
 			'himachalpradesh',
 			'jammukashmir']
 
-start_string = "01-01-2022"
-end_string = "31-01-2022"
-temp_sections = ['himachalpradesh', 'jammukashmir']
+start_string = "01-02-2022"
+end_string = "13-02-2022"
+# end_string = "31-03-2022"
+temp_sections = ['punjab']
 update_tribune_interval(start_string, end_string, temp_sections)
 
 # FOR DECCAN HERALD
