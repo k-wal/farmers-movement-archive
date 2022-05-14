@@ -3,6 +3,7 @@ import math
 import matplotlib.pyplot as plt
 import numpy as np
 import datetime
+from tweet_cleaning import clean_tweet
 
 class Category():
 	def __init__(self, name):
@@ -56,7 +57,32 @@ class Category():
 
 		print("* tweets collected for category : ", len(self.tweets))
 
+	def get_word_counts(self):												# get word frequencies
+		print("* intitiating retrieval of word counts for category : ", self.name)
+		word_counts = {}
+		for index, row in self.tweets.iterrows():
+			tweet = row['tweet']
+			words = clean_tweet(tweet)
+			for word in words:
+				if word not in word_counts.keys():
+					word_counts[word] = 0
+				word_counts[word] += 1
+		print("* finished retrieving word counts for category : ", self.name)
+		return word_counts
 
+	def print_word_counts(self, filepath):									# print word frequencies
+		word_counts = self.get_word_counts()
+		word_counts = dict(sorted(word_counts.items(), key=lambda item: item[1], reverse=True))
+		file = open(filepath, 'w')
+		for word in word_counts.keys():
+			to_write = '|'.join([word, str(word_counts[word])]) + '\n'
+			file.write(to_write)
+		file.close()
+		print("* finished printing word counts for category : ", self.name)
+
+
+def print_line():
+	print("-"*20)
 
 def get_categories():
 	counts_df = pd.read_csv('results/counts.txt', lineterminator='\n', sep='\|')
@@ -77,9 +103,17 @@ def get_categories():
 		category.retrieve_count(categories_df, counts_df)
 		category.retrieve_tweets()
 		categories.append(category)
-		print("--"*10)
+		print_line()
 
 	return categories
 
+def print_all_word_counts(categories):
+	for category in categories:
+		name = category.name
+		if '/' in name:
+			name = name.replace('/', '-')
+		filepath = 'results/words/' + name
+		category.print_word_counts(filepath)
 
 categories = get_categories()
+print_all_word_counts(categories)
